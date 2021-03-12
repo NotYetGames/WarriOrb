@@ -1,4 +1,4 @@
-# WarriOrb source code
+# [WarriOrb](http://warriorb.com/) source code
 
 WarriOrb is a hardcore action platformer where you play as a demon who is trapped in an unlikely body. The game mixes the difficulty and level design of Dark Souls with an unique ball-based platforming mechanics.
 
