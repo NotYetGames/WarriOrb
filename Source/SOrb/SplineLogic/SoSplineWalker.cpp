@@ -1,0 +1,10 @@
+// Copyright (c) Csaba Molnar & Daniel Butum. All Rights Reserved.
+#include "SoSplineWalker.h"
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+USoSplineWalker::USoSplineWalker(const FObjectInitializer& PCIP)
+	: Super(PCIP)
+{
+
+}

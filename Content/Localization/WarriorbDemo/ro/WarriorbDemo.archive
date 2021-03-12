@@ -1,0 +1,10678 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "Areas",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Act I"
+					},
+					"Translation":
+					{
+						"Text": "Actul I"
+					},
+					"Key": "act_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Act II"
+					},
+					"Translation":
+					{
+						"Text": "Actul II"
+					},
+					"Key": "act_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Act III"
+					},
+					"Translation":
+					{
+						"Text": "Actul III"
+					},
+					"Key": "act_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Am I Worthy?"
+					},
+					"Translation":
+					{
+						"Text": "Sunt demn?"
+					},
+					"Key": "progress_act1_tut1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ancient Arcade"
+					},
+					"Translation":
+					{
+						"Text": "Arcada Antică"
+					},
+					"Key": "ancient_arcade"
+				},
+				{
+					"Source":
+					{
+						"Text": "Armour Wrath"
+					},
+					"Translation":
+					{
+						"Text": "Armura Mâniei"
+					},
+					"Key": "progress_act2_lava_boss"
+				},
+				{
+					"Source":
+					{
+						"Text": "At a crossroad"
+					},
+					"Translation":
+					{
+						"Text": "La o intersecție"
+					},
+					"Key": "progress_act2_crossroad"
+				},
+				{
+					"Source":
+					{
+						"Text": "Being Followed"
+					},
+					"Translation":
+					{
+						"Text": "A fi Urmarit"
+					},
+					"Key": "progress_act2_ww_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bouncing Stones"
+					},
+					"Translation":
+					{
+						"Text": "Pietrele Săritoare"
+					},
+					"Key": "progress_act1_test_stone"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bubble Border"
+					},
+					"Translation":
+					{
+						"Text": "Granița de Baloane"
+					},
+					"Key": "bubble_border"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cerulean City"
+					},
+					"Translation":
+					{
+						"Text": "Orașul Cerulean"
+					},
+					"Key": "cerulean_city"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chance for everyone"
+					},
+					"Translation":
+					{
+						"Text": "Șanse pentru toată lumea"
+					},
+					"Key": "progress_epilogue_save_creatures"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chasm Chamber"
+					},
+					"Translation":
+					{
+						"Text": "Camera Prăpastie"
+					},
+					"Key": "chasm_chamber"
+				},
+				{
+					"Source":
+					{
+						"Text": "Choosing the right weapon against a Boss will make your life easier."
+					},
+					"Translation":
+					{
+						"Text": "Alegerea armei potrivite împotriva unui Șef îți va face viața mai ușoară."
+					},
+					"Key": "loading_tip_act2_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Climbing the Tower"
+					},
+					"Translation":
+					{
+						"Text": "Urcând Turnul"
+					},
+					"Key": "progress_act2_lava_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Crossroad Cave"
+					},
+					"Translation":
+					{
+						"Text": "Peștera de la Intersecție"
+					},
+					"Key": "crossroad_cave"
+				},
+				{
+					"Source":
+					{
+						"Text": "Darkest Dungeon"
+					},
+					"Translation":
+					{
+						"Text": "Cea mai Întunecată Temniță"
+					},
+					"Key": "darkest_dungeon"
+				},
+				{
+					"Source":
+					{
+						"Text": "Discovering Ancient Technology"
+					},
+					"Translation":
+					{
+						"Text": "Descoperind Tehnologii Antice"
+					},
+					"Key": "progress_act1_arcade2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don’t forget to spend your gold! (Ad sponsored by Gnory)"
+					},
+					"Translation":
+					{
+						"Text": "Nu uita să îți cheltuiești aurul! (Anunț sponsorizat de Gnory)"
+					},
+					"Key": "loading_tip_act2_7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don’t forget to use the Soulkeeper!"
+					},
+					"Translation":
+					{
+						"Text": "Nu uitați să folosești Deținătorul Sufletului!"
+					},
+					"Key": "loading_tip_act2_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don’t give up! Victory is close."
+					},
+					"Translation":
+					{
+						"Text": "Nu renunța! Victoria este aproape."
+					},
+					"Key": "loading_tip_act3_7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarven Dungeons"
+					},
+					"Translation":
+					{
+						"Text": "Temnițele Piticilor"
+					},
+					"Key": "dwarven_dungeons"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarven Statue"
+					},
+					"Translation":
+					{
+						"Text": "Statuia Piticului"
+					},
+					"Key": "progress_act2_dwarf_boss"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dying often is absolutely normal. If you don’t die a lot, you are doing something wrong."
+					},
+					"Translation":
+					{
+						"Text": "A muri deseori este absolut normal. Dacă nu mori mult, faci ceva greșit."
+					},
+					"Key": "loading_tip_act1_8"
+				},
+				{
+					"Source":
+					{
+						"Text": "Each weapon has its own unique special strike."
+					},
+					"Translation":
+					{
+						"Text": "Fiecare armă are propria sa lovitură specială unică."
+					},
+					"Key": "loading_tip_act1_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Elevator Gem and Key"
+					},
+					"Translation":
+					{
+						"Text": "Bijuteria și Cheia Liftului"
+					},
+					"Key": "progress_act2_dwarf_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Epilogue"
+					},
+					"Translation":
+					{
+						"Text": "Epilog"
+					},
+					"Key": "epilogue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Equipping the right items will make the combat easier."
+					},
+					"Translation":
+					{
+						"Text": "Echiparea articolelor potrivite îți face lupta mai ușoară."
+					},
+					"Key": "loading_tip_act2_8"
+				},
+				{
+					"Source":
+					{
+						"Text": "Facing the Keeper"
+					},
+					"Translation":
+					{
+						"Text": "Înfruntarea cu Paznicul"
+					},
+					"Key": "progress_act1_boss_fight"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fallen Druid"
+					},
+					"Translation":
+					{
+						"Text": "Druidul Decăzut"
+					},
+					"Key": "progress_act2_ww_boss"
+				},
+				{
+					"Source":
+					{
+						"Text": "Finally! You did your part of the deal, now it's the Wizard's turn to get you back home."
+					},
+					"Translation":
+					{
+						"Text": "În sfârșit! Ți-ai făcut partea din înțelegere, acum este rândul Vrăjitorului să te readucă acasă."
+					},
+					"Key": "ending_loading"
+				},
+				{
+					"Source":
+					{
+						"Text": "Finding the Artefacts might be hard, but this is your only chance to get out."
+					},
+					"Translation":
+					{
+						"Text": "Găsirea artefactelor ar putea fi dificilă, dar aceasta este singura ta șansă de a ieși."
+					},
+					"Key": "loading_tip_act2_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Finding the Three Artifacts required all your skills and strength. You hope that delivering them to the Wizard will be less difficult."
+					},
+					"Translation":
+					{
+						"Text": "Găsirea celor trei artefacte a necesitat toate abilitățile și forțele tale. Speri că livrarea lor către Vrăjitor va fi mai puțin dificilă."
+					},
+					"Key": "act3_loading"
+				},
+				{
+					"Source":
+					{
+						"Text": "Floating"
+					},
+					"Translation":
+					{
+						"Text": "Plutitor"
+					},
+					"Key": "progress_act3_floating"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grey Gate"
+					},
+					"Translation":
+					{
+						"Text": "Poarta Gri"
+					},
+					"Key": "grey_gate"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hallowed Heart"
+					},
+					"Translation":
+					{
+						"Text": "Inimia Sfințită"
+					},
+					"Key": "hallowed_heart"
+				},
+				{
+					"Source":
+					{
+						"Text": "However the past is behind us"
+					},
+					"Translation":
+					{
+						"Text": "Dar trecutul este în urma noastră"
+					},
+					"Key": "intro_subtitle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I wish I could just... turn back time to undo what I have done."
+					},
+					"Translation":
+					{
+						"Text": "Mi-aș dori să pot ... întoarce timpul pentru a anula ceea ce am făcut."
+					},
+					"Key": "intro_subtitle_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "If you find a combat too hard try to use different shards, spells, and weapons."
+					},
+					"Translation":
+					{
+						"Text": "Dacă găsești o luptă prea grea, încearcă să folosești diferite cioburi, vrăji și arme."
+					},
+					"Key": "loading_tip_act3_6"
+				},
+				{
+					"Source":
+					{
+						"Text": "If you find an area too difficult you can always go to another area first."
+					},
+					"Translation":
+					{
+						"Text": "Dacă găsești o zonă prea dificilă, poți merge întotdeauna în altă zonă mai întâi."
+					},
+					"Key": "loading_tip_act2_6"
+				},
+				{
+					"Source":
+					{
+						"Text": "If you got this far, you surely know everything now."
+					},
+					"Translation":
+					{
+						"Text": "Dacă ai ajuns până acum, cu siguranță știi totul acum."
+					},
+					"Key": "loading_tip_act3_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "If you manage to defeat every member of a group you won’t have to fight them ever again."
+					},
+					"Translation":
+					{
+						"Text": "Dacă reușești să învingi pe fiecare membru al unui grup, nu va trebui să te mai lupți din nou cu ei."
+					},
+					"Key": "loading_tip_act2_9"
+				},
+				{
+					"Source":
+					{
+						"Text": "In Ball form you bounce back when you hit a surface."
+					},
+					"Translation":
+					{
+						"Text": "În formă de Minge sari înapoi când lovești o suprafață."
+					},
+					"Key": "loading_tip_act1_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "In Ball form you go faster."
+					},
+					"Translation":
+					{
+						"Text": "În formă de Minge mergi mai repede."
+					},
+					"Key": "loading_tip_act1_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Infusing the Gem"
+					},
+					"Translation":
+					{
+						"Text": "Infuzarea Bijuterie"
+					},
+					"Key": "progress_act1_infuse"
+				},
+				{
+					"Source":
+					{
+						"Text": "Into the Blue"
+					},
+					"Translation":
+					{
+						"Text": "În Albastru"
+					},
+					"Key": "progress_act2_dwarf_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Into the Green"
+					},
+					"Translation":
+					{
+						"Text": "În verde"
+					},
+					"Key": "progress_act2_ww_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Into the Red"
+					},
+					"Translation":
+					{
+						"Text": "În Roșu"
+					},
+					"Key": "progress_act2_lava_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Last Land"
+					},
+					"Translation":
+					{
+						"Text": "Ultimul Pământ"
+					},
+					"Key": "last_land"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lava Lair"
+					},
+					"Translation":
+					{
+						"Text": "Vizuina de Lavă"
+					},
+					"Key": "lava_lair"
+				},
+				{
+					"Source":
+					{
+						"Text": "Loading screen tips are very useful - except in a few cases."
+					},
+					"Translation":
+					{
+						"Text": "Sfaturile ecranului de încărcare sunt foarte utile - cu excepția câtorva cazuri."
+					},
+					"Key": "loading_tip_act3_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Looking for a Gem"
+					},
+					"Translation":
+					{
+						"Text": "În căutarea unei Bijuterii"
+					},
+					"Key": "progress_act1_gem"
+				},
+				{
+					"Source":
+					{
+						"Text": "Looking for a Portal"
+					},
+					"Translation":
+					{
+						"Text": "În căutarea unui Portal"
+					},
+					"Key": "progress_act1_portals"
+				},
+				{
+					"Source":
+					{
+						"Text": "Looks like it’s always you who has to take care of the mess others left behind."
+					},
+					"Translation":
+					{
+						"Text": "Se pare că întotdeauna tu ești cel care trebuie să aibă grijă de mizeria lăsată de alții."
+					},
+					"Key": "loading_tip_end_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lost Land"
+					},
+					"Translation":
+					{
+						"Text": "Pământul Pierdut"
+					},
+					"Key": "lost_land"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lost in Ruin"
+					},
+					"Translation":
+					{
+						"Text": "Pierdut în Ruină"
+					},
+					"Key": "progress_act1_start"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lost in the Caves"
+					},
+					"Translation":
+					{
+						"Text": "Pierdut în Peșteri"
+					},
+					"Key": "progress_act3_start"
+				},
+				{
+					"Source":
+					{
+						"Text": "Monk's Home"
+					},
+					"Translation":
+					{
+						"Text": "Casa Călugărului"
+					},
+					"Key": "progress_act3_monk"
+				},
+				{
+					"Source":
+					{
+						"Text": "Most of the people died after Ruin happened, but there are still some survivors."
+					},
+					"Translation":
+					{
+						"Text": "Majoritatea oamenilor au murit după ce s-a întâmplat Ruina, dar mai există unii supraviețuitori."
+					},
+					"Key": "loading_tip_act1_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Moving Pipes"
+					},
+					"Translation":
+					{
+						"Text": "Țevi de mișcare"
+					},
+					"Key": "progress_act3_pipes"
+				},
+				{
+					"Source":
+					{
+						"Text": "Now is your time to think about the fate of the Ruined Realm."
+					},
+					"Translation":
+					{
+						"Text": "Acum este timpul tău să te gândești la soarta Tărâmului Ruinat."
+					},
+					"Key": "loading_tip_act3_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Now your only task is to bring the Artefacts to Wizard."
+					},
+					"Translation":
+					{
+						"Text": "Acum, singura ta sarcină este să aduci Artefactele la Vrăjitor."
+					},
+					"Key": "loading_tip_act3_5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Obedient Outpost"
+					},
+					"Translation":
+					{
+						"Text": "Avanpostul Ascultător"
+					},
+					"Key": "obedient_outpost"
+				},
+				{
+					"Source":
+					{
+						"Text": "Opening the Gate"
+					},
+					"Translation":
+					{
+						"Text": "Deschiderea Porții"
+					},
+					"Key": "progress_act2_dwarf_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Past and Future"
+					},
+					"Translation":
+					{
+						"Text": "Trecut și Viitor"
+					},
+					"Key": "progress_epilogue_past_and_future"
+				},
+				{
+					"Source":
+					{
+						"Text": "Perfect Palace"
+					},
+					"Translation":
+					{
+						"Text": "Palatul Perfect"
+					},
+					"Key": "perfect_palace"
+				},
+				{
+					"Source":
+					{
+						"Text": "Portal Place"
+					},
+					"Translation":
+					{
+						"Text": "Locul Portalului"
+					},
+					"Key": "portal_place"
+				},
+				{
+					"Source":
+					{
+						"Text": "Prologue"
+					},
+					"Translation":
+					{
+						"Text": "Prolog"
+					},
+					"Key": "prologue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reaching Crossroad Cave you are a step closer to the Three Artifacts - and to freedom."
+					},
+					"Translation":
+					{
+						"Text": "Ajungând în Peștera de la Intersecție ești un pas mai aproape de cele Trei Artefacte - și de libertate."
+					},
+					"Key": "act2_loading"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remnant Road"
+					},
+					"Translation":
+					{
+						"Text": "Drumul Rămășiței"
+					},
+					"Key": "remnant_road"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remnants of a Realm"
+					},
+					"Translation":
+					{
+						"Text": "Resturi ale unui Tărâm"
+					},
+					"Key": "progress_act1_arcade1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruined Realm"
+					},
+					"Translation":
+					{
+						"Text": "Tărâmul Ruinat"
+					},
+					"Key": "ruined_realm"
+				},
+				{
+					"Source":
+					{
+						"Text": "Searching for a way out"
+					},
+					"Translation":
+					{
+						"Text": "Căutarea unei ieșiri"
+					},
+					"Key": "progress_act1_before_raven"
+				},
+				{
+					"Source":
+					{
+						"Text": "Separated Worlds"
+					},
+					"Translation":
+					{
+						"Text": "Lumile Separate"
+					},
+					"Key": "progress_epilogue_separate_worlds"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sewer again"
+					},
+					"Translation":
+					{
+						"Text": "Canalizare din nou"
+					},
+					"Key": "progress_act1_tut2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Should you care about the fate of the Realms?"
+					},
+					"Translation":
+					{
+						"Text": "Ar trebui să îți pese de soarta Tărâmurilor?"
+					},
+					"Key": "loading_tip_end_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Snake Slide"
+					},
+					"Translation":
+					{
+						"Text": "Leagănul Șarpelui"
+					},
+					"Key": "snake_slide"
+				},
+				{
+					"Source":
+					{
+						"Text": "Some items can’t be used but merchants still like to buy them."
+					},
+					"Translation":
+					{
+						"Text": "Unele articole nu pot fi utilizate, dar comercianților le place să le cumpere."
+					},
+					"Key": "loading_tip_act1_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spells can make combat easier."
+					},
+					"Translation":
+					{
+						"Text": "Vrăjile pot ușura lupta."
+					},
+					"Key": "loading_tip_act1_7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sunken Sewer"
+					},
+					"Translation":
+					{
+						"Text": "Canalizarea Scufundată"
+					},
+					"Key": "sunken_sewer"
+				},
+				{
+					"Source":
+					{
+						"Text": "Talk to any Survivor if you can. They might be able to help you."
+					},
+					"Translation":
+					{
+						"Text": "Discută cu orice Supraviețuitor dacă poți. S-ar putea să te ajute."
+					},
+					"Key": "loading_tip_act2_5"
+				},
+				{
+					"Source":
+					{
+						"Text": "The End is near... I mean no loading screen can take forever, right?"
+					},
+					"Translation":
+					{
+						"Text": "Sfârșitul este aproape ... Adică niciun ecran de încărcare nu poate dura pentru totdeauna, nu?"
+					},
+					"Key": "loading_tip_act3_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Human Realm is a weird place..."
+					},
+					"Translation":
+					{
+						"Text": "Tărâmul Uman este un loc ciudat..."
+					},
+					"Key": "loading_tip_end_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Real Demon"
+					},
+					"Translation":
+					{
+						"Text": "Demonul Real"
+					},
+					"Key": "progress_epilogue_boss"
+				},
+				{
+					"Source":
+					{
+						"Text": "There are many keys, and when I say many, I mean it."
+					},
+					"Translation":
+					{
+						"Text": "Sunt multe chei, iar când spun multe, mă refer la asta."
+					},
+					"Key": "loading_tip_act1_5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Third time Worthy"
+					},
+					"Translation":
+					{
+						"Text": "A Treia oară Demn"
+					},
+					"Key": "progress_act1_tut3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Through the Lake"
+					},
+					"Translation":
+					{
+						"Text": "Prin lac"
+					},
+					"Key": "progress_act2_ww_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Time to finish what you started. One way or another."
+					},
+					"Translation":
+					{
+						"Text": "E timpul să termini ce ai început. Într-un fel sau altul."
+					},
+					"Key": "loading_tip_end_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "To the Fourth Station"
+					},
+					"Translation":
+					{
+						"Text": "Spre a Patra Stație"
+					},
+					"Key": "progress_act2_end"
+				},
+				{
+					"Source":
+					{
+						"Text": "Uniting Key Pieces"
+					},
+					"Translation":
+					{
+						"Text": "Unirea pieselor Cheie"
+					},
+					"Key": "progress_act2_lava_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Using the Railway can also make your Journey longer."
+					},
+					"Translation":
+					{
+						"Text": "Folosirea căii ferate vă poate face, de asemenea, călătoria mai lungă."
+					},
+					"Key": "loading_tip_act3_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Using the Railway can shorten your journey."
+					},
+					"Translation":
+					{
+						"Text": "Folosirea căii ferate îți va scurta călătoria."
+					},
+					"Key": "loading_tip_act2_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Way out of the Realm"
+					},
+					"Translation":
+					{
+						"Text": "O cale din Afara Tărâmului"
+					},
+					"Key": "progress_act3_way_out"
+				},
+				{
+					"Source":
+					{
+						"Text": "We’ll try to make our next game without any loading screens, we promise..."
+					},
+					"Translation":
+					{
+						"Text": "Vom încerca să facem următorul nostru joc fără ecrane de încărcare, vă promitem..."
+					},
+					"Key": "loading_tip_act2_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "When you find an item it would make sense to check what it is, wouldn’t it?"
+					},
+					"Translation":
+					{
+						"Text": "Când găsești un articol, ar fi logic să verifici ce este, nu?"
+					},
+					"Key": "loading_tip_act1_6"
+				},
+				{
+					"Source":
+					{
+						"Text": "White Wall"
+					},
+					"Translation":
+					{
+						"Text": "Zidul Alb"
+					},
+					"Key": "white_wall"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wizard's Castle"
+					},
+					"Translation":
+					{
+						"Text": "Castelul Vrăjitorului"
+					},
+					"Key": "progress_epilogue_castle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wracked Waters"
+					},
+					"Translation":
+					{
+						"Text": "Apele Împrăștiate"
+					},
+					"Key": "wracked_waters"
+				},
+				{
+					"Source":
+					{
+						"Text": "You are a Mighty Spirit from the Unknown Realm. You were torn away from your home by a pathetic mortal Wizard. After a magical accident your essence is bound to an unlikely body. Find a way out of your ball-body prison!"
+					},
+					"Translation":
+					{
+						"Text": "Ești un Duh Puternic din Tărâmul Necunoscut. Ai fost sfâșiat de acasă de un vrăjitor muritor patetic. După un accident magic esența ta este legată de un corp improbabil. Găsește o cale de a ieși din închisoarea corpul de bilă!"
+					},
+					"Key": "act1_loading"
+				},
+				{
+					"Source":
+					{
+						"Text": "You can always check the Sidenotes in your Inventory to see if you have any side quests."
+					},
+					"Translation":
+					{
+						"Text": "Poți verifica întotdeauna Notițele din inventar, pentru a vedea dacă ai misiuni secundare."
+					},
+					"Key": "loading_tip_act1_9"
+				},
+				{
+					"Source":
+					{
+						"Text": "You really did your part of the deal, now it’s time to go home!"
+					},
+					"Translation":
+					{
+						"Text": "Ți-ai făcut cu adevărat partea din afacere, acum este timpul să te întorci acasă!"
+					},
+					"Key": "loading_tip_end_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "and all I can change now"
+					},
+					"Translation":
+					{
+						"Text": "și tot ce pot schimba"
+					},
+					"Key": "intro_subtitle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "is the future."
+					},
+					"Translation":
+					{
+						"Text": "este viitorul."
+					},
+					"Key": "intro_subtitle_3"
+				}
+			]
+		},
+		{
+			"Namespace": "Credits",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Made with FMOD Studio by Firelight Technologies Pty Ltd."
+					},
+					"Translation":
+					{
+						"Text": "Creat cu FMOD Studio de Firelight Technologies Pty Ltd."
+					},
+					"Key": "credits_fmod"
+				}
+			]
+		},
+		{
+			"Namespace": "DateTimeHelper",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "April"
+					},
+					"Translation":
+					{
+						"Text": "Aprilie"
+					},
+					"Key": "MonthApril"
+				},
+				{
+					"Source":
+					{
+						"Text": "August"
+					},
+					"Translation":
+					{
+						"Text": "August"
+					},
+					"Key": "MonthAugust"
+				},
+				{
+					"Source":
+					{
+						"Text": "December"
+					},
+					"Translation":
+					{
+						"Text": "Decembrie"
+					},
+					"Key": "MonthDecember"
+				},
+				{
+					"Source":
+					{
+						"Text": "February"
+					},
+					"Translation":
+					{
+						"Text": "Februarie"
+					},
+					"Key": "MonthFebruary"
+				},
+				{
+					"Source":
+					{
+						"Text": "January"
+					},
+					"Translation":
+					{
+						"Text": "Ianuarie"
+					},
+					"Key": "MonthJanuary"
+				},
+				{
+					"Source":
+					{
+						"Text": "July"
+					},
+					"Translation":
+					{
+						"Text": "Iulie"
+					},
+					"Key": "MonthJuly"
+				},
+				{
+					"Source":
+					{
+						"Text": "June"
+					},
+					"Translation":
+					{
+						"Text": "Iunie"
+					},
+					"Key": "MonthJune"
+				},
+				{
+					"Source":
+					{
+						"Text": "March"
+					},
+					"Translation":
+					{
+						"Text": "Martie"
+					},
+					"Key": "MonthMarch"
+				},
+				{
+					"Source":
+					{
+						"Text": "May"
+					},
+					"Translation":
+					{
+						"Text": "Mai"
+					},
+					"Key": "MonthMay"
+				},
+				{
+					"Source":
+					{
+						"Text": "November"
+					},
+					"Translation":
+					{
+						"Text": "Noiembrie"
+					},
+					"Key": "MonthNovember"
+				},
+				{
+					"Source":
+					{
+						"Text": "October"
+					},
+					"Translation":
+					{
+						"Text": "Cctombrie"
+					},
+					"Key": "MonthOctober"
+				},
+				{
+					"Source":
+					{
+						"Text": "September"
+					},
+					"Translation":
+					{
+						"Text": "Septembrie"
+					},
+					"Key": "MonthSeptember"
+				},
+				{
+					"Source":
+					{
+						"Text": "{Hours}:{Minutes}:{Seconds}"
+					},
+					"Translation":
+					{
+						"Text": "{Hours}:{Minutes}:{Seconds}"
+					},
+					"Key": "SecondsToTimeMinusSeconds"
+				},
+				{
+					"Source":
+					{
+						"Text": "{Minutes}:{Seconds}"
+					},
+					"Translation":
+					{
+						"Text": "{Minutes}:{Seconds}"
+					},
+					"Key": "SecondsToTime"
+				}
+			]
+		},
+		{
+			"Namespace": "Dialogue",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Altar"
+					},
+					"Translation":
+					{
+						"Text": "Altar"
+					},
+					"Key": "npc_altar"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ancient Gate"
+					},
+					"Translation":
+					{
+						"Text": "Poarta Antică"
+					},
+					"Key": "npc_ancient_gate"
+				},
+				{
+					"Source":
+					{
+						"Text": "BALL-E"
+					},
+					"Translation":
+					{
+						"Text": "BALL-E"
+					},
+					"Key": "char_name_ball_e"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bored Gnome"
+					},
+					"Translation":
+					{
+						"Text": "Pitic Plictisit"
+					},
+					"Key": "npc_teachy_unkown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Demon Lillian"
+					},
+					"Translation":
+					{
+						"Text": "Demonul Lillian"
+					},
+					"Key": "npc_demon_lillian"
+				},
+				{
+					"Source":
+					{
+						"Text": "Destroyer"
+					},
+					"Translation":
+					{
+						"Text": "Distrugătorul"
+					},
+					"Key": "char_name_destroyer"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don't buy"
+					},
+					"Translation":
+					{
+						"Text": "Nu Cumpăra"
+					},
+					"Key": "char_name_dont_buy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dr. Ball"
+					},
+					"Translation":
+					{
+						"Text": "Dr. Minge"
+					},
+					"Key": "char_name_dr_ball"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarven Workshop"
+					},
+					"Translation":
+					{
+						"Text": "Ateleriul Piticilor"
+					},
+					"Key": "npc_dwarven_workshop"
+				},
+				{
+					"Source":
+					{
+						"Text": "Epic Sphero"
+					},
+					"Translation":
+					{
+						"Text": "Sfera Epică"
+					},
+					"Key": "char_name_epic_sphero"
+				},
+				{
+					"Source":
+					{
+						"Text": "Failed One"
+					},
+					"Translation":
+					{
+						"Text": "Cel Eșuat"
+					},
+					"Key": "char_name_failed_one"
+				},
+				{
+					"Source":
+					{
+						"Text": "Finish"
+					},
+					"Translation":
+					{
+						"Text": "Finalizare"
+					},
+					"Key": "finish"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fishy"
+					},
+					"Translation":
+					{
+						"Text": "Pește Dubios"
+					},
+					"Key": "npc_fishy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fountain"
+					},
+					"Translation":
+					{
+						"Text": "Fântână"
+					},
+					"Key": "npc_fountain"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gatekeeper"
+					},
+					"Translation":
+					{
+						"Text": "Portar"
+					},
+					"Key": "npc_gatekeeper"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ghost Dwarf"
+					},
+					"Translation":
+					{
+						"Text": "Fantoma Piticului"
+					},
+					"Key": "npc_ghost_dwarf"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gnome Lady"
+					},
+					"Translation":
+					{
+						"Text": "Doamna Pitic"
+					},
+					"Key": "npc_lory_unkown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gnory"
+					},
+					"Translation":
+					{
+						"Text": "Gnory"
+					},
+					"Key": "npc_gnory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Golem Maker"
+					},
+					"Translation":
+					{
+						"Text": "Creatorul de Golemi"
+					},
+					"Key": "npc_golem_maker"
+				},
+				{
+					"Source":
+					{
+						"Text": "Kobold Chef"
+					},
+					"Translation":
+					{
+						"Text": "Bucătarul Goblin"
+					},
+					"Key": "npc_name_kobold"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lory"
+					},
+					"Translation":
+					{
+						"Text": "Lory"
+					},
+					"Key": "npc_lory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Magic Mirror"
+					},
+					"Translation":
+					{
+						"Text": "Oglinda Magică"
+					},
+					"Key": "npc_magic_mirror"
+				},
+				{
+					"Source":
+					{
+						"Text": "Merch Ant"
+					},
+					"Translation":
+					{
+						"Text": "Furnica Comerciant"
+					},
+					"Key": "npc_merchant"
+				},
+				{
+					"Source":
+					{
+						"Text": "Monk"
+					},
+					"Translation":
+					{
+						"Text": "Călugăr"
+					},
+					"Key": "npc_monk"
+				},
+				{
+					"Source":
+					{
+						"Text": "Next"
+					},
+					"Translation":
+					{
+						"Text": "Următorul"
+					},
+					"Key": "next"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pipe Walker"
+					},
+					"Translation":
+					{
+						"Text": "Mergător pe Țevi"
+					},
+					"Key": "npc_pipe_walker"
+				},
+				{
+					"Source":
+					{
+						"Text": "Raven"
+					},
+					"Translation":
+					{
+						"Text": "Corb"
+					},
+					"Key": "npc_raven"
+				},
+				{
+					"Source":
+					{
+						"Text": "Saviour"
+					},
+					"Translation":
+					{
+						"Text": "Salvator"
+					},
+					"Key": "char_name_saviour"
+				},
+				{
+					"Source":
+					{
+						"Text": "Scholar"
+					},
+					"Translation":
+					{
+						"Text": "Savant"
+					},
+					"Key": "npc_scholar"
+				},
+				{
+					"Source":
+					{
+						"Text": "Secret Hideout Gate"
+					},
+					"Translation":
+					{
+						"Text": "Porta Secretă pentru Ascunzătoare"
+					},
+					"Key": "npc_secret_hideout"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sewer Creature"
+					},
+					"Translation":
+					{
+						"Text": "Creatura de Canalizare"
+					},
+					"Key": "npc_sewer_creature"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sorbcerer"
+					},
+					"Translation":
+					{
+						"Text": "Sorbcerer"
+					},
+					"Key": "char_name_sorbcerer"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spirit Of the Unknown"
+					},
+					"Translation":
+					{
+						"Text": "Spiritul Necunoscutului"
+					},
+					"Key": "char_name_spirit_of_the_unknown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Statue"
+					},
+					"Translation":
+					{
+						"Text": "Statuie"
+					},
+					"Key": "npc_statue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Supper Dwarf"
+					},
+					"Translation":
+					{
+						"Text": "Piticul Cinei"
+					},
+					"Key": "npc_supper_dwarf"
+				},
+				{
+					"Source":
+					{
+						"Text": "Teachy"
+					},
+					"Translation":
+					{
+						"Text": "Teachy"
+					},
+					"Key": "npc_teachy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tomb"
+					},
+					"Translation":
+					{
+						"Text": "Mormânt"
+					},
+					"Key": "npc_tomb"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ultimate Frisbee"
+					},
+					"Translation":
+					{
+						"Text": "Frisbee Final"
+					},
+					"Key": "char_name_ultimate_frisbee"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unknown Wizard"
+					},
+					"Translation":
+					{
+						"Text": "Vrăjitor Necunoscut"
+					},
+					"Key": "npc_unknown_wizard"
+				},
+				{
+					"Source":
+					{
+						"Text": "Voice"
+					},
+					"Translation":
+					{
+						"Text": "Voce"
+					},
+					"Key": "npc_merchant_voice"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wanderer"
+					},
+					"Translation":
+					{
+						"Text": "Hoinar"
+					},
+					"Key": "char_name_wanderer"
+				},
+				{
+					"Source":
+					{
+						"Text": "Warlorb"
+					},
+					"Translation":
+					{
+						"Text": "Warlorb"
+					},
+					"Key": "char_name_warlorb"
+				},
+				{
+					"Source":
+					{
+						"Text": "WarriOrb"
+					},
+					"Translation":
+					{
+						"Text": "Warriorb"
+					},
+					"Key": "char_name_warriorb"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wizard"
+					},
+					"Translation":
+					{
+						"Text": "Vrăjitor"
+					},
+					"Key": "npc_wizard"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} Gold Gained"
+					},
+					"Translation":
+					{
+						"Text": "{0} Aur Obținut"
+					},
+					"Key": "gold_gained"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} Gold Lost"
+					},
+					"Translation":
+					{
+						"Text": "{0} Aur Pierdut"
+					},
+					"Key": "gold_lost"
+				},
+				{
+					"Source":
+					{
+						"Text": "{Amount} {ItemName} gained!"
+					},
+					"Translation":
+					{
+						"Text": "{Amount} {ItemName} câștigat!"
+					},
+					"Key": "item_gained_n"
+				},
+				{
+					"Source":
+					{
+						"Text": "{Amount} {ItemName} lost!"
+					},
+					"Translation":
+					{
+						"Text": "{Amount} {ItemName} pierdut!"
+					},
+					"Key": "item_lost_n"
+				},
+				{
+					"Source":
+					{
+						"Text": "{ItemName} gained!"
+					},
+					"Translation":
+					{
+						"Text": "{ItemName} câștigat!"
+					},
+					"Key": "item_gained"
+				},
+				{
+					"Source":
+					{
+						"Text": "{ItemName} lost!"
+					},
+					"Translation":
+					{
+						"Text": "{ItemName} pierdut!"
+					},
+					"Key": "item_lost"
+				}
+			]
+		},
+		{
+			"Namespace": "Dialogue_VV_Kobold",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Accept Quest"
+					},
+					"Translation":
+					{
+						"Text": "Acceptă misiune"
+					},
+					"Key": "C530096E4FA1A2B68077C3AD6AC1BF44"
+				},
+				{
+					"Source":
+					{
+						"Text": "All right, thank you."
+					},
+					"Translation":
+					{
+						"Text": "In regula. Mulțumesc."
+					},
+					"Key": "41C1FCA947041D49247FC8A157D7407F"
+				},
+				{
+					"Source":
+					{
+						"Text": "And it also attracts the Pipewalkers."
+					},
+					"Translation":
+					{
+						"Text": "Și îi atrage și pe cei care călătoresc pe conducte."
+					},
+					"Key": "3764BB48401ABEDCD125F186B4BF0E17"
+				},
+				{
+					"Source":
+					{
+						"Text": "Any news on your lost tribe?"
+					},
+					"Translation":
+					{
+						"Text": "Ai vreo veste despre tribul tău pierdut?"
+					},
+					"Key": "DA9D493F42420BE9442B1EA983AEF9C2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Because I’m a chef."
+					},
+					"Translation":
+					{
+						"Text": "Pentru că sunt bucătar."
+					},
+					"Key": "52A8B1F04C37F262E014DEA14AB68957"
+				},
+				{
+					"Source":
+					{
+						"Text": "Can I help?"
+					},
+					"Translation":
+					{
+						"Text": "Pot să ajut?"
+					},
+					"Key": "8FF6BF7B4745BB75C2D8F7873C492C2D"
+				},
+				{
+					"Source":
+					{
+						"Text": "Could you activate it for me?"
+					},
+					"Translation":
+					{
+						"Text": "Ai putea să o activezi pentru mine?"
+					},
+					"Key": "1B9834C6405C60960F322585AB0F1704"
+				},
+				{
+					"Source":
+					{
+						"Text": "Could you activate it for me?"
+					},
+					"Translation":
+					{
+						"Text": "Ai putea să o activezi pentru mine?"
+					},
+					"Key": "2189E8064ACF974902FBA49BD12D0F47"
+				},
+				{
+					"Source":
+					{
+						"Text": "Decline"
+					},
+					"Translation":
+					{
+						"Text": "Refuză"
+					},
+					"Key": "3DCACAB047175FB687542AB0CA25D972"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you know how can I reach that Purple Portal?"
+					},
+					"Translation":
+					{
+						"Text": "Ști cum pot ajunge la acel portal Violet?"
+					},
+					"Key": "EBC97F7C45858FE6DC72209536FC5C3B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you need help with something?"
+					},
+					"Translation":
+					{
+						"Text": "Ai nevoie de ajutor cu ceva?"
+					},
+					"Key": "8240EF7946C8434333AFAEBEF3583917"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you think you will find Pipewalkers here?"
+					},
+					"Translation":
+					{
+						"Text": "Crezi că vei găsi aici călătorii de conducte?"
+					},
+					"Key": "3C0498284D71B7B64FEA4094F42A5502"
+				},
+				{
+					"Source":
+					{
+						"Text": "Good bye!"
+					},
+					"Translation":
+					{
+						"Text": "La revedere!"
+					},
+					"Key": "BA715D554C47932C092462B36ADEA081"
+				},
+				{
+					"Source":
+					{
+						"Text": "Good idea."
+					},
+					"Translation":
+					{
+						"Text": "Bună idee."
+					},
+					"Key": "10ADF4F948FB99445BF791BB0722AD90"
+				},
+				{
+					"Source":
+					{
+						"Text": "Haha... Yes I’m back again."
+					},
+					"Translation":
+					{
+						"Text": "Haha... Da, m-am întors din nou."
+					},
+					"Key": "63EA4DDD45390542E3A904928143D9AF"
+				},
+				{
+					"Source":
+					{
+						"Text": "Have you found out anything about Ruin?"
+					},
+					"Translation":
+					{
+						"Text": "Ai aflat ceva despre Ruină?"
+					},
+					"Key": "C339B87742C2B475E2387F93418AA855"
+				},
+				{
+					"Source":
+					{
+						"Text": "How on earth have you managed to reach this node?"
+					},
+					"Translation":
+					{
+						"Text": "Cum în plata domnului ai reușit să ajungi în acest nod?"
+					},
+					"Key": "DE668E4B4A3D0F785A693B9190E635D3"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can’t promise I’ll do that."
+					},
+					"Translation":
+					{
+						"Text": "Nu pot promite că voi face asta."
+					},
+					"Key": "9FD2679D44BEBBFBBAD2EAAECFFEE0D5"
+				},
+				{
+					"Source":
+					{
+						"Text": "I need to go now."
+					},
+					"Translation":
+					{
+						"Text": "Trebuie să plec acum."
+					},
+					"Key": "DE2390ED4366A621E4D220A3761333DE"
+				},
+				{
+					"Source":
+					{
+						"Text": "I think I managed to activate the device on the wall of the Portal Tower."
+					},
+					"Translation":
+					{
+						"Text": "Cred că am reușit să activez dispozitivul de pe peretele Turnului Portalului."
+					},
+					"Key": "0944D8A541F933BEB5DD068CA9099075"
+				},
+				{
+					"Source":
+					{
+						"Text": "I think I've already done that."
+					},
+					"Translation":
+					{
+						"Text": "Cred că am făcut deja asta."
+					},
+					"Key": "274EB7AD410061E3E200A9813A54AB29"
+				},
+				{
+					"Source":
+					{
+						"Text": "I think they came here and followed the messages just like you."
+					},
+					"Translation":
+					{
+						"Text": "Cred că au venit aici și au urmărit mesajele la fel ca tine."
+					},
+					"Key": "F9EBA1684D435C8AEB14129A7B57A604"
+				},
+				{
+					"Source":
+					{
+						"Text": "I want to find my tribe."
+					},
+					"Translation":
+					{
+						"Text": "Vreau să-mi găsesc tribul."
+					},
+					"Key": "3A0924F7449355545C0A98B94994616B"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm on my way. Take care!"
+					},
+					"Translation":
+					{
+						"Text": "Sunt pe drum. Ai grijă!"
+					},
+					"Key": "E83287164D066CCE8FBFDE835FBD4CFB"
+				},
+				{
+					"Source":
+					{
+						"Text": "I've got to go. See you soon!"
+					},
+					"Translation":
+					{
+						"Text": "Trebuie să plec. Ne vedem în curând!"
+					},
+					"Key": "AA1C6EF444BAB6A929E953A87BB87ABB"
+				},
+				{
+					"Source":
+					{
+						"Text": "If there are any they will come here when they smell the soup."
+					},
+					"Translation":
+					{
+						"Text": "Dacă există, vor veni aici când vor mirosi supa."
+					},
+					"Key": "807FF1A945548216DAD305B4D5A4437F"
+				},
+				{
+					"Source":
+					{
+						"Text": "If they are still alive they must be beyond that Purple Portal."
+					},
+					"Translation":
+					{
+						"Text": "Dacă sunt încă în viață, trebuie să fie dincolo de portalul Violet."
+					},
+					"Key": "43C8FE9248340E49F1F31882D7B96642"
+				},
+				{
+					"Source":
+					{
+						"Text": "If you activate it I’ll be able to use the portal to teleport to other places."
+					},
+					"Translation":
+					{
+						"Text": "Dacă îl activezi, voi putea folosi portalul pentru a mă teleporta în alte locuri."
+					},
+					"Key": "97E4FDC74B47A6037D6023A4C65B2934"
+				},
+				{
+					"Source":
+					{
+						"Text": "It helps me keep my mind clear."
+					},
+					"Translation":
+					{
+						"Text": "Mă ajută să-mi țin mintea limpede."
+					},
+					"Key": "D058108241051A9FD0D130B3C9EA4B8B"
+				},
+				{
+					"Source":
+					{
+						"Text": "It was nice to meet you."
+					},
+					"Translation":
+					{
+						"Text": "Mi-a făcut plăcere să te cunosc."
+					},
+					"Key": "BE7B3444431F43E8E1487F8702B94845"
+				},
+				{
+					"Source":
+					{
+						"Text": "It wasn’t that complicated after all."
+					},
+					"Translation":
+					{
+						"Text": "La urma urmei, nu a fost atât de complicat."
+					},
+					"Key": "F911D6CB45AA59448C03379A1C07DD60"
+				},
+				{
+					"Source":
+					{
+						"Text": "I’m glad you are back again!"
+					},
+					"Translation":
+					{
+						"Text": "Mă bucur că te-ai întors înapoi!"
+					},
+					"Key": "022227664F6F422B20B109A19B8789AA"
+				},
+				{
+					"Source":
+					{
+						"Text": "I’m not sure... but I have a key which might be useful."
+					},
+					"Translation":
+					{
+						"Text": "Nu sunt sigur ... dar am o cheie care ar putea fi utilă."
+					},
+					"Key": "869485E24E19938DEE48BFB5C5240BB3"
+				},
+				{
+					"Source":
+					{
+						"Text": "I’m sorry but that sounds complicated."
+					},
+					"Translation":
+					{
+						"Text": "Îmi pare rău, dar sună complicat."
+					},
+					"Key": "833BB4384231444247779CAB596D0259"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave"
+					},
+					"Translation":
+					{
+						"Text": "Ieși"
+					},
+					"Key": "5F376BF945B8CE4AA12B7EB05F8C62A5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Looks like I can’t get rid of this body."
+					},
+					"Translation":
+					{
+						"Text": "Se pare că nu pot scăpa de acest corp."
+					},
+					"Key": "804671AF40165C92FA6A8F8A5AE97997"
+				},
+				{
+					"Source":
+					{
+						"Text": "Meanwhile I cooked something special for you. Take this!"
+					},
+					"Translation":
+					{
+						"Text": "Între timp am gătit ceva special pentru tine. Ia asta!"
+					},
+					"Key": "D8F879684C57BB474E7153B971073663"
+				},
+				{
+					"Source":
+					{
+						"Text": "Nice, well done!"
+					},
+					"Translation":
+					{
+						"Text": "Frumos, bine făcut!"
+					},
+					"Key": "E6D3401944B2FF128DD1689F5159AF96"
+				},
+				{
+					"Source":
+					{
+						"Text": "No problem."
+					},
+					"Translation":
+					{
+						"Text": "Nici o problemă."
+					},
+					"Key": "CD8CDA3443CDE79BE257B99A0801B209"
+				},
+				{
+					"Source":
+					{
+						"Text": "No. To be honest I don’t care much about Ruin."
+					},
+					"Translation":
+					{
+						"Text": "Nu. Să fiu sincer, nu-mi pasă prea mult de Ruină."
+					},
+					"Key": "891684A24BA64E351E7F0B9ADEA3D6DF"
+				},
+				{
+					"Source":
+					{
+						"Text": "Oh, it’s you."
+					},
+					"Translation":
+					{
+						"Text": "Oh, tu ești."
+					},
+					"Key": "86FBA5A24734DD97167512A054A2E0D9"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pls. report it as a bug."
+					},
+					"Translation":
+					{
+						"Text": "Te rog, raportează-l ca o eroare."
+					},
+					"Key": "E29E2D044497A86DD0FCA8B540703597"
+				},
+				{
+					"Source":
+					{
+						"Text": "Purple Portal"
+					},
+					"Translation":
+					{
+						"Text": "Portal Violet"
+					},
+					"Key": "73240093450B12BEEA1EB78C9CF7D89E"
+				},
+				{
+					"Source":
+					{
+						"Text": "Really? Anyway, I’m happy to see you."
+					},
+					"Translation":
+					{
+						"Text": "Serios? Oricum, sunt fericit să te văd."
+					},
+					"Key": "B621AECE42A14A508C945595493F3A3A"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruin"
+					},
+					"Translation":
+					{
+						"Text": "Ruină"
+					},
+					"Key": "694B6E3F4F4C7CEAAACB51A2D30FFD26"
+				},
+				{
+					"Source":
+					{
+						"Text": "See you!"
+					},
+					"Translation":
+					{
+						"Text": "Te văd!"
+					},
+					"Key": "85656A9E46844B03D49E13AC951FDE07"
+				},
+				{
+					"Source":
+					{
+						"Text": "Soup"
+					},
+					"Translation":
+					{
+						"Text": "Supă"
+					},
+					"Key": "C4D263AB48B800D5522A24923C541ED3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sure! I’ll see what I can do."
+					},
+					"Translation":
+					{
+						"Text": "Sigur! Voi vedea ce pot face."
+					},
+					"Key": "444DD931423A98C7DD95D4BB73F0F1C6"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take it! I still need some time to finish the soup anyway."
+					},
+					"Translation":
+					{
+						"Text": "Ia-l! Încă mai am nevoie de ceva timp pentru a termina supa."
+					},
+					"Key": "95A7C27A44B78CBF17C1FD8C9446CBD7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Thank you!"
+					},
+					"Translation":
+					{
+						"Text": "Mulțumesc!"
+					},
+					"Key": "7304F1034A83C6D17E274090FA8E543B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Thanks!"
+					},
+					"Translation":
+					{
+						"Text": "Mulțumesc!"
+					},
+					"Key": "E3F52F4F47289406E4A546BB0BF3AC3F"
+				},
+				{
+					"Source":
+					{
+						"Text": "Thanks!"
+					},
+					"Translation":
+					{
+						"Text": "Mulțumesc!"
+					},
+					"Key": "64EE856046A396F2750AE1BC1042CF26"
+				},
+				{
+					"Source":
+					{
+						"Text": "Thanks."
+					},
+					"Translation":
+					{
+						"Text": "Mulțumesc."
+					},
+					"Key": "AED4FBE3422E0FC4AC4BD38650F95CA9"
+				},
+				{
+					"Source":
+					{
+						"Text": "The soup is almost ready..."
+					},
+					"Translation":
+					{
+						"Text": "Supa este aproape gata ..."
+					},
+					"Key": "C82668E6497A810FA6ADC0AB6F362B47"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tower Device"
+					},
+					"Translation":
+					{
+						"Text": "Dispozitiv pentru Turn"
+					},
+					"Key": "93B13014434102C8033B41A06DBED69B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tribe"
+					},
+					"Translation":
+					{
+						"Text": "Trib"
+					},
+					"Key": "4FF2FA154BEFBD448EFDB0BB7FE3F0AF"
+				},
+				{
+					"Source":
+					{
+						"Text": "Why are you making soup?"
+					},
+					"Translation":
+					{
+						"Text": "De ce faci supă?"
+					},
+					"Key": "B0BAD1934671ADCB2DD1E1BA582E3C68"
+				},
+				{
+					"Source":
+					{
+						"Text": "Yes. According to a book I read here there is a device on the wall of the Portal Tower."
+					},
+					"Translation":
+					{
+						"Text": "Da. Conform unei cărți pe care am citit-o aici, există un dispozitiv pe peretele Turnului Portalului."
+					},
+					"Key": "C1BB24A443D4297B17E2F6A280B02E91"
+				},
+				{
+					"Source":
+					{
+						"Text": "You know, sometimes I miss the Pipewalkers..."
+					},
+					"Translation":
+					{
+						"Text": "Știi, uneori mi-e dor de călătorii de conducte..."
+					},
+					"Key": "16358AE840D8B8553E8930A3B7E69BBA"
+				},
+				{
+					"Source":
+					{
+						"Text": "You said you wouldn't do it..."
+					},
+					"Translation":
+					{
+						"Text": "Ai spus că nu o vei face ..."
+					},
+					"Key": "137B87BB447D45E46C0425A940E8B7F0"
+				},
+				{
+					"Source":
+					{
+						"Text": "You? I never thought I’ll see you in this shape again."
+					},
+					"Translation":
+					{
+						"Text": "Tu? Niciodată nu am crezut că te voi mai vedea în această formă."
+					},
+					"Key": "2A57878148EFCC8532E34CAE1B9C9A0F"
+				}
+			]
+		},
+		{
+			"Namespace": "Dialogue_WW_Pergamen",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "'Come visit us beyond the Purple Portal!'"
+					},
+					"Translation":
+					{
+						"Text": "'Vino să ne vizitezi dincolo de portalul Violet!'"
+					},
+					"Key": "B10818134FFE3A1E99A9D789BFABBBEE"
+				},
+				{
+					"Source":
+					{
+						"Text": "'Ruin took over some of us. It's no longer safe here.'"
+					},
+					"Translation":
+					{
+						"Text": "'Ruina i-a preluat pe unii dintre noi. Nu mai este în siguranță aici.'"
+					},
+					"Key": "3DAA74ED48BE31E35D868FB1492E57A8"
+				},
+				{
+					"Source":
+					{
+						"Text": "'We are close to the solution, but your help is still needed.'"
+					},
+					"Translation":
+					{
+						"Text": "'Suntem aproape de soluție, dar ajutorul tău este încă necesar.'"
+					},
+					"Key": "D292364A4E58F52FB874AA98C1F969A6"
+				}
+			]
+		},
+		{
+			"Namespace": "Dialogue_WW_Statue",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "'White Wall will never fall!'"
+					},
+					"Translation":
+					{
+						"Text": "'Zidul Alb nu va cădea niciodată!'"
+					},
+					"Key": "2D531D384CB6A56DBC4834BD229622E7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Oooops..."
+					},
+					"Translation":
+					{
+						"Text": "Aoooleu..."
+					},
+					"Key": "0CD0FD884718EF68B38D578CDE17110A"
+				}
+			]
+		},
+		{
+			"Namespace": "Dialogue_WW_StatueWelcome",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "'There is still hope.'"
+					},
+					"Translation":
+					{
+						"Text": "'Încă mai există speranță.'"
+					},
+					"Key": "7C3340434A4C80010AC2D58BF8504339"
+				},
+				{
+					"Source":
+					{
+						"Text": "'We know how to stop Ruin.'"
+					},
+					"Translation":
+					{
+						"Text": "'Noi știm cum să oprim Ruina.'"
+					},
+					"Key": "2690E77045D5E42F32AC6582BAFF27AA"
+				}
+			]
+		},
+		{
+			"Namespace": "Enemies",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Armour Wrath"
+					},
+					"Translation":
+					{
+						"Text": "Armura Mâniei"
+					},
+					"Key": "armour_wrath_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarf"
+					},
+					"Translation":
+					{
+						"Text": "Pitic"
+					},
+					"Key": "dwarf_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fallen Druid"
+					},
+					"Translation":
+					{
+						"Text": "Druid Decăzut"
+					},
+					"Key": "fallen_druid_name"
+				}
+			]
+		},
+		{
+			"Namespace": "Episodes",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "\"And as Darkness spreads an unknown Warriorb will rise...\""
+					},
+					"Translation":
+					{
+						"Text": "\"Și pe măsură ce Întunericul se va răspândi, un Războinic necunoscut va răsări... \""
+					},
+					"Key": "escape_darkness_completed_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "After months of researching I found a way to return back to the Ruined Realm. Ironically enough I have to use the same body I was trapped in before. I'll need to be quick and clever for this might be my very last chance to stop Ruin before it devours the World."
+					},
+					"Translation":
+					{
+						"Text": "După câteva luni de cercetare, am găsit o cale de a mă întoarce pe tărâmul ruinat. În mod ironic, trebuie să folosesc același corp în care am fost prins înainte. Va trebui să fiu rapid și inteligent pentru că aceasta va fi ultima mea șansă de a opri Ruina înainte să devoreze Lumea."
+					},
+					"Key": "white_wall_loadingscreen_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Although it's long abandoned the fortress of White Wall still stands against Ruin. After centuries of silence some groups of unexpected visitors broke the loneliness of the decaying city."
+					},
+					"Translation":
+					{
+						"Text": "Deși a fost abandonată de mult timp, cetatea Zidului Alb încă stă împotriva Ruinei. După secole de tăcere, unele grupuri de vizitatori neașteptați au rupt singurătatea orașului în declin."
+					},
+					"Key": "white_wall_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you fast enough to race against Darkness itself?"
+					},
+					"Translation":
+					{
+						"Text": "Ești suficient de rapid pentru a alerga împotriva întunericului în sine?"
+					},
+					"Key": "escape_darkness_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dreamhack"
+					},
+					"Translation":
+					{
+						"Text": "Dreamhack"
+					},
+					"Key": "dreamhack_friendly_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dreamhack Demo"
+					},
+					"Translation":
+					{
+						"Text": "Dreamhack Demo"
+					},
+					"Key": "dreamhack_completed_subtitle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Episode Completed!"
+					},
+					"Translation":
+					{
+						"Text": "Episod Completat!"
+					},
+					"Key": "episode_end_main_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Escape Darkness"
+					},
+					"Translation":
+					{
+						"Text": "Evadarea întunericului"
+					},
+					"Key": "escape_darkness_friendly_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Escaped from Darkness"
+					},
+					"Translation":
+					{
+						"Text": "Evadare din întuneric"
+					},
+					"Key": "escape_darkness_completed_subtitle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Thanks for playing the game, we hope you had a great time!"
+					},
+					"Translation":
+					{
+						"Text": "Vă mulțumim pentru că ați jucat jocul, sperăm că v-ați distrat de minune!"
+					},
+					"Key": "dreamhack_completed_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "What happened beyond the portal is another story, which will be told at another time."
+					},
+					"Translation":
+					{
+						"Text": "Ceea ce s-a întâmplat dincolo de portal este o altă poveste, care va fi povestită în alt moment."
+					},
+					"Key": "white_wall_completed_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "What happens when you lock a mighty demon's spirit inside a ball body?"
+					},
+					"Translation":
+					{
+						"Text": "Ce se întâmplă când încui spiritul unui demon puternic în interiorul unui corp de bilă?"
+					},
+					"Key": "dreamhack_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "White Wall"
+					},
+					"Translation":
+					{
+						"Text": "Zidul Alb"
+					},
+					"Key": "white_wall_friendly_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "White Wall"
+					},
+					"Translation":
+					{
+						"Text": "Zidul Alb"
+					},
+					"Key": "white_wall_completed_subtitle"
+				}
+			]
+		},
+		{
+			"Namespace": "FloatingEnemyAndNPCLines",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Aaaaaaargh!"
+					},
+					"Translation":
+					{
+						"Text": "Aaaaaaargh!"
+					},
+					"Key": "char_vo_ghosthelmet_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Aaahhh"
+					},
+					"Translation":
+					{
+						"Text": "Aaahhh"
+					},
+					"Key": "char_vo_golemmaker_idle_moan_aaahhh"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ahm"
+					},
+					"Translation":
+					{
+						"Text": "Ahm"
+					},
+					"Key": "char_vo_teachy_idle_book_up_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "All is Lost."
+					},
+					"Translation":
+					{
+						"Text": "Totul este pierdut."
+					},
+					"Key": "char_vo_golemmaker_idle_mindlessly_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "All right, gg!"
+					},
+					"Translation":
+					{
+						"Text": "Bine, gg!"
+					},
+					"Key": "char_vo_flybug_die_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "At your service."
+					},
+					"Translation":
+					{
+						"Text": "La dispoziția ta."
+					},
+					"Key": "char_vo_maintainer_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Attention to the heights again!"
+					},
+					"Translation":
+					{
+						"Text": "Atenție la înălțimi din nou!"
+					},
+					"Key": "char_vo_gatekeeper_attack_electric_bubbles_phase_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Attention to the heights!"
+					},
+					"Translation":
+					{
+						"Text": "Atenție la înălțimi!"
+					},
+					"Key": "char_vo_gatekeeper_attack_electric_bubbles"
+				},
+				{
+					"Source":
+					{
+						"Text": "Auch"
+					},
+					"Translation":
+					{
+						"Text": "Auch"
+					},
+					"Key": "char_vo_lory_idle_humming_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Avoid these!"
+					},
+					"Translation":
+					{
+						"Text": "Evitați acestea!"
+					},
+					"Key": "char_vo_gatekeeper_attack_aimed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Be right back!"
+					},
+					"Translation":
+					{
+						"Text": "Revin imediat!"
+					},
+					"Key": "char_vo_ghosthelmet_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "Careful!"
+					},
+					"Translation":
+					{
+						"Text": "Fi Atent!"
+					},
+					"Key": "char_vo_flybug_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chaaaaaarge!"
+					},
+					"Translation":
+					{
+						"Text": "Ataaaaaaaaac!"
+					},
+					"Key": "char_vo_ghosthelmet_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Come to me!"
+					},
+					"Translation":
+					{
+						"Text": "Vino la mine!"
+					},
+					"Key": "char_vo_shadesphere_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Croon"
+					},
+					"Translation":
+					{
+						"Text": "Fredonat"
+					},
+					"Key": "char_vo_lory_idle_croon"
+				},
+				{
+					"Source":
+					{
+						"Text": "Death is not peace."
+					},
+					"Translation":
+					{
+						"Text": "Moartea nu este pace."
+					},
+					"Key": "char_vo_shade_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Death to the outlaw!"
+					},
+					"Translation":
+					{
+						"Text": "Moarte infractorului!"
+					},
+					"Key": "char_vo_ghostarmor_attack_fall"
+				},
+				{
+					"Source":
+					{
+						"Text": "Death... again?!"
+					},
+					"Translation":
+					{
+						"Text": "Moartea... din nou?!"
+					},
+					"Key": "char_vo_shade_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "Did you hear that?"
+					},
+					"Translation":
+					{
+						"Text": "Ai auzit asta?"
+					},
+					"Key": "char_vo_primitivefishy_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dinner is served!"
+					},
+					"Translation":
+					{
+						"Text": "Cina este servită!"
+					},
+					"Key": "char_vo_maintainer_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do not resist me!"
+					},
+					"Translation":
+					{
+						"Text": "Nu mă rezista!"
+					},
+					"Key": "char_vo_shadesphere_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you exist outside of my mind?"
+					},
+					"Translation":
+					{
+						"Text": "Tu exiști în afara minții mele?"
+					},
+					"Key": "char_vo_teachy_idle_book_down_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you really think you are worthy?"
+					},
+					"Translation":
+					{
+						"Text": "Chiar crezi că ești demn?"
+					},
+					"Key": "char_vo_gatekeeper_attack_shield"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don't do that again!"
+					},
+					"Translation":
+					{
+						"Text": "Nu mai fă asta niciodată!"
+					},
+					"Key": "char_vo_maintainer_miniboss_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Easy man, easy!"
+					},
+					"Translation":
+					{
+						"Text": "Ușor omule, ușor!"
+					},
+					"Key": "char_vo_flybug_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ehemm, ehemm"
+					},
+					"Translation":
+					{
+						"Text": "Ehemm, ehemm"
+					},
+					"Key": "char_vo_supperdwarf_idle_2_humming_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ehm, what?"
+					},
+					"Translation":
+					{
+						"Text": "Ehm, ce?"
+					},
+					"Key": "char_vo_teachy_idle_book_down_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ehmm"
+					},
+					"Translation":
+					{
+						"Text": "Ehmm"
+					},
+					"Key": "char_vo_teachy_idle_book_up_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ehmm-hmmm-uhmm"
+					},
+					"Translation":
+					{
+						"Text": "Ehmm-hmmm-uhmm"
+					},
+					"Key": "char_vo_teachy_idle_humming_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ehmmm... where is my spoon?"
+					},
+					"Translation":
+					{
+						"Text": "Ehmmm... unde este lingura mea?"
+					},
+					"Key": "char_vo_supperdwarf_idle_1_eating_food_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fishy leaves."
+					},
+					"Translation":
+					{
+						"Text": "Peștele pleacă."
+					},
+					"Key": "char_vo_primitivefishy_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "Flyyyyyyy!"
+					},
+					"Translation":
+					{
+						"Text": "Zboarăăăăă!"
+					},
+					"Key": "char_vo_primitivefishy_attack_long_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Follow the rules!"
+					},
+					"Translation":
+					{
+						"Text": "Urmează regulile!"
+					},
+					"Key": "char_vo_ghostarmor_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "For justice!"
+					},
+					"Translation":
+					{
+						"Text": "Pentru justiție!"
+					},
+					"Key": "char_vo_ghostarmor_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hemm"
+					},
+					"Translation":
+					{
+						"Text": "Hemm"
+					},
+					"Key": "char_vo_teachy_idle_book_up_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hissing"
+					},
+					"Translation":
+					{
+						"Text": "Sâsâit"
+					},
+					"Key": "char_vo_fishy_idle_hiss"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hmm..."
+					},
+					"Translation":
+					{
+						"Text": "Hmm..."
+					},
+					"Key": "char_vo_koboldchef_idle_04"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hmmm"
+					},
+					"Translation":
+					{
+						"Text": "Hmmm"
+					},
+					"Key": "char_vo_supperdwarf_idle_2_humming_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hmmm"
+					},
+					"Translation":
+					{
+						"Text": "Hmmm"
+					},
+					"Key": "char_vo_lory_idle_humming_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hmmm-hmmm-hmm"
+					},
+					"Translation":
+					{
+						"Text": "Hmmm-hmmm-hmm"
+					},
+					"Key": "char_vo_teachy_idle_humming_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hmmm... tasty"
+					},
+					"Translation":
+					{
+						"Text": "Hmmm... gustos"
+					},
+					"Key": "char_vo_supperdwarf_idle_1_eating_food_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Huh! Surprised?"
+					},
+					"Translation":
+					{
+						"Text": "Huh! Uimit?"
+					},
+					"Key": "char_vo_flybug_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Humm"
+					},
+					"Translation":
+					{
+						"Text": "Humm"
+					},
+					"Key": "char_vo_teachy_idle_book_up_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Humming"
+					},
+					"Translation":
+					{
+						"Text": "Zbârnăie"
+					},
+					"Key": "char_vo_gnory_idle_humming"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hurray!"
+					},
+					"Translation":
+					{
+						"Text": "Uraaaa!"
+					},
+					"Key": "char_vo_primitivefishy_attack_long_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I am perfect"
+					},
+					"Translation":
+					{
+						"Text": "Sunt perfect"
+					},
+					"Key": "char_vo_armourwrath_attack_strike_down_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "I am, therefore I think!"
+					},
+					"Translation":
+					{
+						"Text": "Eu sunt, de aceea gândesc!"
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_long_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can create!"
+					},
+					"Translation":
+					{
+						"Text": "Pot crea!"
+					},
+					"Key": "char_vo_final_boss_p2_red_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can create!"
+					},
+					"Translation":
+					{
+						"Text": "Pot crea!"
+					},
+					"Key": "char_vo_final_boss_p1_green"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can destroy!"
+					},
+					"Translation":
+					{
+						"Text": "Pot distruge!"
+					},
+					"Key": "char_vo_final_boss_p2_red_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can fix this"
+					},
+					"Translation":
+					{
+						"Text": "Pot să repar asta"
+					},
+					"Key": "char_vo_maintainer_miniboss_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can take more!"
+					},
+					"Translation":
+					{
+						"Text": "Pot lua mai mult!"
+					},
+					"Key": "char_vo_dwarvenstatue_attack_meteor"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can't rest."
+					},
+					"Translation":
+					{
+						"Text": "Nu mă pot odihni."
+					},
+					"Key": "char_vo_shade_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can't... I was... above."
+					},
+					"Translation":
+					{
+						"Text": "Nu pot ... Am fost ... mai sus."
+					},
+					"Key": "char_vo_maintainer_miniboss_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "I create essence which resists the ruin."
+					},
+					"Translation":
+					{
+						"Text": "Creez esență care rezistă ruinei."
+					},
+					"Key": "char_vo_golemmaker_idle_explain_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I have... failed"
+					},
+					"Translation":
+					{
+						"Text": "Am eșuat"
+					},
+					"Key": "char_vo_fallendruid_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "I hold it back!"
+					},
+					"Translation":
+					{
+						"Text": "O rețin!"
+					},
+					"Key": "char_vo_dwarvenstatue_shield_knock"
+				},
+				{
+					"Source":
+					{
+						"Text": "I keep Ruin"
+					},
+					"Translation":
+					{
+						"Text": "Păstrez Ruina"
+					},
+					"Key": "char_vo_dwarvenstatue_attack_axe_point"
+				},
+				{
+					"Source":
+					{
+						"Text": "I need some fish!"
+					},
+					"Translation":
+					{
+						"Text": "Am nevoie de niște pește!"
+					},
+					"Key": "char_vo_primitivefishy_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I still serve."
+					},
+					"Translation":
+					{
+						"Text": "Încă slujesc."
+					},
+					"Key": "char_vo_maintainer_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "I think... I am..."
+					},
+					"Translation":
+					{
+						"Text": "Gândesc... Că sunt..."
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_long_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I won't fail the Maker!"
+					},
+					"Translation":
+					{
+						"Text": "Nu voi da greș Creatorului!"
+					},
+					"Key": "char_vo_armourwrath_attack_clap"
+				},
+				{
+					"Source":
+					{
+						"Text": "I won't move... again"
+					},
+					"Translation":
+					{
+						"Text": "Nu mă voi mișca ... din nou"
+					},
+					"Key": "char_vo_dwarvenstatue_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'll change you!"
+					},
+					"Translation":
+					{
+						"Text": "Te voi schimba!"
+					},
+					"Key": "char_vo_shadesphere_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'll need a blacksmith!"
+					},
+					"Translation":
+					{
+						"Text": "Am nevoie de un fierar!"
+					},
+					"Key": "char_vo_ghosthelmet_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'll need to be repaired."
+					},
+					"Translation":
+					{
+						"Text": "Va trebui să fiu reparat."
+					},
+					"Key": "char_vo_maintainer_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'll need... replacement."
+					},
+					"Translation":
+					{
+						"Text": "Voi avea nevoie de ... înlocuire."
+					},
+					"Key": "char_vo_maintainer_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'll reorganize!"
+					},
+					"Translation":
+					{
+						"Text": "O să reorganizez!"
+					},
+					"Key": "char_vo_maintainer_miniboss_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm above!"
+					},
+					"Translation":
+					{
+						"Text": "Sunt deasupra!"
+					},
+					"Key": "char_vo_maintainer_miniboss_attack_meteor"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm free!"
+					},
+					"Translation":
+					{
+						"Text": "Sunt liber!"
+					},
+					"Key": "char_vo_final_boss_p3_blue"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm human!"
+					},
+					"Translation":
+					{
+						"Text": "Sunt uman!"
+					},
+					"Key": "char_vo_final_boss_p1_red"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm the daughter of the Wizard!"
+					},
+					"Translation":
+					{
+						"Text": "Sunt fiica Vrăjitorului!"
+					},
+					"Key": "char_vo_final_boss_p2_blue"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm the daughter of the Wizard!"
+					},
+					"Translation":
+					{
+						"Text": "Sunt fiica Vrăjitorului!"
+					},
+					"Key": "char_vo_final_boss_p1_blue"
+				},
+				{
+					"Source":
+					{
+						"Text": "I... don't..."
+					},
+					"Translation":
+					{
+						"Text": "Eu ... nu ..."
+					},
+					"Key": "char_vo_ghostarmor__die"
+				},
+				{
+					"Source":
+					{
+						"Text": "Is this the end?"
+					},
+					"Translation":
+					{
+						"Text": "Acesta este sfârșitul?"
+					},
+					"Key": "char_vo_shade_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "It needs more salt!"
+					},
+					"Translation":
+					{
+						"Text": "Are nevoie de mai multă sare!"
+					},
+					"Key": "char_vo_koboldchef_idle_02"
+				},
+				{
+					"Source":
+					{
+						"Text": "It will be delicious."
+					},
+					"Translation":
+					{
+						"Text": "Va fi delicios."
+					},
+					"Key": "char_vo_koboldchef_idle_03"
+				},
+				{
+					"Source":
+					{
+						"Text": "It's not funny!"
+					},
+					"Translation":
+					{
+						"Text": "Nu este amuzant!"
+					},
+					"Key": "char_vo_flybug_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "It's safe here."
+					},
+					"Translation":
+					{
+						"Text": "Este în siguranță aici."
+					},
+					"Key": "char_vo_fallendruid_attack_flybug"
+				},
+				{
+					"Source":
+					{
+						"Text": "It's still... me..."
+					},
+					"Translation":
+					{
+						"Text": "Este încă ... eu ..."
+					},
+					"Key": "char_vo_shadesphere_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Join me!"
+					},
+					"Translation":
+					{
+						"Text": "Alătură-te mie!"
+					},
+					"Key": "char_vo_shade_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Just a scratch."
+					},
+					"Translation":
+					{
+						"Text": "Doar o zgârietură."
+					},
+					"Key": "char_vo_ghostarmor_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Knowledge is Lost, All is Lost."
+					},
+					"Translation":
+					{
+						"Text": "Cunoașterea este pierdută, totul este pierdut."
+					},
+					"Key": "char_vo_golemmaker_idle_mindlessly_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Let's head east!"
+					},
+					"Translation":
+					{
+						"Text": "Hai să ne îndreptăm spre est!"
+					},
+					"Key": "char_vo_ghosthelmet_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Nature will survive!"
+					},
+					"Translation":
+					{
+						"Text": "Natura va supraviețui!"
+					},
+					"Key": "char_vo_fallendruid_attack_tendril"
+				},
+				{
+					"Source":
+					{
+						"Text": "No... I'm still... perfect"
+					},
+					"Translation":
+					{
+						"Text": "Nu... Sunt încă... perfect"
+					},
+					"Key": "char_vo_armourwrath_attack_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "Now it's clean!"
+					},
+					"Translation":
+					{
+						"Text": "Acum este curat!"
+					},
+					"Key": "char_vo_maintainer_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ohh"
+					},
+					"Translation":
+					{
+						"Text": "Ohh"
+					},
+					"Key": "char_vo_lory_idle_humming_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ohm"
+					},
+					"Translation":
+					{
+						"Text": "Ohm"
+					},
+					"Key": "char_vo_supperdwarf_idle_2_humming_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ommm"
+					},
+					"Translation":
+					{
+						"Text": "Ommm"
+					},
+					"Key": "char_vo_lory_idle_humming_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Onon"
+					},
+					"Translation":
+					{
+						"Text": "Onon"
+					},
+					"Key": "char_vo_golemmaker_idle_sad_onon"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ooohhh"
+					},
+					"Translation":
+					{
+						"Text": "Ooohhh"
+					},
+					"Key": "char_vo_golemmaker_idle_moan_ooohhh"
+				},
+				{
+					"Source":
+					{
+						"Text": "Order, order, order!"
+					},
+					"Translation":
+					{
+						"Text": "Ordine, ordine, ordine!"
+					},
+					"Key": "char_vo_maintainer_miniboss_attack_spawn_enemy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Order..."
+					},
+					"Translation":
+					{
+						"Text": "Ordine..."
+					},
+					"Key": "char_vo_maintainer_elite_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Out of my way!"
+					},
+					"Translation":
+					{
+						"Text": "Dă-te din calea mea!"
+					},
+					"Key": "char_vo_armourwrath_attack_strike_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Out with you, Ruin!"
+					},
+					"Translation":
+					{
+						"Text": "Afară cu tine, Ruină!"
+					},
+					"Key": "char_vo_fallendruid_attack_thorn_sphere"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pain..."
+					},
+					"Translation":
+					{
+						"Text": "Durere..."
+					},
+					"Key": "char_vo_shade_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Resist Ruin!"
+					},
+					"Translation":
+					{
+						"Text": "Rezistă Ruinei!"
+					},
+					"Key": "char_vo_armourwrath_attack_magic"
+				},
+				{
+					"Source":
+					{
+						"Text": "Send someone for a hammer!"
+					},
+					"Translation":
+					{
+						"Text": "Trimite pe cineva pentru un ciocan!"
+					},
+					"Key": "char_vo_ghosthelmet_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Serve..."
+					},
+					"Translation":
+					{
+						"Text": "Servește..."
+					},
+					"Key": "char_vo_maintainer_elite_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shish!"
+					},
+					"Translation":
+					{
+						"Text": "Shish!"
+					},
+					"Key": "char_vo_primitivefishy_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Srrrr!"
+					},
+					"Translation":
+					{
+						"Text": "Srrrr!"
+					},
+					"Key": "char_vo_primitivefishy_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take this!"
+					},
+					"Translation":
+					{
+						"Text": "Ia asta!"
+					},
+					"Key": "char_vo_flybug_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "That sounds funny!"
+					},
+					"Translation":
+					{
+						"Text": "Sună amuzant!"
+					},
+					"Key": "char_vo_final_boss_p3_green"
+				},
+				{
+					"Source":
+					{
+						"Text": "That sounds funny!"
+					},
+					"Translation":
+					{
+						"Text": "Sună amuzant!"
+					},
+					"Key": "char_vo_final_boss_p2_green"
+				},
+				{
+					"Source":
+					{
+						"Text": "The mind is furnished with ideas by a drunk upholsterer..."
+					},
+					"Translation":
+					{
+						"Text": "Mintea este dotată cu idei de la un tapițar beat ..."
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_long_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "The unexamined life is not worth living!"
+					},
+					"Translation":
+					{
+						"Text": "Viața neexaminată nu merita trăită!"
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_long_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "This is my order!"
+					},
+					"Translation":
+					{
+						"Text": "Acesta este ordinul meu!"
+					},
+					"Key": "char_vo_maintainer_miniboss_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "This place shall stand!"
+					},
+					"Translation":
+					{
+						"Text": "Locul acesta va sta!"
+					},
+					"Key": "char_vo_fallendruid_attack_spike"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tic-tac"
+					},
+					"Translation":
+					{
+						"Text": "Tic-tac"
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_short_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "To be..."
+					},
+					"Translation":
+					{
+						"Text": "A fi..."
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_short_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Too hot!"
+					},
+					"Translation":
+					{
+						"Text": "Prea cald!"
+					},
+					"Key": "char_vo_koboldchef_idle_01"
+				},
+				{
+					"Source":
+					{
+						"Text": "Umm-huhummm"
+					},
+					"Translation":
+					{
+						"Text": "Umm-huhummm"
+					},
+					"Key": "char_vo_teachy_idle_humming_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use your head... or mine!"
+					},
+					"Translation":
+					{
+						"Text": "Folosește-ți capul ... sau al meu!"
+					},
+					"Key": "char_vo_ghosthelmet_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Uuush!"
+					},
+					"Translation":
+					{
+						"Text": "Uuush!"
+					},
+					"Key": "char_vo_primitivefishy_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Walking ball?"
+					},
+					"Translation":
+					{
+						"Text": "Minge plimbătoare?"
+					},
+					"Key": "char_vo_teachy_idle_book_down_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Watch out for your head!"
+					},
+					"Translation":
+					{
+						"Text": "Atenție la capul tău!"
+					},
+					"Key": "char_vo_gatekeeper_attack_meteors"
+				},
+				{
+					"Source":
+					{
+						"Text": "Watch out where you bounce to!"
+					},
+					"Translation":
+					{
+						"Text": "Atenție unde sări!"
+					},
+					"Key": "char_vo_gatekeeper_attack_aimed_phase_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "We are above the Law!"
+					},
+					"Translation":
+					{
+						"Text": "Suntem deasupra Legii!"
+					},
+					"Key": "char_vo_dwarvenstatue_attack_axe_strike_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "We keep the Wall."
+					},
+					"Translation":
+					{
+						"Text": "Păstrăm Zidul."
+					},
+					"Key": "char_vo_ghostarmor_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Weird"
+					},
+					"Translation":
+					{
+						"Text": "Ciudat"
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_short_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "What do you wish to be?"
+					},
+					"Translation":
+					{
+						"Text": "Ce vrei să fii?"
+					},
+					"Key": "char_vo_shadesphere_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "What is it like down there? Heh?"
+					},
+					"Translation":
+					{
+						"Text": "Cum e acolo jos? Heh?"
+					},
+					"Key": "char_vo_flybug_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "What makes you say that?"
+					},
+					"Translation":
+					{
+						"Text": "Ce te face să spui asta?"
+					},
+					"Key": "char_vo_final_boss_p3_red"
+				},
+				{
+					"Source":
+					{
+						"Text": "Whistling"
+					},
+					"Translation":
+					{
+						"Text": "Fluierat"
+					},
+					"Key": "char_vo_gnory_idle_whistle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Why did you...?"
+					},
+					"Translation":
+					{
+						"Text": "De ce ai făcut-o...?"
+					},
+					"Key": "char_vo_shadesphere_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "You changed... me?"
+					},
+					"Translation":
+					{
+						"Text": "M-ai schimbat?"
+					},
+					"Key": "char_vo_shadesphere_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "You shall die too!"
+					},
+					"Translation":
+					{
+						"Text": "Vei muri și tu!"
+					},
+					"Key": "char_vo_shade_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "You shall perish!"
+					},
+					"Translation":
+					{
+						"Text": "Vei pieri!"
+					},
+					"Key": "char_vo_ghostarmor_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "You... can't."
+					},
+					"Translation":
+					{
+						"Text": "Nu ... nu poți."
+					},
+					"Key": "char_vo_ghostarmor_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "You?"
+					},
+					"Translation":
+					{
+						"Text": "Tu?"
+					},
+					"Key": "char_vo_teachy_idle_book_down_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Your order?"
+					},
+					"Translation":
+					{
+						"Text": "Comanda ta?"
+					},
+					"Key": "char_vo_maintainer_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Your words remind me of something."
+					},
+					"Translation":
+					{
+						"Text": "Cuvintele tale îmi amintesc de ceva."
+					},
+					"Key": "char_vo_golemmaker_idle_tries_to_remember"
+				},
+				{
+					"Source":
+					{
+						"Text": "Yum-yum hmmmm... delicious"
+					},
+					"Translation":
+					{
+						"Text": "Yum-yum hmmmm... delicios"
+					},
+					"Key": "char_vo_supperdwarf_idle_1_eating_food_0"
+				}
+			]
+		},
+		{
+			"Namespace": "InputKeys",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Any Key"
+					},
+					"Translation":
+					{
+						"Text": "Orice Tastă"
+					},
+					"Key": "AnyKey"
+				},
+				{
+					"Source":
+					{
+						"Text": "Down"
+					},
+					"Translation":
+					{
+						"Text": "Jos"
+					},
+					"Key": "Down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left"
+					},
+					"Translation":
+					{
+						"Text": "Stânga"
+					},
+					"Key": "Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right"
+					},
+					"Translation":
+					{
+						"Text": "Dreapta"
+					},
+					"Key": "Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Up"
+					},
+					"Translation":
+					{
+						"Text": "Sus"
+					},
+					"Key": "Up"
+				}
+			]
+		},
+		{
+			"Namespace": "Interaction",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "A few items acquired"
+					},
+					"Translation":
+					{
+						"Text": "Câteva articole achiziționate"
+					},
+					"Key": "acquired_few_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "A rope could be placed here"
+					},
+					"Translation":
+					{
+						"Text": "O funie ar putea fi așezata aici"
+					},
+					"Key": "rope_can_be_placed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Absorb Energy"
+					},
+					"Translation":
+					{
+						"Text": "Absoarbe Energia"
+					},
+					"Key": "absorb_energy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Acquire Memory Stone"
+					},
+					"Translation":
+					{
+						"Text": "Achiziționează Piatră de Memorie"
+					},
+					"Key": "memory_stone_aquire"
+				},
+				{
+					"Source":
+					{
+						"Text": "Activate"
+					},
+					"Translation":
+					{
+						"Text": "Activează"
+					},
+					"Key": "activate"
+				},
+				{
+					"Source":
+					{
+						"Text": "Activate Elevator"
+					},
+					"Translation":
+					{
+						"Text": "Activează Liftul"
+					},
+					"Key": "activate_elevator"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ascend"
+					},
+					"Translation":
+					{
+						"Text": "Urcă"
+					},
+					"Key": "ascend"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bed"
+					},
+					"Translation":
+					{
+						"Text": "Pat"
+					},
+					"Key": "bed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Boat to the Kitchen"
+					},
+					"Translation":
+					{
+						"Text": "Barcă către Bucătărie"
+					},
+					"Key": "boat_to_kitchen"
+				},
+				{
+					"Source":
+					{
+						"Text": "Boat to the Ruins"
+					},
+					"Translation":
+					{
+						"Text": "Barcă către Ruine"
+					},
+					"Key": "boat_to_ruins"
+				},
+				{
+					"Source":
+					{
+						"Text": "Boat to the Station"
+					},
+					"Translation":
+					{
+						"Text": "Barcă către Stație"
+					},
+					"Key": "boat_to_station"
+				},
+				{
+					"Source":
+					{
+						"Text": "Call Elevator"
+					},
+					"Translation":
+					{
+						"Text": "Cheamă Liftul"
+					},
+					"Key": "call_elevator"
+				},
+				{
+					"Source":
+					{
+						"Text": "Candles"
+					},
+					"Translation":
+					{
+						"Text": "Lumânări"
+					},
+					"Key": "candles"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chair"
+					},
+					"Translation":
+					{
+						"Text": "Scaun"
+					},
+					"Key": "chair"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Spells"
+					},
+					"Translation":
+					{
+						"Text": "Schimbă Vrăjile"
+					},
+					"Key": "change_spells"
+				},
+				{
+					"Source":
+					{
+						"Text": "Charge"
+					},
+					"Translation":
+					{
+						"Text": "Încarcă"
+					},
+					"Key": "charge"
+				},
+				{
+					"Source":
+					{
+						"Text": "Check Chest"
+					},
+					"Translation":
+					{
+						"Text": "Verifică Cufărul"
+					},
+					"Key": "chest_check"
+				},
+				{
+					"Source":
+					{
+						"Text": "Check Door"
+					},
+					"Translation":
+					{
+						"Text": "Verifică Ușa"
+					},
+					"Key": "check_door"
+				},
+				{
+					"Source":
+					{
+						"Text": "Check Small Chest"
+					},
+					"Translation":
+					{
+						"Text": "Verifică Cufărul Mic"
+					},
+					"Key": "chest_check_small"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chest"
+					},
+					"Translation":
+					{
+						"Text": "Cufăr"
+					},
+					"Key": "chest"
+				},
+				{
+					"Source":
+					{
+						"Text": "Close Chest"
+					},
+					"Translation":
+					{
+						"Text": "Închide Cufărul"
+					},
+					"Key": "chest_close"
+				},
+				{
+					"Source":
+					{
+						"Text": "Close Door"
+					},
+					"Translation":
+					{
+						"Text": "Închide Ușa"
+					},
+					"Key": "close_door"
+				},
+				{
+					"Source":
+					{
+						"Text": "Close Small Chest"
+					},
+					"Translation":
+					{
+						"Text": "Închide Cufărul Mic"
+					},
+					"Key": "chest_close_small"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cross Planks"
+					},
+					"Translation":
+					{
+						"Text": "Scânduri Încrucișate"
+					},
+					"Key": "cross_planks"
+				},
+				{
+					"Source":
+					{
+						"Text": "Daddy's Room"
+					},
+					"Translation":
+					{
+						"Text": "Camera lui tati"
+					},
+					"Key": "dads_room"
+				},
+				{
+					"Source":
+					{
+						"Text": "Descend"
+					},
+					"Translation":
+					{
+						"Text": "Coboară"
+					},
+					"Key": "descend"
+				},
+				{
+					"Source":
+					{
+						"Text": "Destroy"
+					},
+					"Translation":
+					{
+						"Text": "Distruge"
+					},
+					"Key": "destroy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Destroy the device to save the creatures of Ruined Realm"
+					},
+					"Translation":
+					{
+						"Text": "Distruge dispozitivul pentru a salva creaturile ale Tărâmului Ruinat"
+					},
+					"Key": "use_destroy_explained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Device"
+					},
+					"Translation":
+					{
+						"Text": "Dispozitiv"
+					},
+					"Key": "device"
+				},
+				{
+					"Source":
+					{
+						"Text": "Door"
+					},
+					"Translation":
+					{
+						"Text": "Ușă"
+					},
+					"Key": "door"
+				},
+				{
+					"Source":
+					{
+						"Text": "Door does not open from this side!"
+					},
+					"Translation":
+					{
+						"Text": "Ușa nu se deschide din partea asta!"
+					},
+					"Key": "door_does_not_open_from_this_side"
+				},
+				{
+					"Source":
+					{
+						"Text": "Door opened"
+					},
+					"Translation":
+					{
+						"Text": "Ușă deschisă"
+					},
+					"Key": "door_opened"
+				},
+				{
+					"Source":
+					{
+						"Text": "Drop"
+					},
+					"Translation":
+					{
+						"Text": "Lasă"
+					},
+					"Key": "drop"
+				},
+				{
+					"Source":
+					{
+						"Text": "Elevator Activated"
+					},
+					"Translation":
+					{
+						"Text": "Lift Activat"
+					},
+					"Key": "elevator_activated"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter"
+					},
+					"Translation":
+					{
+						"Text": "Intră"
+					},
+					"Key": "enter"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Bridge"
+					},
+					"Translation":
+					{
+						"Text": "Intră pe Pod"
+					},
+					"Key": "enter_bridge"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Cave"
+					},
+					"Translation":
+					{
+						"Text": "Intră în Peșteră"
+					},
+					"Key": "enter_cave"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Flames"
+					},
+					"Translation":
+					{
+						"Text": "Intră în Flăcări"
+					},
+					"Key": "enter_flames"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Gate"
+					},
+					"Translation":
+					{
+						"Text": "Intră pe Poartă"
+					},
+					"Key": "enter_gate"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Hut"
+					},
+					"Translation":
+					{
+						"Text": "Intră în Colibă"
+					},
+					"Key": "enter_hut"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Kitchen"
+					},
+					"Translation":
+					{
+						"Text": "Intră în Bucătărie"
+					},
+					"Key": "enter_kitchen"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Pipe"
+					},
+					"Translation":
+					{
+						"Text": "Intră în Țeavă"
+					},
+					"Key": "enter_pipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Portal"
+					},
+					"Translation":
+					{
+						"Text": "Intră în Portal"
+					},
+					"Key": "enter_portal"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Stairs on the Left"
+					},
+					"Translation":
+					{
+						"Text": "Intră pe Scările din Stânga"
+					},
+					"Key": "enter_stairs_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Stairs on the Right"
+					},
+					"Translation":
+					{
+						"Text": "Intră pe Scările din Dreapta"
+					},
+					"Key": "enter_stairs_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Tower"
+					},
+					"Translation":
+					{
+						"Text": "Intră în Turn"
+					},
+					"Key": "enter_tower"
+				},
+				{
+					"Source":
+					{
+						"Text": "Entrance locked from the other side"
+					},
+					"Translation":
+					{
+						"Text": "Intrarea este blocată din cealaltă parte"
+					},
+					"Key": "entrace_locked"
+				},
+				{
+					"Source":
+					{
+						"Text": "Examine"
+					},
+					"Translation":
+					{
+						"Text": "Examinează"
+					},
+					"Key": "examine"
+				},
+				{
+					"Source":
+					{
+						"Text": "Examine Device"
+					},
+					"Translation":
+					{
+						"Text": "Examinează Dispozitivul"
+					},
+					"Key": "examine_device"
+				},
+				{
+					"Source":
+					{
+						"Text": "Examine Elevator"
+					},
+					"Translation":
+					{
+						"Text": "Examinează Liftul"
+					},
+					"Key": "examine_elevator"
+				},
+				{
+					"Source":
+					{
+						"Text": "Examine Switch"
+					},
+					"Translation":
+					{
+						"Text": "Examinează Comutatorul"
+					},
+					"Key": "examine_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Exit"
+					},
+					"Translation":
+					{
+						"Text": "Ieși"
+					},
+					"Key": "exit"
+				},
+				{
+					"Source":
+					{
+						"Text": "Explore more stations before using the railway system."
+					},
+					"Translation":
+					{
+						"Text": "Explorează mai multe stații înainte de a utiliza sistemul feroviar."
+					},
+					"Key": "explore_stations"
+				},
+				{
+					"Source":
+					{
+						"Text": "Finish Demo"
+					},
+					"Translation":
+					{
+						"Text": "Finalizare Demo"
+					},
+					"Key": "finish_demo"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fire"
+					},
+					"Translation":
+					{
+						"Text": "Foc"
+					},
+					"Key": "fire"
+				},
+				{
+					"Source":
+					{
+						"Text": "Go down"
+					},
+					"Translation":
+					{
+						"Text": "Coboară"
+					},
+					"Key": "go_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Go up"
+					},
+					"Translation":
+					{
+						"Text": "Urcă"
+					},
+					"Key": "go_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "Inspect Fountain"
+					},
+					"Translation":
+					{
+						"Text": "Inspectează Fântâna"
+					},
+					"Key": "inspect_fountain"
+				},
+				{
+					"Source":
+					{
+						"Text": "Inventory"
+					},
+					"Translation":
+					{
+						"Text": "Inventar"
+					},
+					"Key": "inventory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Key Missing: {0}"
+					},
+					"Translation":
+					{
+						"Text": "Cheie lipsă: {0}"
+					},
+					"Key": "key_missing"
+				},
+				{
+					"Source":
+					{
+						"Text": "Kick Rope"
+					},
+					"Translation":
+					{
+						"Text": "Lovește Funia"
+					},
+					"Key": "kick_rope"
+				},
+				{
+					"Source":
+					{
+						"Text": "Laboratory"
+					},
+					"Translation":
+					{
+						"Text": "Laborator"
+					},
+					"Key": "laboratory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lamps"
+					},
+					"Translation":
+					{
+						"Text": "Lămpi"
+					},
+					"Key": "lamps"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave"
+					},
+					"Translation":
+					{
+						"Text": "Ieși"
+					},
+					"Key": "leave"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave Bridge"
+					},
+					"Translation":
+					{
+						"Text": "Părăsește Podul"
+					},
+					"Key": "leave_bridge"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave Cave"
+					},
+					"Translation":
+					{
+						"Text": "Părăsește Peștera"
+					},
+					"Key": "leave_cave"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave Circle"
+					},
+					"Translation":
+					{
+						"Text": "Părăsește Cercul"
+					},
+					"Key": "leave_circle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave Hut"
+					},
+					"Translation":
+					{
+						"Text": "Părăsește Coliba"
+					},
+					"Key": "leave_hut"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Lever"
+					},
+					"Translation":
+					{
+						"Text": "Maneta stângă"
+					},
+					"Key": "left_lever"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lever activated. The crystal broke."
+					},
+					"Translation":
+					{
+						"Text": "Maneta activată. Cristalul s-a spart."
+					},
+					"Key": "lever_is_active"
+				},
+				{
+					"Source":
+					{
+						"Text": "Memory Stone Gained"
+					},
+					"Translation":
+					{
+						"Text": "Piatra de Memorie Câștigată"
+					},
+					"Key": "memory_stone_gained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Middle Lever"
+					},
+					"Translation":
+					{
+						"Text": "Maneta de mijloc"
+					},
+					"Key": "middle_lever"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mom's Room"
+					},
+					"Translation":
+					{
+						"Text": "Camera Mamei"
+					},
+					"Key": "moms_room"
+				},
+				{
+					"Source":
+					{
+						"Text": "Notebook"
+					},
+					"Translation":
+					{
+						"Text": "Caiet"
+					},
+					"Key": "notebook"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open"
+					},
+					"Translation":
+					{
+						"Text": "Deschide"
+					},
+					"Key": "open"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Chest"
+					},
+					"Translation":
+					{
+						"Text": "Deschide Cufărul"
+					},
+					"Key": "chest_open"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Door"
+					},
+					"Translation":
+					{
+						"Text": "Deschide Ușa"
+					},
+					"Key": "open_door"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Small Chest"
+					},
+					"Translation":
+					{
+						"Text": "Deschide Cufărul Mic"
+					},
+					"Key": "chest_open_small"
+				},
+				{
+					"Source":
+					{
+						"Text": "Painting"
+					},
+					"Translation":
+					{
+						"Text": "Pictură"
+					},
+					"Key": "painting"
+				},
+				{
+					"Source":
+					{
+						"Text": "Paintings"
+					},
+					"Translation":
+					{
+						"Text": "Picturi"
+					},
+					"Key": "paintings"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pass Bridge"
+					},
+					"Translation":
+					{
+						"Text": "Treci Podul"
+					},
+					"Key": "pass_bridge"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pick Up"
+					},
+					"Translation":
+					{
+						"Text": "Ridică"
+					},
+					"Key": "pick_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "Place Rope"
+					},
+					"Translation":
+					{
+						"Text": "Pune Funia"
+					},
+					"Key": "place_rope"
+				},
+				{
+					"Source":
+					{
+						"Text": "Primary Strike"
+					},
+					"Translation":
+					{
+						"Text": "Atac Primar"
+					},
+					"Key": "primary_strike"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pull"
+					},
+					"Translation":
+					{
+						"Text": "Trage"
+					},
+					"Key": "pull"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pull Lever"
+					},
+					"Translation":
+					{
+						"Text": "Trage maneta"
+					},
+					"Key": "pull_lever"
+				},
+				{
+					"Source":
+					{
+						"Text": "Push"
+					},
+					"Translation":
+					{
+						"Text": "Împinge"
+					},
+					"Key": "push"
+				},
+				{
+					"Source":
+					{
+						"Text": "Put Weapon Away"
+					},
+					"Translation":
+					{
+						"Text": "Pune Arma Deoparte"
+					},
+					"Key": "put_weapon_away"
+				},
+				{
+					"Source":
+					{
+						"Text": "Read"
+					},
+					"Translation":
+					{
+						"Text": "Citește"
+					},
+					"Key": "read"
+				},
+				{
+					"Source":
+					{
+						"Text": "Read Dictionary"
+					},
+					"Translation":
+					{
+						"Text": "Citește dicționarul"
+					},
+					"Key": "read_dictionary"
+				},
+				{
+					"Source":
+					{
+						"Text": "Read Symbols"
+					},
+					"Translation":
+					{
+						"Text": "Citește Simbolurile"
+					},
+					"Key": "read_symbols"
+				},
+				{
+					"Source":
+					{
+						"Text": "Release"
+					},
+					"Translation":
+					{
+						"Text": "Eliberează"
+					},
+					"Key": "wheel_release"
+				},
+				{
+					"Source":
+					{
+						"Text": "Release Keeper"
+					},
+					"Translation":
+					{
+						"Text": "Eliberează Deținătorul"
+					},
+					"Key": "release_keeper"
+				},
+				{
+					"Source":
+					{
+						"Text": "Replay Boss Fight"
+					},
+					"Translation":
+					{
+						"Text": "Repornește Lupta cu Șeful"
+					},
+					"Key": "replay_boss_fight"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset Portals"
+					},
+					"Translation":
+					{
+						"Text": "Resetează Portalurile"
+					},
+					"Key": "reset_portals"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rest"
+					},
+					"Translation":
+					{
+						"Text": "Odihnește-te"
+					},
+					"Key": "rest"
+				},
+				{
+					"Source":
+					{
+						"Text": "Restore"
+					},
+					"Translation":
+					{
+						"Text": "Restaurează"
+					},
+					"Key": "restore"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Lever"
+					},
+					"Translation":
+					{
+						"Text": "Maneta dreaptă"
+					},
+					"Key": "right_lever"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ring the bell"
+					},
+					"Translation":
+					{
+						"Text": "Sună clopotul"
+					},
+					"Key": "ring_bell"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rope kicked"
+					},
+					"Translation":
+					{
+						"Text": "Funie lovită"
+					},
+					"Key": "rope_kicked"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rope placed"
+					},
+					"Translation":
+					{
+						"Text": "Funie așezată"
+					},
+					"Key": "rope_placed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sail"
+					},
+					"Translation":
+					{
+						"Text": "Navighează"
+					},
+					"Key": "sail"
+				},
+				{
+					"Source":
+					{
+						"Text": "Seems to be inactive"
+					},
+					"Translation":
+					{
+						"Text": "Pare a fi Inactiv"
+					},
+					"Key": "lever_is_inactive"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Key Acquired"
+					},
+					"Translation":
+					{
+						"Text": "Cheia de Argint Achiziționată"
+					},
+					"Key": "aquired_silver_key"
+				},
+				{
+					"Source":
+					{
+						"Text": "Soulkeeper released"
+					},
+					"Translation":
+					{
+						"Text": "Deținătorul Sufletului eliberat"
+					},
+					"Key": "soulkeeper_released"
+				},
+				{
+					"Source":
+					{
+						"Text": "Special Strike"
+					},
+					"Translation":
+					{
+						"Text": "Atac special"
+					},
+					"Key": "special_strike"
+				},
+				{
+					"Source":
+					{
+						"Text": "Stairs"
+					},
+					"Translation":
+					{
+						"Text": "Scări"
+					},
+					"Key": "stairs"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swing"
+					},
+					"Translation":
+					{
+						"Text": "Balansează"
+					},
+					"Key": "swing"
+				},
+				{
+					"Source":
+					{
+						"Text": "Switch"
+					},
+					"Translation":
+					{
+						"Text": "Întrerupător"
+					},
+					"Key": "switch_interact"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tabby's Bed"
+					},
+					"Translation":
+					{
+						"Text": "Patul lui Tabby"
+					},
+					"Key": "cat_bed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take"
+					},
+					"Translation":
+					{
+						"Text": "Ia"
+					},
+					"Key": "take"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Abacus"
+					},
+					"Translation":
+					{
+						"Text": "Ia Abacus"
+					},
+					"Key": "take_abacus"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take All"
+					},
+					"Translation":
+					{
+						"Text": "Ia Totul"
+					},
+					"Key": "take_all"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Axe"
+					},
+					"Translation":
+					{
+						"Text": "Ia Topor"
+					},
+					"Key": "take_axe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Blades"
+					},
+					"Translation":
+					{
+						"Text": "Ia Săbile"
+					},
+					"Key": "take_blades"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Books"
+					},
+					"Translation":
+					{
+						"Text": "Ia Cărți"
+					},
+					"Key": "take_books"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Mace"
+					},
+					"Translation":
+					{
+						"Text": "Ia Buzdugan"
+					},
+					"Key": "take_mace"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Mushrooms"
+					},
+					"Translation":
+					{
+						"Text": "Ia Ciuperci"
+					},
+					"Key": "take_mushrooms"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Rope"
+					},
+					"Translation":
+					{
+						"Text": "Ia Funia"
+					},
+					"Key": "take_rope"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Sabre"
+					},
+					"Translation":
+					{
+						"Text": "Ia Paloș"
+					},
+					"Key": "take_sabre"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Spellcaster"
+					},
+					"Translation":
+					{
+						"Text": "Ia articolul de vrăji"
+					},
+					"Key": "take_spellcaster"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Stones"
+					},
+					"Translation":
+					{
+						"Text": "Ia Pietrele"
+					},
+					"Key": "take_stones"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Sword"
+					},
+					"Translation":
+					{
+						"Text": "Ia Sabia"
+					},
+					"Key": "take_sword"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Wheel"
+					},
+					"Translation":
+					{
+						"Text": "Ia Roata"
+					},
+					"Key": "take_wheel"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take a seat"
+					},
+					"Translation":
+					{
+						"Text": "Ia un loc"
+					},
+					"Key": "take_a_seat"
+				},
+				{
+					"Source":
+					{
+						"Text": "Talk"
+					},
+					"Translation":
+					{
+						"Text": "Vorbește"
+					},
+					"Key": "talk"
+				},
+				{
+					"Source":
+					{
+						"Text": "The elevator does not move to the selected direction"
+					},
+					"Translation":
+					{
+						"Text": "Liftul nu se mișca in direcția selectată"
+					},
+					"Key": "elevator_not_move_to_dir"
+				},
+				{
+					"Source":
+					{
+						"Text": "The elevator seems to be inactive"
+					},
+					"Translation":
+					{
+						"Text": "Se pare că liftul este inactiv"
+					},
+					"Key": "elevator_inactive"
+				},
+				{
+					"Source":
+					{
+						"Text": "Toggle Switch"
+					},
+					"Translation":
+					{
+						"Text": "Comută"
+					},
+					"Key": "toggle_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Touch Statue"
+					},
+					"Translation":
+					{
+						"Text": "Atinge Statuia"
+					},
+					"Key": "touch_statue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Travel"
+					},
+					"Translation":
+					{
+						"Text": "Călătorește"
+					},
+					"Key": "travel"
+				},
+				{
+					"Source":
+					{
+						"Text": "Turn"
+					},
+					"Translation":
+					{
+						"Text": "Întoarce"
+					},
+					"Key": "wheel_turn"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unlocked with {0}"
+					},
+					"Translation":
+					{
+						"Text": "Deblocat cu {0}"
+					},
+					"Key": "unlocked_with"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use"
+					},
+					"Translation":
+					{
+						"Text": "Utilizează"
+					},
+					"Key": "use"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Active Item"
+					},
+					"Translation":
+					{
+						"Text": "Utilizează Articolul Activ"
+					},
+					"Key": "use_active_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Crystal"
+					},
+					"Translation":
+					{
+						"Text": "Utilizează Cristal"
+					},
+					"Key": "use_crystal"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Device"
+					},
+					"Translation":
+					{
+						"Text": "Utilizează Dispozitiv"
+					},
+					"Key": "use_device"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Elevator"
+					},
+					"Translation":
+					{
+						"Text": "Utilizează Liftul"
+					},
+					"Key": "use_elevator"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Elevator Gem"
+					},
+					"Translation":
+					{
+						"Text": "Utilizează Liftul Bijuteriei"
+					},
+					"Key": "use_elevator_gem"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Magic Mirror"
+					},
+					"Translation":
+					{
+						"Text": "Utilizează Oglinda Magică"
+					},
+					"Key": "use_magic_mirror"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Workshop"
+					},
+					"Translation":
+					{
+						"Text": "Utilizează Atelierul"
+					},
+					"Key": "use_workshop"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use switch"
+					},
+					"Translation":
+					{
+						"Text": "Utilizează Comutatorul"
+					},
+					"Key": "use_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use the device to separate the Realms"
+					},
+					"Translation":
+					{
+						"Text": "Folosește dispozitivul pentru a separa tărâmurile"
+					},
+					"Key": "use_separate_explained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Window"
+					},
+					"Translation":
+					{
+						"Text": "Fereastră"
+					},
+					"Key": "window"
+				},
+				{
+					"Source":
+					{
+						"Text": "Workroom"
+					},
+					"Translation":
+					{
+						"Text": "Atelier"
+					},
+					"Key": "workroom"
+				},
+				{
+					"Source":
+					{
+						"Text": "You are not worthy!"
+					},
+					"Translation":
+					{
+						"Text": "Nu ești vrednic!"
+					},
+					"Key": "you_are_worthy"
+				},
+				{
+					"Source":
+					{
+						"Text": "You can't carry more {0}"
+					},
+					"Translation":
+					{
+						"Text": "Nu poți transporta mai multe {0}"
+					},
+					"Key": "stone_cant_carry"
+				},
+				{
+					"Source":
+					{
+						"Text": "You don't have anything you could use to store {0}"
+					},
+					"Translation":
+					{
+						"Text": "Nu ai nimic care ai putea folosi pentru a stoca {0}"
+					},
+					"Key": "stone_cant_store"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} acquired"
+					},
+					"Translation":
+					{
+						"Text": "{0} dobândit"
+					},
+					"Key": "acquired_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} {1} added to your bag!"
+					},
+					"Translation":
+					{
+						"Text": "{0} {1} adăugat în geantă!"
+					},
+					"Key": "stone_added"
+				}
+			]
+		},
+		{
+			"Namespace": "Items",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Ice Stone"
+					},
+					"Translation":
+					{
+						"Text": "Piatra de Gheață"
+					},
+					"Key": "ice_stone_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Test Stone"
+					},
+					"Translation":
+					{
+						"Text": "Piatra de Încercare"
+					},
+					"Key": "test_stone_name"
+				}
+			]
+		},
+		{
+			"Namespace": "ItemsCommon",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Attack Speed"
+					},
+					"Translation":
+					{
+						"Text": "Viteza de atac"
+					},
+					"Key": "speed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Capacity Cost"
+					},
+					"Translation":
+					{
+						"Text": "Costul capacității"
+					},
+					"Key": "spellcapacitycost"
+				},
+				{
+					"Source":
+					{
+						"Text": "Charge"
+					},
+					"Translation":
+					{
+						"Text": "Încărca"
+					},
+					"Key": "spellusagecount"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cooldown"
+					},
+					"Translation":
+					{
+						"Text": "Viteza de reîncărcare"
+					},
+					"Key": "cooldown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dual Wield Weapon"
+					},
+					"Translation":
+					{
+						"Text": "Armă Dublă"
+					},
+					"Key": "dualwield"
+				},
+				{
+					"Source":
+					{
+						"Text": "Health"
+					},
+					"Translation":
+					{
+						"Text": "Viață"
+					},
+					"Key": "health"
+				},
+				{
+					"Source":
+					{
+						"Text": "Invalid"
+					},
+					"Translation":
+					{
+						"Text": "Invalid"
+					},
+					"Key": "invalid_shard_max"
+				},
+				{
+					"Source":
+					{
+						"Text": "Invalid Weapon"
+					},
+					"Translation":
+					{
+						"Text": "Armă Nevalidă"
+					},
+					"Key": "invalid_weapon_max"
+				},
+				{
+					"Source":
+					{
+						"Text": "Key"
+					},
+					"Translation":
+					{
+						"Text": "Cheie"
+					},
+					"Key": "key"
+				},
+				{
+					"Source":
+					{
+						"Text": "Memory Stone"
+					},
+					"Translation":
+					{
+						"Text": "Piatra Memoriei"
+					},
+					"Key": "MemoryStone"
+				},
+				{
+					"Source":
+					{
+						"Text": "One-Handed Weapon"
+					},
+					"Translation":
+					{
+						"Text": "Arma pentru o singură Mână"
+					},
+					"Key": "onehanded"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quest Item"
+					},
+					"Translation":
+					{
+						"Text": "Articol pentru misiune"
+					},
+					"Key": "QuestItem"
+				},
+				{
+					"Source":
+					{
+						"Text": "Runestone"
+					},
+					"Translation":
+					{
+						"Text": "Runestone"
+					},
+					"Key": "RuneStone"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shard"
+					},
+					"Translation":
+					{
+						"Text": "Ciob de sticlă"
+					},
+					"Key": "shard"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shard of Justice"
+					},
+					"Translation":
+					{
+						"Text": "Ciobul de Sticlă al Justiției"
+					},
+					"Key": "offensive"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shard of Protection"
+					},
+					"Translation":
+					{
+						"Text": "Ciob de Protecție"
+					},
+					"Key": "defensive"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shard of Wonder"
+					},
+					"Translation":
+					{
+						"Text": "Ciobul Miraculos"
+					},
+					"Key": "special"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something interesting"
+					},
+					"Translation":
+					{
+						"Text": "Ceva interesant"
+					},
+					"Key": "keylikeitem"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something interesting"
+					},
+					"Translation":
+					{
+						"Text": "Ceva interesant"
+					},
+					"Key": "item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to cast with"
+					},
+					"Translation":
+					{
+						"Text": "Ceva cu care faci vrăji"
+					},
+					"Key": "spell"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to drink"
+					},
+					"Translation":
+					{
+						"Text": "Ceva de băut"
+					},
+					"Key": "potion"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to read"
+					},
+					"Translation":
+					{
+						"Text": "Ceva de citit"
+					},
+					"Key": "book"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to shoot with"
+					},
+					"Translation":
+					{
+						"Text": "Ceva cu care să tragi"
+					},
+					"Key": "crossbow"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to throw"
+					},
+					"Translation":
+					{
+						"Text": "Ceva de aruncat"
+					},
+					"Key": "throwable"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to unlock with"
+					},
+					"Translation":
+					{
+						"Text": "Ceva cu care să deblochezi"
+					},
+					"Key": "something_unlock"
+				},
+				{
+					"Source":
+					{
+						"Text": "Two-Handed Weapon"
+					},
+					"Translation":
+					{
+						"Text": "Armă pentru două mâini"
+					},
+					"Key": "twohanded"
+				},
+				{
+					"Source":
+					{
+						"Text": "Usable"
+					},
+					"Translation":
+					{
+						"Text": "Utilizabil"
+					},
+					"Key": "usable"
+				},
+				{
+					"Source":
+					{
+						"Text": "Valuable"
+					},
+					"Translation":
+					{
+						"Text": "Valoros"
+					},
+					"Key": "jewelry"
+				},
+				{
+					"Source":
+					{
+						"Text": "Weapon"
+					},
+					"Translation":
+					{
+						"Text": "Armă"
+					},
+					"Key": "weapon"
+				}
+			]
+		},
+		{
+			"Namespace": "MusicName",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "All is lost"
+					},
+					"Translation":
+					{
+						"Text": "Totul este pierdut"
+					},
+					"Key": "mus_ending_dlg_UnknownWizard_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Armours of the Deep"
+					},
+					"Translation":
+					{
+						"Text": "Armuri ale adâncului"
+					},
+					"Key": "mus2_combat_catacombs_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Decaying City"
+					},
+					"Translation":
+					{
+						"Text": "Orașul în declin"
+					},
+					"Key": "mus_cm_WhiteWall_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disfunctional Golems"
+					},
+					"Translation":
+					{
+						"Text": "Golemi disfuncționali"
+					},
+					"Key": "mus1_combat_1_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Duty"
+					},
+					"Translation":
+					{
+						"Text": "Datorie"
+					},
+					"Key": "mus1_dlg_Golem_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarven Catacombs"
+					},
+					"Translation":
+					{
+						"Text": "Catacombele piticilor"
+					},
+					"Key": "mus2_env_Catacombs_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enlightened Mind"
+					},
+					"Translation":
+					{
+						"Text": "Minte Iluminată"
+					},
+					"Key": "mus1_dlg_Monk_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "I hold it back"
+					},
+					"Translation":
+					{
+						"Text": "O rețin"
+					},
+					"Key": "mus2_combat_DwarvenBoss_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "In Memoriam"
+					},
+					"Translation":
+					{
+						"Text": "În memoria"
+					},
+					"Key": "mus1_env_SecondArcade_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Infected Golems"
+					},
+					"Translation":
+					{
+						"Text": "Golemi Infectați"
+					},
+					"Key": "mus3_combat_Bubble_Ground_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Intelligence and Wisdom"
+					},
+					"Translation":
+					{
+						"Text": "Inteligența și Înțelepciune"
+					},
+					"Key": "mus2_dlg_Gnory_Fishy_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Jump for your life!"
+					},
+					"Translation":
+					{
+						"Text": "Sari pentru viața ta!"
+					},
+					"Key": "mus_chase_theme_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Just a bit crazy"
+					},
+					"Translation":
+					{
+						"Text": "Doar un pic nebun"
+					},
+					"Key": "mus1_dlg_Teachy_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Last Shalter"
+					},
+					"Translation":
+					{
+						"Text": "Ultimul Adăpost"
+					},
+					"Key": "mus3_env_CaveHouse_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Last of his Tribe"
+					},
+					"Translation":
+					{
+						"Text": "Ultimul din tribul lui"
+					},
+					"Key": "mus2_env_Kobold_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lost Memories"
+					},
+					"Translation":
+					{
+						"Text": "Amintiri pierdute"
+					},
+					"Key": "mus2_dlg_GolemMaker_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Machine Rage"
+					},
+					"Translation":
+					{
+						"Text": "Furia mașinei"
+					},
+					"Key": "mus1_combat_2_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Meant to be Perfect"
+					},
+					"Translation":
+					{
+						"Text": "Înseamnă să fii perfect"
+					},
+					"Key": "mus2_combat_LavaBoss_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Moving Pipes"
+					},
+					"Translation":
+					{
+						"Text": "Țevi în mișcare"
+					},
+					"Key": "mus3_env_PipePuzzle_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "No price too high"
+					},
+					"Translation":
+					{
+						"Text": "Nici un preț prea mare"
+					},
+					"Key": "mus2_combat_WWBoss_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "One would fail"
+					},
+					"Translation":
+					{
+						"Text": "Unul ar eșua"
+					},
+					"Key": "mus3_env_Raven_Puzzle_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pilgrim Road"
+					},
+					"Translation":
+					{
+						"Text": "Drumul pelerinilor"
+					},
+					"Key": "mus2_env_LavaEntrance_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pipe Walkers"
+					},
+					"Translation":
+					{
+						"Text": "Pietoni de pe Țeavă"
+					},
+					"Key": "mus1_dlg_SewerCreature_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quick and Clever"
+					},
+					"Translation":
+					{
+						"Text": "Rapid și Inteligent"
+					},
+					"Key": "mus2_env_WrackedWaterpath_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Railway Station"
+					},
+					"Translation":
+					{
+						"Text": "Gară"
+					},
+					"Key": "mus2_env_CrossroadCave_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remnant Colors"
+					},
+					"Translation":
+					{
+						"Text": "Culori rămase"
+					},
+					"Key": "mus1_env_AncientArcade_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sanctuary of Law"
+					},
+					"Translation":
+					{
+						"Text": "Sanctuarul Justiției"
+					},
+					"Key": "mus2_env_DwarvenGate_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Small but Tiny"
+					},
+					"Translation":
+					{
+						"Text": "Mic, dar minuscul"
+					},
+					"Key": "mus2_dlg_MerchAnt_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "So close yet so far"
+					},
+					"Translation":
+					{
+						"Text": "Atât de aproape dar atât de departe"
+					},
+					"Key": "mus3_env_BubbleGround_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spirit of the Unknown"
+					},
+					"Translation":
+					{
+						"Text": "Spiritul Necunoscutului"
+					},
+					"Key": "mus_main_theme_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Stories never end"
+					},
+					"Translation":
+					{
+						"Text": "Poveștile nu se termină niciodată"
+					},
+					"Key": "mus_waterpath_alter_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sunken Sewer"
+					},
+					"Translation":
+					{
+						"Text": "Canalizare scufundată"
+					},
+					"Key": "mus1_env_TutorialLevel_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Supper time"
+					},
+					"Translation":
+					{
+						"Text": "Ora de cină"
+					},
+					"Key": "mus2_dlg_SupperDwarf_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Temple for the Ancestors"
+					},
+					"Translation":
+					{
+						"Text": "Templul strămoșilor"
+					},
+					"Key": "mus2_env_LavaDeep_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "The end, really"
+					},
+					"Translation":
+					{
+						"Text": "Finalul, într-adevăr"
+					},
+					"Key": "mus3_env_RuinedRealm_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "The other Bell"
+					},
+					"Translation":
+					{
+						"Text": "Celălalt Clopot"
+					},
+					"Key": "mus1_dlg_Lory_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Those who survived"
+					},
+					"Translation":
+					{
+						"Text": "Cei care au supraviețuit"
+					},
+					"Key": "mus2_combat_WrackedWaterpath_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Touch of Ruin"
+					},
+					"Translation":
+					{
+						"Text": "Atingerea Ruinei"
+					},
+					"Key": "mus1_env_GreyGate_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unexpected Friend"
+					},
+					"Translation":
+					{
+						"Text": "Prieten Neașteptat"
+					},
+					"Key": "mus1_dlg_Generic_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Where the rail leads"
+					},
+					"Translation":
+					{
+						"Text": "Unde conduce șina"
+					},
+					"Key": "mus2_env_DwarvenOutpost_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Winged Wisdom"
+					},
+					"Translation":
+					{
+						"Text": "Înțelepciunea cu Aripi"
+					},
+					"Key": "mus1_dlg_Raven_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Worthy"
+					},
+					"Translation":
+					{
+						"Text": "Vrednic"
+					},
+					"Key": "mus1_combat_GateKeeper_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wracked Warriors"
+					},
+					"Translation":
+					{
+						"Text": "Războinicii înfocați"
+					},
+					"Key": "mus2_combat_WrackedWaterpath_2_display_name"
+				}
+			]
+		},
+		{
+			"Namespace": "Spells",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Blocked"
+					},
+					"Translation":
+					{
+						"Text": "Blocat"
+					},
+					"Key": "blocked"
+				},
+				{
+					"Source":
+					{
+						"Text": "Can't in air"
+					},
+					"Translation":
+					{
+						"Text": "Nu poți în aer"
+					},
+					"Key": "cant_use_in_air"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dangerous Location"
+					},
+					"Translation":
+					{
+						"Text": "Locație periculoasă"
+					},
+					"Key": "cant_use_sk_free_zone"
+				},
+				{
+					"Source":
+					{
+						"Text": "Health Increased!"
+					},
+					"Translation":
+					{
+						"Text": "Viață crescută!"
+					},
+					"Key": "hp_gained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Immune"
+					},
+					"Translation":
+					{
+						"Text": "Imun"
+					},
+					"Key": "immune"
+				},
+				{
+					"Source":
+					{
+						"Text": "Infected"
+					},
+					"Translation":
+					{
+						"Text": "Infectat"
+					},
+					"Key": "infected"
+				},
+				{
+					"Source":
+					{
+						"Text": "Instant Recharge"
+					},
+					"Translation":
+					{
+						"Text": "Reîncărcare imediată"
+					},
+					"Key": "instant_recharge"
+				},
+				{
+					"Source":
+					{
+						"Text": "No need"
+					},
+					"Translation":
+					{
+						"Text": "Nu este nevoie"
+					},
+					"Key": "no_need_for_heal"
+				},
+				{
+					"Source":
+					{
+						"Text": "Resisted"
+					},
+					"Translation":
+					{
+						"Text": "Rezistat"
+					},
+					"Key": "resisted"
+				},
+				{
+					"Source":
+					{
+						"Text": "Second Chance"
+					},
+					"Translation":
+					{
+						"Text": "A doua șansă"
+					},
+					"Key": "second_chance"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spell Charge Regained!"
+					},
+					"Translation":
+					{
+						"Text": "Sarcina de vrajă recâștigată!"
+					},
+					"Key": "spell_regained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spellpower Increased!"
+					},
+					"Translation":
+					{
+						"Text": "Puterea de vrajă a crescut!"
+					},
+					"Key": "spell_capacity_gained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Who? Where? What?!"
+					},
+					"Translation":
+					{
+						"Text": "Cine? Unde? Ce?!"
+					},
+					"Key": "missing_target"
+				}
+			]
+		},
+		{
+			"Namespace": "UI",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "+ Button"
+					},
+					"Translation":
+					{
+						"Text": "Butonul +"
+					},
+					"Key": "Switch_special_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "+{x} GOLD"
+					},
+					"Translation":
+					{
+						"Text": "+{x} AUR"
+					},
+					"Key": "gold_x"
+				},
+				{
+					"Source":
+					{
+						"Text": "-"
+					},
+					"Translation":
+					{
+						"Text": "-"
+					},
+					"Key": "empty_line"
+				},
+				{
+					"Source":
+					{
+						"Text": "- Button"
+					},
+					"Translation":
+					{
+						"Text": "Butonul -"
+					},
+					"Key": "Switch_special_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "- Infinite <Blue>SoulKeeper</> (Checkpoint) spell charges\n- No health penalty when respawning near the <Blue>SoulKeeper</>\n- Decreased incoming damage\n- Decreased Enemy Health"
+					},
+					"Translation":
+					{
+						"Text": "- Număr Infinit de <Blue>Deținătorul Sufletului</> (Punctul de control) încărcări de vrajă \n- Fără penalități de viață atunci când se regenerează în apropierea <Blue>Deținătorul Sufletului</>\n- Diminuarea daunelor primite\n- Scăderea vieții inamicului"
+					},
+					"Key": "difficulty_desc_sane"
+				},
+				{
+					"Source":
+					{
+						"Text": "- Loaded -"
+					},
+					"Translation":
+					{
+						"Text": "- Încărcat -"
+					},
+					"Key": "save_slots_loaded"
+				},
+				{
+					"Source":
+					{
+						"Text": "- The <Blue>SoulKeeper</> (Portable Checkpoint) spell is removed from the game\n- Increased incoming damage\n- Increased Enemy Health"
+					},
+					"Translation":
+					{
+						"Text": "- <Blue>Deținătorul Sufletului</> (Punctul de control portabil) vraja este eliminată din joc\n- Creșterea daunelor primite\n- Viața sporită a inamicului"
+					},
+					"Key": "difficulty_desc_insane"
+				},
+				{
+					"Source":
+					{
+						"Text": "---Equipped---"
+					},
+					"Translation":
+					{
+						"Text": "---Echipat---"
+					},
+					"Key": "item_equipped"
+				},
+				{
+					"Source":
+					{
+						"Text": "..."
+					},
+					"Translation":
+					{
+						"Text": "..."
+					},
+					"Key": "line_three_dots"
+				},
+				{
+					"Source":
+					{
+						"Text": "16:10"
+					},
+					"Translation":
+					{
+						"Text": "16:10"
+					},
+					"Key": "settings_ratio_16_10"
+				},
+				{
+					"Source":
+					{
+						"Text": "16:9"
+					},
+					"Translation":
+					{
+						"Text": "16:9"
+					},
+					"Key": "settings_ratio_16_9"
+				},
+				{
+					"Source":
+					{
+						"Text": "4:3"
+					},
+					"Translation":
+					{
+						"Text": "4:3"
+					},
+					"Key": "settings_ratio_4_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "A Button"
+					},
+					"Translation":
+					{
+						"Text": "Butonul A"
+					},
+					"Key": "Switch_FaceButton_Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "A true challenge"
+					},
+					"Translation":
+					{
+						"Text": "Normal"
+					},
+					"Key": "difficulty_intended"
+				},
+				{
+					"Source":
+					{
+						"Text": "Acknowledge"
+					},
+					"Translation":
+					{
+						"Text": "Confirmă"
+					},
+					"Key": "acknowledge"
+				},
+				{
+					"Source":
+					{
+						"Text": "Acknowledge"
+					},
+					"Translation":
+					{
+						"Text": "Confirmă"
+					},
+					"Key": "group_defeated_ack"
+				},
+				{
+					"Source":
+					{
+						"Text": "Add"
+					},
+					"Translation":
+					{
+						"Text": "Adaugă"
+					},
+					"Key": "panel_command_spell_add"
+				},
+				{
+					"Source":
+					{
+						"Text": "Additional Optimizations"
+					},
+					"Translation":
+					{
+						"Text": "Optimizări Suplimentare"
+					},
+					"Key": "settings_force_weak_hardware_opt"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the master volume"
+					},
+					"Translation":
+					{
+						"Text": "Reglează volumul principal"
+					},
+					"Key": "settings_master_volume_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the music volume"
+					},
+					"Translation":
+					{
+						"Text": "Reglează volumul muzicii"
+					},
+					"Key": "settings_music_volume_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the sound effects volume"
+					},
+					"Translation":
+					{
+						"Text": "Reglează volumul efectelor sonore"
+					},
+					"Key": "settings_effects_volume_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Affects the quality of particles in the world, a lower quality might make some projectiles in the world harder to see."
+					},
+					"Translation":
+					{
+						"Text": "Afectează calitatea particulelor din lume, o calitate mai mică ar putea face ca unele proiectile din lume să fie mai greu de observat."
+					},
+					"Key": "settings_effects_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Affects the quality of the post process effects after the scene is rendered."
+					},
+					"Translation":
+					{
+						"Text": "Afectează calitatea efectelor post procesului după redarea scenei."
+					},
+					"Key": "settings_post_effects_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "All progress will be lost"
+					},
+					"Translation":
+					{
+						"Text": "Tot progresul va fi pierdut"
+					},
+					"Key": "restart_game_warning"
+				},
+				{
+					"Source":
+					{
+						"Text": "Allows Higher Bounce even if the Jump button is pressed after the character hits the ground"
+					},
+					"Translation":
+					{
+						"Text": "Permite o săritură mai mare chiar dacă butonul de Săritură este apăsat după ce personajul lovește pamântul"
+					},
+					"Key": "settings_merciful_bounce_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Allows changing the Screen Resolution."
+					},
+					"Translation":
+					{
+						"Text": "Permite modificarea rezoluției ecranului."
+					},
+					"Key": "settings_resolution_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Always"
+					},
+					"Translation":
+					{
+						"Text": "Tot timpul"
+					},
+					"Key": "settings_merciful_bounce_always"
+				},
+				{
+					"Source":
+					{
+						"Text": "Amazing stuff"
+					},
+					"Translation":
+					{
+						"Text": "Lucruri uimitoare"
+					},
+					"Key": "item_rarity_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Amount: {0}"
+					},
+					"Translation":
+					{
+						"Text": "Cantitate: {0}"
+					},
+					"Key": "inventory_item_amount"
+				},
+				{
+					"Source":
+					{
+						"Text": "Anti-Aliasing"
+					},
+					"Translation":
+					{
+						"Text": "Anti-Aliasing"
+					},
+					"Key": "settings_antialising"
+				},
+				{
+					"Source":
+					{
+						"Text": "Apply"
+					},
+					"Translation":
+					{
+						"Text": "Aplică"
+					},
+					"Key": "settings_apply"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure you want to buy back {ItemName} for {Gold} gold?"
+					},
+					"Translation":
+					{
+						"Text": "Ești sigur că vrei să cumperi înapoi {ItemName} pentru {Gold} aur?"
+					},
+					"Key": "trade_buy_back"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure you want to buy {ItemName} for {Gold} gold?"
+					},
+					"Translation":
+					{
+						"Text": "Ești sigur că vrei să cumperi {ItemName} pentru {Gold} aur?"
+					},
+					"Key": "trade_buy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure you want to sell {ItemName} for {Gold} gold?"
+					},
+					"Translation":
+					{
+						"Text": "Ești sigur că vrei să vinzi {ItemName} pentru {Gold} aur?"
+					},
+					"Key": "trade_sell"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure?"
+					},
+					"Translation":
+					{
+						"Text": "Ești sigur?"
+					},
+					"Key": "difficulty_confirm_question"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure?"
+					},
+					"Translation":
+					{
+						"Text": "Ești sigur?"
+					},
+					"Key": "confirm_keyboard_settings_reset"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure?"
+					},
+					"Translation":
+					{
+						"Text": "Ești sigur?"
+					},
+					"Key": "save_slots_remove_confirm"
+				},
+				{
+					"Source":
+					{
+						"Text": "As hard as it can get"
+					},
+					"Translation":
+					{
+						"Text": "Nebun"
+					},
+					"Key": "difficulty_insane"
+				},
+				{
+					"Source":
+					{
+						"Text": "Aspect Ratio"
+					},
+					"Translation":
+					{
+						"Text": "Raport aspect"
+					},
+					"Key": "settings_aspect_ratio"
+				},
+				{
+					"Source":
+					{
+						"Text": "Audio"
+					},
+					"Translation":
+					{
+						"Text": "Audio"
+					},
+					"Key": "settings_audio"
+				},
+				{
+					"Source":
+					{
+						"Text": "Auto detect Gamepad Layout"
+					},
+					"Translation":
+					{
+						"Text": "Detectează automat Schema Gamepad"
+					},
+					"Key": "settings_auto_detect_controller"
+				},
+				{
+					"Source":
+					{
+						"Text": "B Button"
+					},
+					"Translation":
+					{
+						"Text": "Butonul B"
+					},
+					"Key": "Switch_FaceButton_Bottom"
+				},
+				{
+					"Source":
+					{
+						"Text": "Back"
+					},
+					"Translation":
+					{
+						"Text": "Înapoi"
+					},
+					"Key": "panel_command_inv_back"
+				},
+				{
+					"Source":
+					{
+						"Text": "Back"
+					},
+					"Translation":
+					{
+						"Text": "Înapoi"
+					},
+					"Key": "back"
+				},
+				{
+					"Source":
+					{
+						"Text": "Better than nothing"
+					},
+					"Translation":
+					{
+						"Text": "Mai bine decât nimic"
+					},
+					"Key": "item_rarity_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Better than nothing, right?"
+					},
+					"Translation":
+					{
+						"Text": "Mai bine decât nimic, nu?"
+					},
+					"Key": "item_rarity_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Borderless"
+					},
+					"Translation":
+					{
+						"Text": "Fără margini"
+					},
+					"Key": "settings_borderless"
+				},
+				{
+					"Source":
+					{
+						"Text": "Brightness"
+					},
+					"Translation":
+					{
+						"Text": "Luminozitate"
+					},
+					"Key": "settings_brightness"
+				},
+				{
+					"Source":
+					{
+						"Text": "Buy"
+					},
+					"Translation":
+					{
+						"Text": "Cumpără"
+					},
+					"Key": "buy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Buy Back"
+					},
+					"Translation":
+					{
+						"Text": "Cumpără Înapoi"
+					},
+					"Key": "buy_back"
+				},
+				{
+					"Source":
+					{
+						"Text": "Buy Full Game"
+					},
+					"Translation":
+					{
+						"Text": "Cumpără jocul complet"
+					},
+					"Key": "steam_main_game_buy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Buy WarriOrb in Steam and follow us on social media:"
+					},
+					"Translation":
+					{
+						"Text": "Cumpară WarriOrb pe Steam și urmăreștene pe rețelele de socializare:"
+					},
+					"Key": "buy_on_steam_and_follow"
+				},
+				{
+					"Source":
+					{
+						"Text": "Can not be used in air"
+					},
+					"Translation":
+					{
+						"Text": "Nu poate fi utilizat în aer"
+					},
+					"Key": "spell_only_in_air"
+				},
+				{
+					"Source":
+					{
+						"Text": "Can not be used in restricted areas"
+					},
+					"Translation":
+					{
+						"Text": "Nu poate fi utilizat în zone interzise"
+					},
+					"Key": "spell_restricted"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cancel"
+					},
+					"Translation":
+					{
+						"Text": "Anulează"
+					},
+					"Key": "settings_cancel"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cancel"
+					},
+					"Translation":
+					{
+						"Text": "Anulează"
+					},
+					"Key": "cancel"
+				},
+				{
+					"Source":
+					{
+						"Text": "Capacity: {0}/{1}"
+					},
+					"Translation":
+					{
+						"Text": "Capacitate: {0}/{1}"
+					},
+					"Key": "panel_spell_capacity"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Item"
+					},
+					"Translation":
+					{
+						"Text": "Schimbă articolul"
+					},
+					"Key": "input_change_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Item"
+					},
+					"Translation":
+					{
+						"Text": "Schimbă articolul"
+					},
+					"Key": "panel_command_inv_change_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Spell"
+					},
+					"Translation":
+					{
+						"Text": "Schimbă vraja"
+					},
+					"Key": "input_change_spell"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Spells"
+					},
+					"Translation":
+					{
+						"Text": "Schimbă vrăjile"
+					},
+					"Key": "panel_rest_option_change_spells"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change User"
+					},
+					"Translation":
+					{
+						"Text": "Schimbă utilizatorul"
+					},
+					"Key": "change_user"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Weapon"
+					},
+					"Translation":
+					{
+						"Text": "Schimbă arma"
+					},
+					"Key": "input_change_weapon"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change the display and locale (numbers, dates) language"
+					},
+					"Translation":
+					{
+						"Text": "Modifică limba de afișare și localizare (numere, date)"
+					},
+					"Key": "settings_language_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Changes the speed of the game.\nHigher speed might make the game have lower FPS."
+					},
+					"Translation":
+					{
+						"Text": "Schimbă viteza jocului.\nViteza mai mare poate face ca jocul să aibă un FPS mai mic."
+					},
+					"Key": "settings_game_speed_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Changes the visuals of the player character"
+					},
+					"Translation":
+					{
+						"Text": "Modifică înfățișarea caracterului"
+					},
+					"Key": "character_skin_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chapter"
+					},
+					"Translation":
+					{
+						"Text": "Capitol"
+					},
+					"Key": "chapter"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chapter 1 completed. Save is Locked."
+					},
+					"Translation":
+					{
+						"Text": "Capitolul 1 completat. Salvarea este blocat."
+					},
+					"Key": "chapter1_completed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Character Sheet"
+					},
+					"Translation":
+					{
+						"Text": "Fișa caracterului"
+					},
+					"Key": "panel_character_sheet"
+				},
+				{
+					"Source":
+					{
+						"Text": "Character Skin"
+					},
+					"Translation":
+					{
+						"Text": "Înfățișarea Caracterului"
+					},
+					"Key": "character_skin_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Checkpoint"
+					},
+					"Translation":
+					{
+						"Text": "Punct de Control"
+					},
+					"Key": "checkpoint"
+				},
+				{
+					"Source":
+					{
+						"Text": "Classic"
+					},
+					"Translation":
+					{
+						"Text": "Clasic"
+					},
+					"Key": "character_skin_classic"
+				},
+				{
+					"Source":
+					{
+						"Text": "Clear"
+					},
+					"Translation":
+					{
+						"Text": "Golește"
+					},
+					"Key": "save_slots_clear"
+				},
+				{
+					"Source":
+					{
+						"Text": "Close"
+					},
+					"Translation":
+					{
+						"Text": "Închide"
+					},
+					"Key": "close"
+				},
+				{
+					"Source":
+					{
+						"Text": "Collect Usage Statistics"
+					},
+					"Translation":
+					{
+						"Text": "Colectează Statistici de Utilizare"
+					},
+					"Key": "settings_collect_analytics"
+				},
+				{
+					"Source":
+					{
+						"Text": "Compare"
+					},
+					"Translation":
+					{
+						"Text": "Compară"
+					},
+					"Key": "panel_command_inv_compare"
+				},
+				{
+					"Source":
+					{
+						"Text": "Completed in {time}"
+					},
+					"Translation":
+					{
+						"Text": "Terminat în {time}"
+					},
+					"Key": "completed_in_time"
+				},
+				{
+					"Source":
+					{
+						"Text": "Confirm"
+					},
+					"Translation":
+					{
+						"Text": "Confirmă"
+					},
+					"Key": "confirm"
+				},
+				{
+					"Source":
+					{
+						"Text": "Confirm Display Settings in"
+					},
+					"Translation":
+					{
+						"Text": "Confirmați setările afișajului în"
+					},
+					"Key": "settings_confirm_display_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Continue"
+					},
+					"Translation":
+					{
+						"Text": "Continuă"
+					},
+					"Key": "continue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Controls"
+					},
+					"Translation":
+					{
+						"Text": "Controale"
+					},
+					"Key": "settings_controller_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cooldown"
+					},
+					"Translation":
+					{
+						"Text": "Viteza de reîncărcare"
+					},
+					"Key": "inventory_item_tooltip_cooldown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cooldown only starts on ground"
+					},
+					"Translation":
+					{
+						"Text": "Viteza de reîncărcare începe doar pe sol"
+					},
+					"Key": "spell_cooldown_stops_in_air"
+				},
+				{
+					"Source":
+					{
+						"Text": "Credits"
+					},
+					"Translation":
+					{
+						"Text": "Credite"
+					},
+					"Key": "credits"
+				},
+				{
+					"Source":
+					{
+						"Text": "Currently selected button:"
+					},
+					"Translation":
+					{
+						"Text": "Butonul selectat:"
+					},
+					"Key": "key_selection_current"
+				},
+				{
+					"Source":
+					{
+						"Text": "Custom Map {0}"
+					},
+					"Translation":
+					{
+						"Text": "Hartă personalizată {0}"
+					},
+					"Key": "custom_map_x"
+				},
+				{
+					"Source":
+					{
+						"Text": "Custom Maps"
+					},
+					"Translation":
+					{
+						"Text": "Hărți personalizate"
+					},
+					"Key": "custom_maps"
+				},
+				{
+					"Source":
+					{
+						"Text": "Damage"
+					},
+					"Translation":
+					{
+						"Text": "Avarie"
+					},
+					"Key": "inventory_item_tooltip_damage"
+				},
+				{
+					"Source":
+					{
+						"Text": "Default Value is 100%"
+					},
+					"Translation":
+					{
+						"Text": "Valoarea implicită este 100%"
+					},
+					"Key": "settings_brightness_default_value"
+				},
+				{
+					"Source":
+					{
+						"Text": "Defines what aspect ratios are available for your resolution."
+					},
+					"Translation":
+					{
+						"Text": "Definește ce raporturi de aspect sunt disponibile pentru rezoluția selectată."
+					},
+					"Key": "settings_aspect_ratio_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Description"
+					},
+					"Translation":
+					{
+						"Text": "Descriere"
+					},
+					"Key": "description"
+				},
+				{
+					"Source":
+					{
+						"Text": "Difficulty"
+					},
+					"Translation":
+					{
+						"Text": "Dificultate"
+					},
+					"Key": "difficulty_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Difficulty"
+					},
+					"Translation":
+					{
+						"Text": "Dificultate"
+					},
+					"Key": "difficulty"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disabled"
+					},
+					"Translation":
+					{
+						"Text": "Invalid"
+					},
+					"Key": "disabled"
+				},
+				{
+					"Source":
+					{
+						"Text": "Discord"
+					},
+					"Translation":
+					{
+						"Text": "Discord"
+					},
+					"Key": "discord"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display"
+					},
+					"Translation":
+					{
+						"Text": "Ecran"
+					},
+					"Key": "settings_display"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display Damage"
+					},
+					"Translation":
+					{
+						"Text": "Afișează daune"
+					},
+					"Key": "settings_display_damage"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display Enemy Health"
+					},
+					"Translation":
+					{
+						"Text": "Afișează viața inamicului"
+					},
+					"Key": "settings_display_enemy_hp"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display FPS"
+					},
+					"Translation":
+					{
+						"Text": "Afișare FPS"
+					},
+					"Key": "settings_display_fps"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display Floating Voice Lines"
+					},
+					"Translation":
+					{
+						"Text": "Afișează liniile de voce plutitoare"
+					},
+					"Key": "settings_display_floating_vo"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display Mode"
+					},
+					"Translation":
+					{
+						"Text": "Modul de Afișare"
+					},
+					"Key": "settings_display_mode"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display Play Time"
+					},
+					"Translation":
+					{
+						"Text": "Afișează ora de joc"
+					},
+					"Key": "settings_display_play_time"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do not Send"
+					},
+					"Translation":
+					{
+						"Text": "Nu Trimite"
+					},
+					"Key": "send_no"
+				},
+				{
+					"Source":
+					{
+						"Text": "Down Button"
+					},
+					"Translation":
+					{
+						"Text": "Butonul Jos"
+					},
+					"Key": "Switch_special_dpad_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Drink"
+					},
+					"Translation":
+					{
+						"Text": "Bea"
+					},
+					"Key": "panel_command_inv_drink"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarf"
+					},
+					"Translation":
+					{
+						"Text": "Pitic"
+					},
+					"Key": "dwarf_language"
+				},
+				{
+					"Source":
+					{
+						"Text": "Effect Quality"
+					},
+					"Translation":
+					{
+						"Text": "Calitatea Efectului"
+					},
+					"Key": "settings_effects"
+				},
+				{
+					"Source":
+					{
+						"Text": "Empty"
+					},
+					"Translation":
+					{
+						"Text": "Gol"
+					},
+					"Key": "empty"
+				},
+				{
+					"Source":
+					{
+						"Text": "Epic"
+					},
+					"Translation":
+					{
+						"Text": "Epic"
+					},
+					"Key": "settings_quality_epic"
+				},
+				{
+					"Source":
+					{
+						"Text": "Equip"
+					},
+					"Translation":
+					{
+						"Text": "Echipează"
+					},
+					"Key": "panel_command_inv_equip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Equip Item"
+					},
+					"Translation":
+					{
+						"Text": "Echipează articol"
+					},
+					"Key": "panel_command_inv_equip_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Equip Next"
+					},
+					"Translation":
+					{
+						"Text": "Echipează următoarea"
+					},
+					"Key": "panel_command_inv_equip_next"
+				},
+				{
+					"Source":
+					{
+						"Text": "Equipped Spells"
+					},
+					"Translation":
+					{
+						"Text": "Vrăji echipate"
+					},
+					"Key": "panel_equipped_spells"
+				},
+				{
+					"Source":
+					{
+						"Text": "Essence"
+					},
+					"Translation":
+					{
+						"Text": "Esență"
+					},
+					"Key": "essence"
+				},
+				{
+					"Source":
+					{
+						"Text": "Examine"
+					},
+					"Translation":
+					{
+						"Text": "Examinează"
+					},
+					"Key": "chest_examine"
+				},
+				{
+					"Source":
+					{
+						"Text": "Feedback"
+					},
+					"Translation":
+					{
+						"Text": "Păreri"
+					},
+					"Key": "feedback"
+				},
+				{
+					"Source":
+					{
+						"Text": "Float"
+					},
+					"Translation":
+					{
+						"Text": "Plutește"
+					},
+					"Key": "bubble_float"
+				},
+				{
+					"Source":
+					{
+						"Text": "Floating"
+					},
+					"Translation":
+					{
+						"Text": "Plutește"
+					},
+					"Key": "input_float"
+				},
+				{
+					"Source":
+					{
+						"Text": "Frame Limit (FPS)"
+					},
+					"Translation":
+					{
+						"Text": "Limita Cadrelor (FPS)"
+					},
+					"Key": "settings_frame_limit"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fullscreen"
+					},
+					"Translation":
+					{
+						"Text": "Ecran Complet"
+					},
+					"Key": "settings_fullscreen"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game"
+					},
+					"Translation":
+					{
+						"Text": "Joc"
+					},
+					"Key": "settings_game"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game Defeated!"
+					},
+					"Translation":
+					{
+						"Text": "Joc Învins!"
+					},
+					"Key": "game_defeated"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game Speed"
+					},
+					"Translation":
+					{
+						"Text": "Viteza Jocului"
+					},
+					"Key": "settings_game_speed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game currently under development"
+					},
+					"Translation":
+					{
+						"Text": "Jocul este în curs de dezvoltare"
+					},
+					"Key": "game_is_wip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gamepad"
+					},
+					"Translation":
+					{
+						"Text": "Gamepad"
+					},
+					"Key": "settings_controller"
+				},
+				{
+					"Source":
+					{
+						"Text": "Go back to main menu"
+					},
+					"Translation":
+					{
+						"Text": "Reveniți la meniul principal"
+					},
+					"Key": "go_back_to_menu"
+				},
+				{
+					"Source":
+					{
+						"Text": "Good stuff"
+					},
+					"Translation":
+					{
+						"Text": "Lucruri bune"
+					},
+					"Key": "item_rarity_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Group Defeated"
+					},
+					"Translation":
+					{
+						"Text": "Grup Învins"
+					},
+					"Key": "group_defeated_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "High"
+					},
+					"Translation":
+					{
+						"Text": "Ridicat"
+					},
+					"Key": "settings_quality_high"
+				},
+				{
+					"Source":
+					{
+						"Text": "In Windowed mode you can interact with other windows easier. In Borderless mode you can quickly switch between applications."
+					},
+					"Translation":
+					{
+						"Text": "În modul Fereastră poți interacționa mai ușor cu alte ferestre. În modul fără margini puteți comuta rapid între aplicații."
+					},
+					"Key": "settings_display_mode_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "In certain areas background traps are deactivated or background visuals look cheaper to gain more performance."
+					},
+					"Translation":
+					{
+						"Text": "În anumite zone, capcanele de fundal sunt dezactivate sau imaginile de fundal arată mai ieftine pentru a obține mai multe performanță."
+					},
+					"Key": "settings_force_weak_hardware_opt_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Interact"
+					},
+					"Translation":
+					{
+						"Text": "Interacționează"
+					},
+					"Key": "input_interact"
+				},
+				{
+					"Source":
+					{
+						"Text": "Interact Alternative"
+					},
+					"Translation":
+					{
+						"Text": "Interacționează alternativ"
+					},
+					"Key": "input_alt_interact"
+				},
+				{
+					"Source":
+					{
+						"Text": "Inventory"
+					},
+					"Translation":
+					{
+						"Text": "Inventar"
+					},
+					"Key": "panel_inventory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Jump"
+					},
+					"Translation":
+					{
+						"Text": "Sari"
+					},
+					"Key": "input_jump"
+				},
+				{
+					"Source":
+					{
+						"Text": "Jump"
+					},
+					"Translation":
+					{
+						"Text": "Sari"
+					},
+					"Key": "bubble_jump"
+				},
+				{
+					"Source":
+					{
+						"Text": "Just an adventure"
+					},
+					"Translation":
+					{
+						"Text": "Ușor"
+					},
+					"Key": "difficulty_sane"
+				},
+				{
+					"Source":
+					{
+						"Text": "Keyboard"
+					},
+					"Translation":
+					{
+						"Text": "Tastatură"
+					},
+					"Key": "settings_keyboard"
+				},
+				{
+					"Source":
+					{
+						"Text": "L Button"
+					},
+					"Translation":
+					{
+						"Text": "Butonul L"
+					},
+					"Key": "Switch_Shoulder_Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Language"
+					},
+					"Translation":
+					{
+						"Text": "Limba"
+					},
+					"Key": "settings_language"
+				},
+				{
+					"Source":
+					{
+						"Text": "Layout"
+					},
+					"Translation":
+					{
+						"Text": "Schemă"
+					},
+					"Key": "settings_controller_platform"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave"
+					},
+					"Translation":
+					{
+						"Text": "Ieși"
+					},
+					"Key": "chest_leave"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Button"
+					},
+					"Translation":
+					{
+						"Text": "Butonul Stânga"
+					},
+					"Key": "Switch_special_dpad_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Stick"
+					},
+					"Translation":
+					{
+						"Text": "Maneta Stângă"
+					},
+					"Key": "Switch_LeftThumbstick"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Stick Down"
+					},
+					"Translation":
+					{
+						"Text": "Maneta Stângă - Jos"
+					},
+					"Key": "Switch_Gamepad_LeftStick_Down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Stick Left"
+					},
+					"Translation":
+					{
+						"Text": "Maneta Stângă - Stânga"
+					},
+					"Key": "Switch_Gamepad_LeftStick_Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Stick Right"
+					},
+					"Translation":
+					{
+						"Text": "Maneta Stângă - Dreapta"
+					},
+					"Key": "Switch_Gamepad_LeftStick_Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Stick Up"
+					},
+					"Translation":
+					{
+						"Text": "Maneta Stângă - Sus"
+					},
+					"Key": "Switch_Gamepad_LeftStick_Up"
+				},
+				{
+					"Source":
+					{
+						"Text": "Limit the maximum frame rate for a consistent experience."
+					},
+					"Translation":
+					{
+						"Text": "Limitează rata maximă de cadru pentru o experiență consecventă."
+					},
+					"Key": "settings_frame_limit_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Listen to Music"
+					},
+					"Translation":
+					{
+						"Text": "Ascultă muzică"
+					},
+					"Key": "panel_rest_option_listen_to_music"
+				},
+				{
+					"Source":
+					{
+						"Text": "Loot"
+					},
+					"Translation":
+					{
+						"Text": "Jefuiește"
+					},
+					"Key": "chest_loot"
+				},
+				{
+					"Source":
+					{
+						"Text": "Low"
+					},
+					"Translation":
+					{
+						"Text": "Scăzut"
+					},
+					"Key": "settings_quality_low"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mailing List"
+					},
+					"Translation":
+					{
+						"Text": "Listă de email-uri"
+					},
+					"Key": "mailing_list"
+				},
+				{
+					"Source":
+					{
+						"Text": "Master volume"
+					},
+					"Translation":
+					{
+						"Text": "Volumul Principal"
+					},
+					"Key": "settings_master_volume"
+				},
+				{
+					"Source":
+					{
+						"Text": "Medium"
+					},
+					"Translation":
+					{
+						"Text": "Mediu"
+					},
+					"Key": "settings_quality_medium"
+				},
+				{
+					"Source":
+					{
+						"Text": "Menu button"
+					},
+					"Translation":
+					{
+						"Text": "Butonul Meniu"
+					},
+					"Key": "gamepad_special_right_xbox"
+				},
+				{
+					"Source":
+					{
+						"Text": "Merciful Bounce Mode"
+					},
+					"Translation":
+					{
+						"Text": "Mod de săritură milostiv"
+					},
+					"Key": "settings_merciful_bounce"
+				},
+				{
+					"Source":
+					{
+						"Text": "Move Left"
+					},
+					"Translation":
+					{
+						"Text": "Mișcă-te la stânga"
+					},
+					"Key": "input_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Move Right"
+					},
+					"Translation":
+					{
+						"Text": "Mișcă-te la dreapta"
+					},
+					"Key": "input_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Move left/right"
+					},
+					"Translation":
+					{
+						"Text": "Mișcare spre stânga / spre dreapta"
+					},
+					"Key": "settings_move_left_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mummy"
+					},
+					"Translation":
+					{
+						"Text": "Mumie"
+					},
+					"Key": "character_skin_mummy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Music volume"
+					},
+					"Translation":
+					{
+						"Text": "Volumul Muzicii"
+					},
+					"Key": "settings_music_volume"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute all audio"
+					},
+					"Translation":
+					{
+						"Text": "Oprește toate sunetele"
+					},
+					"Key": "settings_mute_audio_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute audio"
+					},
+					"Translation":
+					{
+						"Text": "Oprește sunetul"
+					},
+					"Key": "settings_mute_audio"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute audio when in background"
+					},
+					"Translation":
+					{
+						"Text": "Oprește sunetul când jocul este in fundal"
+					},
+					"Key": "settings_mute_audio_unfocused"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute the audio when the game window is not in focus"
+					},
+					"Translation":
+					{
+						"Text": "Oprește sunetul atunci când fereastra jocului nu este focalizată"
+					},
+					"Key": "settings_mute_audio_unfocused_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute the gibberish voices inside the dialogues"
+					},
+					"Translation":
+					{
+						"Text": "Oprește vocile bolborosite din interiorul dialogurilor"
+					},
+					"Key": "settings_mute_dialogue_voice_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute the gibberish voices outside the dialogues"
+					},
+					"Translation":
+					{
+						"Text": "Oprește vocile bolborosite din afara dialogurilor"
+					},
+					"Key": "settings_mute_voice_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute voices in dialogues"
+					},
+					"Translation":
+					{
+						"Text": "Oprește vocile în dialoguri"
+					},
+					"Key": "settings_mute_dialogue_voice"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute voices outside of dialogues"
+					},
+					"Translation":
+					{
+						"Text": "Oprește vocile din afară dialogurilor"
+					},
+					"Key": "settings_mute_voice"
+				},
+				{
+					"Source":
+					{
+						"Text": "Never"
+					},
+					"Translation":
+					{
+						"Text": "Niciodată"
+					},
+					"Key": "settings_merciful_bounce_never"
+				},
+				{
+					"Source":
+					{
+						"Text": "Never completed"
+					},
+					"Translation":
+					{
+						"Text": "Niciodată completat"
+					},
+					"Key": "never_completed"
+				},
+				{
+					"Source":
+					{
+						"Text": "New Game"
+					},
+					"Translation":
+					{
+						"Text": "Joc Nou"
+					},
+					"Key": "save_slots_new_game"
+				},
+				{
+					"Source":
+					{
+						"Text": "No"
+					},
+					"Translation":
+					{
+						"Text": "Nu"
+					},
+					"Key": "no"
+				},
+				{
+					"Source":
+					{
+						"Text": "Nope!"
+					},
+					"Translation":
+					{
+						"Text": "Nu!"
+					},
+					"Key": "trade_nope"
+				},
+				{
+					"Source":
+					{
+						"Text": "Normal"
+					},
+					"Translation":
+					{
+						"Text": "Normal"
+					},
+					"Key": "difficulty_normal"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not Yet would like to collect usage statistics from your game automatically.\nThese are not used to identify individuals, but help us to understand players needs to improve our game.\n\nSelect \"Send Automatically\" to allow collection of usage statistics,\nor \"Do Not Send\" to prevent the game from sending information to Not Yet.\n\nYou can change this setting at any time via the Settings Game tab."
+					},
+					"Translation":
+					{
+						"Text": "Not Yet ar dori să colecteze în mod automat statistici de utilizare din joc.\nAcestea nu sunt folosite pentru a identifica indivizii, ci ne ajută să înțelegem nevoile jucătorilor pentru a îmbunătăți jocul nostru.\n\nSelectați „Trimiteți automat“ pentru a permite colectarea de statistici de utilizare,\nsau „Nu trimiteți” pentru a împiedica jocul să trimită informații către Not Yet.\n\nPuteți modifica această setare în orice moment, prin Setările jocului."
+					},
+					"Key": "stats_usage_description"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not allowed to remap to Left Stick or Right Stick"
+					},
+					"Translation":
+					{
+						"Text": "Nu este permis să remapezi la Maneta Stângă / Maneta Dreaptă"
+					},
+					"Key": "input_not_allowed_thumbsticks_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not allowed to remap to the + Button"
+					},
+					"Translation":
+					{
+						"Text": "Nu ai voie să remapezi Butonul +"
+					},
+					"Key": "input_not_allowed_options_menu_button_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not allowed to remap to the Menu button"
+					},
+					"Translation":
+					{
+						"Text": "Nu este permisă remaparea pe butonul Meniu"
+					},
+					"Key": "input_not_allowed_options_menu_button"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not allowed to remap to thumbsticks"
+					},
+					"Translation":
+					{
+						"Text": "Nu este permis să remapezi la thumbsticks"
+					},
+					"Key": "input_not_allowed_thumbsticks"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not for sale"
+					},
+					"Translation":
+					{
+						"Text": "Nu este de vânzare"
+					},
+					"Key": "item_not_For_sale"
+				},
+				{
+					"Source":
+					{
+						"Text": "Note: Playing with a controller is recommended"
+					},
+					"Translation":
+					{
+						"Text": "Notă: Jucarea cu un controler este recomandată"
+					},
+					"Key": "controller_recommended"
+				},
+				{
+					"Source":
+					{
+						"Text": "Now I remember the night when it started..."
+					},
+					"Translation":
+					{
+						"Text": "Acum îmi amintesc de noaptea când a început..."
+					},
+					"Key": "black_fade_teleport_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Okay..."
+					},
+					"Translation":
+					{
+						"Text": "Okay..."
+					},
+					"Key": "trade_okay"
+				},
+				{
+					"Source":
+					{
+						"Text": "On Easy"
+					},
+					"Translation":
+					{
+						"Text": "Pe Ușor"
+					},
+					"Key": "settings_merciful_bounce_on_easy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Inventory"
+					},
+					"Translation":
+					{
+						"Text": "Deschide Inventarul"
+					},
+					"Key": "input_open_inventory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Menu/Escape/Back"
+					},
+					"Translation":
+					{
+						"Text": "Deschide Meniu / Escape / Înapoi"
+					},
+					"Key": "input_menu_back"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pause game when idle"
+					},
+					"Translation":
+					{
+						"Text": "Pune pauză jocului atunci când este inactiv"
+					},
+					"Key": "settings_pause_game_idle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pause game when unfocused"
+					},
+					"Translation":
+					{
+						"Text": "Întrerupe jocul atunci când este nefocalizat"
+					},
+					"Key": "settings_pause_game_unfocused"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pauses the game when the game loses focus"
+					},
+					"Translation":
+					{
+						"Text": "Întrerupe jocul atunci când se pierde focalizarea"
+					},
+					"Key": "settings_pause_game_unfocused_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pauses the game when the user is idle for a certain amount of minutes"
+					},
+					"Translation":
+					{
+						"Text": "Întrerupe jocul atunci când utilizatorul este inactiv pentru o anumită perioadă de timp"
+					},
+					"Key": "settings_pause_game_idle_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Play Time"
+					},
+					"Translation":
+					{
+						"Text": "Timpul de joacă"
+					},
+					"Key": "play_time"
+				},
+				{
+					"Source":
+					{
+						"Text": "PlayStation 4"
+					},
+					"Translation":
+					{
+						"Text": "PlayStation 4"
+					},
+					"Key": "console_ps4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Please adjust the brightness of the game to your display"
+					},
+					"Translation":
+					{
+						"Text": "Reglați luminozitatea jocului pe ecran"
+					},
+					"Key": "settings_brightness_description"
+				},
+				{
+					"Source":
+					{
+						"Text": "Please use a gamepad in order to remap"
+					},
+					"Translation":
+					{
+						"Text": "Te rog să utilizezi un gamepad pentru remapare"
+					},
+					"Key": "settings_controller_remap_noedit"
+				},
+				{
+					"Source":
+					{
+						"Text": "Please use a keyboard in order to change the keyboard input"
+					},
+					"Translation":
+					{
+						"Text": "Vă rugăm să utilizați o tastatură pentru a schimba setările tastaturii"
+					},
+					"Key": "settings_keyboard_remap_noedit"
+				},
+				{
+					"Source":
+					{
+						"Text": "Post-Effects"
+					},
+					"Translation":
+					{
+						"Text": "Post-Efecte"
+					},
+					"Key": "settings_post_effects"
+				},
+				{
+					"Source":
+					{
+						"Text": "Press any button to continue..."
+					},
+					"Translation":
+					{
+						"Text": "Apăsați orice buton pentru a continua ..."
+					},
+					"Key": "loading_screen_press_key_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Press any key to continue..."
+					},
+					"Translation":
+					{
+						"Text": "Apasă orice tastă pentru a continua..."
+					},
+					"Key": "loading_screen_press_key"
+				},
+				{
+					"Source":
+					{
+						"Text": "Press the button you want to assign to the action:"
+					},
+					"Translation":
+					{
+						"Text": "Apasă butonul pe care dorești să o atribui acțiunii:"
+					},
+					"Key": "key_selection_press_button"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pretty good stuff"
+					},
+					"Translation":
+					{
+						"Text": "Lucruri destul de bune"
+					},
+					"Key": "item_rarity_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Primary Strike"
+					},
+					"Translation":
+					{
+						"Text": "Atac primar"
+					},
+					"Key": "input_strike_primary"
+				},
+				{
+					"Source":
+					{
+						"Text": "Progress will be lost"
+					},
+					"Translation":
+					{
+						"Text": "Progresul va fi pierdut"
+					},
+					"Key": "save_slots_remove_confirm_subtext"
+				},
+				{
+					"Source":
+					{
+						"Text": "Progress will be saved"
+					},
+					"Translation":
+					{
+						"Text": "Progresul va fi salvat"
+					},
+					"Key": "progress_saved"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pumpkin"
+					},
+					"Translation":
+					{
+						"Text": "Dovleac"
+					},
+					"Key": "character_skin_pumpkin"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quick select spells up/down/left/right"
+					},
+					"Translation":
+					{
+						"Text": "Selectează rapid vrăji în sus/jos/stânga/dreapta"
+					},
+					"Key": "spell_cast_switch_controls"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quit Game"
+					},
+					"Translation":
+					{
+						"Text": "Ieși din joc"
+					},
+					"Key": "quit_game"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quit Game?"
+					},
+					"Translation":
+					{
+						"Text": "Ieși din joc?"
+					},
+					"Key": "quit_game_question"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quit to Menu"
+					},
+					"Translation":
+					{
+						"Text": "Ieși în meniul principal"
+					},
+					"Key": "quit_to_menu"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quit to Menu?"
+					},
+					"Translation":
+					{
+						"Text": "Ieși în meniul principal?"
+					},
+					"Key": "quit_to_menu_question"
+				},
+				{
+					"Source":
+					{
+						"Text": "R Button"
+					},
+					"Translation":
+					{
+						"Text": "Butonul R"
+					},
+					"Key": "Switch_Shoulder_Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Read"
+					},
+					"Translation":
+					{
+						"Text": "Citește"
+					},
+					"Key": "panel_command_inv_read"
+				},
+				{
+					"Source":
+					{
+						"Text": "Realistic looking fog. Has a high performance impact, disable it to improve performance."
+					},
+					"Translation":
+					{
+						"Text": "Ceată cu aspect realist. Are un impact performant ridicat, dezactivați-l pentru a îmbunătăți performanța."
+					},
+					"Key": "settings_volumetric_fog_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remap Controls"
+					},
+					"Translation":
+					{
+						"Text": "Remapare controale"
+					},
+					"Key": "settings_controller_remap"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remap Controls"
+					},
+					"Translation":
+					{
+						"Text": "Remapare controale"
+					},
+					"Key": "settings_controller_remap_single"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remove"
+					},
+					"Translation":
+					{
+						"Text": "Elimină"
+					},
+					"Key": "panel_command_spell_remove"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset"
+					},
+					"Translation":
+					{
+						"Text": "Resetează"
+					},
+					"Key": "settings_reset"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset button to default"
+					},
+					"Translation":
+					{
+						"Text": "Resetează butonul la valoarea implicită"
+					},
+					"Key": "settings_reset_input_key"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset to Arrow defaults"
+					},
+					"Translation":
+					{
+						"Text": "Resetează la valorile implicite săgeată"
+					},
+					"Key": "reset_keyboard_arrows"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset to Defaults"
+					},
+					"Translation":
+					{
+						"Text": "Resetează la setări implicite"
+					},
+					"Key": "settings_reset_default"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset to WASD defaults"
+					},
+					"Translation":
+					{
+						"Text": "Resetează la valorile prestabilite WASD"
+					},
+					"Key": "reset_keyboard_wasd"
+				},
+				{
+					"Source":
+					{
+						"Text": "Resistances"
+					},
+					"Translation":
+					{
+						"Text": "Rezistenţele"
+					},
+					"Key": "paneL_resistances"
+				},
+				{
+					"Source":
+					{
+						"Text": "Resolution"
+					},
+					"Translation":
+					{
+						"Text": "Rezoluție"
+					},
+					"Key": "settings_resolution"
+				},
+				{
+					"Source":
+					{
+						"Text": "Resolution Scale"
+					},
+					"Translation":
+					{
+						"Text": "Scară de Rezoluție"
+					},
+					"Key": "settings_resolution_scale"
+				},
+				{
+					"Source":
+					{
+						"Text": "Restart"
+					},
+					"Translation":
+					{
+						"Text": "Repornește"
+					},
+					"Key": "restart"
+				},
+				{
+					"Source":
+					{
+						"Text": "Restart Game?"
+					},
+					"Translation":
+					{
+						"Text": "Repornește Jocul?"
+					},
+					"Key": "restart_game_question"
+				},
+				{
+					"Source":
+					{
+						"Text": "Retreat"
+					},
+					"Translation":
+					{
+						"Text": "Retragete"
+					},
+					"Key": "game_over_retreat"
+				},
+				{
+					"Source":
+					{
+						"Text": "Retry"
+					},
+					"Translation":
+					{
+						"Text": "Reîncearcă"
+					},
+					"Key": "game_over_retry"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Button"
+					},
+					"Translation":
+					{
+						"Text": "Butonul Dreapta"
+					},
+					"Key": "Switch_special_dpad_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Stick"
+					},
+					"Translation":
+					{
+						"Text": "Maneta Dreaptă"
+					},
+					"Key": "Switch_RightThumbstick"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Stick Down"
+					},
+					"Translation":
+					{
+						"Text": "Maneta Dreaptă - Jos"
+					},
+					"Key": "Switch_Gamepad_RightStick_Down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Stick Left"
+					},
+					"Translation":
+					{
+						"Text": "Maneta Dreaptă - Stânga"
+					},
+					"Key": "Switch_Gamepad_RightStick_Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Stick Right"
+					},
+					"Translation":
+					{
+						"Text": "Maneta Dreaptă - Dreapta"
+					},
+					"Key": "Switch_Gamepad_RightStick_Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Stick Up"
+					},
+					"Translation":
+					{
+						"Text": "Maneta Dreaptă - Sus"
+					},
+					"Key": "Switch_Gamepad_RightStick_Up"
+				},
+				{
+					"Source":
+					{
+						"Text": "Roll"
+					},
+					"Translation":
+					{
+						"Text": "Rostogoleștete"
+					},
+					"Key": "input_roll"
+				},
+				{
+					"Source":
+					{
+						"Text": "Save Slots"
+					},
+					"Translation":
+					{
+						"Text": "Sloturi pentru salvări"
+					},
+					"Key": "saves"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select"
+					},
+					"Translation":
+					{
+						"Text": "Selectează"
+					},
+					"Key": "select"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select"
+					},
+					"Translation":
+					{
+						"Text": "Selectează"
+					},
+					"Key": "spell_cast_switch_select"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select"
+					},
+					"Translation":
+					{
+						"Text": "Selectează"
+					},
+					"Key": "save_slots_select"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select & Cast"
+					},
+					"Translation":
+					{
+						"Text": "Selectați & Cast"
+					},
+					"Key": "spell_cast_switch_select_cast"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select another"
+					},
+					"Translation":
+					{
+						"Text": "Selectează alta"
+					},
+					"Key": "settings_select_another"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select spells"
+					},
+					"Translation":
+					{
+						"Text": "Selectează vrăji"
+					},
+					"Key": "select_spells"
+				},
+				{
+					"Source":
+					{
+						"Text": "Selected button = {Key}, is not allowed as an input option"
+					},
+					"Translation":
+					{
+						"Text": "Butonul selectat = {Key}, nu este permisă ca o opțiune"
+					},
+					"Key": "input_selected_key_not_allowed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Selected button = {Key}, will get unbound from the {NumActions}|plural(one=Action,other=Actions) = {ActionNames}"
+					},
+					"Translation":
+					{
+						"Text": "Butonul selectat = {Key}, o să fie îndepărtată de la {NumActions}|plural(one=Acțiunea,other=Acțiunile) = {ActionNames}"
+					},
+					"Key": "input_actions_conflicts"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sell"
+					},
+					"Translation":
+					{
+						"Text": "Vinde"
+					},
+					"Key": "sell"
+				},
+				{
+					"Source":
+					{
+						"Text": "Send Automatically"
+					},
+					"Translation":
+					{
+						"Text": "Trimite automat"
+					},
+					"Key": "send_automatically"
+				},
+				{
+					"Source":
+					{
+						"Text": "Settings"
+					},
+					"Translation":
+					{
+						"Text": "Setări"
+					},
+					"Key": "settings"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shadow Quality"
+					},
+					"Translation":
+					{
+						"Text": "Calitatea Umbrelor"
+					},
+					"Key": "settings_shadows"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show FPS counter"
+					},
+					"Translation":
+					{
+						"Text": "Afișează contorul FPS"
+					},
+					"Key": "settings_display_fps_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show a small health bar above injured enemies"
+					},
+					"Translation":
+					{
+						"Text": "Afisează o mică bară de viață deasupra dușmanilor răniți"
+					},
+					"Key": "settings_display_enemy_hp_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show current play time"
+					},
+					"Translation":
+					{
+						"Text": "Afișează ora curentă de joc"
+					},
+					"Key": "settings_display_play_time_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show damage as a floating number on the screen"
+					},
+					"Translation":
+					{
+						"Text": "Afișați daune ca număr plutitor pe ecran"
+					},
+					"Key": "settings_display_damage_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show voice lines as floating texts"
+					},
+					"Translation":
+					{
+						"Text": "Afisează linii vocale ca texte plutitoare"
+					},
+					"Key": "settings_display_floating_vo_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sidenotes"
+					},
+					"Translation":
+					{
+						"Text": "Note laterale"
+					},
+					"Key": "panel_notes"
+				},
+				{
+					"Source":
+					{
+						"Text": "Skip"
+					},
+					"Translation":
+					{
+						"Text": "Treci Peste"
+					},
+					"Key": "skip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sleep"
+					},
+					"Translation":
+					{
+						"Text": "Dormi"
+					},
+					"Key": "panel_rest_option_sleep"
+				},
+				{
+					"Source":
+					{
+						"Text": "Smooths out the edges by blending the colors of the pixels around the object to create the illusion of smoothness."
+					},
+					"Translation":
+					{
+						"Text": "Netezește marginile prin amestecarea culorilor pixelilor din jurul obiectului pentru a crea iluzia de netezime."
+					},
+					"Key": "settings_antialising_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sound Effects volume"
+					},
+					"Translation":
+					{
+						"Text": "Volumul Efectelor sonore"
+					},
+					"Key": "settings_effects_volume"
+				},
+				{
+					"Source":
+					{
+						"Text": "Special Strike"
+					},
+					"Translation":
+					{
+						"Text": "Atac special"
+					},
+					"Key": "input_strike_special"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spells"
+					},
+					"Translation":
+					{
+						"Text": "Vrăji"
+					},
+					"Key": "panel_spells"
+				},
+				{
+					"Source":
+					{
+						"Text": "Start"
+					},
+					"Translation":
+					{
+						"Text": "Începe"
+					},
+					"Key": "start"
+				},
+				{
+					"Source":
+					{
+						"Text": "Start Game"
+					},
+					"Translation":
+					{
+						"Text": "Începe Jocul"
+					},
+					"Key": "start_game"
+				},
+				{
+					"Source":
+					{
+						"Text": "Status"
+					},
+					"Translation":
+					{
+						"Text": "Stare"
+					},
+					"Key": "status"
+				},
+				{
+					"Source":
+					{
+						"Text": "Surfaces of the game world will increase in fidelity if the setting is higher."
+					},
+					"Translation":
+					{
+						"Text": "Suprafețele lumii jocului vor crește fidelitatea dacă setarea este mai mare."
+					},
+					"Key": "settings_textures_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Switch"
+					},
+					"Translation":
+					{
+						"Text": "Switch"
+					},
+					"Key": "console_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Synchronize the game refresh rate with the monitor refresh rate. Disable it for higher framerate and better input response.\nWhen enabled it prevents screen tearing."
+					},
+					"Translation":
+					{
+						"Text": "Sincronizați rata de actualizare a jocului cu rata de actualizare a monitorului. Dezactivați pentru un framerate mai mare și un răspuns de intrare mai bun.\nCând este activat, acesta previne artefacte pe ecran."
+					},
+					"Key": "settings_vsync_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "THANK YOU FOR PLAYING WARRIORB DEMO PROLOGUE, WE HOPE YOU HAD A GREAT TIME!"
+					},
+					"Translation":
+					{
+						"Text": "MULȚUMESC PENTRU CA AȚI JUCAT WARRIORB DEMO PROLOGUE, SPERĂM CĂ AȚI AVUT UN TIMP MINUNAT!"
+					},
+					"Key": "thank_you_prologue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Weapon Away"
+					},
+					"Translation":
+					{
+						"Text": "Pune arma deoparte"
+					},
+					"Key": "input_take_weapon"
+				},
+				{
+					"Source":
+					{
+						"Text": "Teleport To Checkpoint"
+					},
+					"Translation":
+					{
+						"Text": "Teleportare la punctul de control"
+					},
+					"Key": "teleport_to_cp"
+				},
+				{
+					"Source":
+					{
+						"Text": "Teleport To SoulKeeper"
+					},
+					"Translation":
+					{
+						"Text": "Teleportare la Deținătorul Sufletului"
+					},
+					"Key": "teleport_to_sk"
+				},
+				{
+					"Source":
+					{
+						"Text": "Texture Quality"
+					},
+					"Translation":
+					{
+						"Text": "Calitatea Texturii"
+					},
+					"Key": "settings_textures"
+				},
+				{
+					"Source":
+					{
+						"Text": "The desired resolution to use when rendering the game. It does not affect the UI.\nLowering it improves performance on lower end machines."
+					},
+					"Translation":
+					{
+						"Text": "Rezoluția dorită de utilizat la redarea jocului. Nu afectează interfața de utilizator.\nScăderea îmbunătățește performanțele la mașinile inferioare."
+					},
+					"Key": "settings_resolution_scale_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "The higher the quality the finer the shadow."
+					},
+					"Translation":
+					{
+						"Text": "Cu cât calitatea este mai mare, cu atât este mai fină umbra."
+					},
+					"Key": "settings_shadows_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "The path ahead is challenging. Do not despise failure. Every wrong attempt discarded is another step forward."
+					},
+					"Translation":
+					{
+						"Text": "Calea din față este o provocare. Nu disprețuii eșecul. Orice încercare greșită este un pas înainte."
+					},
+					"Key": "encourage_line1"
+				},
+				{
+					"Source":
+					{
+						"Text": "The trader is not interested in buying that item from you!"
+					},
+					"Translation":
+					{
+						"Text": "Comerciantul nu este interesat să cumpere acel articol de la tine!"
+					},
+					"Key": "trade_no_intrested"
+				},
+				{
+					"Source":
+					{
+						"Text": "The way the game is meant to be played"
+					},
+					"Translation":
+					{
+						"Text": "Modul în care jocul este menit să fie jucat"
+					},
+					"Key": "difficulty_desc_intended"
+				},
+				{
+					"Source":
+					{
+						"Text": "These are not used to identify individuals, but help us to understand players needs to improve our game."
+					},
+					"Translation":
+					{
+						"Text": "Acestea nu sunt folosite pentru a identifica indivizii, ci ne ajută să înțelegem nevoile jucătorilor pentru a îmbunătăți jocul nostru."
+					},
+					"Key": "settings_collect_analytics_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "This choice is permanent"
+					},
+					"Translation":
+					{
+						"Text": "Alegerea este permanentă"
+					},
+					"Key": "difficulty_confirm_subtext"
+				},
+				{
+					"Source":
+					{
+						"Text": "This is a loading screen. We wait a few seconds here to look more professional."
+					},
+					"Translation":
+					{
+						"Text": "Acesta este un ecran de încărcare. Așteptăm aicea câteva secunde pentru a arăta mai professional."
+					},
+					"Key": "loading_screen_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Total Deaths"
+					},
+					"Translation":
+					{
+						"Text": "Decese totale"
+					},
+					"Key": "total_deaths"
+				},
+				{
+					"Source":
+					{
+						"Text": "Twitter"
+					},
+					"Translation":
+					{
+						"Text": "Twitter"
+					},
+					"Key": "twitter"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Action Back"
+					},
+					"Translation":
+					{
+						"Text": "UI Acțiunea de înapoi"
+					},
+					"Key": "input_action_back"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Action First"
+					},
+					"Translation":
+					{
+						"Text": "UI Prima acțiune"
+					},
+					"Key": "input_action_first"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Action Second"
+					},
+					"Translation":
+					{
+						"Text": "UI Acțiunea a doua"
+					},
+					"Key": "input_action_second"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Action Third"
+					},
+					"Translation":
+					{
+						"Text": "UI Acțiunea a treia"
+					},
+					"Key": "input_action_third"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Move Down"
+					},
+					"Translation":
+					{
+						"Text": "UI Mută în jos"
+					},
+					"Key": "input_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Move Up"
+					},
+					"Translation":
+					{
+						"Text": "UI Mută în sus"
+					},
+					"Key": "input_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Down"
+					},
+					"Translation":
+					{
+						"Text": "UI Vrajă jos"
+					},
+					"Key": "input_spell_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Left"
+					},
+					"Translation":
+					{
+						"Text": "UI Vrajă stânga"
+					},
+					"Key": "input_spell_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Right"
+					},
+					"Translation":
+					{
+						"Text": "UI Vrajă dreapta"
+					},
+					"Key": "input_spell_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Select"
+					},
+					"Translation":
+					{
+						"Text": "UI Selectare vrajă"
+					},
+					"Key": "input_spell_select"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Select & Cast"
+					},
+					"Translation":
+					{
+						"Text": "UI Selectează & Cast Vrajă"
+					},
+					"Key": "input_spell_select_and_cast"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Up"
+					},
+					"Translation":
+					{
+						"Text": "UI Vrajă sus"
+					},
+					"Key": "input_spell_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Top Left"
+					},
+					"Translation":
+					{
+						"Text": "UI Stânga sus"
+					},
+					"Key": "input_top_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Top Right"
+					},
+					"Translation":
+					{
+						"Text": "UI Sus în dreapta"
+					},
+					"Key": "input_top_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "UNKNOWN"
+					},
+					"Translation":
+					{
+						"Text": "NECUNOSCUT"
+					},
+					"Key": "unknown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unbound"
+					},
+					"Translation":
+					{
+						"Text": "Nefolosit"
+					},
+					"Key": "input_unbound"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unequip"
+					},
+					"Translation":
+					{
+						"Text": "Dezechipă"
+					},
+					"Key": "panel_command_inv_unequip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unknown"
+					},
+					"Translation":
+					{
+						"Text": "Necunoscut"
+					},
+					"Key": "settings_unknown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unlimited"
+					},
+					"Translation":
+					{
+						"Text": "Nelimitat"
+					},
+					"Key": "settings_fps_unlimited"
+				},
+				{
+					"Source":
+					{
+						"Text": "Up Button"
+					},
+					"Translation":
+					{
+						"Text": "Butonul Sus"
+					},
+					"Key": "Switch_special_dpad_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "Usage Statistics"
+					},
+					"Translation":
+					{
+						"Text": "Statistici de utilizare"
+					},
+					"Key": "stats_usage_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Item"
+					},
+					"Translation":
+					{
+						"Text": "Folosește obiectul"
+					},
+					"Key": "input_use_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Vertical Sync"
+					},
+					"Translation":
+					{
+						"Text": "Sincronizare Verticală"
+					},
+					"Key": "settings_vsync"
+				},
+				{
+					"Source":
+					{
+						"Text": "Vibration"
+					},
+					"Translation":
+					{
+						"Text": "Vibrație"
+					},
+					"Key": "settings_gamepad_vibration"
+				},
+				{
+					"Source":
+					{
+						"Text": "View button"
+					},
+					"Translation":
+					{
+						"Text": "Butonul View"
+					},
+					"Key": "gamepad_special_left_xbox"
+				},
+				{
+					"Source":
+					{
+						"Text": "Volumetric Fog"
+					},
+					"Translation":
+					{
+						"Text": "Ceață Volumetrică"
+					},
+					"Key": "settings_volumetric_fog"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wake Up"
+					},
+					"Translation":
+					{
+						"Text": "Trezește-te"
+					},
+					"Key": "panel_rest_option_wake_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "WarriOrb"
+					},
+					"Translation":
+					{
+						"Text": "WarriOrb"
+					},
+					"Key": "warriorb"
+				},
+				{
+					"Source":
+					{
+						"Text": "WarriOrb DRM"
+					},
+					"Translation":
+					{
+						"Text": "WarriOrb DRM"
+					},
+					"Key": "drm_defeatead_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "We suspect that you play a pirated copy of the game.\nIt's fine. We hope you will enjoy it!\n\nIf you like the game, please tell your friends about it, and maybe even consider buying it.\n\nWe would love to keep making games!"
+					},
+					"Translation":
+					{
+						"Text": "Bănuim că joci o copie piratată a jocului.\nEste ok. Sperăm că îți va place!\n\nDacă vă place jocul, vă rugăm să spuneți prietenilor despre el, și poate chiar să luați în considerare cumpărarea acestuia.\n\nNe-ar plăcea să continuăm să facem jocuri in continuare!"
+					},
+					"Key": "drm_defeatead_description"
+				},
+				{
+					"Source":
+					{
+						"Text": "Windowed"
+					},
+					"Translation":
+					{
+						"Text": "Fereastră"
+					},
+					"Key": "settings_windowed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wishlist"
+					},
+					"Translation":
+					{
+						"Text": "Adaugă în lista de dorințe"
+					},
+					"Key": "steam_main_game"
+				},
+				{
+					"Source":
+					{
+						"Text": "X Button"
+					},
+					"Translation":
+					{
+						"Text": "Butonul X"
+					},
+					"Key": "Switch_FaceButton_Top"
+				},
+				{
+					"Source":
+					{
+						"Text": "XBox One"
+					},
+					"Translation":
+					{
+						"Text": "XBox One"
+					},
+					"Key": "console_xbox_one"
+				},
+				{
+					"Source":
+					{
+						"Text": "XP"
+					},
+					"Translation":
+					{
+						"Text": "XP"
+					},
+					"Key": "xp"
+				},
+				{
+					"Source":
+					{
+						"Text": "Y Button"
+					},
+					"Translation":
+					{
+						"Text": "Butonul Y"
+					},
+					"Key": "Switch_FaceButton_Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Yes"
+					},
+					"Translation":
+					{
+						"Text": "Da"
+					},
+					"Key": "yes"
+				},
+				{
+					"Source":
+					{
+						"Text": "You can only change the equipped spells near ancient statues."
+					},
+					"Translation":
+					{
+						"Text": "Poți schimba vrăjile echipate numai în apropierea statuilor antice."
+					},
+					"Key": "panel_spell_selection_denied"
+				},
+				{
+					"Source":
+					{
+						"Text": "You don't have the necessary item to use spells!"
+					},
+					"Translation":
+					{
+						"Text": "Nu ai articolulul necesar pentru a utiliza vrăji!"
+					},
+					"Key": "panel_rest_no_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Your progress is saved automatically whenever this icon is displayed"
+					},
+					"Translation":
+					{
+						"Text": "Progresul este salvat automat de fiecare dată când este afișată această pictogramă"
+					},
+					"Key": "progress_saved_automatically"
+				},
+				{
+					"Source":
+					{
+						"Text": "ZL Button"
+					},
+					"Translation":
+					{
+						"Text": "Butonul ZL"
+					},
+					"Key": "Switch_Trigger_Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "ZR Button"
+					},
+					"Translation":
+					{
+						"Text": "Butonul ZR"
+					},
+					"Key": "Switch_Trigger_Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "[Empty Button]"
+					},
+					"Translation":
+					{
+						"Text": "[Butonul Gol]"
+					},
+					"Key": "key_selection_empty"
+				},
+				{
+					"Source":
+					{
+						"Text": "[Press Button]"
+					},
+					"Translation":
+					{
+						"Text": "[Apasă Butonul]"
+					},
+					"Key": "key_selection_press"
+				},
+				{
+					"Source":
+					{
+						"Text": "seconds"
+					},
+					"Translation":
+					{
+						"Text": "secunde"
+					},
+					"Key": "seconds"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} H {1} M"
+					},
+					"Translation":
+					{
+						"Text": "{0} H {1} M"
+					},
+					"Key": "save_slots_playtime"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} M"
+					},
+					"Translation":
+					{
+						"Text": "{0} M"
+					},
+					"Key": "save_slots_playtime_short"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} for {1} gold"
+					},
+					"Translation":
+					{
+						"Text": "{0} pentru {1} aur"
+					},
+					"Key": "trade_amount_x_x"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} sec"
+					},
+					"Translation":
+					{
+						"Text": "{0} sec"
+					},
+					"Key": "inventory_item_tooltip_sec"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0}%"
+					},
+					"Translation":
+					{
+						"Text": "{0}%"
+					},
+					"Key": "percentage_argument"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0}x{1}"
+					},
+					"Translation":
+					{
+						"Text": "{0}x{1}"
+					},
+					"Key": "settings_resolution_entry"
+				}
+			]
+		}
+	]
+}

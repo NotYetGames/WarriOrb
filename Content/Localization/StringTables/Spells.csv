@@ -1,0 +1,14 @@
+Key,SourceString,Comment
+immune,Immune,displayed as floating text ingame if enemy is immune to a spell or damage type
+resisted,Resisted,displayed as floating text ingame if enemy has a chance to avoid an effect and he is lucky
+second_chance,Second Chance, displayed as floating test ingame if char has the effect on and dies and respawns because the effect saves him
+blocked,Blocked, displayed as floating test ingame when a certain enemy blocks certain attacks
+infected,Infected, displayed as floating test ingame when dmg over time effect is applied on enemy
+no_need_for_heal,No need, displayed as floating test ingame when the character tries to use heal spell but has max health already
+missing_target,Who? Where? What?!, displayed as floating test ingame when the character tries to use a spell which requires a target but there is none in range
+cant_use_sk_free_zone,Dangerous Location, displayed as floating test ingame when character tries to use the respawn point spell on a location when it is not allowed
+cant_use_in_air,Can't in air, displayed as floating test ingame when the character tries to use a spell in air which can not be used there
+spell_regained,Spell Charge Regained!, displayed as floating test ingame when the character regains a spell (can cast again)
+instant_recharge,Instant Recharge, displayed as floating test ingame when a spell can be used again without waiting for the cooldown time
+hp_gained,Health Increased!, displayed as floating test ingame when the character increases his max health
+spell_capacity_gained,Spellpower Increased!, displayed as floating test ingame when the character increases his spellpower

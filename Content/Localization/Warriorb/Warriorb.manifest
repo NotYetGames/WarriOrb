@@ -1,0 +1,6883 @@
+{
+	"FormatVersion": 1,
+	"Namespace": "",
+	"Children": [
+		{
+			"Source":
+			{
+				"Text": "<T>-- Not Yet Team --</>\r\n\r\n\r\nAnna Molnár\r\n<R>2D art, Environment Design</>\r\n\r\n\r\nCsaba Molnár\r\n<R>Code, Design</>\r\n\r\n\r\nDaniel Butum\r\n<R>Code</>\r\n\r\n\r\nGéza Molnár\r\n<R>3D art, Design</>\r\n\r\n\r\nRichárd Ráski\r\n<R>Sound Design</>\r\n\r\n\r\n\r\n<T>-- Music --</>\r\n\r\nBenjámin Kuli\r\n\r\n\r\nGisula\r\n\r\n\r\n\r\n<T>-- Voice Over --</>\r\n\r\n\r\nPeter Luzsi - @peterluzsi\r\n<R>WarriOrb, Gatekeeper, Ghost Armor, Principal</>\r\n\r\n\r\nBrent Miller\r\n<R>WarriOrb - Trailer</>\r\n\r\n\r\nPierce Riola\r\n<R>Wizard, Gnory</>\r\n\r\n\r\nEir Causey\r\n<R>Raven, Teachy, Ghost Dwarf, Unknown Wizard, Fishy</>\r\n\r\n\r\nJack Broadbent\r\n<R>Monk, Flybug</>\r\n\r\n\r\nEmil Hagg\r\n<R>Supper Dwarf, Kobold Chef, Fallen Druid, Dwarven Statue</>\r\n\r\n\r\nErick Nita\r\n<R>Golem Maker, Armour Wrath</>\r\n\r\n\r\nAlain Vega\r\n<R>Merch Ant</>\r\n\r\n\r\nAngela Tran\r\n<R>Lillian, Pipe Walker</>\r\n\r\n\r\nBrittany Ann Phillips\r\n<R>Lory</>\r\n\r\n\r\nAurore Gautheur\r\n<R>Fountain, Shade</>\r\n\r\n\r\nAlexander Blairlex\r\n<R>Primitive Fishy, Ghost Helmet</>\r\n\r\n\r\nSophie Ryder\r\n<R>Shadesphere</>\r\n\r\n\r\n\r\n\r\n<T>-- Partners --</>\r\n\r\n\r\nMaple Whispering\r\n<R>Chineese localization</>\r\n<R>Publisher - China, PC</>\r\n\r\n\r\nNovy Unlimited\r\n<R>PR and Marketing</>\r\n\r\n\r\n\r\n\r\n<T>-- Localization --</>\r\n\r\n\r\nVera Liscovschi\r\n<R>Russian</>\r\n\r\n\r\nJay Johnstone\r\n<R>Spanish</>\r\n\r\n\r\nBertin William\r\n<R>French</>\r\n\r\n\r\n\r\n\r\n<T>-- Testers --</>\r\n\r\n\r\nSaleymander\r\n\r\n\r\nHitch\r\n\r\n\r\nMrCalculated\r\n\r\n\r\n<img id=\"Rainbow\"/>Scorpion253<img id=\"Rainbow\"/>\r\n\r\n\r\nmoses\r\n\r\n\r\nNinjin42\r\n\r\n\r\nKonstantinos Xenitidis\r\n\r\n\r\nPhyronnaz\r\n\r\n\r\nArthur\r\n\r\n\r\nMaster1G\r\n\r\n\r\nDávid Bartók\r\n\r\n\r\nLiDuGaming\r\n\r\n\r\nClaudiu Coman\r\n\r\n\r\nÁron Ürögdi\r\n\r\n\r\nDukenukemboi\r\n\r\n\r\nBart Cools\r\n\r\n\r\nGlenn De Jonghe\r\n\r\n\r\nDomonkos Péter Madarász\r\n\r\n\r\nGergő Gyarmati\r\n\r\n\r\nRéka Gyarmati\r\n\r\n\r\nKincső Petraskó\r\n\r\n\r\nGergő Petraskó\r\n\r\n\r\nDániel Garamvölgyi\r\n\r\n\r\nDanny \"GHelmet\" Cloutier\r\n\r\n\r\nAnna Boglárka Tóth\r\n\r\n\r\nBíborka Roxána Kubik\r\n\r\n\r\nVirág Miklós\r\n\r\n\r\nBenedek Marozsák\r\n\r\n\r\nDániel Marozsák\r\n\r\n\r\nGereon Bartel\r\n\r\n\r\n\r\n\r\n<T>-- Prologue Speedrun Competition Winner --</>\r\n\r\n-7\r\n\r\n\r\n\r\n\r\n<T>-- Special Thanks --</>\r\n\r\n\r\nMalazan Discord Server Community\r\n\r\n\r\n/r/metroidvenia Discord Server Community\r\n\r\n\r\nUnreal Slackers Discord Server Community\r\n\r\n\r\nIMGUR\r\n\r\n\r\nBíborka Roxána Kubik\r\n\r\n\r\nSergiu Crăiţoiu\r\n\r\n\r\nJuhász Ernő\r\n\r\n\r\nRacheal Smith\r\n\r\n\r\nRuxandra Seniuc\r\n\r\n\r\nthottee\r\n\r\n\r\nAndrew Pappas\r\n\r\n\r\nJonathan Lampel\r\n\r\n\r\nRichárd Németh\r\n\r\n\r\nAlex Gorcea\r\n\r\n\r\nNotRealVitor\r\n\r\n\r\nKinga Surján\r\n\r\n\r\nAnna Boglárka Tóth\r\n\r\n\r\nÉvi Fekete\r\n\r\n\r\nGergő Sielaf\r\n\r\n\r\n<img id=\"Rainbow\"/>Scorpion253<img id=\"Rainbow\"/>\r\n\r\n\r\nMainiac\r\n\r\n\r\n\r\n\r\n<T>-- Technology --</>\r\n\r\n\r\n<R>WarriOrb uses the Unreal® Engine.</>\r\n<R>Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere</>\r\n\r\n<R>Unreal® Engine, Copyright 1998 – 2020, Epic Games, Inc. All rights reserved.</>\r\n\r\n\r\n\r\n<R>Made with FMOD Studio by Firelight Technologies Pty Ltd.</>"
+			},
+			"Keys": [
+				{
+					"Key": "78A72CB345FCC7ECDCFD8181471D78D8",
+					"Path": "/Game/SO/GUI/UI_Credits.UI_Credits_C:WidgetTree.CreditsText.Text"
+				}
+			]
+		}
+	],
+	"Subnamespaces": [
+		{
+			"Namespace": "CharacterStrike",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Air Strike"
+					},
+					"Keys": [
+						{
+							"Key": "SwordSpecialAirStrike_name",
+							"Path": "/Game/SO/CharacterStrikes/SwordSpecialAirStrike.SwordSpecialAirStrike.StrikeName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Backslash"
+					},
+					"Keys": [
+						{
+							"Key": "DualBladeSpecial_name",
+							"Path": "/Game/SO/CharacterStrikes/DualBladeSpecial.DualBladeSpecial.StrikeName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Crushing Blow"
+					},
+					"Keys": [
+						{
+							"Key": "LeafMaceSpecial_name",
+							"Path": "/Game/SO/CharacterStrikes/LeafMaceSpecial.LeafMaceSpecial.StrikeName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Downstrike"
+					},
+					"Keys": [
+						{
+							"Key": "DemonSwordSpecial_name",
+							"Path": "/Game/SO/CharacterStrikes/DemonSwordSpecial.DemonSwordSpecial.StrikeName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Floating Strikes"
+					},
+					"Keys": [
+						{
+							"Key": "SabreSpecial_name",
+							"Path": "/Game/SO/CharacterStrikes/SabreSpecial.SabreSpecial.StrikeName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Throw"
+					},
+					"Keys": [
+						{
+							"Key": "AxeSpecial_name",
+							"Path": "/Game/SO/CharacterStrikes/AxeSpecial.AxeSpecial.StrikeName"
+						}
+					]
+				}
+			]
+		},
+		{
+			"Namespace": "EffectInstance",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Arcane Luck"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftRegainSpellPassive25_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/BPEftRegainSpellPassive25.Default__BPEftRegainSpellPassive25_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Charged Bounce"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftBounce_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftBounce.Default__BPEftBounce_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Critical Chance"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftCriticalChanceBoost10_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/BPEftCriticalChanceBoost10.Default__BPEftCriticalChanceBoost10_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Firestrike"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftSpellFire0_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftSpellFire0.Default__BPEftSpellFire0_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Greenflame"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftWeaponFlamesTimeBased_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/BPEftWeaponFlamesTimeBased.Default__BPEftWeaponFlamesTimeBased_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Heal"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftHeal3_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/BPEftHeal3.Default__BPEftHeal3_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Life Leech"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftLifeLeech5_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/BPEftLifeLeech5.Default__BPEftLifeLeech5_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Magic Missile"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftMagicMissle_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftMagicMissle.Default__BPEftMagicMissle_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Magic Missiles"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftMassMagicMissle_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftMassMagicMissle.Default__BPEftMassMagicMissle_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Magical Protection"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftTempHPMagical_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftTempHPMagical.Default__BPEftTempHPMagical_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Meteor Shower"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftMeteorShower_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftMeteorShower.Default__BPEftMeteorShower_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Perfect Hands"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftDmgModifier_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftDmgModifier.Default__BPEftDmgModifier_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Physical Protection"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftTempHPPhysical_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftTempHPPhysical.Default__BPEftTempHPPhysical_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Protective Transmutation"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftBootTransmutation_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/BPEftBootTransmutation.Default__BPEftBootTransmutation_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Quick Hands"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftAttackSpeedMultiplier_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/BPEftAttackSpeedMultiplier.Default__BPEftAttackSpeedMultiplier_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Restlessness"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftCooldownReducePassive02_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/BPEftCooldownReducePassive02.Default__BPEftCooldownReducePassive02_C.DisplayName"
+						},
+						{
+							"Key": "BPEftCooldownReduce_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/BPEftCooldownReduce.Default__BPEftCooldownReduce_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Restoration"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftRegainSpells_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/BPEftRegainSpells.Default__BPEftRegainSpells_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Second Chance"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftSecondChance_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/BPEftSecondChance.Default__BPEftSecondChance_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Shadewalk"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftSpellShadowWalk_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftSpellShadowWalk.Default__BPEftSpellShadowWalk_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Shield"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftSpellShield_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftSpellShield.Default__BPEftSpellShield_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Shockwalk"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftSpellLightningWalk_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftSpellLightningWalk.Default__BPEftSpellLightningWalk_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Slow"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftMassSlow_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftMassSlow.Default__BPEftMassSlow_C.DisplayName"
+						},
+						{
+							"Key": "BPEftSlow_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/BPEftSlow.Default__BPEftSlow_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Soulbind"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftSpellSoulKeeper_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftSpellSoulKeeper.Default__BPEftSpellSoulKeeper_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Sparks of Vengeance"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftDamageReflection_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/BPEftDamageReflection.Default__BPEftDamageReflection_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Stoneskin"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftResModifierPhysical_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftResModifierPhysical.Default__BPEftResModifierPhysical_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Stun"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftStun_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/BPEftStun.Default__BPEftStun_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Stun Chance"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftStunPassive10_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/BPEftStunPassive10.Default__BPEftStunPassive10_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Swap"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftSwap_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftSwap.Default__BPEftSwap_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Wardskin"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftResModifierMagicalStrong_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftResModifierMagicalStrong.Default__BPEftResModifierMagicalStrong_C.DisplayName"
+						},
+						{
+							"Key": "BPEftResModifierMagical_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftResModifierMagical.Default__BPEftResModifierMagical_C.DisplayName"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Worthy"
+					},
+					"Keys": [
+						{
+							"Key": "BPEftWorthy_name",
+							"Path": "/Game/SO/Blueprints/EffectInstances/BPEftWorthy.Default__BPEftWorthy_C.DisplayName"
+						}
+					]
+				}
+			]
+		},
+		{
+			"Namespace": "EndScreen",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "<Quote> ‘That is because I know exactly what the final result should be’</> he explained."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_11_text_2",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(11).EndingLogic.Texts(2).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>'Could there be other survivors of my tribe?'</>"
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_10_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(10).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>'I also knew that I was a bit mad and since for my insane mind training in a monastery looked like a crazy idea I immediately knew that in fact that's the most sane thing to do.’</>"
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_7_text_2",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(7).EndingLogic.Texts(2).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘And I would also like to check what do they eat for supper.’</> he said. <Quote>‘I’m going with you.’</>"
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_11_text_2",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(11).EndingLogic.Texts(2).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Due to my training I can resist Ruin’</> he thought. <Quote>‘No one has ever seen what’s there where Ruin destroyed the lands. If I train harder I might be able to get closer to Ruin to see what it really is.’</>"
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_13_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(13).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Even if it was not enough I did all I could. I’m done.’</> he said."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_12_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(12).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Fishy think it is important’ </>he said.<Quote> ‘If Monk go to see Ruin, Fishy need to learn it.’</>"
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_18_text_2",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(18).EndingLogic.Texts(2).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Focus on what you are doing Lillian. He was a bit odd anyway.’</>"
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_5_text_3",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(5).EndingLogic.Texts(3).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Have no fear!’</> Golem Maker said. <Quote>‘I will return with even more knowledge and we’ll stop Ruin once and for all.’</>"
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_10_text_2",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(10).EndingLogic.Texts(2).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Hey there! I’m fed up with microtransactions. Can I go with ya man?’</>"
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_19_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(19).EndingLogic.Texts(1).Texts"
+						},
+						{
+							"Key": "UI_EndScreen_entry_16_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(16).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘I know Wizard would have disagreed but you did the right thing. We still have time to face Ruin. We couldn’t let everyone die there.’</>"
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_4_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(4).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘I think therefore I am not a bird’</> - he said."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_8_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(8).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘If I could resist madness, others should be able to do the same’</> - he thought."
+					},
+					"Keys": [
+						{
+							"Key": "F0EAD93B44D8D7AEF306EAB75D83FB37",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.UI_EndScreen_C:WidgetTree.TBB1.Text"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘If I could resist madness, shouldn't others be able to do the same?’</>- he wondered."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_6_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(6).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘If there is something we can do with Ruin it must be connected to the rituals. I’ll go with you.’</>"
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_13_text_2",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(13).EndingLogic.Texts(2).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Kobolds reserved the ancient knowledge in their rituals’</> Golem Maker said. <Quote>‘If there is something we can do with Ruin it must be connected to the rituals. I’ll go with you.’</>"
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_10_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(10).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Kobolds reserved the ancient knowledge in their rituals’</> he said."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_13_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(13).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Now is the time’</> Monk said one day. <Quote>’Go to the Human Realm and prepare the people.’</>"
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_18_text_4",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(18).EndingLogic.Texts(4).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘To be honest I never actually wanted to be a teacher‘</> - said Teachy."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_7_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(7).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘To be honest I never wanted to be a teacher’ </>he said. <Quote>‘I only stayed at University so that I can do some more research work. But my students never let me research during lectures.’</>"
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_6_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(6).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "<Size42>Separating the World also changed something in the Ruined Realm. The wind turned and even Ruin stopped for a moment.</>"
+					},
+					"Keys": [
+						{
+							"Key": "7279EA4741D3DAC5AE92EB99AB851ED9",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBD0.Text"
+						},
+						{
+							"Key": "77E809914A65796364FE94B8C2361FD7",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBD2.Text"
+						},
+						{
+							"Key": "9C1B477D4582ABAEDC90FCB3AC6737E7",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.UI_EndScreen_C:WidgetTree.TBD0.Text"
+						},
+						{
+							"Key": "E98C3FDD453FF80CA8EBBE94459A5CAF",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBD1.Text"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "<Size42>Separating the World also changed something in the Ruined Realm.</>"
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_4_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(4).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "<Size42>The wind turned and even Ruin stopped for a moment.</>"
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_4_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(4).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A few hours later members of the Mage Council arrived along with the city guards."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_1_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(1).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A few weeks later he realized that even though he failed his quest he still should do something."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_13_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(13).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A portal opened and swallowed the Keeper."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_5_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(5).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "After Kobold Chef left, Supper Dwarf had to take care of the kitchen."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_11_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(11).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "After days of arguing on who undermined whose business Lory and Gnory separated once again."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_14_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(14).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "After lunch they started to talk."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_9_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(9).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "After weeks of walking alone, he heard a faint excited voice:"
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_16_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(16).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Although Lillian inherited her father’s castle she was sent to an Orphanage until she came into age to live on her own."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_2_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(2).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Although it was total nonsense Lillian and Scholar was happy that the crowd were taken away from the Castle."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_1_text_2",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(1).EndingLogic.Texts(2).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "As for Gnory, he decided to sell lots of different things in the City Prison which turned out to be his new home for a while."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_17_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(17).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "As some stories ended some new ones begun. Though what happened afterwards is not yet known."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_21_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(21).EndingLogic.Texts(0).Texts"
+						},
+						{
+							"Key": "UI_EndScreen_entry_18_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(18).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "As time passed Scholar started to behave a bit odd which made Lillian really anxious."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_5_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(5).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "At least he stopped creating mindless stone golems."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_12_text_3",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(12).EndingLogic.Texts(3).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "By the time the furious crowd broke into the Wizard’s Castle the Device was completely destroyed."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_0_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(0).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Even though she lost her father Lillian couldn’t afford to let sadness overcome her."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_3_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(3).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Fishy didn’t like the medicine business so he left Gnory."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_18_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(18).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Gnory specialized himself in selling medicine which were said to heal the sickness which was spreading as Ruin reached closer."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_15_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(15).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Golem Maker was a huge help to Lillian with his knowledge on Golemology and it was not easy for Lillian to let him go."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_10_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(10).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "He decided to leave his kitchen and search for his lost relatives."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_10_text_2",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(10).EndingLogic.Texts(2).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "He decided to return to the Ruined Realm and search for his lost relatives."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_9_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(9).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "He had no idea where he was going."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_15_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(15).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "He joined Lillian and dug into every book he could possibly find on the Ancient’s technology."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_6_text_2",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(6).EndingLogic.Texts(2).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "He joined Monk for a while to learn the mental training techniques which reserved Monk’s sanity."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_18_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(18).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "He joined Monk’s monastery to teach philosophy."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_8_text_3",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(8).EndingLogic.Texts(3).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "He kept on practising and soon set out on a journey into the heart of Ruin to find answers to questions even he didn’t know."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_13_text_2",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(13).EndingLogic.Texts(2).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "He opened a monastery to share his mental training techniques with anyone willing to save its sanity."
+					},
+					"Keys": [
+						{
+							"Key": "E9F6E1064D5B2046DF1DEDA386012E2D",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.UI_EndScreen_C:WidgetTree.TBB2.Text"
+						},
+						{
+							"Key": "UI_EndScreen_entry_6_text_2",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(6).EndingLogic.Texts(2).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "He organized some of the cleaners to repair the Castle so that Lillian can keep on with her work."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_7_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(7).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "He sat down on a mountaintop and started meditating."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_12_text_2",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(12).EndingLogic.Texts(2).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "He was just sitting and staring at nothing."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_12_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(12).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Hearing these news made the Chef really excited."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_10_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(10).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Hearing this news made Kobold Chef really excited."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_9_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(9).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "However there are things which never change."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_14_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(14).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "In his free hours he kept on studying the Ancient’s technology hoping that one day he will find a way back to Lillian."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_8_text_4",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(8).EndingLogic.Texts(4).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "It turned out that he is also really talented at making food."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_11_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(11).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "It was still hard for the Maker to accept that all his work was for nothing."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_12_text_2",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(12).EndingLogic.Texts(2).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Later he opened a restaurant which soon became really popular."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_11_text_3",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(11).EndingLogic.Texts(3).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Later he started to remember things from the Runic Realm which helped Lillian a lot."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_7_text_2",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(7).EndingLogic.Texts(2).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Lillian didn't let the unfortunate events to overcome her. She stopped Ruin even if no one believed her."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_3_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(3).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Lory and Gnory suddenly found themselves in a world full of possible customers."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_14_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(14).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Lory specialized in medicine which were said to heal the sickness which was caused by the medicine of Gnory."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_15_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(15).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Lory’s herbaria worked out."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_16_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(16).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Losing his connection to his master, Raven had to think again about his purpose."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_8_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(8).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Merch Ant and Fishy soon became best friends and ventured on together."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_19_text_2",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(19).EndingLogic.Texts(2).Texts"
+						},
+						{
+							"Key": "UI_EndScreen_entry_16_text_2",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(16).EndingLogic.Texts(2).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Monk accepted Fishy as his apprentice and taught him all that was possible."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_18_text_3",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(18).EndingLogic.Texts(3).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Monk decided to stay in the Ruined Realm."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_12_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(12).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "No one knows how he could possibly know about the soup, but Supper Dwarf also appeared to taste the food."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_11_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(11).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Now that her own Realm was safe she could focus on the other Realms."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_3_text_2",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(3).EndingLogic.Texts(2).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Of course it didn’t mean they stopped arguing on who undermined whose business but finally they both had the chance to run a successful trading company."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_14_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(14).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "On his way to the Human Realm Fishy heard a faint excited voice:"
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_19_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(19).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "On their way they stopped by the Golem Maker."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_12_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(12).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Once the Boundaries of Worlds were sealed, Ruin could do no harm to the Human Realm again."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_0_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(0).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "One day a Pipe Walker, who had been in many cages mentioned that she met some kobolds far away who might be other survivors of the Kobold Chef’s tribe."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_8_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(8).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "One of the Pipe Walkers, who had been in many cages mentioned that she actually met some kobolds far away."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_9_text_2",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(9).EndingLogic.Texts(2).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruin was close and the solution was still far away."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_5_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(5).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruin was more of a threat now than ever before, and since the Mage Council didn’t believe in Ruin it was the task of Lillian and Scholar to repair the device."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_3_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(3).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Scholar was really proud of Lillian because she managed to save time for the evacuation."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_4_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(4).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Scholar was upset by Lillian’s decision on letting the Ruined Realm fall but he promised Lillian that he will make the Wizard’s Council let Lillian live in his estate."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_2_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(2).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "She also knew that the Ruined Realm still had at least a half century before it was totally destroyed so she decided to keep on looking for a way to save it."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_3_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(3).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Some believed he survived but no one ever met him again."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_5_text_2",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(5).EndingLogic.Texts(2).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Some left, others started to investigate the building hoping to find something which might stop Ruin."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_0_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(0).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Some say mostly because he hired Pipe Walkers to serve the meal and for marketing purposes."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_11_text_4",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(11).EndingLogic.Texts(4).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Soon she started to sell other medicine and healing devices as well."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_16_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(16).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "The Council claimed that Wizard died in an unfortunate accident, his device could never actually work anyway and Ruin is nothing to fear of."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_1_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(1).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "The Mage Council didn’t believe a single word Lillian or Scholar told them about the events."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_1_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(1).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "The World was still about to end, but as one Pipe Walker wisely said:"
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_20_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(20).EndingLogic.Texts(0).Texts"
+						},
+						{
+							"Key": "UI_EndScreen_entry_17_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(17).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "The new environment and being a bit further from Ruin made good to the Gate Keeper."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_7_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(7).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "The people soon forgot about the threat, some of them argued that Ruin ever existed."
+					},
+					"Keys": [
+						{
+							"Key": "DF7F9F754F4FC9CB19DF92AFCE96C5C1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBA2.Text"
+						},
+						{
+							"Key": "E8401550448E14DD70717EB7EED0582B",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBA1.Text"
+						},
+						{
+							"Key": "UI_EndScreen_entry_0_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(0).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "They claimed that Wizard died in an unfortunate accident and his device could never actually work anyway."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_1_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(1).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "To the surprise of many Teachy also joined Monk and soon he became his best student."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_7_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(7).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "To the surprise of many Teachy turned out to be an excellent researcher."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_6_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(6).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "When he heard about the lost Kobold tribe he got a bit excited."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_13_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(13).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "When he heard about the lost Kobold tribe he got a bit excited.<Quote>‘Kobolds reserved the ancient knowledge in their rituals’</> he said. <Quote>‘If there is something we can do with Ruin it must be connected to the rituals. I’ll go with you.’</>"
+					},
+					"Keys": [
+						{
+							"Key": "9B476D3D4A603658683498B09968F8AA",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.UI_EndScreen_C:WidgetTree.TBB0.Text"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "When he heard that the chef is leaving he offered his help with the trains."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_11_text_1",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(11).EndingLogic.Texts(1).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "When it was certain that no one will be saved from Ruin, as a last desperate act Gate Keeper tried to open a Gate to the Human Realm himself."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_5_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(5).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "When she talked about her concerns to Raven, the bird said:"
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_5_text_2",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(5).EndingLogic.Texts(2).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "When the soup was almost ready the Pipe Walkers smelled the flavour and they all gathered for a last dinner."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_9_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(9).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "When they were left alone they quickly started the evacuation of the Ruined Realm."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_SaveCreatures_entry_2_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(2).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "While they were arguing Fishy decided to leave Gnory and set out on his own."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_15_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(15).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "With his quest completed Monk decided to look for another activity."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_6_text_0",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(6).EndingLogic.Texts(0).Texts"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "With his quest completed Monk decided to look for another activity. He thought: <Quote>‘If I could resist madness, others should be able to do the same.’</> And so he opened a monastery to share his mental training techniques with anyone willing to save its sanity."
+					},
+					"Keys": [
+						{
+							"Key": "1E42901841F4C7CEF39536A762076EDF",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBC1.Text"
+						},
+						{
+							"Key": "5D04206A499A8B42AF77BAA8BC9B4B8B",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBC0.Text"
+						},
+						{
+							"Key": "B0EEBB754110D2821640BE990002AC36",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBC2.Text"
+						},
+						{
+							"Key": "D75DCE214B56BA6FD9A58F9EEA9291A5",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.UI_EndScreen_C:WidgetTree.TBC0.Text"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "With his vast experience he couldn’t become the same thoughtless bird he once was."
+					},
+					"Keys": [
+						{
+							"Key": "UI_EndScreen_entry_8_text_2",
+							"Path": "/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(8).EndingLogic.Texts(2).Texts"
+						}
+					]
+				}
+			]
+		},
+		{
+			"Namespace": "EnemyGroupData",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "'Attention: our enemies greatest weapon, the holy Mace is stolen. We truly should have destroyed it as the Council suggested.'"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_MaceGroup_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "'Just keep cleaning! Cleaning, cleaning...'"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_AGRightFromPortal_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "'Let's make something clear. Maybe this room?'"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_SAFightOptional_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "'We won't clear anymore!' said the rebel Maintainer.\r\n'Let's declear War!'"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_SAFightMustHave_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A fourth Sphere Golem? Someone never gives up..."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_LavaDeepTeam_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Abandoned Fishy Slaves"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_HutFishies_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "After Ruin most Golems liked to group together. Only a few chose to stay alone."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_LoneSewerDrone_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "After Ruin turned them into Monsters some creatures gathered together. Whether it's the effect of Ruin or something from their former life is unclear."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_Shore_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "After Ruin, Golems started to have strange behavior. There were a group of them who used the pipes to flood a part of the City. Later these places were called the Sewer."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_MaintainerInvestigatorInvestigators_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "After creating intelligence Golem Makers wanted even more. They wanted complex personality. They wanted Golems that can not only think but also feel. That was the idea behind designing the Gatekeepers."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_ArcadeDungeonExit_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "After the different types of Cleaners, Golem Makers wanted to create something greater than working robots. They started to design creatures with intelligence."
+					},
+					"Keys": [
+						{
+							"Key": "WhiteWall_EG_FirstOptionalCombat_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Annoying Flies"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_HutFlyArmy_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Another Lone Drone"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_LoneSewerDrone_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Anxious Armours"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_C_BeforeKey_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Arcade Cleaner Golems"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_ArcadeMaintainers_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Arcade Cleaners"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_ArcadeDungeonCleaners_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Arcade Servants"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_ArcadeDungeonExit_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Armour Wrath"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_LavaBoss_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Armour Wrath was the most ambitious and majestic work of the Golem Maker. He used all his remaining strength to create this mighty Golem. It's a pity that all his efforts were in vain."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_LavaBoss_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Before Ruin there was no other humanoid race but human. New races are created by Ruin's Shades. They roam the lands looking for any living being which they can possess. Once they become part of a creature its body will start to change."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_C_LoneShadeSphere_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Bounce Trio"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_BounceTrio_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Bridge Brigade"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_C_Bridge_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Capetainers"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_AfterGateElits_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Chest"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_Chest_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Citizens of Cerulean requested to have their own unique Golems, but it was always rejected. This situation was very good for the Black Golem Market, because this way it was always easy to find customers."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_AfterGateCleaners_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Cleaner Invasion"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_AGRightFromPortal_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Cleaner Twins"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct3_EG_Act3RangedCleanerTwins_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Cleaners of Cerulean"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_AfterGateCleaners_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Cleaners of the Refrigerator."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_SABeforeWallJump_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Cleaners were the first Golems ever made. Before the Cataclysm they did all the monoton work so that the people had more time to think and to create."
+					},
+					"Keys": [
+						{
+							"Key": "WhiteWall_EG_FirstCombat_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Crafting was always the obsession of Dwarves. In their workshops they forged mighty weapons and wondrous armours. Their love for their craft was so strong that instead of their body, Ruin preserved their iron works."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_C_Bridge_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Creating intelligence was not enough for the Golem Makers. They wanted to get even further. They wanted to create Golems with emotions."
+					},
+					"Keys": [
+						{
+							"Key": "WhiteWall_EG_AfterKobold_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Deep beneath the Catacombs there is a secret place called the Dwarven Gate. Elite dwarves who worked here were placed above the Law. They were seeking a way to fight Ruin with Ruin's magic."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_DG_Left_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Deserter Fishys"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_SlideFishyTeam_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Deserter Fishys always kept a Fishy group close to the exit of their secret hideout. They protected the others and watched the kobolds to find the right time to venture back to the Lake."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_SlidePathEnd_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Divided they fall, united they divide..."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_LavaTeamX_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Drones delivered messages and gifts before Ruin. People were happy when they heard them approaching back then."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_LoneDrone_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Drones were even more intelligent than Maintainers. They not only memorized texts, they helped correct grammar, changed the message if it was too insulting or even made up poems if they were asked to do so."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_AAFirstDroneTrio_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarven Statue"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_DwarfBoss_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarven Statues were meant to imprison the essence of Ruin. However there were some Dwarven scientists who feared that the statues were not safe and in the long run they wouldn't be able to resist the power of Ruin..."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_DwarfBoss_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarves fought Ruin with Rules. These soldiers were ordered here to guard the Outpost. Their will to obey the order was so strong that even death couldn't break it."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_OutpostWallFirst_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Elite Twins"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct3_EG_Act3VacuumTwins_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Even though Ruin doesn't have consciousness nor the ability to think it somehow reacts to your presence. As if it knew the threat you present, Ruin tries all it can to stop you from leaving the Ruined Realm."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct3_EG_Act3FinalBattle_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Even though most of the common Dwarves never even heard about Dwarven Gate some were needed to do the hard work. Now that Ruin won, Dwarves are finally equal."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_DG_RightFloor_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Fallen Druid"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_WWBoss_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Fishys were produced by the Great Kobold tribe for slaves. Some of them managed to escape, but they couldn't go far from the Lake."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_SlideFishyTeam_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Flying Maintainer"
+					},
+					"Keys": [
+						{
+							"Key": "WhiteWall_EG_AfterKobold_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Fourth Sphere Golem"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_LavaDeepTeam_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Glorious Group"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_DG_Left_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Going into the Law's High Office was forbidden even for most of the Dwarves. Only one path lead to the Office and that was guarded by the Patrols."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_C_OfficePatrols_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Golem Group"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_LavaTeamX_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Golem Makers wanted to create something more intelligent as they learned more. They shaped the Maintainers, the first golems capable of talking. Sadly their intelligence vanished as Ruin came."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_SewerTeam_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Golem Trio"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_LavaTrio_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Golems never ever attacked the Pipe Walkers. The reason is only known by the wisest Pipe Walker himself. It is because, as he explained: 'Nun dara bum, tuk la.'"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_TLSewerCreatureWatch_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Guardians of the East Wall"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_OutpostRight_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Guardians of the Law"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_C_OfficeGuards_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Guardians of the West Wall"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_OutpostLeft_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Infected Golems"
+					},
+					"Keys": [
+						{
+							"Key": "WhiteWall_EG_BeforeKobold_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "It's still unclear what makes some creatures touched by Ruin to group together. Some believes those who had similar emotions when Ruin came were likely to form a group."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_C_BeforeKey_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Lava Jumpers"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_LavaJumpers_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Lava Jumpers are former Golems who fell into the lava. Some of them return to join their former Golem companions."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_BounceTrio_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Libraries were important in the life of the former Realm's citizens. No wonder that many of the golems were created only to dust and organize the books."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_TL_VacuumTwins_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Library Cleaners"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_TL_VacuumTwins_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Lone Drone"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_LoneDrone_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Looks like the second try is just as bad as the first one."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_GolemSecond_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Mace Defenders"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_MaceGroup_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Maintainer Spellcasters"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct3_EG_Act3BubbleGroundMain_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Maintainers of the Pipes"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_MaintainerInvestigators_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Maybe it only depends on the creation process, but some Golems had stronger personality. In general, Golems with more intelligence resisted Ruin longer and Golems with strong personality were more vulnerable to the infection."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_GGMiniBoss_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "More Drones"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct3_EG_Act3PipeGroupSecond_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "No one knows where the Flies came from. Although you have a very clear idea on where they should go..."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_HutFlyArmy_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Not only the Golems were created by using the Spirits of the Unknown World before Ruin. People found other ways of using this new technology. They created pipes to convey hot water to heat the city and cold water to drink."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_MaintainerInvestigators_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Not so Elite Dwarves"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_DG_RightFloor_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Now that the Fishys are gone, the Lake's piranhas can live in peace and eat whoever comes close."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_HutFishies_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "One idea of the Elite Dwarves was to create giant statues which are able to trap Ruin's essence. Even if they were right they never managed to make enough sculptures."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_DG_RightUpOptional_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Patrol Fishys"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_SlidePathEnd_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Patrols of the Law"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_C_OfficePatrols_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Patrols of the Outpost Wall"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_OutpostWallFirst_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "People realised that Golem's Spirits have a power beyond imagination. They called it the Ancient Magic. Vacuum Cleaners could use this magic to do their job even better."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_SewerCircleVacuumCleaners_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Pipe Golems"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_MaintainerInvestigatorInvestigators_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Red Drones"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct3_EG_Act3PipeGroupFirst_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruin was not only meant for destruction, it could also preserve. Ruin gave endless life for those who survived at the cost of twisting their minds."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_OutpostRight_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruin's logic is predictable when you understand its nature. When it's not possible to create more the creation process can be restarted by destroying everything first."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct3_EG_Act3VacuumTwins_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruin's nature is confusing for the human mind. It can build, it can destroy, it can use, it can be used. These actions have the same priority for Ruin. All that matters is that it can do something. And with time it wants more and more."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct3_EG_Act3RangedCleanerTwins_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruin's power is not only in destruction. When it can't change something it will preserve those attributes which can prepare the possibility to change again. Ruin's power is in change."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct3_EG_Act3BubbleGroundMain_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruined Convention"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct3_EG_Act3FinalBattle_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Sculptors"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_DG_RightUpOptional_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Second Sphere Golem"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_GolemSecond_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Sewer Golems"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_SewerTeam_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Sewer Team B"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_TLSewerCreatureWatch_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Shore Monsters"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_Shore_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Some believed cold can resist Ruin longer than magic. They created places where they kept the temperature beneath the freezing point. As it turned out, not even coldness can resist Ruin forever."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_SABeforeWallJump_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Sphere Golem"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_GolemFirst_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Stone Golems are the cheap copies of the Runic Realm Golems. If Ruin twists the creatures mind then it will definitely have no effect on these ones."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_GolemFirst_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "The Black Golem Market was funded by a Golem Maker apprentice who failed his master exam and was banished from school. No wonder his golems were... unique."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_AGTestStoneCircle_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "The Flying Three"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_AAFirstDroneTrio_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "The Golem's behaviour was specified by the Golem Makers. Only very simple personalities were made at the beginning. The Cleaners, for example, only desired to keep the place tidy and make sure they don't harm the people."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_ArcadeDungeonCleaners_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "The North Team"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_AGWallJumpTeam_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "The Runic Realm's Government didn't allow the Golems to become the privilege of the rich. Even though the elite were not allowed to have different Golems they always found a way to make their servants different than the ones owned by the poor."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_AfterGateElits_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "The Tower Trio"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_TowerTrio_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "The cleaning plan for this area fell apart with the participants."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_AGWallJumpTeam_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "The poor chest was minding his own business before you started to insult him."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_Chest_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "The very first Golems were made to do the most monotonic work so that people have more time to think and to create. Once they were friendly but as Ruin came their behaviour changed."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_ArcadeMaintainers_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "There is a difference between how Humans and Golems are transformed by Ruin. Human bodies reach their final form in a few decades but Golems never stop changing. There is always a new, more vicious type."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct3_EG_Act3PipeGroupFirst_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "There was a time when Worms only made damage to fields and gardens. Now they are a bit more ambitious..."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_Wormy_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "They spent most of their time on the top of those towers - it was clear to me that they would die there as well."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_TowerTrio_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Third Sphere Golem"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_GolemThird_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "To keep Ruin away dwarves forbade everything related to Ruin's magic. This might have worked in theory but they failed to notice that their mechanical devices were also powered by Ruin."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_OutpostLeft_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Transformation is relative to intelligence. Creatures with consciousness have a strong desire to reserve their ego. Ruin can fool them a few times but later they become invulnerable to Ruin's changing power."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct3_EG_Act3PipeGroupSecond_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Underground Cleaner Band"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_SAFightMustHave_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Underground Cleaner Band B"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_SAFightOptional_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Vacuum Cleaners"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_SewerCircleVacuumCleaners_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Vacuum Cleaners group"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_ArcadeDungeonOptional_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Watching the only way to the Office did not bring enough protection. If any intruder managed to pass the Patrols he still had to face the Guardians to proceed."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_C_OfficeGuards_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Weird Floating Thing"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_C_LoneShadeSphere_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Weird Golems"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_AGTestStoneCircle_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "When Ruin appeared some decided to abandon civilization and return to nature. Their leader, the Fallen Druid cast an ancient spell to protect his plants from Ruin. His spell partly worked but at a terrible cost."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_WWBoss_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "When a Golem falls into the lava its stone body will melt away. The spirit however resists the heat and will be looking for another body..."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_LavaJumpers_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "When the Cataclysm happened and Ruin came the Golems started to change. Instead of doing their daily work some of them turned against their masters."
+					},
+					"Keys": [
+						{
+							"Key": "WhiteWall_EG_BeforeKobold_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Wherever Golems go after death these three will go there together."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_LavaTrio_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Whitewall Cleaners"
+					},
+					"Keys": [
+						{
+							"Key": "WhiteWall_EG_FirstCombat_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Whitewall Maintainers"
+					},
+					"Keys": [
+						{
+							"Key": "WhiteWall_EG_FirstOptionalCombat_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Whoever made this Golem, he should have stopped after the second try."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_GolemThird_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Wickeds"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_GGMiniBoss_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Worm"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_Wormy_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Worms"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_WormHole_name",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Worms kept distance from each other before Ruin. It's strange how a force which tears everything apart can also unite."
+					},
+					"Keys": [
+						{
+							"Key": "SoAct2_EG_WormHole_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "You might wonder if a Vacuum Cleaner is designed to clean dust away why does it need a laser caster?"
+					},
+					"Keys": [
+						{
+							"Key": "SoAct1_EG_ArcadeDungeonOptional_desc",
+							"Path": "Config/DefaultSoGameSingleton.ini - line 23"
+						}
+					]
+				}
+			]
+		},
+		{
+			"Namespace": "ItemData",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "'According to the very few survivors, White Tower, our capital was completely destroyed by a magical phenomena called Ruin. At that time I was at Grey Gate so I can't tell anything for sure.'\r\n\r\nThe Last Sane Golem Maker, A.C. 16. September 4."
+					},
+					"Keys": [
+						{
+							"Key": "MemoryCrystal1_desc",
+							"Path": "/Game/SO/Items/MemoryStone/MemoryCrystal1.MemoryCrystal1.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "'I don't think I can keep up. There are times when I no longer know what I'm doing. I still have clear moments but they become more and more rare. I've recorded my memories to keep them safe.'\r\n\r\nThe Last Sane Golem Maker, about A.C. 500.\r\n"
+					},
+					"Keys": [
+						{
+							"Key": "MemoryCrystal8_desc",
+							"Path": "/Game/SO/Items/MemoryStone/MemoryCrystal8.MemoryCrystal8.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "'It's hard to tell but I think colours are fading away. The World was brighter before.'\r\n'The Monk won't help me. He stubbornly believes we are doomed.'\r\n\r\nThe Last Sane Golem Maker, A.C. 17. March 11."
+					},
+					"Keys": [
+						{
+							"Key": "MemoryCrystal3_desc",
+							"Path": "/Game/SO/Items/MemoryStone/MemoryCrystal3.MemoryCrystal3.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "'Madness takes control over those who get too close to Ruin.'\r\n'Maintainers forgot to speak. I understand some of the phrases they try to say: \"Dinner is served\", \"At your service\", \"Your order\" - a mockery of their former intelligence!'\r\n\r\nThe Last Sane Golem Maker, A.C. 21. January 26."
+					},
+					"Keys": [
+						{
+							"Key": "MemoryCrystal4_desc",
+							"Path": "/Game/SO/Items/MemoryStone/MemoryCrystal4.MemoryCrystal4.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "'Now I have seen it with my own eyes: the touch of the Ruin makes the World literally fall apart.'\r\n\r\nThe Last Sane Golem Maker, A.C. 25. September 4."
+					},
+					"Keys": [
+						{
+							"Key": "MemoryCrystal5_desc",
+							"Path": "/Game/SO/Items/MemoryStone/MemoryCrystal5.MemoryCrystal5.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "'Ruin will soon reach Grey Gate, our very last city. I need to move deeper into the Realm, further away from Ruin.'\r\n'I decided to create some new golems. Golems that resist Ruin.'\r\n\r\nThe Last Sane Golem Maker, A.C. 315. April 8."
+					},
+					"Keys": [
+						{
+							"Key": "MemoryCrystal7_desc",
+							"Path": "/Game/SO/Items/MemoryStone/MemoryCrystal7.MemoryCrystal7.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "'This chest and everything inside belongs to me, the Chef.'"
+					},
+					"Keys": [
+						{
+							"Key": "Pergamen_desc",
+							"Path": "/Game/SO/Items/QuestItems/Pergamen.Pergamen.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "'This is my 87 birthday. It's obvious that my body doesn't get older with time. How long can I preserve my sanity?'\r\n'Drones can no longer be trusted. They resisted Ruin for the longest.'\r\n\r\nThe Last Sane Golem Maker, A.C. 52. July 9."
+					},
+					"Keys": [
+						{
+							"Key": "MemoryCrystal6_desc",
+							"Path": "/Game/SO/Items/MemoryStone/MemoryCrystal6.MemoryCrystal6.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "'Those who escaped Ruin have... changed.'\r\n'I've met a scientist who noticed how madness takes control over him. Perhaps he can find a solution.'\r\n\r\nThe Last Sane Golem Maker, A.C. 17. January 1."
+					},
+					"Keys": [
+						{
+							"Key": "MemoryCrystal2_desc",
+							"Path": "/Game/SO/Items/MemoryStone/MemoryCrystal2.MemoryCrystal2.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A fancy iron key with a shiny gem in its grip. It must be really precious."
+					},
+					"Keys": [
+						{
+							"Key": "KeyWWPortal_desc",
+							"Path": "/Game/SO/Items/WhiteWallItems/KeyWWPortal.KeyWWPortal.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A key without a proper item description"
+					},
+					"Keys": [
+						{
+							"Key": "KeyAADoorNearDungeonExit_desc",
+							"Path": "/Game/SO/Items/Keys/KeyAADoorNearDungeonExit.KeyAADoorNearDungeonExit.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A key without any sign of interest."
+					},
+					"Keys": [
+						{
+							"Key": "KeyTLElevatorRoom_desc",
+							"Path": "/Game/SO/Items/Keys/KeyTLElevatorRoom.KeyTLElevatorRoom.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A magical artefact with the following worn text engraved on the back:\r\n\r\nInsert Runestones to ... spells\r\nKeep .... .... children\r\nMade in ....."
+					},
+					"Keys": [
+						{
+							"Key": "SpellCaster_desc",
+							"Path": "/Game/SO/Items/Useable/SpellCaster.SpellCaster.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A magical item which gives you the ability to fly... or something like that."
+					},
+					"Keys": [
+						{
+							"Key": "RavenFeather_desc",
+							"Path": "/Game/SO/Items/QuestItems/RavenFeather.RavenFeather.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A reforged Bronze Key."
+					},
+					"Keys": [
+						{
+							"Key": "KeyBronze_desc",
+							"Path": "/Game/SO/Items/Keys/KeyBronze.KeyBronze.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A reforged Copper Key."
+					},
+					"Keys": [
+						{
+							"Key": "KeyCopper_desc",
+							"Path": "/Game/SO/Items/Keys/KeyCopper.KeyCopper.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A reforged Iron Key."
+					},
+					"Keys": [
+						{
+							"Key": "KeyIron_desc",
+							"Path": "/Game/SO/Items/Keys/KeyIron.KeyIron.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A robust iron key with a carved script: <Bold>'Outer Wall Tower'</>."
+					},
+					"Keys": [
+						{
+							"Key": "KeyWWWhiteWall_desc",
+							"Path": "/Game/SO/Items/WhiteWallItems/KeyWWWhiteWall.KeyWWWhiteWall.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A shiny green crystal which activates a weight lifting mechanism. At least by the look of it."
+					},
+					"Keys": [
+						{
+							"Key": "ElevatorGem_desc",
+							"Path": "/Game/SO/Items/QuestItems/ElevatorGem.ElevatorGem.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A simple seat of size XXXXXXXXXL"
+					},
+					"Keys": [
+						{
+							"Key": "GateKeeperSeat_desc",
+							"Path": "/Game/SO/Items/QuestItems/GateKeeperSeat.GateKeeperSeat.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A simple yet effective weapon. Not too rusty, not too sharp. If someone looks close enough it looks a bit low budget, but the ones looking close enough won't talk about anything anymore, will they?"
+					},
+					"Keys": [
+						{
+							"Key": "StraightSword_desc",
+							"Path": "/Game/SO/Items/Weapons/StraightSword.StraightSword.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A small key you got from a chest in the middle of nowhere."
+					},
+					"Keys": [
+						{
+							"Key": "KEYWWSewerCreatureCell_desc",
+							"Path": "/Game/SO/Items/Keys/KEYWWSewerCreatureCell.KEYWWSewerCreatureCell.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A small key you got from the Pipe Walkers."
+					},
+					"Keys": [
+						{
+							"Key": "KeySASewerCreatureCell_desc",
+							"Path": "/Game/SO/Items/Keys/KeySASewerCreatureCell.KeySASewerCreatureCell.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A small precious blue stone."
+					},
+					"Keys": [
+						{
+							"Key": "BlueGem_desc",
+							"Path": "/Game/SO/Items/QuestItems/BlueGem.BlueGem.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A unique stone you can use to prove that you have eliminated a golem."
+					},
+					"Keys": [
+						{
+							"Key": "LavaGolemToken_desc",
+							"Path": "/Game/SO/Items/QuestItems/LavaGolemToken.LavaGolemToken.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A very rare and powerful item which is used for opening a portal into the Unknown Realm. If you gather three and give them to the Wizard he shall set you free."
+					},
+					"Keys": [
+						{
+							"Key": "Artifact_desc",
+							"Path": "/Game/SO/Items/QuestItems/Artifact.Artifact.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A very small key"
+					},
+					"Keys": [
+						{
+							"Key": "KeyMerchant_name",
+							"Path": "/Game/SO/Items/Keys/KeyMerchant.KeyMerchant.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "A weird device, most likely one of the inventions of the Secret Science Society."
+					},
+					"Keys": [
+						{
+							"Key": "SecretWeirdDevice_desc",
+							"Path": "/Game/SO/Items/QuestItems/SecretWeirdDevice.SecretWeirdDevice.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Abacus"
+					},
+					"Keys": [
+						{
+							"Key": "Abacus_name",
+							"Path": "/Game/SO/Items/QuestItems/Abacus.Abacus.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Absorbs <Blue>30</> magical damage."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneBonusHPMagical_desc",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneBonusHPMagical.RuneStoneBonusHPMagical.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Absorbs <White>30</> physical damage."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneBonusHPPhysical_desc",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneBonusHPPhysical.RuneStoneBonusHPPhysical.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "All enemy target becomes <Orange>Slow</> for <Green>3</> seconds."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMassSlow_level_desc_0",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMassSlow.RuneStoneMassSlow.LevelBasedDescOverride(0).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Amber Shard"
+					},
+					"Keys": [
+						{
+							"Key": "ShardAmber_name",
+							"Path": "/Game/SO/Items/Shards/ShardAmber.ShardAmber.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "An ancient crystal people like to buy."
+					},
+					"Keys": [
+						{
+							"Key": "BlueCrystal_desc",
+							"Path": "/Game/SO/Items/Valuable/BlueCrystal.BlueCrystal.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "An ancient paper"
+					},
+					"Keys": [
+						{
+							"Key": "AbacusSpellBook_desc",
+							"Path": "/Game/SO/Items/QuestItems/AbacusSpellBook.AbacusSpellBook.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Ancient Temple Key"
+					},
+					"Keys": [
+						{
+							"Key": "LETempleKey_name",
+							"Path": "/Game/SO/Items/Keys/LETempleKey.LETempleKey.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Another Key"
+					},
+					"Keys": [
+						{
+							"Key": "KeySA_name",
+							"Path": "/Game/SO/Items/Keys/KeySA.KeySA.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Aqua Shard"
+					},
+					"Keys": [
+						{
+							"Key": "ShardAqua_name",
+							"Path": "/Game/SO/Items/Shards/ShardAqua.ShardAqua.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Arcade Key"
+					},
+					"Keys": [
+						{
+							"Key": "KeyAADoorNearDungeonExit_name",
+							"Path": "/Game/SO/Items/Keys/KeyAADoorNearDungeonExit.KeyAADoorNearDungeonExit.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Artifact"
+					},
+					"Keys": [
+						{
+							"Key": "Artifact_name",
+							"Path": "/Game/SO/Items/QuestItems/Artifact.Artifact.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Axes"
+					},
+					"Keys": [
+						{
+							"Key": "AxeMainGame_name",
+							"Path": "/Game/SO/Items/Weapons/AxeMainGame.AxeMainGame.Name"
+						},
+						{
+							"Key": "Axe_name",
+							"Path": "/Game/SO/Items/Weapons/Axe.Axe.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Axes are usefull, but if you don't need them you can just throw them away."
+					},
+					"Keys": [
+						{
+							"Key": "AxeMainGame_desc",
+							"Path": "/Game/SO/Items/Weapons/AxeMainGame.AxeMainGame.Description"
+						},
+						{
+							"Key": "Axe_desc",
+							"Path": "/Game/SO/Items/Weapons/Axe.Axe.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Bag of the Careful One"
+					},
+					"Keys": [
+						{
+							"Key": "TestStoneBag_name",
+							"Path": "/Game/SO/Items/Useable/TestStoneBag.TestStoneBag.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Black Shard"
+					},
+					"Keys": [
+						{
+							"Key": "ShardBlack_name",
+							"Path": "/Game/SO/Items/Shards/ShardBlack.ShardBlack.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Blue Crystal"
+					},
+					"Keys": [
+						{
+							"Key": "BlueCrystal_name",
+							"Path": "/Game/SO/Items/Valuable/BlueCrystal.BlueCrystal.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Blue Gem"
+					},
+					"Keys": [
+						{
+							"Key": "BlueGem_name",
+							"Path": "/Game/SO/Items/QuestItems/BlueGem.BlueGem.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Blue Shard"
+					},
+					"Keys": [
+						{
+							"Key": "ShardBlue_name",
+							"Path": "/Game/SO/Items/Shards/ShardBlue.ShardBlue.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Bluestone"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneBonusHPMagical_name",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneBonusHPMagical.RuneStoneBonusHPMagical.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Bouncestone"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneBounce_name",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Amber Shard"
+					},
+					"Keys": [
+						{
+							"Key": "ShardAmberBright_name",
+							"Path": "/Game/SO/Items/Shards/ShardAmberBright.ShardAmberBright.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Aqua Shard"
+					},
+					"Keys": [
+						{
+							"Key": "ShardAquaBright_name",
+							"Path": "/Game/SO/Items/Shards/ShardAquaBright.ShardAquaBright.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Blue Shard"
+					},
+					"Keys": [
+						{
+							"Key": "ShardBlueBright_name",
+							"Path": "/Game/SO/Items/Shards/ShardBlueBright.ShardBlueBright.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Green Shard"
+					},
+					"Keys": [
+						{
+							"Key": "ShardGreenBright_name",
+							"Path": "/Game/SO/Items/Shards/ShardGreenBright.ShardGreenBright.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Purple Shard"
+					},
+					"Keys": [
+						{
+							"Key": "ShardPurpleBright_name",
+							"Path": "/Game/SO/Items/Shards/ShardPurpleBright.ShardPurpleBright.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Red Shard"
+					},
+					"Keys": [
+						{
+							"Key": "ShardRedBright_name",
+							"Path": "/Game/SO/Items/Shards/ShardRedBright.ShardRedBright.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Silver Shard"
+					},
+					"Keys": [
+						{
+							"Key": "ShardSilverBright_name",
+							"Path": "/Game/SO/Items/Shards/ShardSilverBright.ShardSilverBright.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Teal Shard"
+					},
+					"Keys": [
+						{
+							"Key": "ShardTealBright_name",
+							"Path": "/Game/SO/Items/Shards/ShardTealBright.ShardTealBright.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright White Shard"
+					},
+					"Keys": [
+						{
+							"Key": "ShardWhiteBright_name",
+							"Path": "/Game/SO/Items/Shards/ShardWhiteBright.ShardWhiteBright.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Yellow Shard"
+					},
+					"Keys": [
+						{
+							"Key": "ShardYellowBright_name",
+							"Path": "/Game/SO/Items/Shards/ShardYellowBright.ShardYellowBright.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Bronze Key"
+					},
+					"Keys": [
+						{
+							"Key": "KeyBronze_name",
+							"Path": "/Game/SO/Items/Keys/KeyBronze.KeyBronze.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Cage Key"
+					},
+					"Keys": [
+						{
+							"Key": "LEKeyCage_name",
+							"Path": "/Game/SO/Items/Keys/LEKeyCage.LEKeyCage.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Catacomb Key"
+					},
+					"Keys": [
+						{
+							"Key": "KeyDCMainOut_name",
+							"Path": "/Game/SO/Items/Keys/KeyDCMainOut.KeyDCMainOut.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Chancestone"
+					},
+					"Keys": [
+						{
+							"Key": "SecondChance_name",
+							"Path": "/Game/SO/Items/RuneStones/SecondChance.SecondChance.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Cooldown recharge speed is increased by <Blue>20%</>."
+					},
+					"Keys": [
+						{
+							"Key": "ShardAqua_desc",
+							"Path": "/Game/SO/Items/Shards/ShardAqua.ShardAqua.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Cooldown recharge speed is increased by <Blue>40%</>."
+					},
+					"Keys": [
+						{
+							"Key": "ShardAquaBright_desc",
+							"Path": "/Game/SO/Items/Shards/ShardAquaBright.ShardAquaBright.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Copper Key"
+					},
+					"Keys": [
+						{
+							"Key": "KeyCopper_name",
+							"Path": "/Game/SO/Items/Keys/KeyCopper.KeyCopper.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Decreases the incoming <Blue>Magical Damage</> by <Blue>20%.</>"
+					},
+					"Keys": [
+						{
+							"Key": "ShardBlue_desc",
+							"Path": "/Game/SO/Items/Shards/ShardBlue.ShardBlue.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Decreases the incoming <Blue>Magical Damage</> by <Blue>30%.</>"
+					},
+					"Keys": [
+						{
+							"Key": "ShardBlueBright_desc",
+							"Path": "/Game/SO/Items/Shards/ShardBlueBright.ShardBlueBright.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Decreases the incoming <White>Physical Damage</> by <White>20%.</>"
+					},
+					"Keys": [
+						{
+							"Key": "ShardSilver_desc",
+							"Path": "/Game/SO/Items/Shards/ShardSilver.ShardSilver.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Decreases the incoming <White>Physical Damage</> by <White>30%.</>"
+					},
+					"Keys": [
+						{
+							"Key": "ShardSilverBright_desc",
+							"Path": "/Game/SO/Items/Shards/ShardSilverBright.ShardSilverBright.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Degeneration and mutation"
+					},
+					"Keys": [
+						{
+							"Key": "MemoryCrystal2_name",
+							"Path": "/Game/SO/Items/MemoryStone/MemoryCrystal2.MemoryCrystal2.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Demon Sword"
+					},
+					"Keys": [
+						{
+							"Key": "DemonSword_name",
+							"Path": "/Game/SO/Items/Weapons/DemonSword.DemonSword.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you really read the key descriptions?"
+					},
+					"Keys": [
+						{
+							"Key": "KeyOutpostWall_desc",
+							"Path": "/Game/SO/Items/Keys/KeyOutpostWall.KeyOutpostWall.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Does it really work? You will find out soon..."
+					},
+					"Keys": [
+						{
+							"Key": "KeyMerchant_desc",
+							"Path": "/Game/SO/Items/Keys/KeyMerchant.KeyMerchant.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Double Sword"
+					},
+					"Keys": [
+						{
+							"Key": "DualBlade_name",
+							"Path": "/Game/SO/Items/Weapons/DualBlade.DualBlade.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Each melee strike has a <Yellow>10%</> chance to <Yellow>Stun</> the target."
+					},
+					"Keys": [
+						{
+							"Key": "ShardYellow_desc",
+							"Path": "/Game/SO/Items/Shards/ShardYellow.ShardYellow.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Each melee strike has a <Yellow>20%</> chance to <Yellow>Stun</> the target."
+					},
+					"Keys": [
+						{
+							"Key": "ShardYellowBright_desc",
+							"Path": "/Game/SO/Items/Shards/ShardYellowBright.ShardYellowBright.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Each melee strike has an additional <Yellow>10%</> chance to cause a critical hit, causing <Green>200%</> of your normal weapon damage."
+					},
+					"Keys": [
+						{
+							"Key": "ShardAmber_desc",
+							"Path": "/Game/SO/Items/Shards/ShardAmber.ShardAmber.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Each melee strike has an additional <Yellow>20%</> chance to cause a critical hit, causing <Green>200%</> of your normal weapon damage."
+					},
+					"Keys": [
+						{
+							"Key": "ShardAmberBright_desc",
+							"Path": "/Game/SO/Items/Shards/ShardAmberBright.ShardAmberBright.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Each time an enemy hits you with a melee strike it suffers the same damage."
+					},
+					"Keys": [
+						{
+							"Key": "ShardTeal_desc",
+							"Path": "/Game/SO/Items/Shards/ShardTeal.ShardTeal.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Each time an enemy hits you, it suffers <Green>200%</> of the damage."
+					},
+					"Keys": [
+						{
+							"Key": "ShardTealBright_desc",
+							"Path": "/Game/SO/Items/Shards/ShardTealBright.ShardTealBright.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Each time you cast a charge based spell you have a <Purple>25%</> chance to regain the charge."
+					},
+					"Keys": [
+						{
+							"Key": "ShardPurple_desc",
+							"Path": "/Game/SO/Items/Shards/ShardPurple.ShardPurple.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Each time you cast a charge based spell you have a <Purple>50%</> chance to regain the charge."
+					},
+					"Keys": [
+						{
+							"Key": "ShardPurpleBright_desc",
+							"Path": "/Game/SO/Items/Shards/ShardPurpleBright.ShardPurpleBright.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Eastern Key"
+					},
+					"Keys": [
+						{
+							"Key": "KeyAGPortalFight_name",
+							"Path": "/Game/SO/Items/Keys/KeyAGPortalFight.KeyAGPortalFight.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Elevator Crystal"
+					},
+					"Keys": [
+						{
+							"Key": "ElevatorLeverCrystal_name",
+							"Path": "/Game/SO/Items/QuestItems/ElevatorLeverCrystal.ElevatorLeverCrystal.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Elevator Gem"
+					},
+					"Keys": [
+						{
+							"Key": "ElevatorGem_name",
+							"Path": "/Game/SO/Items/QuestItems/ElevatorGem.ElevatorGem.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Elite Soulstone"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneSoulkeeperInfinite_name",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneSoulkeeperInfinite.RuneStoneSoulkeeperInfinite.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.5x</> damage for <Green>5</> seconds."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneWeaponFlame_level_desc_0",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelBasedDescOverride(0).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.5x</><YellowH>(→0.6x)</> damage for <Green>5</> seconds. <YellowH>Each strike has a</> <GreenH>15%</> <YellowH>chance to apply </><DarkGreenH>Poison</><YellowH>, causing an additional</> <BlueH>18</> <YellowH>damage over</> <GreenH>6</> <YellowH>seconds.</>"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneWeaponFlame_level_up_desc_0",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.6x</> damage for <Green>5</> seconds. Each strike has a <Green>15%</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>18</> damage over <Green>6</> seconds."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneWeaponFlame_level_desc_1",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelBasedDescOverride(1).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.6x</><YellowH>(→0.7x)</> damage for <Green>5</><YellowH>(→6)</> seconds. Each strike has a <Green>15%</><YellowH>(→20%)</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>18</><YellowH>(→24)</> damage over <Green>6</> seconds."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneWeaponFlame_level_up_desc_1",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.7x</> damage for <Green>6</> seconds. Each strike has a <Green>20%</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>24</> damage over <Green>6</> seconds."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneWeaponFlame_level_desc_2",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelBasedDescOverride(2).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.7x</><YellowH>(→0.8x)</> damage for <Green>6</> seconds. Each strike has a <Green>20%</><YellowH>(→25%)</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>24</><YellowH>(→30)</> damage over <Green>6</> seconds."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneWeaponFlame_level_up_desc_2",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelUpBasedDescOverride(2).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.8x</> damage for <Green>6</> seconds. Each strike has a <Green>25%</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>30</> damage over <Green>6</> seconds."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneWeaponFlame_level_desc_3",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelBasedDescOverride(3).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.8x</><YellowH>(→0.9x)</> damage for <Green>6</> seconds. Each strike has a <Green>25%</><YellowH>(→30%)</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>30</><YellowH>(→36)</> damage over <Green>6</> seconds."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneWeaponFlame_level_up_desc_3",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelUpBasedDescOverride(3).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.9x</> damage for <Green>6</> seconds. Each strike has a <Green>30%</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>36</> damage over <Green>6</> seconds."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneWeaponFlame_level_desc_4",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelBasedDescOverride(4).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon with green flames - it causes an additional 0.3x damage for 4 seconds."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneWeaponFlame_desc",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Energystone"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneEnergy_name",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneEnergy.RuneStoneEnergy.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Every time an enemy hits you with a melee strike or overlaps you it is turned into a boot for a short time."
+					},
+					"Keys": [
+						{
+							"Key": "ShardBlack_desc",
+							"Path": "/Game/SO/Items/Shards/ShardBlack.ShardBlack.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Everything, except an Abacus"
+					},
+					"Keys": [
+						{
+							"Key": "All_name",
+							"Path": "/Game/SO/Items/QuestItems/All.All.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Fading Colours"
+					},
+					"Keys": [
+						{
+							"Key": "MemoryCrystal3_name",
+							"Path": "/Game/SO/Items/MemoryStone/MemoryCrystal3.MemoryCrystal3.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Falling Apart"
+					},
+					"Keys": [
+						{
+							"Key": "MemoryCrystal5_name",
+							"Path": "/Game/SO/Items/MemoryStone/MemoryCrystal5.MemoryCrystal5.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Final Decision"
+					},
+					"Keys": [
+						{
+							"Key": "MemoryCrystal8_name",
+							"Path": "/Game/SO/Items/MemoryStone/MemoryCrystal8.MemoryCrystal8.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Firestone"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneFire0_name",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "First Sabre of Rangol"
+					},
+					"Keys": [
+						{
+							"Key": "Sabre_name",
+							"Path": "/Game/SO/Items/Weapons/Sabre.Sabre.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Flower acquired from a fountain."
+					},
+					"Keys": [
+						{
+							"Key": "FountainFlower_desc",
+							"Path": "/Game/SO/Items/QuestItems/FountainFlower.FountainFlower.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Fountain Flower"
+					},
+					"Keys": [
+						{
+							"Key": "FountainFlower_name",
+							"Path": "/Game/SO/Items/QuestItems/FountainFlower.FountainFlower.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Ghost Abacus"
+					},
+					"Keys": [
+						{
+							"Key": "AbacusGhost_name",
+							"Path": "/Game/SO/Items/QuestItems/AbacusGhost.AbacusGhost.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Ghost Petals"
+					},
+					"Keys": [
+						{
+							"Key": "AbacusGhostFlower_name",
+							"Path": "/Game/SO/Items/QuestItems/AbacusGhostFlower.AbacusGhostFlower.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Giant Seat"
+					},
+					"Keys": [
+						{
+							"Key": "GateKeeperSeat_name",
+							"Path": "/Game/SO/Items/QuestItems/GateKeeperSeat.GateKeeperSeat.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>2</> <YellowH>(→4)</> seconds."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneShadowWalk_level_up_desc_0",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>2</> seconds."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneShadowWalk_desc",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.Description"
+						},
+						{
+							"Key": "RuneStoneShadowWalk_level_desc_0",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.LevelBasedDescOverride(0).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>4</> <YellowH>(→5)</> seconds. Your magical resistance is increased by <Green>0.2</> <YellowH>(→0.3).</>"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneShadowWalk_level_up_desc_2",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.LevelUpBasedDescOverride(2).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>4</> seconds."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneShadowWalk_level_desc_1",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.LevelBasedDescOverride(1).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>4</> seconds. <YellowH>Your magical resistance is increased by</> <GreenH>0.2.</>"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneShadowWalk_level_up_desc_1",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>4</> seconds. Your magical resistance is increased by <Green>0.2.</>"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneShadowWalk_level_desc_2",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.LevelBasedDescOverride(2).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>5</> seconds. Your magical resistance is increased by <Green>0.3.</>"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneShadowWalk_level_desc_3",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.LevelBasedDescOverride(3).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>2</> sec. The shock causes <Blue>10</> damage."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneLightningWalk_desc",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>2</> sec. The shock causes <Blue>16</> damage."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneLightningWalk_level_desc_0",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.LevelBasedDescOverride(0).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>2</><YellowH>(→3)</> sec. The shock causes <Blue>16</> <YellowH>(→28)</>damage."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneLightningWalk_level_up_desc_0",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>3</> sec. The shock causes <Blue>28</> damage."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneLightningWalk_level_desc_1",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.LevelBasedDescOverride(1).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>3</><YellowH>(→4)</> sec. The shock causes <Blue>28</> <YellowH>(→36)</>damage <YellowH>and has a </><GreenH>30%</> <YellowH>chance to stun the target.</>"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneLightningWalk_level_up_desc_1",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>4</> sec. The shock causes <Blue>32</> damage and has a <Green>30%</> <YellowH>(→40%)</> chance to <Yellow>stun</> the target."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneLightningWalk_level_up_desc_2",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.LevelUpBasedDescOverride(2).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>4</> sec. The shock causes <Blue>32</> damage and has a <Green>30%</> chance to <Yellow>stun</> the target."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneLightningWalk_level_desc_2",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.LevelBasedDescOverride(2).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>4</> sec. The shock causes <Blue>32</> damage and has a <Green>40%</> chance to <Yellow>stun</> the target."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneLightningWalk_level_desc_3",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.LevelBasedDescOverride(3).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Graystone"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneBonusHPPhysical_name",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneBonusHPPhysical.RuneStoneBonusHPPhysical.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Green Flamestone"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneWeaponFlame_name",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Green Shard"
+					},
+					"Keys": [
+						{
+							"Key": "ShardGreen_name",
+							"Path": "/Game/SO/Items/Shards/ShardGreen.ShardGreen.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Half Bronze Key"
+					},
+					"Keys": [
+						{
+							"Key": "KeyPiecesBronze0_name",
+							"Path": "/Game/SO/Items/Keys/KeyPiecesBronze0.KeyPiecesBronze0.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Half Copper Key"
+					},
+					"Keys": [
+						{
+							"Key": "KeyPiecesCopper0_name",
+							"Path": "/Game/SO/Items/Keys/KeyPiecesCopper0.KeyPiecesCopper0.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Half Iron Key"
+					},
+					"Keys": [
+						{
+							"Key": "KeyPiecesIron0_name",
+							"Path": "/Game/SO/Items/Keys/KeyPiecesIron0.KeyPiecesIron0.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Half of a broken Bronze Key"
+					},
+					"Keys": [
+						{
+							"Key": "KeyPiecesBronze0_desc",
+							"Path": "/Game/SO/Items/Keys/KeyPiecesBronze0.KeyPiecesBronze0.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Half of a broken Copper Key"
+					},
+					"Keys": [
+						{
+							"Key": "KeyPiecesCopper0_desc",
+							"Path": "/Game/SO/Items/Keys/KeyPiecesCopper0.KeyPiecesCopper0.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Half of a broken Iron Key"
+					},
+					"Keys": [
+						{
+							"Key": "KeyPiecesIron0_desc",
+							"Path": "/Game/SO/Items/Keys/KeyPiecesIron0.KeyPiecesIron0.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Healstone"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneHeal_name",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneHeal.RuneStoneHeal.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "I would rather sleep, but the item descriptions won't write themselves."
+					},
+					"Keys": [
+						{
+							"Key": "KeyOutpostWallOptional_desc",
+							"Path": "/Game/SO/Items/Keys/KeyOutpostWallOptional.KeyOutpostWallOptional.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "If someone would fail in cutting his/her/its way out of a hard situation, crushing your way through can still work out pretty well - it is said to be more effective if golems or certain mechanical devices / creatures are involved in the conflict."
+					},
+					"Keys": [
+						{
+							"Key": "LeafMace_desc",
+							"Path": "/Game/SO/Items/Weapons/LeafMace.LeafMace.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "In case of trouble, it's better to have double."
+					},
+					"Keys": [
+						{
+							"Key": "DualBlade_desc",
+							"Path": "/Game/SO/Items/Weapons/DualBlade.DualBlade.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Increases the attack speed by <Green>20%</>"
+					},
+					"Keys": [
+						{
+							"Key": "ShardGreen_desc",
+							"Path": "/Game/SO/Items/Shards/ShardGreen.ShardGreen.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Increases the attack speed by <Green>30%</>"
+					},
+					"Keys": [
+						{
+							"Key": "ShardGreenBright_desc",
+							"Path": "/Game/SO/Items/Shards/ShardGreenBright.ShardGreenBright.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Increases your damage by <Green>20%</>"
+					},
+					"Keys": [
+						{
+							"Key": "ShardWhite_desc",
+							"Path": "/Game/SO/Items/Shards/ShardWhite.ShardWhite.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Increases your damage by <Green>30%</>."
+					},
+					"Keys": [
+						{
+							"Key": "ShardWhiteBright_desc",
+							"Path": "/Game/SO/Items/Shards/ShardWhiteBright.ShardWhiteBright.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Iron Key"
+					},
+					"Keys": [
+						{
+							"Key": "KeyIron_name",
+							"Path": "/Game/SO/Items/Keys/KeyIron.KeyIron.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "It will open a gate somewhere. Probably."
+					},
+					"Keys": [
+						{
+							"Key": "KeyWWFirstGate_desc",
+							"Path": "/Game/SO/Items/Keys/KeyWWFirstGate.KeyWWFirstGate.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Just an old, rusty iron key without a proper item description"
+					},
+					"Keys": [
+						{
+							"Key": "KeyDCMainOut_desc",
+							"Path": "/Game/SO/Items/Keys/KeyDCMainOut.KeyDCMainOut.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Just another key."
+					},
+					"Keys": [
+						{
+							"Key": "KeyAGPortalFight_desc",
+							"Path": "/Game/SO/Items/Keys/KeyAGPortalFight.KeyAGPortalFight.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Key Of The Outpost Wall"
+					},
+					"Keys": [
+						{
+							"Key": "KeyOutpostWall_name",
+							"Path": "/Game/SO/Items/Keys/KeyOutpostWall.KeyOutpostWall.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Key Of The Room Below"
+					},
+					"Keys": [
+						{
+							"Key": "KeyCatacombs0_name",
+							"Path": "/Game/SO/Items/Keys/KeyCatacombs0.KeyCatacombs0.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Key of Something"
+					},
+					"Keys": [
+						{
+							"Key": "KeyAAMainFirstDoor_name",
+							"Path": "/Game/SO/Items/Keys/KeyAAMainFirstDoor.KeyAAMainFirstDoor.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Kitchen Key"
+					},
+					"Keys": [
+						{
+							"Key": "DOKitchenKey_name",
+							"Path": "/Game/SO/Items/Keys/DOKitchenKey.DOKitchenKey.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Kobold Coins"
+					},
+					"Keys": [
+						{
+							"Key": "KoboldCoin_name",
+							"Path": "/Game/SO/Items/QuestItems/KoboldCoin.KoboldCoin.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Kobold Soup"
+					},
+					"Keys": [
+						{
+							"Key": "KoboldPotion_name",
+							"Path": "/Game/SO/Items/QuestItems/KoboldPotion.KoboldPotion.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Leaf Mace"
+					},
+					"Keys": [
+						{
+							"Key": "LeafMace_name",
+							"Path": "/Game/SO/Items/Weapons/LeafMace.LeafMace.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Lightningstone"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneLightningWalk_name",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Lock Gem"
+					},
+					"Keys": [
+						{
+							"Key": "PortalGem_name",
+							"Path": "/Game/SO/Items/QuestItems/PortalGem.PortalGem.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Looks like there are tons of these"
+					},
+					"Keys": [
+						{
+							"Key": "KeySA_desc",
+							"Path": "/Game/SO/Items/Keys/KeySA.KeySA.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Madness"
+					},
+					"Keys": [
+						{
+							"Key": "MemoryCrystal4_name",
+							"Path": "/Game/SO/Items/MemoryStone/MemoryCrystal4.MemoryCrystal4.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Magical Phenomena"
+					},
+					"Keys": [
+						{
+							"Key": "MemoryCrystal1_name",
+							"Path": "/Game/SO/Items/MemoryStone/MemoryCrystal1.MemoryCrystal1.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Master Key"
+					},
+					"Keys": [
+						{
+							"Key": "KeyMaster_name",
+							"Path": "/Game/SO/Items/Keys/KeyMaster.KeyMaster.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Maybe it was a bit too much?"
+					},
+					"Keys": [
+						{
+							"Key": "All_desc",
+							"Path": "/Game/SO/Items/QuestItems/All.All.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Meteorstone"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMeteorShower_name",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMeteorShower.RuneStoneMeteorShower.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "New Hope"
+					},
+					"Keys": [
+						{
+							"Key": "MemoryCrystal7_name",
+							"Path": "/Game/SO/Items/MemoryStone/MemoryCrystal7.MemoryCrystal7.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Old books"
+					},
+					"Keys": [
+						{
+							"Key": "LoryBooks_name",
+							"Path": "/Game/SO/Items/QuestItems/LoryBooks.LoryBooks.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "One of the first greatest inventions of humans. Because they envied balls for their rolling skill."
+					},
+					"Keys": [
+						{
+							"Key": "Wheel_desc",
+							"Path": "/Game/SO/Items/QuestItems/Wheel.Wheel.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Parchment"
+					},
+					"Keys": [
+						{
+							"Key": "Pergamen_name",
+							"Path": "/Game/SO/Items/QuestItems/Pergamen.Pergamen.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Petals of a ghost flower."
+					},
+					"Keys": [
+						{
+							"Key": "AbacusGhostFlower_desc",
+							"Path": "/Game/SO/Items/QuestItems/AbacusGhostFlower.AbacusGhostFlower.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Portal Key"
+					},
+					"Keys": [
+						{
+							"Key": "KeyWWPortal_name",
+							"Path": "/Game/SO/Items/WhiteWallItems/KeyWWPortal.KeyWWPortal.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Potion Of Worthiness"
+					},
+					"Keys": [
+						{
+							"Key": "PotionOfWorthiness_name",
+							"Path": "/Game/SO/Items/Useable/PotionOfWorthiness.PotionOfWorthiness.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Preservation of Ruin"
+					},
+					"Keys": [
+						{
+							"Key": "MemoryCrystal6_name",
+							"Path": "/Game/SO/Items/MemoryStone/MemoryCrystal6.MemoryCrystal6.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Prevents death."
+					},
+					"Keys": [
+						{
+							"Key": "SecondChance_desc",
+							"Path": "/Game/SO/Items/RuneStones/SecondChance.SecondChance.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>18</> damage <YellowH>and applies Stun on the target.</>"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneBounce_level_up_desc_1",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>18</> damage and applies <Yellow>Stun</> on the target."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneBounce_level_desc_2",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelBasedDescOverride(2).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>18</> damage to the target."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneBounce_level_desc_1",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelBasedDescOverride(1).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>18</><YellowH>(→24)</> damage and applies <Yellow>Stun</> on the target."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneBounce_level_up_desc_2",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelUpBasedDescOverride(2).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>24</> damage and applies <Yellow>Stun</> on the target."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneBounce_level_desc_3",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelBasedDescOverride(3).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>24</><YellowH>(→30)</> damage and applies <Yellow>Stun</> on the target."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneBounce_level_up_desc_3",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelUpBasedDescOverride(3).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>30</> damage and applies <Yellow>Stun</> on the target."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneBounce_level_desc_4",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelBasedDescOverride(4).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>8</> seconds. Doing so causes <Blue>12</> damage to the target."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneBounce_desc",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.Description"
+						},
+						{
+							"Key": "RuneStoneBounce_level_desc_0",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelBasedDescOverride(0).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>8</><YellowH>(→16)</> seconds. Doing so causes <Blue>12</><YellowH>(→18)</> damage to the target."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneBounce_level_up_desc_0",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Purple Mushrooms"
+					},
+					"Keys": [
+						{
+							"Key": "PurpleMushroom_name",
+							"Path": "/Game/SO/Items/QuestItems/PurpleMushroom.PurpleMushroom.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Purple Shard"
+					},
+					"Keys": [
+						{
+							"Key": "ShardPurple_name",
+							"Path": "/Game/SO/Items/Shards/ShardPurple.ShardPurple.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Railway Gate Key"
+					},
+					"Keys": [
+						{
+							"Key": "KeyWWFirstGate_name",
+							"Path": "/Game/SO/Items/Keys/KeyWWFirstGate.KeyWWFirstGate.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Rangol was a legendary blacksmith who practiced his crafting art for a hundred years. This sabre was made on day one."
+					},
+					"Keys": [
+						{
+							"Key": "Sabre_desc",
+							"Path": "/Game/SO/Items/Weapons/Sabre.Sabre.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Raven Feather"
+					},
+					"Keys": [
+						{
+							"Key": "RavenFeather_name",
+							"Path": "/Game/SO/Items/QuestItems/RavenFeather.RavenFeather.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Red Shard"
+					},
+					"Keys": [
+						{
+							"Key": "ShardRed_name",
+							"Path": "/Game/SO/Items/Shards/ShardRed.ShardRed.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Regenerates all other spell charges."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneSpellRegain_desc",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneSpellRegain.RuneStoneSpellRegain.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Restores <Green>30</> health points."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneHeal_desc",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneHeal.RuneStoneHeal.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Rope"
+					},
+					"Keys": [
+						{
+							"Key": "Rope_name",
+							"Path": "/Game/SO/Items/QuestItems/Rope.Rope.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Rusty Key"
+					},
+					"Keys": [
+						{
+							"Key": "WWBossShipLock_name",
+							"Path": "/Game/SO/Items/Keys/WWBossShipLock.WWBossShipLock.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Rusty key of a rusty lock."
+					},
+					"Keys": [
+						{
+							"Key": "WWBossShipLock_desc",
+							"Path": "/Game/SO/Items/Keys/WWBossShipLock.WWBossShipLock.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Scroll of Surrection"
+					},
+					"Keys": [
+						{
+							"Key": "AbacusSpellBook_name",
+							"Path": "/Game/SO/Items/QuestItems/AbacusSpellBook.AbacusSpellBook.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Second Key Of The Outpost Wall"
+					},
+					"Keys": [
+						{
+							"Key": "KeyOutpostWallOptional_name",
+							"Path": "/Game/SO/Items/Keys/KeyOutpostWallOptional.KeyOutpostWallOptional.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Shadestone"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneShadowWalk_name",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Shard"
+					},
+					"Keys": [
+						{
+							"Key": "ShardSilver_name",
+							"Path": "/Game/SO/Items/Shards/ShardSilver.ShardSilver.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Slows all enemy targets around the caster."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMassSlow_desc",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMassSlow.RuneStoneMassSlow.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Slowstone"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMassSlow_name",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMassSlow.RuneStoneMassSlow.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Small Cell Key"
+					},
+					"Keys": [
+						{
+							"Key": "KEYWWSewerCreatureCell_name",
+							"Path": "/Game/SO/Items/Keys/KEYWWSewerCreatureCell.KEYWWSewerCreatureCell.Name"
+						},
+						{
+							"Key": "KeySASewerCreatureCell_name",
+							"Path": "/Game/SO/Items/Keys/KeySASewerCreatureCell.KeySASewerCreatureCell.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Some Coins you found in a chest."
+					},
+					"Keys": [
+						{
+							"Key": "KoboldCoin_desc",
+							"Path": "/Game/SO/Items/QuestItems/KoboldCoin.KoboldCoin.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Sometimes the lock is harder to find than the key."
+					},
+					"Keys": [
+						{
+							"Key": "KeyAAMainFirstDoor_desc",
+							"Path": "/Game/SO/Items/Keys/KeyAAMainFirstDoor.KeyAAMainFirstDoor.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Soulstone"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneSoulkeeper_name",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneSoulkeeper.RuneStoneSoulkeeper.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Spellcaster"
+					},
+					"Keys": [
+						{
+							"Key": "SpellCaster_name",
+							"Path": "/Game/SO/Items/Useable/SpellCaster.SpellCaster.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Spiritstone"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneSpellRegain_name",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneSpellRegain.RuneStoneSpellRegain.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Stone Token"
+					},
+					"Keys": [
+						{
+							"Key": "LavaGolemToken_name",
+							"Path": "/Game/SO/Items/QuestItems/LavaGolemToken.LavaGolemToken.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Straight Sword"
+					},
+					"Keys": [
+						{
+							"Key": "StraightSword_name",
+							"Path": "/Game/SO/Items/Weapons/StraightSword.StraightSword.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Strikes and spell cooldowns are decreased by 90% for 10 seconds."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneEnergy_desc",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneEnergy.RuneStoneEnergy.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons 12 deadly meteors around the caster, each causing 16 damage on impact."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMeteorShower_desc",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMeteorShower.RuneStoneMeteorShower.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>12</> deadly meteors around the caster, each causing <White>16</> damage on impact."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMeteorShower_level_desc_0",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMeteorShower.RuneStoneMeteorShower.LevelBasedDescOverride(0).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>12</><YellowH>(→16)</> deadly meteors around the caster, each causing <White>16</><YellowH>(→24)</> damage on impact."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMeteorShower_level_up_desc_0",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMeteorShower.RuneStoneMeteorShower.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>16</> deadly meteors around the caster, each causing <White>24</> damage on impact."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMeteorShower_level_desc_1",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMeteorShower.RuneStoneMeteorShower.LevelBasedDescOverride(1).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>16</><YellowH>(→20)</> deadly meteors around the caster, each causing <White>24</><YellowH>(→32)</> damage on impact. <YellowH>Each meteor has a</> <GreenH>30%</> <YellowH>chance to Stun the target.</>"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMeteorShower_level_up_desc_1",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMeteorShower.RuneStoneMeteorShower.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>1</> homing projectile targeted at a close foe - prefers flying targets. Causes <Blue>16</> damage on impact."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMagicMissle_level_desc_0",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.LevelBasedDescOverride(0).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>1</><YellowH>(→2)</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage on impact."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMagicMissle_level_up_desc_0",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>20</> deadly meteors around the caster, each causing <White>32</> damage on impact. Each meteor has a <Green>30%</> chance to <Yellow>Stun</> the target."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMeteorShower_level_desc_2",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMeteorShower.RuneStoneMeteorShower.LevelBasedDescOverride(2).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>2</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage on impact."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMagicMissle_level_desc_1",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.LevelBasedDescOverride(1).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>2</><YellowH>(→3)</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage <YellowH>and applies</> <OrangeH>Slow</> on impact."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMagicMissle_level_up_desc_1",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>3</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage and applies <Orange>Slow</> on impact."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMagicMissle_level_desc_2",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.LevelBasedDescOverride(2).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>3</><YellowH>(→4)</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage and applies <Orange>Slow</> on impact."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMagicMissle_level_up_desc_2",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.LevelUpBasedDescOverride(2).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>4</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage and applies <Orange>Slow</> on impact."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMagicMissle_level_desc_3",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.LevelBasedDescOverride(3).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a homing projectile for each nearby enemy, causing <Blue>20</> damage on impact."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMassMagicMissle_desc",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMassMagicMissle.RuneStoneMassMagicMissle.Description"
+						},
+						{
+							"Key": "RuneStoneMassMagicMissle_level_desc_0",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMassMagicMissle.RuneStoneMassMagicMissle.LevelBasedDescOverride(0).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a homing projectile for each nearby enemy, causing <Blue>20</><YellowH>(→40)</> damage on impact."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMassMagicMissle_level_up_desc_0",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMassMagicMissle.RuneStoneMassMagicMissle.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a homing projectile for each nearby enemy, causing <Blue>20</><YellowH>(→50)</> damage on impact. <YellowH>The target has a</> <GreenH>30%</> <YellowH>chance to become</> <Orange>Slow</>."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMassMagicMissle_level_up_desc_1",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMassMagicMissle.RuneStoneMassMagicMissle.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a homing projectile for each nearby enemy, causing <Blue>40</> damage on impact."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMassMagicMissle_level_desc_1",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMassMagicMissle.RuneStoneMassMagicMissle.LevelBasedDescOverride(1).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a homing projectile for each nearby enemy, causing <Blue>50</> damage on impact. The target has a <Green>30%</> chance to become <Orange>Slow</>."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMassMagicMissle_level_desc_2",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMassMagicMissle.RuneStoneMassMagicMissle.LevelBasedDescOverride(2).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a homing projectile targeted at a close foe - prefers flying targets."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMagicMissle_desc",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>16</> damage."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneFire0_desc",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.Description"
+						},
+						{
+							"Key": "RuneStoneFire0_level_desc_0",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.LevelBasedDescOverride(0).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>16</><YellowH>(→32)</> damage."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneFire0_level_up_desc_0",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>32</> damage."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneFire0_level_desc_1",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.LevelBasedDescOverride(1).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>32</><YellowH>(→36)</> damage. <YellowH>The spell has </><GreenH>50%</> <YellowH>chance to </><PurpleH>Instant Recharge.</>"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneFire0_level_up_desc_1",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>36</> damage. The spell has <Green>50%</> chance to <Purple>Instant Recharge.</>"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneFire0_level_desc_2",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.LevelBasedDescOverride(2).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>36</><YellowH>(→52)</> damage. The spell has <Green>50%</> chance to <Purple>Instant Recharge.</>"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneFire0_level_up_desc_2",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.LevelUpBasedDescOverride(2).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>52</> damage. The spell has <Green>50%</> chance to <Purple>Instant Recharge.</>"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneFire0_level_desc_3",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.LevelBasedDescOverride(3).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons the Soulkeeper, a powerful spirit capable of gathering your essence should something bad happen to you."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneSoulkeeperInfinite_desc",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneSoulkeeperInfinite.RuneStoneSoulkeeperInfinite.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons the Soulkeeper, a powerful spirit capable of gathering your essence should something bad happen to you.\r\n\r\nReleasing the spirit recharges the stone."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneSoulkeeper_desc",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneSoulkeeper.RuneStoneSoulkeeper.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneSwap_desc",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.Description"
+						},
+						{
+							"Key": "RuneStoneSwap_level_desc_0",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelBasedDescOverride(0).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. <YellowH>The selected target suffers</> <BlueH>20</> <YellowH>damage.</>"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneSwap_level_up_desc_0",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>20</> damage."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneSwap_level_desc_1",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelBasedDescOverride(1).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>20</><YellowH>(→30)</> damage <YellowH>and becomes </><Orange>Slow.</>"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneSwap_level_up_desc_1",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>30</> damage and becomes <Orange>Slow</>."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneSwap_level_desc_2",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelBasedDescOverride(2).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>30</><YellowH>(→40)</> damage and becomes <Orange>Slow.</>"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneSwap_level_up_desc_2",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelUpBasedDescOverride(2).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>40</> damage and becomes <Orange>Slow</>."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneSwap_level_desc_3",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelBasedDescOverride(3).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>40</><YellowH>(→50)</> damage and becomes <Orange>Slow.</>"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneSwap_level_up_desc_3",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelUpBasedDescOverride(3).LevelUpBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>50</> damage and becomes <Orange>Slow</>."
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneSwap_level_desc_4",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelBasedDescOverride(4).LevelBasedDescOverride"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Swapstone"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneSwap_name",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Teal Shard"
+					},
+					"Keys": [
+						{
+							"Key": "ShardTeal_name",
+							"Path": "/Game/SO/Items/Shards/ShardTeal.ShardTeal.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Tealstone"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMagicMissle_name",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Tealstone, but better"
+					},
+					"Keys": [
+						{
+							"Key": "RuneStoneMassMagicMissle_name",
+							"Path": "/Game/SO/Items/RuneStones/RuneStoneMassMagicMissle.RuneStoneMassMagicMissle.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "The mighty sword of Kharutar the Demon Ruler. Legend says he once cut one of his fingers with it and in his rage he broke the sword into two. Later it was reforged but some say it would still need some more fixes."
+					},
+					"Keys": [
+						{
+							"Key": "DemonSword_desc",
+							"Path": "/Game/SO/Items/Weapons/DemonSword.DemonSword.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "The most purple mushrooms you could find. You hope these will be enough."
+					},
+					"Keys": [
+						{
+							"Key": "PurpleMushroom_desc",
+							"Path": "/Game/SO/Items/QuestItems/PurpleMushroom.PurpleMushroom.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "There are a ridiculous amount of keys in this world, right?"
+					},
+					"Keys": [
+						{
+							"Key": "KeyCatacombs0_desc",
+							"Path": "/Game/SO/Items/Keys/KeyCatacombs0.KeyCatacombs0.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "There are so many stones around. You are still not sure what's the point of picking up some of them."
+					},
+					"Keys": [
+						{
+							"Key": "PortalGem_desc",
+							"Path": "/Game/SO/Items/QuestItems/PortalGem.PortalGem.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "This is one of the many spare keys of the Dwarven Outpost Kitchen. Being able to get into the kitchen was always very important for dwarves."
+					},
+					"Keys": [
+						{
+							"Key": "DOKitchenKey_desc",
+							"Path": "/Game/SO/Items/Keys/DOKitchenKey.DOKitchenKey.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "This is one of the spare keys of the Ancient Temple. Just in case the original would be dropped into the lava accidentally."
+					},
+					"Keys": [
+						{
+							"Key": "LETempleKey_desc",
+							"Path": "/Game/SO/Items/Keys/LETempleKey.LETempleKey.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "This key can be used to open any door equipped with a special kind of lock, but breaks during the process."
+					},
+					"Keys": [
+						{
+							"Key": "KeyMaster_desc",
+							"Path": "/Game/SO/Items/Keys/KeyMaster.KeyMaster.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "This might not be the weirdest side effect one can have when drinking something suspicious but it is definitely in the top five."
+					},
+					"Keys": [
+						{
+							"Key": "PotionOfWorthiness_desc",
+							"Path": "/Game/SO/Items/Useable/PotionOfWorthiness.PotionOfWorthiness.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Two ancient books with the titles \"True value of your family\" and \"How much does a brother cost?\". They look boring so you decide not to open them."
+					},
+					"Keys": [
+						{
+							"Key": "LoryBooks_desc",
+							"Path": "/Game/SO/Items/QuestItems/LoryBooks.LoryBooks.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Unconcerned Key"
+					},
+					"Keys": [
+						{
+							"Key": "KeyTLElevatorRoom_name",
+							"Path": "/Game/SO/Items/Keys/KeyTLElevatorRoom.KeyTLElevatorRoom.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "WARNING: not following the instructions exactly leads to failure and also increases the probability of injury and or death [Carfy 3154].\r\n\r\nREFERENCES:\r\n\r\nWISY, W., BUSY, B., WEIRDY, Y., AND LUCKY, L. 3152. The best ways to get rid of anyone potentially distracting us with questions like \"What do you read?\"\r\n\r\nInti, I., AND Clevi, C. 3153. Insulting dead ancestors using Surrected objects\r\n\r\nCarfy C. 3154. What happened to Clevi, C. and Inti, I."
+					},
+					"Keys": [
+						{
+							"Key": "AbacusSpellBook_page_1",
+							"Path": "/Game/SO/Items/QuestItems/AbacusSpellBook.AbacusSpellBook.Pages(1).Pages"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Weird"
+					},
+					"Keys": [
+						{
+							"Key": "KeyAAFirstFight_desc",
+							"Path": "/Game/SO/Items/Keys/KeyAAFirstFight.KeyAAFirstFight.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Weird Device"
+					},
+					"Keys": [
+						{
+							"Key": "SecretWeirdDevice_name",
+							"Path": "/Game/SO/Items/QuestItems/SecretWeirdDevice.SecretWeirdDevice.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Weird Key"
+					},
+					"Keys": [
+						{
+							"Key": "KeyAAFirstFight_name",
+							"Path": "/Game/SO/Items/Keys/KeyAAFirstFight.KeyAAFirstFight.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Weird liquid in a bottle. The kobold calls it Soup."
+					},
+					"Keys": [
+						{
+							"Key": "KoboldPotion_desc",
+							"Path": "/Game/SO/Items/QuestItems/KoboldPotion.KoboldPotion.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Wheel"
+					},
+					"Keys": [
+						{
+							"Key": "Wheel_name",
+							"Path": "/Game/SO/Items/QuestItems/Wheel.Wheel.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "When the Abacus is killed its spirit might return to get even with its murderer."
+					},
+					"Keys": [
+						{
+							"Key": "AbacusGhost_desc",
+							"Path": "/Game/SO/Items/QuestItems/AbacusGhost.AbacusGhost.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "When you are the one in the team who has the job to enter every dungeon first, you will become a careful one too... if you live long enough for that."
+					},
+					"Keys": [
+						{
+							"Key": "TestStoneBag_desc",
+							"Path": "/Game/SO/Items/Useable/TestStoneBag.TestStoneBag.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "When you don't have enough fingers to count something you need this abacus."
+					},
+					"Keys": [
+						{
+							"Key": "Abacus_desc",
+							"Path": "/Game/SO/Items/QuestItems/Abacus.Abacus.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "White Shard"
+					},
+					"Keys": [
+						{
+							"Key": "ShardWhite_name",
+							"Path": "/Game/SO/Items/Shards/ShardWhite.ShardWhite.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "White Wall Key"
+					},
+					"Keys": [
+						{
+							"Key": "KeyWWWhiteWall_name",
+							"Path": "/Game/SO/Items/WhiteWallItems/KeyWWWhiteWall.KeyWWWhiteWall.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Wisy et al. [3152] point out that any entity can be banished by throwing the proper object into his/her/its face a few times, making him/her/it annoyed thus unconcerned, as long as the target entity has a face.\r\n\r\nThe proper object in case of ghosts is something Surrected [Inti and Clevi 3153], as only Surrected substance can interact with ghosts.\r\n\r\nAny object covered with petals of Ghost Flower can be Surrected using the following method:\r\n\r\n- Say \"Sorry my <object name>!\"\r\n- Break the object into pieces with a heated hammer\r\n- Say your favourite color\r\n- Croon \"La La LaLaLa LaLaLa\" until the object is coagulated into a single Surrected object"
+					},
+					"Keys": [
+						{
+							"Key": "AbacusSpellBook_page_0",
+							"Path": "/Game/SO/Items/QuestItems/AbacusSpellBook.AbacusSpellBook.Pages(0).Pages"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Yellow Shard"
+					},
+					"Keys": [
+						{
+							"Key": "ShardYellow_name",
+							"Path": "/Game/SO/Items/Shards/ShardYellow.ShardYellow.Name"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "You do wonder when the area is full of ropes why this is the only one which can be taken..."
+					},
+					"Keys": [
+						{
+							"Key": "Rope_desc",
+							"Path": "/Game/SO/Items/QuestItems/Rope.Rope.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "You got this item for free from a Merchant so you hardly believe it has any value. It might be used as some sort of a mechanism activator though. Hopefully not for a trap."
+					},
+					"Keys": [
+						{
+							"Key": "ElevatorLeverCrystal_desc",
+							"Path": "/Game/SO/Items/QuestItems/ElevatorLeverCrystal.ElevatorLeverCrystal.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "You heal <Red>10%</> of the melee damage you inflict on your enemies."
+					},
+					"Keys": [
+						{
+							"Key": "ShardRedBright_desc",
+							"Path": "/Game/SO/Items/Shards/ShardRedBright.ShardRedBright.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "You heal <Red>5%</> of the melee damage you inflict on your enemies."
+					},
+					"Keys": [
+						{
+							"Key": "ShardRed_desc",
+							"Path": "/Game/SO/Items/Shards/ShardRed.ShardRed.Description"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "You won't believe it but it is a key for a cage."
+					},
+					"Keys": [
+						{
+							"Key": "LEKeyCage_desc",
+							"Path": "/Game/SO/Items/Keys/LEKeyCage.LEKeyCage.Description"
+						}
+					]
+				}
+			]
+		},
+		{
+			"Namespace": "Notes",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "A Pipe Walker is trapped in a cage"
+					},
+					"Keys": [
+						{
+							"Key": "AE371E564EC1D75947ECF98AAA896A2C",
+							"Path": "/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_11.Text"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Gnory needs a wheel"
+					},
+					"Keys": [
+						{
+							"Key": "B12481ED4CFF0182EDB7ACAA416B55FC",
+							"Path": "/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_4.Text"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "I feel the Tomb of Tabby is important somehow"
+					},
+					"Keys": [
+						{
+							"Key": "E3857F07468C2A0B34A98887E3BBB1DA",
+							"Path": "/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_10.Text"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "I need to learn Dwarven to open a gate"
+					},
+					"Keys": [
+						{
+							"Key": "D8C4FFC7435C6A2E7C88BBA7109A1907",
+							"Path": "/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_12.Text"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "I promised Fountain to give its flower to the Magic Mirror."
+					},
+					"Keys": [
+						{
+							"Key": "0BFD568E4989A20D66B91DA476C0E6B4",
+							"Path": "/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_6.Text"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "I promised Lory to bring her some books"
+					},
+					"Keys": [
+						{
+							"Key": "F109A1614B16565CC1846C8D0A46672E",
+							"Path": "/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_1.Text"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Teachy asked for a strangely unique device"
+					},
+					"Keys": [
+						{
+							"Key": "E9DA40684B9375A5F78D18A138C75174",
+							"Path": "/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_2.Text"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "The Chef asked me to bring him some Purple Mushroom"
+					},
+					"Keys": [
+						{
+							"Key": "D3B6D81E433CBE8461E2B1AFE06E9741",
+							"Path": "/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_13.Text"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "The Chef wants me to clear the shore"
+					},
+					"Keys": [
+						{
+							"Key": "57CBE1274A1B4EC7FD68EA9288161AAD",
+							"Path": "/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_7.Text"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "The Dwarf wants me to clear the Dwarven Fortress"
+					},
+					"Keys": [
+						{
+							"Key": "9C3FB78C4598A48BC187B580CBB070F6",
+							"Path": "/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_8.Text"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "The GateKeeper could use a chair"
+					},
+					"Keys": [
+						{
+							"Key": "77693D6C43702786250364932BD34BCD",
+							"Path": "/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note.Text"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "The Ghost Dwarf needs a ghost abacus"
+					},
+					"Keys": [
+						{
+							"Key": "1ABD11A64A7649801A6AB6A8BBDC686C",
+							"Path": "/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_9.Text"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "The Golem Maker wants me to hunt some Golems"
+					},
+					"Keys": [
+						{
+							"Key": "AA94EB6E4B0A505D730971932A3DE0CC",
+							"Path": "/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_5.Text"
+						}
+					]
+				}
+			]
+		},
+		{
+			"Namespace": "StationNames",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Crossroad Cave"
+					},
+					"Keys": [
+						{
+							"Key": "crossroadcave",
+							"Path": "Source/SOrb/UI/InGame/SoUIStationPanel.cpp - line 94"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Obedient Outpost"
+					},
+					"Keys": [
+						{
+							"Key": "outpost",
+							"Path": "Source/SOrb/UI/InGame/SoUIStationPanel.cpp - line 95"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Remnant Road"
+					},
+					"Keys": [
+						{
+							"Key": "lavatemple",
+							"Path": "Source/SOrb/UI/InGame/SoUIStationPanel.cpp - line 96"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Stay"
+					},
+					"Keys": [
+						{
+							"Key": "stay",
+							"Path": "Source/SOrb/UI/InGame/SoUIStationPanel.cpp - line 99"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "World's End"
+					},
+					"Keys": [
+						{
+							"Key": "away",
+							"Path": "Source/SOrb/UI/InGame/SoUIStationPanel.cpp - line 98"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Wracked Waters"
+					},
+					"Keys": [
+						{
+							"Key": "wrackedWaters",
+							"Path": "Source/SOrb/UI/InGame/SoUIStationPanel.cpp - line 97"
+						}
+					]
+				}
+			]
+		}
+	]
+}

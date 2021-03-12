@@ -1,0 +1,10 @@
+// Copyright (c) Csaba Molnar & Daniel Butum. All Rights Reserved.
+#include "SoMortal.h"
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+USoMortal::USoMortal(const FObjectInitializer& PCIP)
+	: Super(PCIP)
+{
+
+}

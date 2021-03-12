@@ -1,0 +1,45 @@
+"appbuild"
+{
+    // Warriorb app
+    // Set the app ID that this script will upload.
+    "appid"	"1193760"
+
+    // The description for this build.
+    // The description is only visible to you in the 'Your Builds' section of the App Admin panel.
+    // This can be changed at any time after uploading a build on the 'Your Builds' page.
+    "desc" "Warriorb: Prologue App"
+
+    // File path of the local content server if it's enabled.
+    "local" ""
+
+    // Enable/Disable whether this a preview build.
+    // It's highly recommended that you use preview builds while doing the initially setting up SteamPipe to
+    // ensure that the depot manifest contains the correct files.
+    "preview" "0"
+
+    // Branch name to automatically set live after successful build, none if empty.
+    // Note that the 'default' branch can not be set live automatically. That must be done through the App Admin panel.
+    "setlive" ""
+
+
+    //
+    // The following paths can be absolute or relative to location of the script.
+    //
+
+    // This directory will be the location for build logs, chunk cache, and intermediate output.
+    // The cache stored within this causes future SteamPipe uploads to complete quicker by using diffing.
+    "buildoutput" "../../Packaged/"
+
+    // The root of the content folder.
+    "contentroot" "../../Packaged/"
+
+    // The list of depots included in this build.
+    "depots"
+    {
+        // Windows64
+        "1193761" "depot_build_Windows64_1193761.vdf"
+
+        // Linux
+        "1193762" "depot_build_Linux_1193762.vdf"
+    }
+}

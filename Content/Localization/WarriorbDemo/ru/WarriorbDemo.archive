@@ -1,0 +1,10678 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "Areas",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Act I"
+					},
+					"Translation":
+					{
+						"Text": "Акт I"
+					},
+					"Key": "act_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Act II"
+					},
+					"Translation":
+					{
+						"Text": "Акт II"
+					},
+					"Key": "act_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Act III"
+					},
+					"Translation":
+					{
+						"Text": "Акт III"
+					},
+					"Key": "act_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Am I Worthy?"
+					},
+					"Translation":
+					{
+						"Text": "Достойна ли я?"
+					},
+					"Key": "progress_act1_tut1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ancient Arcade"
+					},
+					"Translation":
+					{
+						"Text": "Античная Аркада"
+					},
+					"Key": "ancient_arcade"
+				},
+				{
+					"Source":
+					{
+						"Text": "Armour Wrath"
+					},
+					"Translation":
+					{
+						"Text": "Броневой Гнев"
+					},
+					"Key": "progress_act2_lava_boss"
+				},
+				{
+					"Source":
+					{
+						"Text": "At a crossroad"
+					},
+					"Translation":
+					{
+						"Text": "На перекрестке"
+					},
+					"Key": "progress_act2_crossroad"
+				},
+				{
+					"Source":
+					{
+						"Text": "Being Followed"
+					},
+					"Translation":
+					{
+						"Text": "Быть преследуемым"
+					},
+					"Key": "progress_act2_ww_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bouncing Stones"
+					},
+					"Translation":
+					{
+						"Text": "Прыгающие камни"
+					},
+					"Key": "progress_act1_test_stone"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bubble Border"
+					},
+					"Translation":
+					{
+						"Text": "Граница Пузырей"
+					},
+					"Key": "bubble_border"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cerulean City"
+					},
+					"Translation":
+					{
+						"Text": "Лазурный Город"
+					},
+					"Key": "cerulean_city"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chance for everyone"
+					},
+					"Translation":
+					{
+						"Text": "Шанс для всех"
+					},
+					"Key": "progress_epilogue_save_creatures"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chasm Chamber"
+					},
+					"Translation":
+					{
+						"Text": "Комната Бездны"
+					},
+					"Key": "chasm_chamber"
+				},
+				{
+					"Source":
+					{
+						"Text": "Choosing the right weapon against a Boss will make your life easier."
+					},
+					"Translation":
+					{
+						"Text": "Подбор правильного оружия против Босса сделает твою жизнь легче."
+					},
+					"Key": "loading_tip_act2_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Climbing the Tower"
+					},
+					"Translation":
+					{
+						"Text": "Поднятие на Башню"
+					},
+					"Key": "progress_act2_lava_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Crossroad Cave"
+					},
+					"Translation":
+					{
+						"Text": "Пещера Кроссроуд"
+					},
+					"Key": "crossroad_cave"
+				},
+				{
+					"Source":
+					{
+						"Text": "Darkest Dungeon"
+					},
+					"Translation":
+					{
+						"Text": "Мрачные Подземелья"
+					},
+					"Key": "darkest_dungeon"
+				},
+				{
+					"Source":
+					{
+						"Text": "Discovering Ancient Technology"
+					},
+					"Translation":
+					{
+						"Text": "Открытие древних технологий"
+					},
+					"Key": "progress_act1_arcade2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don’t forget to spend your gold! (Ad sponsored by Gnory)"
+					},
+					"Translation":
+					{
+						"Text": "Не забудь потратить свое золото! (Спонсор объявления - Гнори.)"
+					},
+					"Key": "loading_tip_act2_7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don’t forget to use the Soulkeeper!"
+					},
+					"Translation":
+					{
+						"Text": "Не забудьте воспользоваться Хранилищем Душ!"
+					},
+					"Key": "loading_tip_act2_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don’t give up! Victory is close."
+					},
+					"Translation":
+					{
+						"Text": "Не сдавайся! Победа не за горами."
+					},
+					"Key": "loading_tip_act3_7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarven Dungeons"
+					},
+					"Translation":
+					{
+						"Text": "Подземелья Гномов"
+					},
+					"Key": "dwarven_dungeons"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarven Statue"
+					},
+					"Translation":
+					{
+						"Text": "Статуя Гнома"
+					},
+					"Key": "progress_act2_dwarf_boss"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dying often is absolutely normal. If you don’t die a lot, you are doing something wrong."
+					},
+					"Translation":
+					{
+						"Text": "Часто умирать - это абсолютно нормально. Если ты не часто умираешь, ты делаешь что-то не так."
+					},
+					"Key": "loading_tip_act1_8"
+				},
+				{
+					"Source":
+					{
+						"Text": "Each weapon has its own unique special strike."
+					},
+					"Translation":
+					{
+						"Text": "Каждое оружие имеет свой уникальный специальный удар."
+					},
+					"Key": "loading_tip_act1_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Elevator Gem and Key"
+					},
+					"Translation":
+					{
+						"Text": "Самоцвет и ключ лифта"
+					},
+					"Key": "progress_act2_dwarf_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Epilogue"
+					},
+					"Translation":
+					{
+						"Text": "Эпилог"
+					},
+					"Key": "epilogue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Equipping the right items will make the combat easier."
+					},
+					"Translation":
+					{
+						"Text": "Правильно подобранное снаряжение облегчит бой."
+					},
+					"Key": "loading_tip_act2_8"
+				},
+				{
+					"Source":
+					{
+						"Text": "Facing the Keeper"
+					},
+					"Translation":
+					{
+						"Text": "Встреча с Хранителем"
+					},
+					"Key": "progress_act1_boss_fight"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fallen Druid"
+					},
+					"Translation":
+					{
+						"Text": "Падший Друид"
+					},
+					"Key": "progress_act2_ww_boss"
+				},
+				{
+					"Source":
+					{
+						"Text": "Finally! You did your part of the deal, now it's the Wizard's turn to get you back home."
+					},
+					"Translation":
+					{
+						"Text": "Наконец-то! Ты выполнил свою часть сделки, теперь очередь Волшебника вернуть тебя домой."
+					},
+					"Key": "ending_loading"
+				},
+				{
+					"Source":
+					{
+						"Text": "Finding the Artefacts might be hard, but this is your only chance to get out."
+					},
+					"Translation":
+					{
+						"Text": "Найти Артефакты может быть задача не из простых, но это твой единственный шанс выбраться."
+					},
+					"Key": "loading_tip_act2_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Finding the Three Artifacts required all your skills and strength. You hope that delivering them to the Wizard will be less difficult."
+					},
+					"Translation":
+					{
+						"Text": "Поиск Трех Артефактов требует всех твоих навыков и сил. Ты надеешься, что доставить их Волшебнику будет не так уж и сложно."
+					},
+					"Key": "act3_loading"
+				},
+				{
+					"Source":
+					{
+						"Text": "Floating"
+					},
+					"Translation":
+					{
+						"Text": "Парящий"
+					},
+					"Key": "progress_act3_floating"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grey Gate"
+					},
+					"Translation":
+					{
+						"Text": "Серые Врата"
+					},
+					"Key": "grey_gate"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hallowed Heart"
+					},
+					"Translation":
+					{
+						"Text": "Святое Сердце"
+					},
+					"Key": "hallowed_heart"
+				},
+				{
+					"Source":
+					{
+						"Text": "However the past is behind us"
+					},
+					"Translation":
+					{
+						"Text": "Но прошлое уже позади"
+					},
+					"Key": "intro_subtitle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I wish I could just... turn back time to undo what I have done."
+					},
+					"Translation":
+					{
+						"Text": "Хотел бы я просто… повернуть время вспять, чтобы исправить то, что я натворил."
+					},
+					"Key": "intro_subtitle_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "If you find a combat too hard try to use different shards, spells, and weapons."
+					},
+					"Translation":
+					{
+						"Text": "Если ты считаешь что бой слишком сложный, попробуй использовать разные предметы/заклинания/оружие."
+					},
+					"Key": "loading_tip_act3_6"
+				},
+				{
+					"Source":
+					{
+						"Text": "If you find an area too difficult you can always go to another area first."
+					},
+					"Translation":
+					{
+						"Text": "Если тебе кажется, что локация слишком сложная, ты всегда можешь сначала пойти в другую локацию."
+					},
+					"Key": "loading_tip_act2_6"
+				},
+				{
+					"Source":
+					{
+						"Text": "If you got this far, you surely know everything now."
+					},
+					"Translation":
+					{
+						"Text": "Если ты зашёл так далеко, то теперь ты точно всё знаешь."
+					},
+					"Key": "loading_tip_act3_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "If you manage to defeat every member of a group you won’t have to fight them ever again."
+					},
+					"Translation":
+					{
+						"Text": "Если тебе удастся победить каждого члена группы, то тебе больше никогда не придется с ними бороться."
+					},
+					"Key": "loading_tip_act2_9"
+				},
+				{
+					"Source":
+					{
+						"Text": "In Ball form you bounce back when you hit a surface."
+					},
+					"Translation":
+					{
+						"Text": "В форме Шара ты отскакиваешь назад, когда ударяешься о поверхность."
+					},
+					"Key": "loading_tip_act1_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "In Ball form you go faster."
+					},
+					"Translation":
+					{
+						"Text": "В форме Шара ты быстрее."
+					},
+					"Key": "loading_tip_act1_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Infusing the Gem"
+					},
+					"Translation":
+					{
+						"Text": "Введение Самоцвета"
+					},
+					"Key": "progress_act1_infuse"
+				},
+				{
+					"Source":
+					{
+						"Text": "Into the Blue"
+					},
+					"Translation":
+					{
+						"Text": "В Синий"
+					},
+					"Key": "progress_act2_dwarf_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Into the Green"
+					},
+					"Translation":
+					{
+						"Text": "В Зелёный"
+					},
+					"Key": "progress_act2_ww_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Into the Red"
+					},
+					"Translation":
+					{
+						"Text": "В Красный"
+					},
+					"Key": "progress_act2_lava_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Last Land"
+					},
+					"Translation":
+					{
+						"Text": "Последняя Земля"
+					},
+					"Key": "last_land"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lava Lair"
+					},
+					"Translation":
+					{
+						"Text": "Лавовое Логово"
+					},
+					"Key": "lava_lair"
+				},
+				{
+					"Source":
+					{
+						"Text": "Loading screen tips are very useful - except in a few cases."
+					},
+					"Translation":
+					{
+						"Text": "Подсказки на экране загрузки очень полезны - за исключением нескольких случаев."
+					},
+					"Key": "loading_tip_act3_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Looking for a Gem"
+					},
+					"Translation":
+					{
+						"Text": "В поисках Самоцвета"
+					},
+					"Key": "progress_act1_gem"
+				},
+				{
+					"Source":
+					{
+						"Text": "Looking for a Portal"
+					},
+					"Translation":
+					{
+						"Text": "В поисках портала"
+					},
+					"Key": "progress_act1_portals"
+				},
+				{
+					"Source":
+					{
+						"Text": "Looks like it’s always you who has to take care of the mess others left behind."
+					},
+					"Translation":
+					{
+						"Text": "Похоже, ты тот кому всегда приходится заботиться о бардаке, который оставили другие."
+					},
+					"Key": "loading_tip_end_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lost Land"
+					},
+					"Translation":
+					{
+						"Text": "Затерянные Земли"
+					},
+					"Key": "lost_land"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lost in Ruin"
+					},
+					"Translation":
+					{
+						"Text": "Затерянный в Руине"
+					},
+					"Key": "progress_act1_start"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lost in the Caves"
+					},
+					"Translation":
+					{
+						"Text": "Затерянный в Пещерах"
+					},
+					"Key": "progress_act3_start"
+				},
+				{
+					"Source":
+					{
+						"Text": "Monk's Home"
+					},
+					"Translation":
+					{
+						"Text": "Дом Монаха"
+					},
+					"Key": "progress_act3_monk"
+				},
+				{
+					"Source":
+					{
+						"Text": "Most of the people died after Ruin happened, but there are still some survivors."
+					},
+					"Translation":
+					{
+						"Text": "Большинство людей умерло после того, как произошел Руин, но некоторые все же выжили."
+					},
+					"Key": "loading_tip_act1_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Moving Pipes"
+					},
+					"Translation":
+					{
+						"Text": "Движущиеся трубы"
+					},
+					"Key": "progress_act3_pipes"
+				},
+				{
+					"Source":
+					{
+						"Text": "Now is your time to think about the fate of the Ruined Realm."
+					},
+					"Translation":
+					{
+						"Text": "Пришло время подумать о судьбе Разрушенного Царства."
+					},
+					"Key": "loading_tip_act3_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Now your only task is to bring the Artefacts to Wizard."
+					},
+					"Translation":
+					{
+						"Text": "Теперь твоя единственная задача - доставить Артефакты Волшебнику."
+					},
+					"Key": "loading_tip_act3_5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Obedient Outpost"
+					},
+					"Translation":
+					{
+						"Text": "Послушная Застава"
+					},
+					"Key": "obedient_outpost"
+				},
+				{
+					"Source":
+					{
+						"Text": "Opening the Gate"
+					},
+					"Translation":
+					{
+						"Text": "Открытие ворот"
+					},
+					"Key": "progress_act2_dwarf_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Past and Future"
+					},
+					"Translation":
+					{
+						"Text": "Прошлое и Будущее"
+					},
+					"Key": "progress_epilogue_past_and_future"
+				},
+				{
+					"Source":
+					{
+						"Text": "Perfect Palace"
+					},
+					"Translation":
+					{
+						"Text": "Совершенный Дворец"
+					},
+					"Key": "perfect_palace"
+				},
+				{
+					"Source":
+					{
+						"Text": "Portal Place"
+					},
+					"Translation":
+					{
+						"Text": "Место Портала"
+					},
+					"Key": "portal_place"
+				},
+				{
+					"Source":
+					{
+						"Text": "Prologue"
+					},
+					"Translation":
+					{
+						"Text": "Пролог"
+					},
+					"Key": "prologue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reaching Crossroad Cave you are a step closer to the Three Artifacts - and to freedom."
+					},
+					"Translation":
+					{
+						"Text": "Добравшись до Пещеры Кроссроуд, ты на шаг ближе к Трем Артефактам - и к свободе."
+					},
+					"Key": "act2_loading"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remnant Road"
+					},
+					"Translation":
+					{
+						"Text": "Оставшаяся Дорога"
+					},
+					"Key": "remnant_road"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remnants of a Realm"
+					},
+					"Translation":
+					{
+						"Text": "Остатки Царства"
+					},
+					"Key": "progress_act1_arcade1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruined Realm"
+					},
+					"Translation":
+					{
+						"Text": "Разрушенное Царство"
+					},
+					"Key": "ruined_realm"
+				},
+				{
+					"Source":
+					{
+						"Text": "Searching for a way out"
+					},
+					"Translation":
+					{
+						"Text": "В поисках выхода"
+					},
+					"Key": "progress_act1_before_raven"
+				},
+				{
+					"Source":
+					{
+						"Text": "Separated Worlds"
+					},
+					"Translation":
+					{
+						"Text": "Раздельные Миры"
+					},
+					"Key": "progress_epilogue_separate_worlds"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sewer again"
+					},
+					"Translation":
+					{
+						"Text": "Снова канализация"
+					},
+					"Key": "progress_act1_tut2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Should you care about the fate of the Realms?"
+					},
+					"Translation":
+					{
+						"Text": "Должна ли тебя волновать судьба Царств?"
+					},
+					"Key": "loading_tip_end_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Snake Slide"
+					},
+					"Translation":
+					{
+						"Text": "Змеевидный Спуск"
+					},
+					"Key": "snake_slide"
+				},
+				{
+					"Source":
+					{
+						"Text": "Some items can’t be used but merchants still like to buy them."
+					},
+					"Translation":
+					{
+						"Text": "Некоторые предметы не могут быть использованы, но купцы все равно любят их покупать."
+					},
+					"Key": "loading_tip_act1_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spells can make combat easier."
+					},
+					"Translation":
+					{
+						"Text": "Заклинания могут облегчить бой."
+					},
+					"Key": "loading_tip_act1_7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sunken Sewer"
+					},
+					"Translation":
+					{
+						"Text": "Затопленная Канализация"
+					},
+					"Key": "sunken_sewer"
+				},
+				{
+					"Source":
+					{
+						"Text": "Talk to any Survivor if you can. They might be able to help you."
+					},
+					"Translation":
+					{
+						"Text": "Поговори с любым выжившим, если сможешь. Они могут тебе помочь."
+					},
+					"Key": "loading_tip_act2_5"
+				},
+				{
+					"Source":
+					{
+						"Text": "The End is near... I mean no loading screen can take forever, right?"
+					},
+					"Translation":
+					{
+						"Text": "Конец близок… Я о том, что ни один экран загрузки не может длиться вечно, верно?"
+					},
+					"Key": "loading_tip_act3_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Human Realm is a weird place..."
+					},
+					"Translation":
+					{
+						"Text": "Человеческое Царство - странное место…"
+					},
+					"Key": "loading_tip_end_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Real Demon"
+					},
+					"Translation":
+					{
+						"Text": "Настоящий Демон"
+					},
+					"Key": "progress_epilogue_boss"
+				},
+				{
+					"Source":
+					{
+						"Text": "There are many keys, and when I say many, I mean it."
+					},
+					"Translation":
+					{
+						"Text": "Там много ключей, и когда я говорю много, я не преувеличиваю."
+					},
+					"Key": "loading_tip_act1_5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Third time Worthy"
+					},
+					"Translation":
+					{
+						"Text": "Третий раз Достойный"
+					},
+					"Key": "progress_act1_tut3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Through the Lake"
+					},
+					"Translation":
+					{
+						"Text": "Через озеро"
+					},
+					"Key": "progress_act2_ww_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Time to finish what you started. One way or another."
+					},
+					"Translation":
+					{
+						"Text": "Так или иначе. Пора закончить то, что ты начал."
+					},
+					"Key": "loading_tip_end_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "To the Fourth Station"
+					},
+					"Translation":
+					{
+						"Text": "На четвертую станцию"
+					},
+					"Key": "progress_act2_end"
+				},
+				{
+					"Source":
+					{
+						"Text": "Uniting Key Pieces"
+					},
+					"Translation":
+					{
+						"Text": "Объединение ключевых элементов"
+					},
+					"Key": "progress_act2_lava_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Using the Railway can also make your Journey longer."
+					},
+					"Translation":
+					{
+						"Text": "Использование Железнодорожной Станции также может сделать твое путешествие длиннее."
+					},
+					"Key": "loading_tip_act3_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Using the Railway can shorten your journey."
+					},
+					"Translation":
+					{
+						"Text": "С помощью Железнодорожной Станции можно сократить путь."
+					},
+					"Key": "loading_tip_act2_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Way out of the Realm"
+					},
+					"Translation":
+					{
+						"Text": "Выход из Царства"
+					},
+					"Key": "progress_act3_way_out"
+				},
+				{
+					"Source":
+					{
+						"Text": "We’ll try to make our next game without any loading screens, we promise..."
+					},
+					"Translation":
+					{
+						"Text": "Мы постараемся сделать нашу следующую игру без экранов загрузки, обещаем…"
+					},
+					"Key": "loading_tip_act2_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "When you find an item it would make sense to check what it is, wouldn’t it?"
+					},
+					"Translation":
+					{
+						"Text": "Когда ты находишь какой-либо предмет, стоит проверить, что это такое, не так ли?"
+					},
+					"Key": "loading_tip_act1_6"
+				},
+				{
+					"Source":
+					{
+						"Text": "White Wall"
+					},
+					"Translation":
+					{
+						"Text": "Белая Стена"
+					},
+					"Key": "white_wall"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wizard's Castle"
+					},
+					"Translation":
+					{
+						"Text": "Замок Волшебника"
+					},
+					"Key": "progress_epilogue_castle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wracked Waters"
+					},
+					"Translation":
+					{
+						"Text": "Заражённые Воды"
+					},
+					"Key": "wracked_waters"
+				},
+				{
+					"Source":
+					{
+						"Text": "You are a Mighty Spirit from the Unknown Realm. You were torn away from your home by a pathetic mortal Wizard. After a magical accident your essence is bound to an unlikely body. Find a way out of your ball-body prison!"
+					},
+					"Translation":
+					{
+						"Text": "Ты - Могучий Дух из Неизвестного Царства. Ты был вырван из родного мира жалким смертным Волшебником. После магической случайности твоя сущность привязана к невероятному телу. Найди выход из плена своего шаровидного тела!"
+					},
+					"Key": "act1_loading"
+				},
+				{
+					"Source":
+					{
+						"Text": "You can always check the Sidenotes in your Inventory to see if you have any side quests."
+					},
+					"Translation":
+					{
+						"Text": "Ты всегда можешь проверить Заметки в Инвентаре, чтобы узнать, есть ли у тебя дополнительные квесты."
+					},
+					"Key": "loading_tip_act1_9"
+				},
+				{
+					"Source":
+					{
+						"Text": "You really did your part of the deal, now it’s time to go home!"
+					},
+					"Translation":
+					{
+						"Text": "Ты действительно выполнил свою часть сделки, теперь пора домой!"
+					},
+					"Key": "loading_tip_end_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "and all I can change now"
+					},
+					"Translation":
+					{
+						"Text": "и все что я могу изменить"
+					},
+					"Key": "intro_subtitle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "is the future."
+					},
+					"Translation":
+					{
+						"Text": "так это будущее."
+					},
+					"Key": "intro_subtitle_3"
+				}
+			]
+		},
+		{
+			"Namespace": "Credits",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Made with FMOD Studio by Firelight Technologies Pty Ltd."
+					},
+					"Translation":
+					{
+						"Text": "Создано с помощью FMOD Studio от Firelight Technologies Pty Ltd."
+					},
+					"Key": "credits_fmod"
+				}
+			]
+		},
+		{
+			"Namespace": "DateTimeHelper",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "April"
+					},
+					"Translation":
+					{
+						"Text": "Апрель"
+					},
+					"Key": "MonthApril"
+				},
+				{
+					"Source":
+					{
+						"Text": "August"
+					},
+					"Translation":
+					{
+						"Text": "Август"
+					},
+					"Key": "MonthAugust"
+				},
+				{
+					"Source":
+					{
+						"Text": "December"
+					},
+					"Translation":
+					{
+						"Text": "Декабрь"
+					},
+					"Key": "MonthDecember"
+				},
+				{
+					"Source":
+					{
+						"Text": "February"
+					},
+					"Translation":
+					{
+						"Text": "Февраль"
+					},
+					"Key": "MonthFebruary"
+				},
+				{
+					"Source":
+					{
+						"Text": "January"
+					},
+					"Translation":
+					{
+						"Text": "Январь"
+					},
+					"Key": "MonthJanuary"
+				},
+				{
+					"Source":
+					{
+						"Text": "July"
+					},
+					"Translation":
+					{
+						"Text": "Июль"
+					},
+					"Key": "MonthJuly"
+				},
+				{
+					"Source":
+					{
+						"Text": "June"
+					},
+					"Translation":
+					{
+						"Text": "Июнь"
+					},
+					"Key": "MonthJune"
+				},
+				{
+					"Source":
+					{
+						"Text": "March"
+					},
+					"Translation":
+					{
+						"Text": "Март"
+					},
+					"Key": "MonthMarch"
+				},
+				{
+					"Source":
+					{
+						"Text": "May"
+					},
+					"Translation":
+					{
+						"Text": "Май"
+					},
+					"Key": "MonthMay"
+				},
+				{
+					"Source":
+					{
+						"Text": "November"
+					},
+					"Translation":
+					{
+						"Text": "Ноябрь"
+					},
+					"Key": "MonthNovember"
+				},
+				{
+					"Source":
+					{
+						"Text": "October"
+					},
+					"Translation":
+					{
+						"Text": "Октябрь"
+					},
+					"Key": "MonthOctober"
+				},
+				{
+					"Source":
+					{
+						"Text": "September"
+					},
+					"Translation":
+					{
+						"Text": "Сентябрь"
+					},
+					"Key": "MonthSeptember"
+				},
+				{
+					"Source":
+					{
+						"Text": "{Hours}:{Minutes}:{Seconds}"
+					},
+					"Translation":
+					{
+						"Text": "{Hours}:{Minutes}:{Seconds}"
+					},
+					"Key": "SecondsToTimeMinusSeconds"
+				},
+				{
+					"Source":
+					{
+						"Text": "{Minutes}:{Seconds}"
+					},
+					"Translation":
+					{
+						"Text": "{Minutes}:{Seconds}"
+					},
+					"Key": "SecondsToTime"
+				}
+			]
+		},
+		{
+			"Namespace": "Dialogue",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Altar"
+					},
+					"Translation":
+					{
+						"Text": "Алтарь"
+					},
+					"Key": "npc_altar"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ancient Gate"
+					},
+					"Translation":
+					{
+						"Text": "Древние Врата"
+					},
+					"Key": "npc_ancient_gate"
+				},
+				{
+					"Source":
+					{
+						"Text": "BALL-E"
+					},
+					"Translation":
+					{
+						"Text": "БОЛЛ-И"
+					},
+					"Key": "char_name_ball_e"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bored Gnome"
+					},
+					"Translation":
+					{
+						"Text": "Унылый Гном"
+					},
+					"Key": "npc_teachy_unkown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Demon Lillian"
+					},
+					"Translation":
+					{
+						"Text": "Демон Лиллиан"
+					},
+					"Key": "npc_demon_lillian"
+				},
+				{
+					"Source":
+					{
+						"Text": "Destroyer"
+					},
+					"Translation":
+					{
+						"Text": "Разрушитель"
+					},
+					"Key": "char_name_destroyer"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don't buy"
+					},
+					"Translation":
+					{
+						"Text": "Не покупай"
+					},
+					"Key": "char_name_dont_buy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dr. Ball"
+					},
+					"Translation":
+					{
+						"Text": "Доктор Бол"
+					},
+					"Key": "char_name_dr_ball"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarven Workshop"
+					},
+					"Translation":
+					{
+						"Text": "Мастерская Гнома"
+					},
+					"Key": "npc_dwarven_workshop"
+				},
+				{
+					"Source":
+					{
+						"Text": "Epic Sphero"
+					},
+					"Translation":
+					{
+						"Text": "Эпический Сфероид"
+					},
+					"Key": "char_name_epic_sphero"
+				},
+				{
+					"Source":
+					{
+						"Text": "Failed One"
+					},
+					"Translation":
+					{
+						"Text": "Неудачник"
+					},
+					"Key": "char_name_failed_one"
+				},
+				{
+					"Source":
+					{
+						"Text": "Finish"
+					},
+					"Translation":
+					{
+						"Text": "Завершить"
+					},
+					"Key": "finish"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fishy"
+					},
+					"Translation":
+					{
+						"Text": "Фиши"
+					},
+					"Key": "npc_fishy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fountain"
+					},
+					"Translation":
+					{
+						"Text": "Фонтан"
+					},
+					"Key": "npc_fountain"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gatekeeper"
+					},
+					"Translation":
+					{
+						"Text": "Хранитель Врат"
+					},
+					"Key": "npc_gatekeeper"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ghost Dwarf"
+					},
+					"Translation":
+					{
+						"Text": "Карлик-Призрак"
+					},
+					"Key": "npc_ghost_dwarf"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gnome Lady"
+					},
+					"Translation":
+					{
+						"Text": "Леди Гном"
+					},
+					"Key": "npc_lory_unkown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gnory"
+					},
+					"Translation":
+					{
+						"Text": "Гнори"
+					},
+					"Key": "npc_gnory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Golem Maker"
+					},
+					"Translation":
+					{
+						"Text": "Создатель Големов"
+					},
+					"Key": "npc_golem_maker"
+				},
+				{
+					"Source":
+					{
+						"Text": "Kobold Chef"
+					},
+					"Translation":
+					{
+						"Text": "Повар Коболд"
+					},
+					"Key": "npc_name_kobold"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lory"
+					},
+					"Translation":
+					{
+						"Text": "Лори"
+					},
+					"Key": "npc_lory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Magic Mirror"
+					},
+					"Translation":
+					{
+						"Text": "Волшебное Зеркало"
+					},
+					"Key": "npc_magic_mirror"
+				},
+				{
+					"Source":
+					{
+						"Text": "Merch Ant"
+					},
+					"Translation":
+					{
+						"Text": "Торгаш"
+					},
+					"Key": "npc_merchant"
+				},
+				{
+					"Source":
+					{
+						"Text": "Monk"
+					},
+					"Translation":
+					{
+						"Text": "Монах"
+					},
+					"Key": "npc_monk"
+				},
+				{
+					"Source":
+					{
+						"Text": "Next"
+					},
+					"Translation":
+					{
+						"Text": "Далее"
+					},
+					"Key": "next"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pipe Walker"
+					},
+					"Translation":
+					{
+						"Text": "Трубоходик"
+					},
+					"Key": "npc_pipe_walker"
+				},
+				{
+					"Source":
+					{
+						"Text": "Raven"
+					},
+					"Translation":
+					{
+						"Text": "Ворон"
+					},
+					"Key": "npc_raven"
+				},
+				{
+					"Source":
+					{
+						"Text": "Saviour"
+					},
+					"Translation":
+					{
+						"Text": "Спаситель"
+					},
+					"Key": "char_name_saviour"
+				},
+				{
+					"Source":
+					{
+						"Text": "Scholar"
+					},
+					"Translation":
+					{
+						"Text": "Профессор"
+					},
+					"Key": "npc_scholar"
+				},
+				{
+					"Source":
+					{
+						"Text": "Secret Hideout Gate"
+					},
+					"Translation":
+					{
+						"Text": "Тайные Врата-Убежища"
+					},
+					"Key": "npc_secret_hideout"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sewer Creature"
+					},
+					"Translation":
+					{
+						"Text": "Канализационное Существо"
+					},
+					"Key": "npc_sewer_creature"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sorbcerer"
+					},
+					"Translation":
+					{
+						"Text": "Шародей"
+					},
+					"Key": "char_name_sorbcerer"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spirit Of the Unknown"
+					},
+					"Translation":
+					{
+						"Text": "Дух Неизвестного"
+					},
+					"Key": "char_name_spirit_of_the_unknown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Statue"
+					},
+					"Translation":
+					{
+						"Text": "Статуя"
+					},
+					"Key": "npc_statue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Supper Dwarf"
+					},
+					"Translation":
+					{
+						"Text": "Гном Едун"
+					},
+					"Key": "npc_supper_dwarf"
+				},
+				{
+					"Source":
+					{
+						"Text": "Teachy"
+					},
+					"Translation":
+					{
+						"Text": "Ученый"
+					},
+					"Key": "npc_teachy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tomb"
+					},
+					"Translation":
+					{
+						"Text": "Гробница"
+					},
+					"Key": "npc_tomb"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ultimate Frisbee"
+					},
+					"Translation":
+					{
+						"Text": "Абсолютный Фрисби"
+					},
+					"Key": "char_name_ultimate_frisbee"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unknown Wizard"
+					},
+					"Translation":
+					{
+						"Text": "Неизвестный Волшебник"
+					},
+					"Key": "npc_unknown_wizard"
+				},
+				{
+					"Source":
+					{
+						"Text": "Voice"
+					},
+					"Translation":
+					{
+						"Text": "Голос"
+					},
+					"Key": "npc_merchant_voice"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wanderer"
+					},
+					"Translation":
+					{
+						"Text": "Странник"
+					},
+					"Key": "char_name_wanderer"
+				},
+				{
+					"Source":
+					{
+						"Text": "Warlorb"
+					},
+					"Translation":
+					{
+						"Text": "Уорлорб"
+					},
+					"Key": "char_name_warlorb"
+				},
+				{
+					"Source":
+					{
+						"Text": "WarriOrb"
+					},
+					"Translation":
+					{
+						"Text": "Уорриорб"
+					},
+					"Key": "char_name_warriorb"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wizard"
+					},
+					"Translation":
+					{
+						"Text": "Волшебник"
+					},
+					"Key": "npc_wizard"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} Gold Gained"
+					},
+					"Translation":
+					{
+						"Text": "{0} Gold Gained"
+					},
+					"Key": "gold_gained"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} Gold Lost"
+					},
+					"Translation":
+					{
+						"Text": "{0} Утеряно золото"
+					},
+					"Key": "gold_lost"
+				},
+				{
+					"Source":
+					{
+						"Text": "{Amount} {ItemName} gained!"
+					},
+					"Translation":
+					{
+						"Text": "{Amount} {ItemName} приобретено!"
+					},
+					"Key": "item_gained_n"
+				},
+				{
+					"Source":
+					{
+						"Text": "{Amount} {ItemName} lost!"
+					},
+					"Translation":
+					{
+						"Text": "{Amount} {ItemName} утеряно!"
+					},
+					"Key": "item_lost_n"
+				},
+				{
+					"Source":
+					{
+						"Text": "{ItemName} gained!"
+					},
+					"Translation":
+					{
+						"Text": "{ItemName} приобретен!"
+					},
+					"Key": "item_gained"
+				},
+				{
+					"Source":
+					{
+						"Text": "{ItemName} lost!"
+					},
+					"Translation":
+					{
+						"Text": "{ItemName} утерян!"
+					},
+					"Key": "item_lost"
+				}
+			]
+		},
+		{
+			"Namespace": "Dialogue_VV_Kobold",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Accept Quest"
+					},
+					"Translation":
+					{
+						"Text": "Принять Квест"
+					},
+					"Key": "C530096E4FA1A2B68077C3AD6AC1BF44"
+				},
+				{
+					"Source":
+					{
+						"Text": "All right, thank you."
+					},
+					"Translation":
+					{
+						"Text": "Ладно, спасибо."
+					},
+					"Key": "41C1FCA947041D49247FC8A157D7407F"
+				},
+				{
+					"Source":
+					{
+						"Text": "And it also attracts the Pipewalkers."
+					},
+					"Translation":
+					{
+						"Text": "А также привлекает Трубоходиков."
+					},
+					"Key": "3764BB48401ABEDCD125F186B4BF0E17"
+				},
+				{
+					"Source":
+					{
+						"Text": "Any news on your lost tribe?"
+					},
+					"Translation":
+					{
+						"Text": "Есть новости о твоем пропавшем племени?"
+					},
+					"Key": "DA9D493F42420BE9442B1EA983AEF9C2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Because I’m a chef."
+					},
+					"Translation":
+					{
+						"Text": "Потому что я повар."
+					},
+					"Key": "52A8B1F04C37F262E014DEA14AB68957"
+				},
+				{
+					"Source":
+					{
+						"Text": "Can I help?"
+					},
+					"Translation":
+					{
+						"Text": "Я могу помочь?"
+					},
+					"Key": "8FF6BF7B4745BB75C2D8F7873C492C2D"
+				},
+				{
+					"Source":
+					{
+						"Text": "Could you activate it for me?"
+					},
+					"Translation":
+					{
+						"Text": "Можешь активировать его для меня?"
+					},
+					"Key": "1B9834C6405C60960F322585AB0F1704"
+				},
+				{
+					"Source":
+					{
+						"Text": "Could you activate it for me?"
+					},
+					"Translation":
+					{
+						"Text": "Можешь активировать его для меня?"
+					},
+					"Key": "2189E8064ACF974902FBA49BD12D0F47"
+				},
+				{
+					"Source":
+					{
+						"Text": "Decline"
+					},
+					"Translation":
+					{
+						"Text": "Отклонить"
+					},
+					"Key": "3DCACAB047175FB687542AB0CA25D972"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you know how can I reach that Purple Portal?"
+					},
+					"Translation":
+					{
+						"Text": "Ты знаешь, как мне добраться до Пурпурного Портала?"
+					},
+					"Key": "EBC97F7C45858FE6DC72209536FC5C3B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you need help with something?"
+					},
+					"Translation":
+					{
+						"Text": "Тебе нужна помощь?"
+					},
+					"Key": "8240EF7946C8434333AFAEBEF3583917"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you think you will find Pipewalkers here?"
+					},
+					"Translation":
+					{
+						"Text": "Думаешь, ты найдешь здесь Трубоходиков?"
+					},
+					"Key": "3C0498284D71B7B64FEA4094F42A5502"
+				},
+				{
+					"Source":
+					{
+						"Text": "Good bye!"
+					},
+					"Translation":
+					{
+						"Text": "Ага, пока!"
+					},
+					"Key": "BA715D554C47932C092462B36ADEA081"
+				},
+				{
+					"Source":
+					{
+						"Text": "Good idea."
+					},
+					"Translation":
+					{
+						"Text": "Хорошая идея."
+					},
+					"Key": "10ADF4F948FB99445BF791BB0722AD90"
+				},
+				{
+					"Source":
+					{
+						"Text": "Haha... Yes I’m back again."
+					},
+					"Translation":
+					{
+						"Text": "Хаха… Да, я вернулся."
+					},
+					"Key": "63EA4DDD45390542E3A904928143D9AF"
+				},
+				{
+					"Source":
+					{
+						"Text": "Have you found out anything about Ruin?"
+					},
+					"Translation":
+					{
+						"Text": "Ты узнал что-нибудь о Руине?"
+					},
+					"Key": "C339B87742C2B475E2387F93418AA855"
+				},
+				{
+					"Source":
+					{
+						"Text": "How on earth have you managed to reach this node?"
+					},
+					"Translation":
+					{
+						"Text": "Каким боком тебе удалось добраться до этого узла?"
+					},
+					"Key": "DE668E4B4A3D0F785A693B9190E635D3"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can’t promise I’ll do that."
+					},
+					"Translation":
+					{
+						"Text": "Я не могу обещать, что сделаю это."
+					},
+					"Key": "9FD2679D44BEBBFBBAD2EAAECFFEE0D5"
+				},
+				{
+					"Source":
+					{
+						"Text": "I need to go now."
+					},
+					"Translation":
+					{
+						"Text": "Мне пора идти."
+					},
+					"Key": "DE2390ED4366A621E4D220A3761333DE"
+				},
+				{
+					"Source":
+					{
+						"Text": "I think I managed to activate the device on the wall of the Portal Tower."
+					},
+					"Translation":
+					{
+						"Text": "Думаю, мне удалось активировать устройство на стене Портал-Башни."
+					},
+					"Key": "0944D8A541F933BEB5DD068CA9099075"
+				},
+				{
+					"Source":
+					{
+						"Text": "I think I've already done that."
+					},
+					"Translation":
+					{
+						"Text": "Похоже, я это уже сделал."
+					},
+					"Key": "274EB7AD410061E3E200A9813A54AB29"
+				},
+				{
+					"Source":
+					{
+						"Text": "I think they came here and followed the messages just like you."
+					},
+					"Translation":
+					{
+						"Text": "Я думаю, они были здесь и последовали за посланиями, как и ты."
+					},
+					"Key": "F9EBA1684D435C8AEB14129A7B57A604"
+				},
+				{
+					"Source":
+					{
+						"Text": "I want to find my tribe."
+					},
+					"Translation":
+					{
+						"Text": "Я хочу найти свое племя."
+					},
+					"Key": "3A0924F7449355545C0A98B94994616B"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm on my way. Take care!"
+					},
+					"Translation":
+					{
+						"Text": "Я уже в пути. Будь осторожен!"
+					},
+					"Key": "E83287164D066CCE8FBFDE835FBD4CFB"
+				},
+				{
+					"Source":
+					{
+						"Text": "I've got to go. See you soon!"
+					},
+					"Translation":
+					{
+						"Text": "Мне пора. Еще увидимся!"
+					},
+					"Key": "AA1C6EF444BAB6A929E953A87BB87ABB"
+				},
+				{
+					"Source":
+					{
+						"Text": "If there are any they will come here when they smell the soup."
+					},
+					"Translation":
+					{
+						"Text": "Если они здесь есть, они придут сюда, когда почувствуют запах супа."
+					},
+					"Key": "807FF1A945548216DAD305B4D5A4437F"
+				},
+				{
+					"Source":
+					{
+						"Text": "If they are still alive they must be beyond that Purple Portal."
+					},
+					"Translation":
+					{
+						"Text": "Если они все еще живы, они должны быть за Пурпурным Порталом."
+					},
+					"Key": "43C8FE9248340E49F1F31882D7B96642"
+				},
+				{
+					"Source":
+					{
+						"Text": "If you activate it I’ll be able to use the portal to teleport to other places."
+					},
+					"Translation":
+					{
+						"Text": "Если ты активируешь его, я смогу использовать портал для телепортации в другие места."
+					},
+					"Key": "97E4FDC74B47A6037D6023A4C65B2934"
+				},
+				{
+					"Source":
+					{
+						"Text": "It helps me keep my mind clear."
+					},
+					"Translation":
+					{
+						"Text": "Это помогает мне думать яснее."
+					},
+					"Key": "D058108241051A9FD0D130B3C9EA4B8B"
+				},
+				{
+					"Source":
+					{
+						"Text": "It was nice to meet you."
+					},
+					"Translation":
+					{
+						"Text": "Приятно было повидаться."
+					},
+					"Key": "BE7B3444431F43E8E1487F8702B94845"
+				},
+				{
+					"Source":
+					{
+						"Text": "It wasn’t that complicated after all."
+					},
+					"Translation":
+					{
+						"Text": "В итоге все было не так уж и сложно."
+					},
+					"Key": "F911D6CB45AA59448C03379A1C07DD60"
+				},
+				{
+					"Source":
+					{
+						"Text": "I’m glad you are back again!"
+					},
+					"Translation":
+					{
+						"Text": "Я рад, что ты вернулся!"
+					},
+					"Key": "022227664F6F422B20B109A19B8789AA"
+				},
+				{
+					"Source":
+					{
+						"Text": "I’m not sure... but I have a key which might be useful."
+					},
+					"Translation":
+					{
+						"Text": "Я не уверен…но у меня есть ключ, который может быть полезен."
+					},
+					"Key": "869485E24E19938DEE48BFB5C5240BB3"
+				},
+				{
+					"Source":
+					{
+						"Text": "I’m sorry but that sounds complicated."
+					},
+					"Translation":
+					{
+						"Text": "Извини, но это звучит сложновато."
+					},
+					"Key": "833BB4384231444247779CAB596D0259"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave"
+					},
+					"Translation":
+					{
+						"Text": "Выход"
+					},
+					"Key": "5F376BF945B8CE4AA12B7EB05F8C62A5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Looks like I can’t get rid of this body."
+					},
+					"Translation":
+					{
+						"Text": "Похоже, я не могу избавиться от этого тела."
+					},
+					"Key": "804671AF40165C92FA6A8F8A5AE97997"
+				},
+				{
+					"Source":
+					{
+						"Text": "Meanwhile I cooked something special for you. Take this!"
+					},
+					"Translation":
+					{
+						"Text": "Тем временем я подготовил кое-что особенное для тебя. Держи!"
+					},
+					"Key": "D8F879684C57BB474E7153B971073663"
+				},
+				{
+					"Source":
+					{
+						"Text": "Nice, well done!"
+					},
+					"Translation":
+					{
+						"Text": "Отлично, молодец!"
+					},
+					"Key": "E6D3401944B2FF128DD1689F5159AF96"
+				},
+				{
+					"Source":
+					{
+						"Text": "No problem."
+					},
+					"Translation":
+					{
+						"Text": "Без проблем."
+					},
+					"Key": "CD8CDA3443CDE79BE257B99A0801B209"
+				},
+				{
+					"Source":
+					{
+						"Text": "No. To be honest I don’t care much about Ruin."
+					},
+					"Translation":
+					{
+						"Text": "Нет. Честно говоря, меня не очень то волнует “Руин”."
+					},
+					"Key": "891684A24BA64E351E7F0B9ADEA3D6DF"
+				},
+				{
+					"Source":
+					{
+						"Text": "Oh, it’s you."
+					},
+					"Translation":
+					{
+						"Text": "О, это ты."
+					},
+					"Key": "86FBA5A24734DD97167512A054A2E0D9"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pls. report it as a bug."
+					},
+					"Translation":
+					{
+						"Text": "Сообщите нам, если вы обнаружили баг."
+					},
+					"Key": "E29E2D044497A86DD0FCA8B540703597"
+				},
+				{
+					"Source":
+					{
+						"Text": "Purple Portal"
+					},
+					"Translation":
+					{
+						"Text": "Пурпурный портал"
+					},
+					"Key": "73240093450B12BEEA1EB78C9CF7D89E"
+				},
+				{
+					"Source":
+					{
+						"Text": "Really? Anyway, I’m happy to see you."
+					},
+					"Translation":
+					{
+						"Text": "Правда? В любом случае, я рад тебя видеть."
+					},
+					"Key": "B621AECE42A14A508C945595493F3A3A"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruin"
+					},
+					"Translation":
+					{
+						"Text": "Руин"
+					},
+					"Key": "694B6E3F4F4C7CEAAACB51A2D30FFD26"
+				},
+				{
+					"Source":
+					{
+						"Text": "See you!"
+					},
+					"Translation":
+					{
+						"Text": "Увидимся!"
+					},
+					"Key": "85656A9E46844B03D49E13AC951FDE07"
+				},
+				{
+					"Source":
+					{
+						"Text": "Soup"
+					},
+					"Translation":
+					{
+						"Text": "Суп"
+					},
+					"Key": "C4D263AB48B800D5522A24923C541ED3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sure! I’ll see what I can do."
+					},
+					"Translation":
+					{
+						"Text": "Конечно! Я посмотрю, что можно сделать."
+					},
+					"Key": "444DD931423A98C7DD95D4BB73F0F1C6"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take it! I still need some time to finish the soup anyway."
+					},
+					"Translation":
+					{
+						"Text": "Возьми его! Мне все равно нужно время, чтобы закончить суп."
+					},
+					"Key": "95A7C27A44B78CBF17C1FD8C9446CBD7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Thank you!"
+					},
+					"Translation":
+					{
+						"Text": "Спасибо!"
+					},
+					"Key": "7304F1034A83C6D17E274090FA8E543B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Thanks!"
+					},
+					"Translation":
+					{
+						"Text": "Спасибо!"
+					},
+					"Key": "E3F52F4F47289406E4A546BB0BF3AC3F"
+				},
+				{
+					"Source":
+					{
+						"Text": "Thanks!"
+					},
+					"Translation":
+					{
+						"Text": "Спасибо!"
+					},
+					"Key": "64EE856046A396F2750AE1BC1042CF26"
+				},
+				{
+					"Source":
+					{
+						"Text": "Thanks."
+					},
+					"Translation":
+					{
+						"Text": "Спасибо."
+					},
+					"Key": "AED4FBE3422E0FC4AC4BD38650F95CA9"
+				},
+				{
+					"Source":
+					{
+						"Text": "The soup is almost ready..."
+					},
+					"Translation":
+					{
+						"Text": "Суп почти готов…"
+					},
+					"Key": "C82668E6497A810FA6ADC0AB6F362B47"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tower Device"
+					},
+					"Translation":
+					{
+						"Text": "Устройство Башни"
+					},
+					"Key": "93B13014434102C8033B41A06DBED69B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tribe"
+					},
+					"Translation":
+					{
+						"Text": "Племя"
+					},
+					"Key": "4FF2FA154BEFBD448EFDB0BB7FE3F0AF"
+				},
+				{
+					"Source":
+					{
+						"Text": "Why are you making soup?"
+					},
+					"Translation":
+					{
+						"Text": "Зачем ты готовишь суп?"
+					},
+					"Key": "B0BAD1934671ADCB2DD1E1BA582E3C68"
+				},
+				{
+					"Source":
+					{
+						"Text": "Yes. According to a book I read here there is a device on the wall of the Portal Tower."
+					},
+					"Translation":
+					{
+						"Text": "Да. Согласно книге, которую я здесь прочитал, на стене Портал-Башни есть устройство."
+					},
+					"Key": "C1BB24A443D4297B17E2F6A280B02E91"
+				},
+				{
+					"Source":
+					{
+						"Text": "You know, sometimes I miss the Pipewalkers..."
+					},
+					"Translation":
+					{
+						"Text": "Знаешь, иногда я скучаю по Трубоходикам…"
+					},
+					"Key": "16358AE840D8B8553E8930A3B7E69BBA"
+				},
+				{
+					"Source":
+					{
+						"Text": "You said you wouldn't do it..."
+					},
+					"Translation":
+					{
+						"Text": "Ты сказал, что не будешь этого делать…"
+					},
+					"Key": "137B87BB447D45E46C0425A940E8B7F0"
+				},
+				{
+					"Source":
+					{
+						"Text": "You? I never thought I’ll see you in this shape again."
+					},
+					"Translation":
+					{
+						"Text": "Ты? Никогда бы не подумал, что увижу тебя вновь в этой форме."
+					},
+					"Key": "2A57878148EFCC8532E34CAE1B9C9A0F"
+				}
+			]
+		},
+		{
+			"Namespace": "Dialogue_WW_Pergamen",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "'Come visit us beyond the Purple Portal!'"
+					},
+					"Translation":
+					{
+						"Text": "“Приходи повидать нас за Пурпурным Порталом.”"
+					},
+					"Key": "B10818134FFE3A1E99A9D789BFABBBEE"
+				},
+				{
+					"Source":
+					{
+						"Text": "'Ruin took over some of us. It's no longer safe here.'"
+					},
+					"Translation":
+					{
+						"Text": "“Руин забрал несколько из наших. Здесь уже не безопасно.”"
+					},
+					"Key": "3DAA74ED48BE31E35D868FB1492E57A8"
+				},
+				{
+					"Source":
+					{
+						"Text": "'We are close to the solution, but your help is still needed.'"
+					},
+					"Translation":
+					{
+						"Text": "“Мы близки к развязке, но твоя помощь все еще нужна.”"
+					},
+					"Key": "D292364A4E58F52FB874AA98C1F969A6"
+				}
+			]
+		},
+		{
+			"Namespace": "Dialogue_WW_Statue",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "'White Wall will never fall!'"
+					},
+					"Translation":
+					{
+						"Text": "“Белая стена никогда не падет!”"
+					},
+					"Key": "2D531D384CB6A56DBC4834BD229622E7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Oooops..."
+					},
+					"Translation":
+					{
+						"Text": "Ууупс…"
+					},
+					"Key": "0CD0FD884718EF68B38D578CDE17110A"
+				}
+			]
+		},
+		{
+			"Namespace": "Dialogue_WW_StatueWelcome",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "'There is still hope.'"
+					},
+					"Translation":
+					{
+						"Text": "“Еще есть надежда”."
+					},
+					"Key": "7C3340434A4C80010AC2D58BF8504339"
+				},
+				{
+					"Source":
+					{
+						"Text": "'We know how to stop Ruin.'"
+					},
+					"Translation":
+					{
+						"Text": "“Мы знаем, как остановить Руин.”"
+					},
+					"Key": "2690E77045D5E42F32AC6582BAFF27AA"
+				}
+			]
+		},
+		{
+			"Namespace": "Enemies",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Armour Wrath"
+					},
+					"Translation":
+					{
+						"Text": "Броневой Гнев"
+					},
+					"Key": "armour_wrath_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarf"
+					},
+					"Translation":
+					{
+						"Text": "Гном"
+					},
+					"Key": "dwarf_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fallen Druid"
+					},
+					"Translation":
+					{
+						"Text": "Падший Друид"
+					},
+					"Key": "fallen_druid_name"
+				}
+			]
+		},
+		{
+			"Namespace": "Episodes",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "\"And as Darkness spreads an unknown Warriorb will rise...\""
+					},
+					"Translation":
+					{
+						"Text": "“И с распространением Тьмы восстанет неизвестный воин Уорриорб…”"
+					},
+					"Key": "escape_darkness_completed_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "After months of researching I found a way to return back to the Ruined Realm. Ironically enough I have to use the same body I was trapped in before. I'll need to be quick and clever for this might be my very last chance to stop Ruin before it devours the World."
+					},
+					"Translation":
+					{
+						"Text": "После нескольких месяцев исследований я нашел способ вернуться в Разрушенное царство. По иронии судьбы, мне придется использовать то же самое тело, внутри которого я уже был в ловушке. Я должен быть быстр и умен, так как это может стать моим последним шансом остановить Руин, прежде чем он поглотит мир."
+					},
+					"Key": "white_wall_loadingscreen_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Although it's long abandoned the fortress of White Wall still stands against Ruin. After centuries of silence some groups of unexpected visitors broke the loneliness of the decaying city."
+					},
+					"Translation":
+					{
+						"Text": "Несмотря на то, что крепость Белой Стены уже давно заброшена, она все еще противостоит Руин. После столетий тишины ряд неизвестных посетителей рассеяли одиночество угасающего города."
+					},
+					"Key": "white_wall_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you fast enough to race against Darkness itself?"
+					},
+					"Translation":
+					{
+						"Text": "Достаточно ли ты быстр, чтобы противостоять самой Тьме?"
+					},
+					"Key": "escape_darkness_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dreamhack"
+					},
+					"Translation":
+					{
+						"Text": "Dreamhack"
+					},
+					"Key": "dreamhack_friendly_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dreamhack Demo"
+					},
+					"Translation":
+					{
+						"Text": "Демо-версия Dreamhack"
+					},
+					"Key": "dreamhack_completed_subtitle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Episode Completed!"
+					},
+					"Translation":
+					{
+						"Text": "Эпизод Пройден!"
+					},
+					"Key": "episode_end_main_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Escape Darkness"
+					},
+					"Translation":
+					{
+						"Text": "Побег из Тьмы"
+					},
+					"Key": "escape_darkness_friendly_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Escaped from Darkness"
+					},
+					"Translation":
+					{
+						"Text": "Сбежавший от Тьмы"
+					},
+					"Key": "escape_darkness_completed_subtitle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Thanks for playing the game, we hope you had a great time!"
+					},
+					"Translation":
+					{
+						"Text": "Спасибо за участие в игре, мы надеемся, что вы отлично провели время!"
+					},
+					"Key": "dreamhack_completed_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "What happened beyond the portal is another story, which will be told at another time."
+					},
+					"Translation":
+					{
+						"Text": "Что произошло за порталом - это другая история, которая будет рассказана в другое время."
+					},
+					"Key": "white_wall_completed_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "What happens when you lock a mighty demon's spirit inside a ball body?"
+					},
+					"Translation":
+					{
+						"Text": "Что же произойдет, если запереть дух могущественного демона внутри шаровидного тела?"
+					},
+					"Key": "dreamhack_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "White Wall"
+					},
+					"Translation":
+					{
+						"Text": "Белая Стена"
+					},
+					"Key": "white_wall_friendly_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "White Wall"
+					},
+					"Translation":
+					{
+						"Text": "Белая Стена"
+					},
+					"Key": "white_wall_completed_subtitle"
+				}
+			]
+		},
+		{
+			"Namespace": "FloatingEnemyAndNPCLines",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Aaaaaaargh!"
+					},
+					"Translation":
+					{
+						"Text": "Ааааарррр!"
+					},
+					"Key": "char_vo_ghosthelmet_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Aaahhh"
+					},
+					"Translation":
+					{
+						"Text": "Аааххх"
+					},
+					"Key": "char_vo_golemmaker_idle_moan_aaahhh"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ahm"
+					},
+					"Translation":
+					{
+						"Text": "Ахм"
+					},
+					"Key": "char_vo_teachy_idle_book_up_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "All is Lost."
+					},
+					"Translation":
+					{
+						"Text": "Все Потеряно."
+					},
+					"Key": "char_vo_golemmaker_idle_mindlessly_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "All right, gg!"
+					},
+					"Translation":
+					{
+						"Text": "Отлично, хорошая игра!"
+					},
+					"Key": "char_vo_flybug_die_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "At your service."
+					},
+					"Translation":
+					{
+						"Text": "К вашим услугам."
+					},
+					"Key": "char_vo_maintainer_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Attention to the heights again!"
+					},
+					"Translation":
+					{
+						"Text": "Осторожно, опять высоты!"
+					},
+					"Key": "char_vo_gatekeeper_attack_electric_bubbles_phase_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Attention to the heights!"
+					},
+					"Translation":
+					{
+						"Text": "Внимание на высоты!"
+					},
+					"Key": "char_vo_gatekeeper_attack_electric_bubbles"
+				},
+				{
+					"Source":
+					{
+						"Text": "Auch"
+					},
+					"Translation":
+					{
+						"Text": "Ай"
+					},
+					"Key": "char_vo_lory_idle_humming_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Avoid these!"
+					},
+					"Translation":
+					{
+						"Text": "Избегай их!"
+					},
+					"Key": "char_vo_gatekeeper_attack_aimed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Be right back!"
+					},
+					"Translation":
+					{
+						"Text": "Скоро вернусь!"
+					},
+					"Key": "char_vo_ghosthelmet_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "Careful!"
+					},
+					"Translation":
+					{
+						"Text": "Осторожно!"
+					},
+					"Key": "char_vo_flybug_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chaaaaaarge!"
+					},
+					"Translation":
+					{
+						"Text": "Заряжааааай!"
+					},
+					"Key": "char_vo_ghosthelmet_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Come to me!"
+					},
+					"Translation":
+					{
+						"Text": "Подойди ко мне!"
+					},
+					"Key": "char_vo_shadesphere_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Croon"
+					},
+					"Translation":
+					{
+						"Text": "Напевать"
+					},
+					"Key": "char_vo_lory_idle_croon"
+				},
+				{
+					"Source":
+					{
+						"Text": "Death is not peace."
+					},
+					"Translation":
+					{
+						"Text": "Смерть - это не покой."
+					},
+					"Key": "char_vo_shade_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Death to the outlaw!"
+					},
+					"Translation":
+					{
+						"Text": "Смерть преступнику!"
+					},
+					"Key": "char_vo_ghostarmor_attack_fall"
+				},
+				{
+					"Source":
+					{
+						"Text": "Death... again?!"
+					},
+					"Translation":
+					{
+						"Text": "Смерть… снова?!"
+					},
+					"Key": "char_vo_shade_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "Did you hear that?"
+					},
+					"Translation":
+					{
+						"Text": "Ты это слышал?"
+					},
+					"Key": "char_vo_primitivefishy_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dinner is served!"
+					},
+					"Translation":
+					{
+						"Text": "Ужин подан!"
+					},
+					"Key": "char_vo_maintainer_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do not resist me!"
+					},
+					"Translation":
+					{
+						"Text": "Не сопротивляйся!"
+					},
+					"Key": "char_vo_shadesphere_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you exist outside of my mind?"
+					},
+					"Translation":
+					{
+						"Text": "Существуешь ли ты вне моего сознания?"
+					},
+					"Key": "char_vo_teachy_idle_book_down_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you really think you are worthy?"
+					},
+					"Translation":
+					{
+						"Text": "Ты правда считаешь себя достойным?"
+					},
+					"Key": "char_vo_gatekeeper_attack_shield"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don't do that again!"
+					},
+					"Translation":
+					{
+						"Text": "Больше так не делай!"
+					},
+					"Key": "char_vo_maintainer_miniboss_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Easy man, easy!"
+					},
+					"Translation":
+					{
+						"Text": "Полегче, мужик, полегче!"
+					},
+					"Key": "char_vo_flybug_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ehemm, ehemm"
+					},
+					"Translation":
+					{
+						"Text": "Кхмм, кхмм"
+					},
+					"Key": "char_vo_supperdwarf_idle_2_humming_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ehm, what?"
+					},
+					"Translation":
+					{
+						"Text": "Эмм, что?"
+					},
+					"Key": "char_vo_teachy_idle_book_down_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ehmm"
+					},
+					"Translation":
+					{
+						"Text": "Эмм"
+					},
+					"Key": "char_vo_teachy_idle_book_up_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ehmm-hmmm-uhmm"
+					},
+					"Translation":
+					{
+						"Text": "Эмм-хммм-аммм"
+					},
+					"Key": "char_vo_teachy_idle_humming_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ehmmm... where is my spoon?"
+					},
+					"Translation":
+					{
+						"Text": "Эммм… где моя ложка?"
+					},
+					"Key": "char_vo_supperdwarf_idle_1_eating_food_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fishy leaves."
+					},
+					"Translation":
+					{
+						"Text": "Фиши покинул нас."
+					},
+					"Key": "char_vo_primitivefishy_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "Flyyyyyyy!"
+					},
+					"Translation":
+					{
+						"Text": "Летиииии!"
+					},
+					"Key": "char_vo_primitivefishy_attack_long_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Follow the rules!"
+					},
+					"Translation":
+					{
+						"Text": "Следуй правилам!"
+					},
+					"Key": "char_vo_ghostarmor_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "For justice!"
+					},
+					"Translation":
+					{
+						"Text": "За справедливость!"
+					},
+					"Key": "char_vo_ghostarmor_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hemm"
+					},
+					"Translation":
+					{
+						"Text": "Хемм"
+					},
+					"Key": "char_vo_teachy_idle_book_up_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hissing"
+					},
+					"Translation":
+					{
+						"Text": "Шипеть"
+					},
+					"Key": "char_vo_fishy_idle_hiss"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hmm..."
+					},
+					"Translation":
+					{
+						"Text": "Ммм…"
+					},
+					"Key": "char_vo_koboldchef_idle_04"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hmmm"
+					},
+					"Translation":
+					{
+						"Text": "Хммм"
+					},
+					"Key": "char_vo_supperdwarf_idle_2_humming_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hmmm"
+					},
+					"Translation":
+					{
+						"Text": "Хммм"
+					},
+					"Key": "char_vo_lory_idle_humming_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hmmm-hmmm-hmm"
+					},
+					"Translation":
+					{
+						"Text": "Хмм-хмм-хмм"
+					},
+					"Key": "char_vo_teachy_idle_humming_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hmmm... tasty"
+					},
+					"Translation":
+					{
+						"Text": "Хм… вкусно"
+					},
+					"Key": "char_vo_supperdwarf_idle_1_eating_food_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Huh! Surprised?"
+					},
+					"Translation":
+					{
+						"Text": "Ха! Удивлен?"
+					},
+					"Key": "char_vo_flybug_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Humm"
+					},
+					"Translation":
+					{
+						"Text": "Хамм"
+					},
+					"Key": "char_vo_teachy_idle_book_up_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Humming"
+					},
+					"Translation":
+					{
+						"Text": "Напевать под нос"
+					},
+					"Key": "char_vo_gnory_idle_humming"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hurray!"
+					},
+					"Translation":
+					{
+						"Text": "Ура!"
+					},
+					"Key": "char_vo_primitivefishy_attack_long_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I am perfect"
+					},
+					"Translation":
+					{
+						"Text": "Я совершенен"
+					},
+					"Key": "char_vo_armourwrath_attack_strike_down_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "I am, therefore I think!"
+					},
+					"Translation":
+					{
+						"Text": "Я существую, значит, я думаю!"
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_long_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can create!"
+					},
+					"Translation":
+					{
+						"Text": "Я могу создавать!"
+					},
+					"Key": "char_vo_final_boss_p2_red_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can create!"
+					},
+					"Translation":
+					{
+						"Text": "Я могу создавать!"
+					},
+					"Key": "char_vo_final_boss_p1_green"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can destroy!"
+					},
+					"Translation":
+					{
+						"Text": "Я могу уничтожать!"
+					},
+					"Key": "char_vo_final_boss_p2_red_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can fix this"
+					},
+					"Translation":
+					{
+						"Text": "Я могу это исправить"
+					},
+					"Key": "char_vo_maintainer_miniboss_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can take more!"
+					},
+					"Translation":
+					{
+						"Text": "Я могу выдержать больше!"
+					},
+					"Key": "char_vo_dwarvenstatue_attack_meteor"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can't rest."
+					},
+					"Translation":
+					{
+						"Text": "Я не могу отдохнуть."
+					},
+					"Key": "char_vo_shade_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can't... I was... above."
+					},
+					"Translation":
+					{
+						"Text": "Я не могу… Я был… наверху."
+					},
+					"Key": "char_vo_maintainer_miniboss_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "I create essence which resists the ruin."
+					},
+					"Translation":
+					{
+						"Text": "Я создаю сущность, которая противостоит Руине."
+					},
+					"Key": "char_vo_golemmaker_idle_explain_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I have... failed"
+					},
+					"Translation":
+					{
+						"Text": "Я… подвел"
+					},
+					"Key": "char_vo_fallendruid_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "I hold it back!"
+					},
+					"Translation":
+					{
+						"Text": "Я сдерживаю его!"
+					},
+					"Key": "char_vo_dwarvenstatue_shield_knock"
+				},
+				{
+					"Source":
+					{
+						"Text": "I keep Ruin"
+					},
+					"Translation":
+					{
+						"Text": "Я храню Руин"
+					},
+					"Key": "char_vo_dwarvenstatue_attack_axe_point"
+				},
+				{
+					"Source":
+					{
+						"Text": "I need some fish!"
+					},
+					"Translation":
+					{
+						"Text": "Мне нужно немного рыбы!"
+					},
+					"Key": "char_vo_primitivefishy_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I still serve."
+					},
+					"Translation":
+					{
+						"Text": "Я все еще обслуживаю."
+					},
+					"Key": "char_vo_maintainer_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "I think... I am..."
+					},
+					"Translation":
+					{
+						"Text": "Я думаю... Я..."
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_long_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I won't fail the Maker!"
+					},
+					"Translation":
+					{
+						"Text": "Я не подведу Создателя!"
+					},
+					"Key": "char_vo_armourwrath_attack_clap"
+				},
+				{
+					"Source":
+					{
+						"Text": "I won't move... again"
+					},
+					"Translation":
+					{
+						"Text": "Я не сдвинусь с места… снова"
+					},
+					"Key": "char_vo_dwarvenstatue_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'll change you!"
+					},
+					"Translation":
+					{
+						"Text": "Я изменю тебя!"
+					},
+					"Key": "char_vo_shadesphere_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'll need a blacksmith!"
+					},
+					"Translation":
+					{
+						"Text": "Мне нужен кузнец!"
+					},
+					"Key": "char_vo_ghosthelmet_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'll need to be repaired."
+					},
+					"Translation":
+					{
+						"Text": "Меня нужно будет починить."
+					},
+					"Key": "char_vo_maintainer_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'll need... replacement."
+					},
+					"Translation":
+					{
+						"Text": "Мне понадобится… замена."
+					},
+					"Key": "char_vo_maintainer_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'll reorganize!"
+					},
+					"Translation":
+					{
+						"Text": "Я переделаю!"
+					},
+					"Key": "char_vo_maintainer_miniboss_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm above!"
+					},
+					"Translation":
+					{
+						"Text": "Я наверху!"
+					},
+					"Key": "char_vo_maintainer_miniboss_attack_meteor"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm free!"
+					},
+					"Translation":
+					{
+						"Text": "Я свободен!"
+					},
+					"Key": "char_vo_final_boss_p3_blue"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm human!"
+					},
+					"Translation":
+					{
+						"Text": "Я человек!"
+					},
+					"Key": "char_vo_final_boss_p1_red"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm the daughter of the Wizard!"
+					},
+					"Translation":
+					{
+						"Text": "Я дочь Волшебника!"
+					},
+					"Key": "char_vo_final_boss_p2_blue"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm the daughter of the Wizard!"
+					},
+					"Translation":
+					{
+						"Text": "Я дочь Волшебника!"
+					},
+					"Key": "char_vo_final_boss_p1_blue"
+				},
+				{
+					"Source":
+					{
+						"Text": "I... don't..."
+					},
+					"Translation":
+					{
+						"Text": "Я…не…"
+					},
+					"Key": "char_vo_ghostarmor__die"
+				},
+				{
+					"Source":
+					{
+						"Text": "Is this the end?"
+					},
+					"Translation":
+					{
+						"Text": "Это конец?"
+					},
+					"Key": "char_vo_shade_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "It needs more salt!"
+					},
+					"Translation":
+					{
+						"Text": "Нужно больше соли!"
+					},
+					"Key": "char_vo_koboldchef_idle_02"
+				},
+				{
+					"Source":
+					{
+						"Text": "It will be delicious."
+					},
+					"Translation":
+					{
+						"Text": "Будет очень вкусно."
+					},
+					"Key": "char_vo_koboldchef_idle_03"
+				},
+				{
+					"Source":
+					{
+						"Text": "It's not funny!"
+					},
+					"Translation":
+					{
+						"Text": "Не смешно!"
+					},
+					"Key": "char_vo_flybug_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "It's safe here."
+					},
+					"Translation":
+					{
+						"Text": "Здесь безопасно."
+					},
+					"Key": "char_vo_fallendruid_attack_flybug"
+				},
+				{
+					"Source":
+					{
+						"Text": "It's still... me..."
+					},
+					"Translation":
+					{
+						"Text": "Это все еще…я…"
+					},
+					"Key": "char_vo_shadesphere_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Join me!"
+					},
+					"Translation":
+					{
+						"Text": "Присоединяйся!"
+					},
+					"Key": "char_vo_shade_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Just a scratch."
+					},
+					"Translation":
+					{
+						"Text": "Просто царапина."
+					},
+					"Key": "char_vo_ghostarmor_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Knowledge is Lost, All is Lost."
+					},
+					"Translation":
+					{
+						"Text": "Знания потеряны, все потеряно."
+					},
+					"Key": "char_vo_golemmaker_idle_mindlessly_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Let's head east!"
+					},
+					"Translation":
+					{
+						"Text": "Поехали на восток!"
+					},
+					"Key": "char_vo_ghosthelmet_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Nature will survive!"
+					},
+					"Translation":
+					{
+						"Text": "Природа \nвыстоит!"
+					},
+					"Key": "char_vo_fallendruid_attack_tendril"
+				},
+				{
+					"Source":
+					{
+						"Text": "No... I'm still... perfect"
+					},
+					"Translation":
+					{
+						"Text": "Нет… Я все еще… совершенен…"
+					},
+					"Key": "char_vo_armourwrath_attack_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "Now it's clean!"
+					},
+					"Translation":
+					{
+						"Text": "Теперь все чисто!"
+					},
+					"Key": "char_vo_maintainer_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ohh"
+					},
+					"Translation":
+					{
+						"Text": "Ох"
+					},
+					"Key": "char_vo_lory_idle_humming_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ohm"
+					},
+					"Translation":
+					{
+						"Text": "Охм"
+					},
+					"Key": "char_vo_supperdwarf_idle_2_humming_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ommm"
+					},
+					"Translation":
+					{
+						"Text": "Омммм"
+					},
+					"Key": "char_vo_lory_idle_humming_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Onon"
+					},
+					"Translation":
+					{
+						"Text": "Ооон"
+					},
+					"Key": "char_vo_golemmaker_idle_sad_onon"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ooohhh"
+					},
+					"Translation":
+					{
+						"Text": "Оооохх"
+					},
+					"Key": "char_vo_golemmaker_idle_moan_ooohhh"
+				},
+				{
+					"Source":
+					{
+						"Text": "Order, order, order!"
+					},
+					"Translation":
+					{
+						"Text": "Заказ, заказ, заказ!"
+					},
+					"Key": "char_vo_maintainer_miniboss_attack_spawn_enemy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Order..."
+					},
+					"Translation":
+					{
+						"Text": "Заказ…"
+					},
+					"Key": "char_vo_maintainer_elite_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Out of my way!"
+					},
+					"Translation":
+					{
+						"Text": "Прочь с дороги!"
+					},
+					"Key": "char_vo_armourwrath_attack_strike_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Out with you, Ruin!"
+					},
+					"Translation":
+					{
+						"Text": "Проваливай, Руин!"
+					},
+					"Key": "char_vo_fallendruid_attack_thorn_sphere"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pain..."
+					},
+					"Translation":
+					{
+						"Text": "Боль…"
+					},
+					"Key": "char_vo_shade_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Resist Ruin!"
+					},
+					"Translation":
+					{
+						"Text": "Противостоять Руину!"
+					},
+					"Key": "char_vo_armourwrath_attack_magic"
+				},
+				{
+					"Source":
+					{
+						"Text": "Send someone for a hammer!"
+					},
+					"Translation":
+					{
+						"Text": "Пошли кого-нибудь за молотком!"
+					},
+					"Key": "char_vo_ghosthelmet_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Serve..."
+					},
+					"Translation":
+					{
+						"Text": "Подавать…"
+					},
+					"Key": "char_vo_maintainer_elite_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shish!"
+					},
+					"Translation":
+					{
+						"Text": "Шшш!"
+					},
+					"Key": "char_vo_primitivefishy_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Srrrr!"
+					},
+					"Translation":
+					{
+						"Text": "Грррр!"
+					},
+					"Key": "char_vo_primitivefishy_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take this!"
+					},
+					"Translation":
+					{
+						"Text": "Получай!"
+					},
+					"Key": "char_vo_flybug_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "That sounds funny!"
+					},
+					"Translation":
+					{
+						"Text": "Звучит забавно!"
+					},
+					"Key": "char_vo_final_boss_p3_green"
+				},
+				{
+					"Source":
+					{
+						"Text": "That sounds funny!"
+					},
+					"Translation":
+					{
+						"Text": "Звучит забавно!"
+					},
+					"Key": "char_vo_final_boss_p2_green"
+				},
+				{
+					"Source":
+					{
+						"Text": "The mind is furnished with ideas by a drunk upholsterer..."
+					},
+					"Translation":
+					{
+						"Text": "Разум наполнен идеями пьяного обивщика..."
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_long_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "The unexamined life is not worth living!"
+					},
+					"Translation":
+					{
+						"Text": "Неисследованная жизнь не стоит того, чтобы ее проживать!"
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_long_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "This is my order!"
+					},
+					"Translation":
+					{
+						"Text": "Это мой приказ!"
+					},
+					"Key": "char_vo_maintainer_miniboss_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "This place shall stand!"
+					},
+					"Translation":
+					{
+						"Text": "Это место должно выстоять!"
+					},
+					"Key": "char_vo_fallendruid_attack_spike"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tic-tac"
+					},
+					"Translation":
+					{
+						"Text": "Тик-так"
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_short_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "To be..."
+					},
+					"Translation":
+					{
+						"Text": "Быть…"
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_short_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Too hot!"
+					},
+					"Translation":
+					{
+						"Text": "Слишком горячо!"
+					},
+					"Key": "char_vo_koboldchef_idle_01"
+				},
+				{
+					"Source":
+					{
+						"Text": "Umm-huhummm"
+					},
+					"Translation":
+					{
+						"Text": "Умм-хуммумм"
+					},
+					"Key": "char_vo_teachy_idle_humming_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use your head... or mine!"
+					},
+					"Translation":
+					{
+						"Text": "Думай своей головой… или моей!"
+					},
+					"Key": "char_vo_ghosthelmet_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Uuush!"
+					},
+					"Translation":
+					{
+						"Text": "Уууш!"
+					},
+					"Key": "char_vo_primitivefishy_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Walking ball?"
+					},
+					"Translation":
+					{
+						"Text": "Ходячий шар?"
+					},
+					"Key": "char_vo_teachy_idle_book_down_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Watch out for your head!"
+					},
+					"Translation":
+					{
+						"Text": "Осторожнее с головой!"
+					},
+					"Key": "char_vo_gatekeeper_attack_meteors"
+				},
+				{
+					"Source":
+					{
+						"Text": "Watch out where you bounce to!"
+					},
+					"Translation":
+					{
+						"Text": "Будь осторожен, куда прыгаешь!"
+					},
+					"Key": "char_vo_gatekeeper_attack_aimed_phase_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "We are above the Law!"
+					},
+					"Translation":
+					{
+						"Text": "Мы превыше Закона!"
+					},
+					"Key": "char_vo_dwarvenstatue_attack_axe_strike_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "We keep the Wall."
+					},
+					"Translation":
+					{
+						"Text": "Мы сохраним Стену."
+					},
+					"Key": "char_vo_ghostarmor_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Weird"
+					},
+					"Translation":
+					{
+						"Text": "Странный"
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_short_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "What do you wish to be?"
+					},
+					"Translation":
+					{
+						"Text": "Кем ты хочешь быть?"
+					},
+					"Key": "char_vo_shadesphere_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "What is it like down there? Heh?"
+					},
+					"Translation":
+					{
+						"Text": "Каково там внизу? А?"
+					},
+					"Key": "char_vo_flybug_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "What makes you say that?"
+					},
+					"Translation":
+					{
+						"Text": "О чем ты говоришь?"
+					},
+					"Key": "char_vo_final_boss_p3_red"
+				},
+				{
+					"Source":
+					{
+						"Text": "Whistling"
+					},
+					"Translation":
+					{
+						"Text": "Свистит"
+					},
+					"Key": "char_vo_gnory_idle_whistle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Why did you...?"
+					},
+					"Translation":
+					{
+						"Text": "Почему ты…?"
+					},
+					"Key": "char_vo_shadesphere_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "You changed... me?"
+					},
+					"Translation":
+					{
+						"Text": "Ты изменил…меня?"
+					},
+					"Key": "char_vo_shadesphere_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "You shall die too!"
+					},
+					"Translation":
+					{
+						"Text": "Ты тоже должен умереть!"
+					},
+					"Key": "char_vo_shade_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "You shall perish!"
+					},
+					"Translation":
+					{
+						"Text": "Ты должен быть уничтожен!"
+					},
+					"Key": "char_vo_ghostarmor_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "You... can't."
+					},
+					"Translation":
+					{
+						"Text": "Ты…не можешь."
+					},
+					"Key": "char_vo_ghostarmor_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "You?"
+					},
+					"Translation":
+					{
+						"Text": "Ты?"
+					},
+					"Key": "char_vo_teachy_idle_book_down_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Your order?"
+					},
+					"Translation":
+					{
+						"Text": "Ваш заказ?"
+					},
+					"Key": "char_vo_maintainer_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Your words remind me of something."
+					},
+					"Translation":
+					{
+						"Text": "Твои слова мне кое о чем напоминают."
+					},
+					"Key": "char_vo_golemmaker_idle_tries_to_remember"
+				},
+				{
+					"Source":
+					{
+						"Text": "Yum-yum hmmmm... delicious"
+					},
+					"Translation":
+					{
+						"Text": "Ням-ням… вкусно"
+					},
+					"Key": "char_vo_supperdwarf_idle_1_eating_food_0"
+				}
+			]
+		},
+		{
+			"Namespace": "InputKeys",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Any Key"
+					},
+					"Translation":
+					{
+						"Text": "Любая клавиша"
+					},
+					"Key": "AnyKey"
+				},
+				{
+					"Source":
+					{
+						"Text": "Down"
+					},
+					"Translation":
+					{
+						"Text": "Вниз"
+					},
+					"Key": "Down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left"
+					},
+					"Translation":
+					{
+						"Text": "Влево"
+					},
+					"Key": "Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right"
+					},
+					"Translation":
+					{
+						"Text": "Вправо"
+					},
+					"Key": "Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Up"
+					},
+					"Translation":
+					{
+						"Text": "Вверх"
+					},
+					"Key": "Up"
+				}
+			]
+		},
+		{
+			"Namespace": "Interaction",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "A few items acquired"
+					},
+					"Translation":
+					{
+						"Text": "Несколько приобретенных предметов"
+					},
+					"Key": "acquired_few_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "A rope could be placed here"
+					},
+					"Translation":
+					{
+						"Text": "Сюда можно поставить веревку"
+					},
+					"Key": "rope_can_be_placed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Absorb Energy"
+					},
+					"Translation":
+					{
+						"Text": "Поглотить Энергию"
+					},
+					"Key": "absorb_energy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Acquire Memory Stone"
+					},
+					"Translation":
+					{
+						"Text": "Приобрести Камень Воспоминаний"
+					},
+					"Key": "memory_stone_aquire"
+				},
+				{
+					"Source":
+					{
+						"Text": "Activate"
+					},
+					"Translation":
+					{
+						"Text": "Активировать"
+					},
+					"Key": "activate"
+				},
+				{
+					"Source":
+					{
+						"Text": "Activate Elevator"
+					},
+					"Translation":
+					{
+						"Text": "Запустить лифт"
+					},
+					"Key": "activate_elevator"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ascend"
+					},
+					"Translation":
+					{
+						"Text": "Подняться"
+					},
+					"Key": "ascend"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bed"
+					},
+					"Translation":
+					{
+						"Text": "Кровать"
+					},
+					"Key": "bed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Boat to the Kitchen"
+					},
+					"Translation":
+					{
+						"Text": "Лодка на кухню"
+					},
+					"Key": "boat_to_kitchen"
+				},
+				{
+					"Source":
+					{
+						"Text": "Boat to the Ruins"
+					},
+					"Translation":
+					{
+						"Text": "Лодка к Руинам"
+					},
+					"Key": "boat_to_ruins"
+				},
+				{
+					"Source":
+					{
+						"Text": "Boat to the Station"
+					},
+					"Translation":
+					{
+						"Text": "Лодка до Станции"
+					},
+					"Key": "boat_to_station"
+				},
+				{
+					"Source":
+					{
+						"Text": "Call Elevator"
+					},
+					"Translation":
+					{
+						"Text": "Вызывать Лифт"
+					},
+					"Key": "call_elevator"
+				},
+				{
+					"Source":
+					{
+						"Text": "Candles"
+					},
+					"Translation":
+					{
+						"Text": "Свечи"
+					},
+					"Key": "candles"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chair"
+					},
+					"Translation":
+					{
+						"Text": "Стул"
+					},
+					"Key": "chair"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Spells"
+					},
+					"Translation":
+					{
+						"Text": "Поменять Заклинание"
+					},
+					"Key": "change_spells"
+				},
+				{
+					"Source":
+					{
+						"Text": "Charge"
+					},
+					"Translation":
+					{
+						"Text": "Заряд"
+					},
+					"Key": "charge"
+				},
+				{
+					"Source":
+					{
+						"Text": "Check Chest"
+					},
+					"Translation":
+					{
+						"Text": "Проверить Сундук"
+					},
+					"Key": "chest_check"
+				},
+				{
+					"Source":
+					{
+						"Text": "Check Door"
+					},
+					"Translation":
+					{
+						"Text": "Проверить Дверь"
+					},
+					"Key": "check_door"
+				},
+				{
+					"Source":
+					{
+						"Text": "Check Small Chest"
+					},
+					"Translation":
+					{
+						"Text": "Проверить Маленький Сундук"
+					},
+					"Key": "chest_check_small"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chest"
+					},
+					"Translation":
+					{
+						"Text": "Сундук"
+					},
+					"Key": "chest"
+				},
+				{
+					"Source":
+					{
+						"Text": "Close Chest"
+					},
+					"Translation":
+					{
+						"Text": "Закрыть Сундук"
+					},
+					"Key": "chest_close"
+				},
+				{
+					"Source":
+					{
+						"Text": "Close Door"
+					},
+					"Translation":
+					{
+						"Text": "Закрыть Дверь"
+					},
+					"Key": "close_door"
+				},
+				{
+					"Source":
+					{
+						"Text": "Close Small Chest"
+					},
+					"Translation":
+					{
+						"Text": "Закрыть Маленький Сундук"
+					},
+					"Key": "chest_close_small"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cross Planks"
+					},
+					"Translation":
+					{
+						"Text": "Пересечь Брусья"
+					},
+					"Key": "cross_planks"
+				},
+				{
+					"Source":
+					{
+						"Text": "Daddy's Room"
+					},
+					"Translation":
+					{
+						"Text": "Папина Комната"
+					},
+					"Key": "dads_room"
+				},
+				{
+					"Source":
+					{
+						"Text": "Descend"
+					},
+					"Translation":
+					{
+						"Text": "Спуститься"
+					},
+					"Key": "descend"
+				},
+				{
+					"Source":
+					{
+						"Text": "Destroy"
+					},
+					"Translation":
+					{
+						"Text": "Уничтожить"
+					},
+					"Key": "destroy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Destroy the device to save the creatures of Ruined Realm"
+					},
+					"Translation":
+					{
+						"Text": "Уничтожить устройство, чтобы спасти существ из Разрушенного Царства"
+					},
+					"Key": "use_destroy_explained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Device"
+					},
+					"Translation":
+					{
+						"Text": "Устройство"
+					},
+					"Key": "device"
+				},
+				{
+					"Source":
+					{
+						"Text": "Door"
+					},
+					"Translation":
+					{
+						"Text": "Дверь"
+					},
+					"Key": "door"
+				},
+				{
+					"Source":
+					{
+						"Text": "Door does not open from this side!"
+					},
+					"Translation":
+					{
+						"Text": "Дверь не открывается с этой стороны!"
+					},
+					"Key": "door_does_not_open_from_this_side"
+				},
+				{
+					"Source":
+					{
+						"Text": "Door opened"
+					},
+					"Translation":
+					{
+						"Text": "Дверь открыта"
+					},
+					"Key": "door_opened"
+				},
+				{
+					"Source":
+					{
+						"Text": "Drop"
+					},
+					"Translation":
+					{
+						"Text": "Бросить"
+					},
+					"Key": "drop"
+				},
+				{
+					"Source":
+					{
+						"Text": "Elevator Activated"
+					},
+					"Translation":
+					{
+						"Text": "Лифт Активирован"
+					},
+					"Key": "elevator_activated"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter"
+					},
+					"Translation":
+					{
+						"Text": "Войти"
+					},
+					"Key": "enter"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Bridge"
+					},
+					"Translation":
+					{
+						"Text": "Войти на Мост"
+					},
+					"Key": "enter_bridge"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Cave"
+					},
+					"Translation":
+					{
+						"Text": "Войти в Пещеру"
+					},
+					"Key": "enter_cave"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Flames"
+					},
+					"Translation":
+					{
+						"Text": "Войти в Пламя"
+					},
+					"Key": "enter_flames"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Gate"
+					},
+					"Translation":
+					{
+						"Text": "Войти в Ворота"
+					},
+					"Key": "enter_gate"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Hut"
+					},
+					"Translation":
+					{
+						"Text": "Войти в Хижину"
+					},
+					"Key": "enter_hut"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Kitchen"
+					},
+					"Translation":
+					{
+						"Text": "Войти на Кухню"
+					},
+					"Key": "enter_kitchen"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Pipe"
+					},
+					"Translation":
+					{
+						"Text": "Войти в Трубу"
+					},
+					"Key": "enter_pipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Portal"
+					},
+					"Translation":
+					{
+						"Text": "Войти в Портал"
+					},
+					"Key": "enter_portal"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Stairs on the Left"
+					},
+					"Translation":
+					{
+						"Text": "Войти по Лестнице Слева"
+					},
+					"Key": "enter_stairs_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Stairs on the Right"
+					},
+					"Translation":
+					{
+						"Text": "Войти по Лестнице Справа"
+					},
+					"Key": "enter_stairs_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Tower"
+					},
+					"Translation":
+					{
+						"Text": "Войти в Башню"
+					},
+					"Key": "enter_tower"
+				},
+				{
+					"Source":
+					{
+						"Text": "Entrance locked from the other side"
+					},
+					"Translation":
+					{
+						"Text": "Вход заблокирован с другой стороны"
+					},
+					"Key": "entrace_locked"
+				},
+				{
+					"Source":
+					{
+						"Text": "Examine"
+					},
+					"Translation":
+					{
+						"Text": "Осмотреть"
+					},
+					"Key": "examine"
+				},
+				{
+					"Source":
+					{
+						"Text": "Examine Device"
+					},
+					"Translation":
+					{
+						"Text": "Осмотреть Устройство"
+					},
+					"Key": "examine_device"
+				},
+				{
+					"Source":
+					{
+						"Text": "Examine Elevator"
+					},
+					"Translation":
+					{
+						"Text": "Осмотреть Лифт"
+					},
+					"Key": "examine_elevator"
+				},
+				{
+					"Source":
+					{
+						"Text": "Examine Switch"
+					},
+					"Translation":
+					{
+						"Text": "Осмотреть Переключатель"
+					},
+					"Key": "examine_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Exit"
+					},
+					"Translation":
+					{
+						"Text": "Выход"
+					},
+					"Key": "exit"
+				},
+				{
+					"Source":
+					{
+						"Text": "Explore more stations before using the railway system."
+					},
+					"Translation":
+					{
+						"Text": "Откройте для себя больше станций, прежде чем использовать железнодорожную систему."
+					},
+					"Key": "explore_stations"
+				},
+				{
+					"Source":
+					{
+						"Text": "Finish Demo"
+					},
+					"Translation":
+					{
+						"Text": "Закончить демо-версию"
+					},
+					"Key": "finish_demo"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fire"
+					},
+					"Translation":
+					{
+						"Text": "Огонь"
+					},
+					"Key": "fire"
+				},
+				{
+					"Source":
+					{
+						"Text": "Go down"
+					},
+					"Translation":
+					{
+						"Text": "Спуститься"
+					},
+					"Key": "go_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Go up"
+					},
+					"Translation":
+					{
+						"Text": "Пойти наверх"
+					},
+					"Key": "go_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "Inspect Fountain"
+					},
+					"Translation":
+					{
+						"Text": "Проверить Фонтан"
+					},
+					"Key": "inspect_fountain"
+				},
+				{
+					"Source":
+					{
+						"Text": "Inventory"
+					},
+					"Translation":
+					{
+						"Text": "Инвентарь"
+					},
+					"Key": "inventory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Key Missing: {0}"
+					},
+					"Translation":
+					{
+						"Text": "Отсутствуeт: {0}"
+					},
+					"Key": "key_missing"
+				},
+				{
+					"Source":
+					{
+						"Text": "Kick Rope"
+					},
+					"Translation":
+					{
+						"Text": "Пнуть Веревку"
+					},
+					"Key": "kick_rope"
+				},
+				{
+					"Source":
+					{
+						"Text": "Laboratory"
+					},
+					"Translation":
+					{
+						"Text": "Лаборатория"
+					},
+					"Key": "laboratory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lamps"
+					},
+					"Translation":
+					{
+						"Text": "Лампы"
+					},
+					"Key": "lamps"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave"
+					},
+					"Translation":
+					{
+						"Text": "Выйти"
+					},
+					"Key": "leave"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave Bridge"
+					},
+					"Translation":
+					{
+						"Text": "Выйти с Моста"
+					},
+					"Key": "leave_bridge"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave Cave"
+					},
+					"Translation":
+					{
+						"Text": "Выйти из Пещеры"
+					},
+					"Key": "leave_cave"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave Circle"
+					},
+					"Translation":
+					{
+						"Text": "Выйти из Круга"
+					},
+					"Key": "leave_circle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave Hut"
+					},
+					"Translation":
+					{
+						"Text": "Выйти из Хижины"
+					},
+					"Key": "leave_hut"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Lever"
+					},
+					"Translation":
+					{
+						"Text": "Левый Рычаг"
+					},
+					"Key": "left_lever"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lever activated. The crystal broke."
+					},
+					"Translation":
+					{
+						"Text": "Рычаг активирован. Кристалл разбился."
+					},
+					"Key": "lever_is_active"
+				},
+				{
+					"Source":
+					{
+						"Text": "Memory Stone Gained"
+					},
+					"Translation":
+					{
+						"Text": "Камень Воспоминаний Приобретен"
+					},
+					"Key": "memory_stone_gained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Middle Lever"
+					},
+					"Translation":
+					{
+						"Text": "Рычаг по Середине"
+					},
+					"Key": "middle_lever"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mom's Room"
+					},
+					"Translation":
+					{
+						"Text": "Мамина Комната"
+					},
+					"Key": "moms_room"
+				},
+				{
+					"Source":
+					{
+						"Text": "Notebook"
+					},
+					"Translation":
+					{
+						"Text": "Дневник"
+					},
+					"Key": "notebook"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open"
+					},
+					"Translation":
+					{
+						"Text": "Открыть"
+					},
+					"Key": "open"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Chest"
+					},
+					"Translation":
+					{
+						"Text": "Открыть Сундук"
+					},
+					"Key": "chest_open"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Door"
+					},
+					"Translation":
+					{
+						"Text": "Открыть Дверь"
+					},
+					"Key": "open_door"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Small Chest"
+					},
+					"Translation":
+					{
+						"Text": "Открыть Маленький Сундук"
+					},
+					"Key": "chest_open_small"
+				},
+				{
+					"Source":
+					{
+						"Text": "Painting"
+					},
+					"Translation":
+					{
+						"Text": "Картина"
+					},
+					"Key": "painting"
+				},
+				{
+					"Source":
+					{
+						"Text": "Paintings"
+					},
+					"Translation":
+					{
+						"Text": "Картины"
+					},
+					"Key": "paintings"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pass Bridge"
+					},
+					"Translation":
+					{
+						"Text": "Перейти Мост"
+					},
+					"Key": "pass_bridge"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pick Up"
+					},
+					"Translation":
+					{
+						"Text": "Подобрать"
+					},
+					"Key": "pick_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "Place Rope"
+					},
+					"Translation":
+					{
+						"Text": "Положить Веревку"
+					},
+					"Key": "place_rope"
+				},
+				{
+					"Source":
+					{
+						"Text": "Primary Strike"
+					},
+					"Translation":
+					{
+						"Text": "Основной Удар"
+					},
+					"Key": "primary_strike"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pull"
+					},
+					"Translation":
+					{
+						"Text": "Потянуть"
+					},
+					"Key": "pull"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pull Lever"
+					},
+					"Translation":
+					{
+						"Text": "Потянуть Рычаг"
+					},
+					"Key": "pull_lever"
+				},
+				{
+					"Source":
+					{
+						"Text": "Push"
+					},
+					"Translation":
+					{
+						"Text": "Толкнуть"
+					},
+					"Key": "push"
+				},
+				{
+					"Source":
+					{
+						"Text": "Put Weapon Away"
+					},
+					"Translation":
+					{
+						"Text": "Убрать Оружие"
+					},
+					"Key": "put_weapon_away"
+				},
+				{
+					"Source":
+					{
+						"Text": "Read"
+					},
+					"Translation":
+					{
+						"Text": "Прочитать"
+					},
+					"Key": "read"
+				},
+				{
+					"Source":
+					{
+						"Text": "Read Dictionary"
+					},
+					"Translation":
+					{
+						"Text": "Прочитать Словарь"
+					},
+					"Key": "read_dictionary"
+				},
+				{
+					"Source":
+					{
+						"Text": "Read Symbols"
+					},
+					"Translation":
+					{
+						"Text": "Прочитать Символы"
+					},
+					"Key": "read_symbols"
+				},
+				{
+					"Source":
+					{
+						"Text": "Release"
+					},
+					"Translation":
+					{
+						"Text": "Отпустить"
+					},
+					"Key": "wheel_release"
+				},
+				{
+					"Source":
+					{
+						"Text": "Release Keeper"
+					},
+					"Translation":
+					{
+						"Text": "Освободить Хранителя"
+					},
+					"Key": "release_keeper"
+				},
+				{
+					"Source":
+					{
+						"Text": "Replay Boss Fight"
+					},
+					"Translation":
+					{
+						"Text": "Воспроизвести Бой с Боссом"
+					},
+					"Key": "replay_boss_fight"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset Portals"
+					},
+					"Translation":
+					{
+						"Text": "Сброс Порталов"
+					},
+					"Key": "reset_portals"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rest"
+					},
+					"Translation":
+					{
+						"Text": "Отдохнуть"
+					},
+					"Key": "rest"
+				},
+				{
+					"Source":
+					{
+						"Text": "Restore"
+					},
+					"Translation":
+					{
+						"Text": "Восстановить"
+					},
+					"Key": "restore"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Lever"
+					},
+					"Translation":
+					{
+						"Text": "Правый Рычаг"
+					},
+					"Key": "right_lever"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ring the bell"
+					},
+					"Translation":
+					{
+						"Text": "Позвонить в Колокол"
+					},
+					"Key": "ring_bell"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rope kicked"
+					},
+					"Translation":
+					{
+						"Text": "Пнул Веревку"
+					},
+					"Key": "rope_kicked"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rope placed"
+					},
+					"Translation":
+					{
+						"Text": "Веревка поставлена"
+					},
+					"Key": "rope_placed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sail"
+					},
+					"Translation":
+					{
+						"Text": "Отплыть"
+					},
+					"Key": "sail"
+				},
+				{
+					"Source":
+					{
+						"Text": "Seems to be inactive"
+					},
+					"Translation":
+					{
+						"Text": "Похоже, что не работает"
+					},
+					"Key": "lever_is_inactive"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Key Acquired"
+					},
+					"Translation":
+					{
+						"Text": "Приобретен Серебряный Ключ"
+					},
+					"Key": "aquired_silver_key"
+				},
+				{
+					"Source":
+					{
+						"Text": "Soulkeeper released"
+					},
+					"Translation":
+					{
+						"Text": "Хранитель Душ Освобожден"
+					},
+					"Key": "soulkeeper_released"
+				},
+				{
+					"Source":
+					{
+						"Text": "Special Strike"
+					},
+					"Translation":
+					{
+						"Text": "Специальный Удар"
+					},
+					"Key": "special_strike"
+				},
+				{
+					"Source":
+					{
+						"Text": "Stairs"
+					},
+					"Translation":
+					{
+						"Text": "Лестница"
+					},
+					"Key": "stairs"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swing"
+					},
+					"Translation":
+					{
+						"Text": "Качаться"
+					},
+					"Key": "swing"
+				},
+				{
+					"Source":
+					{
+						"Text": "Switch"
+					},
+					"Translation":
+					{
+						"Text": "Переключить"
+					},
+					"Key": "switch_interact"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tabby's Bed"
+					},
+					"Translation":
+					{
+						"Text": "Кровать Тэбби"
+					},
+					"Key": "cat_bed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take"
+					},
+					"Translation":
+					{
+						"Text": "Взять"
+					},
+					"Key": "take"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Abacus"
+					},
+					"Translation":
+					{
+						"Text": "Взять Абакус"
+					},
+					"Key": "take_abacus"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take All"
+					},
+					"Translation":
+					{
+						"Text": "Взять Все"
+					},
+					"Key": "take_all"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Axe"
+					},
+					"Translation":
+					{
+						"Text": "Взять Топор"
+					},
+					"Key": "take_axe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Blades"
+					},
+					"Translation":
+					{
+						"Text": "Взять Клинки"
+					},
+					"Key": "take_blades"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Books"
+					},
+					"Translation":
+					{
+						"Text": "Взять Книги"
+					},
+					"Key": "take_books"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Mace"
+					},
+					"Translation":
+					{
+						"Text": "Взять Жезл"
+					},
+					"Key": "take_mace"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Mushrooms"
+					},
+					"Translation":
+					{
+						"Text": "Взять Грибы"
+					},
+					"Key": "take_mushrooms"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Rope"
+					},
+					"Translation":
+					{
+						"Text": "Взять Веревку"
+					},
+					"Key": "take_rope"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Sabre"
+					},
+					"Translation":
+					{
+						"Text": "Взять Саблю"
+					},
+					"Key": "take_sabre"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Spellcaster"
+					},
+					"Translation":
+					{
+						"Text": "Взять Заклинатель Заклинаний"
+					},
+					"Key": "take_spellcaster"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Stones"
+					},
+					"Translation":
+					{
+						"Text": "Взять Камни"
+					},
+					"Key": "take_stones"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Sword"
+					},
+					"Translation":
+					{
+						"Text": "Взять Меч"
+					},
+					"Key": "take_sword"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Wheel"
+					},
+					"Translation":
+					{
+						"Text": "Взять Колесо"
+					},
+					"Key": "take_wheel"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take a seat"
+					},
+					"Translation":
+					{
+						"Text": "Сесть"
+					},
+					"Key": "take_a_seat"
+				},
+				{
+					"Source":
+					{
+						"Text": "Talk"
+					},
+					"Translation":
+					{
+						"Text": "Поговорить"
+					},
+					"Key": "talk"
+				},
+				{
+					"Source":
+					{
+						"Text": "The elevator does not move to the selected direction"
+					},
+					"Translation":
+					{
+						"Text": "Лифт не едет в заданном направлении"
+					},
+					"Key": "elevator_not_move_to_dir"
+				},
+				{
+					"Source":
+					{
+						"Text": "The elevator seems to be inactive"
+					},
+					"Translation":
+					{
+						"Text": "Лифт, похоже, не работает"
+					},
+					"Key": "elevator_inactive"
+				},
+				{
+					"Source":
+					{
+						"Text": "Toggle Switch"
+					},
+					"Translation":
+					{
+						"Text": "Тумблер"
+					},
+					"Key": "toggle_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Touch Statue"
+					},
+					"Translation":
+					{
+						"Text": "Прикоснуться к Статуе"
+					},
+					"Key": "touch_statue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Travel"
+					},
+					"Translation":
+					{
+						"Text": "Путешествовать"
+					},
+					"Key": "travel"
+				},
+				{
+					"Source":
+					{
+						"Text": "Turn"
+					},
+					"Translation":
+					{
+						"Text": "Повернуть"
+					},
+					"Key": "wheel_turn"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unlocked with {0}"
+					},
+					"Translation":
+					{
+						"Text": "Открыт с {0}"
+					},
+					"Key": "unlocked_with"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use"
+					},
+					"Translation":
+					{
+						"Text": "Использовать"
+					},
+					"Key": "use"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Active Item"
+					},
+					"Translation":
+					{
+						"Text": "Использовать Активный Элемент"
+					},
+					"Key": "use_active_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Crystal"
+					},
+					"Translation":
+					{
+						"Text": "Использовать Кристалл"
+					},
+					"Key": "use_crystal"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Device"
+					},
+					"Translation":
+					{
+						"Text": "Использовать Устройство"
+					},
+					"Key": "use_device"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Elevator"
+					},
+					"Translation":
+					{
+						"Text": "Использовать Лифт"
+					},
+					"Key": "use_elevator"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Elevator Gem"
+					},
+					"Translation":
+					{
+						"Text": "Использовать Самоцвет Лифта"
+					},
+					"Key": "use_elevator_gem"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Magic Mirror"
+					},
+					"Translation":
+					{
+						"Text": "Использовать Волшебное Зеркало"
+					},
+					"Key": "use_magic_mirror"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Workshop"
+					},
+					"Translation":
+					{
+						"Text": "Использовать Мастерскую"
+					},
+					"Key": "use_workshop"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use switch"
+					},
+					"Translation":
+					{
+						"Text": "Использовать Переключатель"
+					},
+					"Key": "use_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use the device to separate the Realms"
+					},
+					"Translation":
+					{
+						"Text": "Использовать устройство чтобы разделить Царства"
+					},
+					"Key": "use_separate_explained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Window"
+					},
+					"Translation":
+					{
+						"Text": "Окно"
+					},
+					"Key": "window"
+				},
+				{
+					"Source":
+					{
+						"Text": "Workroom"
+					},
+					"Translation":
+					{
+						"Text": "Мастерская"
+					},
+					"Key": "workroom"
+				},
+				{
+					"Source":
+					{
+						"Text": "You are not worthy!"
+					},
+					"Translation":
+					{
+						"Text": "Ты недостоин!"
+					},
+					"Key": "you_are_worthy"
+				},
+				{
+					"Source":
+					{
+						"Text": "You can't carry more {0}"
+					},
+					"Translation":
+					{
+						"Text": "Ты не можешь нести больше {0}"
+					},
+					"Key": "stone_cant_carry"
+				},
+				{
+					"Source":
+					{
+						"Text": "You don't have anything you could use to store {0}"
+					},
+					"Translation":
+					{
+						"Text": "У тебя нет ничего, что можно было бы использовать для хранения {0}"
+					},
+					"Key": "stone_cant_store"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} acquired"
+					},
+					"Translation":
+					{
+						"Text": "{0} приобретено"
+					},
+					"Key": "acquired_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} {1} added to your bag!"
+					},
+					"Translation":
+					{
+						"Text": "{0} {1} добавлено в твою сумку!"
+					},
+					"Key": "stone_added"
+				}
+			]
+		},
+		{
+			"Namespace": "Items",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Ice Stone"
+					},
+					"Translation":
+					{
+						"Text": "Ледяной Камень"
+					},
+					"Key": "ice_stone_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Test Stone"
+					},
+					"Translation":
+					{
+						"Text": "Пробный камень"
+					},
+					"Key": "test_stone_name"
+				}
+			]
+		},
+		{
+			"Namespace": "ItemsCommon",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Attack Speed"
+					},
+					"Translation":
+					{
+						"Text": "Скорость Атаки"
+					},
+					"Key": "speed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Capacity Cost"
+					},
+					"Translation":
+					{
+						"Text": "Стоимость Мощность"
+					},
+					"Key": "spellcapacitycost"
+				},
+				{
+					"Source":
+					{
+						"Text": "Charge"
+					},
+					"Translation":
+					{
+						"Text": "Charge"
+					},
+					"Key": "spellusagecount"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cooldown"
+					},
+					"Translation":
+					{
+						"Text": "Остывать"
+					},
+					"Key": "cooldown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dual Wield Weapon"
+					},
+					"Translation":
+					{
+						"Text": "Двойное Оружие"
+					},
+					"Key": "dualwield"
+				},
+				{
+					"Source":
+					{
+						"Text": "Health"
+					},
+					"Translation":
+					{
+						"Text": "Здоровье"
+					},
+					"Key": "health"
+				},
+				{
+					"Source":
+					{
+						"Text": "Invalid"
+					},
+					"Translation":
+					{
+						"Text": "Недоступный"
+					},
+					"Key": "invalid_shard_max"
+				},
+				{
+					"Source":
+					{
+						"Text": "Invalid Weapon"
+					},
+					"Translation":
+					{
+						"Text": "Недоступное Оружие"
+					},
+					"Key": "invalid_weapon_max"
+				},
+				{
+					"Source":
+					{
+						"Text": "Key"
+					},
+					"Translation":
+					{
+						"Text": "Ключ"
+					},
+					"Key": "key"
+				},
+				{
+					"Source":
+					{
+						"Text": "Memory Stone"
+					},
+					"Translation":
+					{
+						"Text": "Камень Воспоминаний"
+					},
+					"Key": "MemoryStone"
+				},
+				{
+					"Source":
+					{
+						"Text": "One-Handed Weapon"
+					},
+					"Translation":
+					{
+						"Text": "Одноручное оружие"
+					},
+					"Key": "onehanded"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quest Item"
+					},
+					"Translation":
+					{
+						"Text": "Квест Предмет"
+					},
+					"Key": "QuestItem"
+				},
+				{
+					"Source":
+					{
+						"Text": "Runestone"
+					},
+					"Translation":
+					{
+						"Text": "Рунный Камень"
+					},
+					"Key": "RuneStone"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shard"
+					},
+					"Translation":
+					{
+						"Text": "Осколок"
+					},
+					"Key": "shard"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shard of Justice"
+					},
+					"Translation":
+					{
+						"Text": "Осколок Справедливости"
+					},
+					"Key": "offensive"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shard of Protection"
+					},
+					"Translation":
+					{
+						"Text": "Осколок Защиты"
+					},
+					"Key": "defensive"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shard of Wonder"
+					},
+					"Translation":
+					{
+						"Text": "Осколок Чуда"
+					},
+					"Key": "special"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something interesting"
+					},
+					"Translation":
+					{
+						"Text": "Кое-что интересное"
+					},
+					"Key": "keylikeitem"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something interesting"
+					},
+					"Translation":
+					{
+						"Text": "Кое-что интересное"
+					},
+					"Key": "item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to cast with"
+					},
+					"Translation":
+					{
+						"Text": "Что-нибудь для заклинания"
+					},
+					"Key": "spell"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to drink"
+					},
+					"Translation":
+					{
+						"Text": "Что-нибудь выпить"
+					},
+					"Key": "potion"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to read"
+					},
+					"Translation":
+					{
+						"Text": "Что-нибудь почитать"
+					},
+					"Key": "book"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to shoot with"
+					},
+					"Translation":
+					{
+						"Text": "Что-нибудь для стрельбы"
+					},
+					"Key": "crossbow"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to throw"
+					},
+					"Translation":
+					{
+						"Text": "Что-нибудь бросить"
+					},
+					"Key": "throwable"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to unlock with"
+					},
+					"Translation":
+					{
+						"Text": "Что-нибудь, с чем можно открыть"
+					},
+					"Key": "something_unlock"
+				},
+				{
+					"Source":
+					{
+						"Text": "Two-Handed Weapon"
+					},
+					"Translation":
+					{
+						"Text": "Двуручное Оружие"
+					},
+					"Key": "twohanded"
+				},
+				{
+					"Source":
+					{
+						"Text": "Usable"
+					},
+					"Translation":
+					{
+						"Text": "Пригодный"
+					},
+					"Key": "usable"
+				},
+				{
+					"Source":
+					{
+						"Text": "Valuable"
+					},
+					"Translation":
+					{
+						"Text": "Ценный"
+					},
+					"Key": "jewelry"
+				},
+				{
+					"Source":
+					{
+						"Text": "Weapon"
+					},
+					"Translation":
+					{
+						"Text": "Оружие"
+					},
+					"Key": "weapon"
+				}
+			]
+		},
+		{
+			"Namespace": "MusicName",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "All is lost"
+					},
+					"Translation":
+					{
+						"Text": "Все потеряно"
+					},
+					"Key": "mus_ending_dlg_UnknownWizard_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Armours of the Deep"
+					},
+					"Translation":
+					{
+						"Text": "Доспехи Глубоких"
+					},
+					"Key": "mus2_combat_catacombs_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Decaying City"
+					},
+					"Translation":
+					{
+						"Text": "Распадающийся Город"
+					},
+					"Key": "mus_cm_WhiteWall_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disfunctional Golems"
+					},
+					"Translation":
+					{
+						"Text": "Неисправные Големы"
+					},
+					"Key": "mus1_combat_1_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Duty"
+					},
+					"Translation":
+					{
+						"Text": "Долг"
+					},
+					"Key": "mus1_dlg_Golem_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarven Catacombs"
+					},
+					"Translation":
+					{
+						"Text": "Карликовые Катакомбы"
+					},
+					"Key": "mus2_env_Catacombs_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enlightened Mind"
+					},
+					"Translation":
+					{
+						"Text": "Просветлённый Разум"
+					},
+					"Key": "mus1_dlg_Monk_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "I hold it back"
+					},
+					"Translation":
+					{
+						"Text": "Я задержу его"
+					},
+					"Key": "mus2_combat_DwarvenBoss_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "In Memoriam"
+					},
+					"Translation":
+					{
+						"Text": "В Памяти"
+					},
+					"Key": "mus1_env_SecondArcade_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Infected Golems"
+					},
+					"Translation":
+					{
+						"Text": "Заражённые Големы"
+					},
+					"Key": "mus3_combat_Bubble_Ground_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Intelligence and Wisdom"
+					},
+					"Translation":
+					{
+						"Text": "Разум и Мудрость"
+					},
+					"Key": "mus2_dlg_Gnory_Fishy_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Jump for your life!"
+					},
+					"Translation":
+					{
+						"Text": "Прыгай ради своей жизни!"
+					},
+					"Key": "mus_chase_theme_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Just a bit crazy"
+					},
+					"Translation":
+					{
+						"Text": "Просто чуть-чуть сумасшедший"
+					},
+					"Key": "mus1_dlg_Teachy_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Last Shalter"
+					},
+					"Translation":
+					{
+						"Text": "Последнее Убежище"
+					},
+					"Key": "mus3_env_CaveHouse_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Last of his Tribe"
+					},
+					"Translation":
+					{
+						"Text": "Последний из своего Племени"
+					},
+					"Key": "mus2_env_Kobold_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lost Memories"
+					},
+					"Translation":
+					{
+						"Text": "Потерянные Воспоминания"
+					},
+					"Key": "mus2_dlg_GolemMaker_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Machine Rage"
+					},
+					"Translation":
+					{
+						"Text": "Машинная Ярость"
+					},
+					"Key": "mus1_combat_2_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Meant to be Perfect"
+					},
+					"Translation":
+					{
+						"Text": "Быть Идеальным"
+					},
+					"Key": "mus2_combat_LavaBoss_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Moving Pipes"
+					},
+					"Translation":
+					{
+						"Text": "Подвижные трубы"
+					},
+					"Key": "mus3_env_PipePuzzle_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "No price too high"
+					},
+					"Translation":
+					{
+						"Text": "Нет слишком высокой цены"
+					},
+					"Key": "mus2_combat_WWBoss_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "One would fail"
+					},
+					"Translation":
+					{
+						"Text": "Один проиграет"
+					},
+					"Key": "mus3_env_Raven_Puzzle_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pilgrim Road"
+					},
+					"Translation":
+					{
+						"Text": "Паломническая Дорога"
+					},
+					"Key": "mus2_env_LavaEntrance_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pipe Walkers"
+					},
+					"Translation":
+					{
+						"Text": "Трубоходики"
+					},
+					"Key": "mus1_dlg_SewerCreature_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quick and Clever"
+					},
+					"Translation":
+					{
+						"Text": "Быстрый и Умный"
+					},
+					"Key": "mus2_env_WrackedWaterpath_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Railway Station"
+					},
+					"Translation":
+					{
+						"Text": "Железнодорожная Станция"
+					},
+					"Key": "mus2_env_CrossroadCave_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remnant Colors"
+					},
+					"Translation":
+					{
+						"Text": "Остатки Цвета"
+					},
+					"Key": "mus1_env_AncientArcade_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sanctuary of Law"
+					},
+					"Translation":
+					{
+						"Text": "Святилище Правды"
+					},
+					"Key": "mus2_env_DwarvenGate_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Small but Tiny"
+					},
+					"Translation":
+					{
+						"Text": "Маленький, совсем Крошечный"
+					},
+					"Key": "mus2_dlg_MerchAnt_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "So close yet so far"
+					},
+					"Translation":
+					{
+						"Text": "Так близко, но так далеко"
+					},
+					"Key": "mus3_env_BubbleGround_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spirit of the Unknown"
+					},
+					"Translation":
+					{
+						"Text": "Дух Неизвестного"
+					},
+					"Key": "mus_main_theme_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Stories never end"
+					},
+					"Translation":
+					{
+						"Text": "Истории никогда не заканчиваются"
+					},
+					"Key": "mus_waterpath_alter_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sunken Sewer"
+					},
+					"Translation":
+					{
+						"Text": "Затопленная Канализация"
+					},
+					"Key": "mus1_env_TutorialLevel_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Supper time"
+					},
+					"Translation":
+					{
+						"Text": "Время Ужина"
+					},
+					"Key": "mus2_dlg_SupperDwarf_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Temple for the Ancestors"
+					},
+					"Translation":
+					{
+						"Text": "Храм Предков"
+					},
+					"Key": "mus2_env_LavaDeep_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "The end, really"
+					},
+					"Translation":
+					{
+						"Text": "Конец, на самом деле"
+					},
+					"Key": "mus3_env_RuinedRealm_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "The other Bell"
+					},
+					"Translation":
+					{
+						"Text": "Другой Колокол"
+					},
+					"Key": "mus1_dlg_Lory_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Those who survived"
+					},
+					"Translation":
+					{
+						"Text": "Те, что выжили"
+					},
+					"Key": "mus2_combat_WrackedWaterpath_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Touch of Ruin"
+					},
+					"Translation":
+					{
+						"Text": "Прикосновение Руина"
+					},
+					"Key": "mus1_env_GreyGate_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unexpected Friend"
+					},
+					"Translation":
+					{
+						"Text": "Неожиданный Друг"
+					},
+					"Key": "mus1_dlg_Generic_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Where the rail leads"
+					},
+					"Translation":
+					{
+						"Text": "Туда, куда ведут рельсы"
+					},
+					"Key": "mus2_env_DwarvenOutpost_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Winged Wisdom"
+					},
+					"Translation":
+					{
+						"Text": "Крылатая Мудрость"
+					},
+					"Key": "mus1_dlg_Raven_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Worthy"
+					},
+					"Translation":
+					{
+						"Text": "Достойный"
+					},
+					"Key": "mus1_combat_GateKeeper_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wracked Warriors"
+					},
+					"Translation":
+					{
+						"Text": "Побеждённые Воины"
+					},
+					"Key": "mus2_combat_WrackedWaterpath_2_display_name"
+				}
+			]
+		},
+		{
+			"Namespace": "Spells",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Blocked"
+					},
+					"Translation":
+					{
+						"Text": "Блок"
+					},
+					"Key": "blocked"
+				},
+				{
+					"Source":
+					{
+						"Text": "Can't in air"
+					},
+					"Translation":
+					{
+						"Text": "Не могу в воздухе"
+					},
+					"Key": "cant_use_in_air"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dangerous Location"
+					},
+					"Translation":
+					{
+						"Text": "Опасное Место"
+					},
+					"Key": "cant_use_sk_free_zone"
+				},
+				{
+					"Source":
+					{
+						"Text": "Health Increased!"
+					},
+					"Translation":
+					{
+						"Text": "Здоровье Восстановлено!"
+					},
+					"Key": "hp_gained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Immune"
+					},
+					"Translation":
+					{
+						"Text": "Неуязвим"
+					},
+					"Key": "immune"
+				},
+				{
+					"Source":
+					{
+						"Text": "Infected"
+					},
+					"Translation":
+					{
+						"Text": "Заражён"
+					},
+					"Key": "infected"
+				},
+				{
+					"Source":
+					{
+						"Text": "Instant Recharge"
+					},
+					"Translation":
+					{
+						"Text": "Мгновенная Подзарядка"
+					},
+					"Key": "instant_recharge"
+				},
+				{
+					"Source":
+					{
+						"Text": "No need"
+					},
+					"Translation":
+					{
+						"Text": "Не нужно"
+					},
+					"Key": "no_need_for_heal"
+				},
+				{
+					"Source":
+					{
+						"Text": "Resisted"
+					},
+					"Translation":
+					{
+						"Text": "Устоит"
+					},
+					"Key": "resisted"
+				},
+				{
+					"Source":
+					{
+						"Text": "Second Chance"
+					},
+					"Translation":
+					{
+						"Text": "Второй Шанс"
+					},
+					"Key": "second_chance"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spell Charge Regained!"
+					},
+					"Translation":
+					{
+						"Text": "Заряд заклинаний восстановлен!"
+					},
+					"Key": "spell_regained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spellpower Increased!"
+					},
+					"Translation":
+					{
+						"Text": "Мощность Заклинаний Увеличена!"
+					},
+					"Key": "spell_capacity_gained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Who? Where? What?!"
+					},
+					"Translation":
+					{
+						"Text": "Кто? Где? Что?!"
+					},
+					"Key": "missing_target"
+				}
+			]
+		},
+		{
+			"Namespace": "UI",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "+ Button"
+					},
+					"Translation":
+					{
+						"Text": "кнопка +"
+					},
+					"Key": "Switch_special_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "+{x} GOLD"
+					},
+					"Translation":
+					{
+						"Text": "+{x} Золото"
+					},
+					"Key": "gold_x"
+				},
+				{
+					"Source":
+					{
+						"Text": "-"
+					},
+					"Translation":
+					{
+						"Text": "-"
+					},
+					"Key": "empty_line"
+				},
+				{
+					"Source":
+					{
+						"Text": "- Button"
+					},
+					"Translation":
+					{
+						"Text": "кнопка -"
+					},
+					"Key": "Switch_special_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "- Infinite <Blue>SoulKeeper</> (Checkpoint) spell charges\n- No health penalty when respawning near the <Blue>SoulKeeper</>\n- Decreased incoming damage\n- Decreased Enemy Health"
+					},
+					"Translation":
+					{
+						"Text": "- Бесконечный <Blue>Хранитель Душ</> (Чекпоинт) заряд заклинаний\n- Нет штрафа к здоровью при возрождении возле <Blue>Хранителя Душ</>\n- Пониженный поступающий урон\n- Пониженное здоровье врага"
+					},
+					"Key": "difficulty_desc_sane"
+				},
+				{
+					"Source":
+					{
+						"Text": "- Loaded -"
+					},
+					"Translation":
+					{
+						"Text": "- Загружен -"
+					},
+					"Key": "save_slots_loaded"
+				},
+				{
+					"Source":
+					{
+						"Text": "- The <Blue>SoulKeeper</> (Portable Checkpoint) spell is removed from the game\n- Increased incoming damage\n- Increased Enemy Health"
+					},
+					"Translation":
+					{
+						"Text": "- Заклинание <Blue>Хранитель Душ</> (Портативный Чекпоинт) удалено из игры\n- Возросший урон\n- Увеличенное здоровье"
+					},
+					"Key": "difficulty_desc_insane"
+				},
+				{
+					"Source":
+					{
+						"Text": "---Equipped---"
+					},
+					"Translation":
+					{
+						"Text": "— Снаряжено—"
+					},
+					"Key": "item_equipped"
+				},
+				{
+					"Source":
+					{
+						"Text": "..."
+					},
+					"Translation":
+					{
+						"Text": "..."
+					},
+					"Key": "line_three_dots"
+				},
+				{
+					"Source":
+					{
+						"Text": "16:10"
+					},
+					"Translation":
+					{
+						"Text": "16:10"
+					},
+					"Key": "settings_ratio_16_10"
+				},
+				{
+					"Source":
+					{
+						"Text": "16:9"
+					},
+					"Translation":
+					{
+						"Text": "16:9"
+					},
+					"Key": "settings_ratio_16_9"
+				},
+				{
+					"Source":
+					{
+						"Text": "4:3"
+					},
+					"Translation":
+					{
+						"Text": "4:3"
+					},
+					"Key": "settings_ratio_4_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "A Button"
+					},
+					"Translation":
+					{
+						"Text": "кнопка A"
+					},
+					"Key": "Switch_FaceButton_Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "A true challenge"
+					},
+					"Translation":
+					{
+						"Text": "Нормальный"
+					},
+					"Key": "difficulty_intended"
+				},
+				{
+					"Source":
+					{
+						"Text": "Acknowledge"
+					},
+					"Translation":
+					{
+						"Text": "Подтвердить"
+					},
+					"Key": "acknowledge"
+				},
+				{
+					"Source":
+					{
+						"Text": "Acknowledge"
+					},
+					"Translation":
+					{
+						"Text": "Подтвердить"
+					},
+					"Key": "group_defeated_ack"
+				},
+				{
+					"Source":
+					{
+						"Text": "Add"
+					},
+					"Translation":
+					{
+						"Text": "Добавить"
+					},
+					"Key": "panel_command_spell_add"
+				},
+				{
+					"Source":
+					{
+						"Text": "Additional Optimizations"
+					},
+					"Translation":
+					{
+						"Text": "Дополнительные оптимизации"
+					},
+					"Key": "settings_force_weak_hardware_opt"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the master volume"
+					},
+					"Translation":
+					{
+						"Text": "Настройка общей-громкости"
+					},
+					"Key": "settings_master_volume_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the music volume"
+					},
+					"Translation":
+					{
+						"Text": "Настройка громкости музыки"
+					},
+					"Key": "settings_music_volume_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the sound effects volume"
+					},
+					"Translation":
+					{
+						"Text": "Настройка громкости звуковых эффектов"
+					},
+					"Key": "settings_effects_volume_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Affects the quality of particles in the world, a lower quality might make some projectiles in the world harder to see."
+					},
+					"Translation":
+					{
+						"Text": "Влияет на качество частиц в игре, более низкое качество может сделать некоторые снаряды труднее увидеть."
+					},
+					"Key": "settings_effects_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Affects the quality of the post process effects after the scene is rendered."
+					},
+					"Translation":
+					{
+						"Text": "Влияет на качество эффектов постпроцесса после рендеринга сцены."
+					},
+					"Key": "settings_post_effects_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "All progress will be lost"
+					},
+					"Translation":
+					{
+						"Text": "Весь прогресс будет потерян"
+					},
+					"Key": "restart_game_warning"
+				},
+				{
+					"Source":
+					{
+						"Text": "Allows Higher Bounce even if the Jump button is pressed after the character hits the ground"
+					},
+					"Translation":
+					{
+						"Text": "Позволяет Увеличить Отскок, даже если кнопка “Прыжок “ нажата после того, как персонаж приземлился."
+					},
+					"Key": "settings_merciful_bounce_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Allows changing the Screen Resolution."
+					},
+					"Translation":
+					{
+						"Text": "Позволяет изменять разрешение экрана."
+					},
+					"Key": "settings_resolution_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Always"
+					},
+					"Translation":
+					{
+						"Text": "Всегда"
+					},
+					"Key": "settings_merciful_bounce_always"
+				},
+				{
+					"Source":
+					{
+						"Text": "Amazing stuff"
+					},
+					"Translation":
+					{
+						"Text": "Изумительная вещь"
+					},
+					"Key": "item_rarity_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Amount: {0}"
+					},
+					"Translation":
+					{
+						"Text": "Количество: {0}"
+					},
+					"Key": "inventory_item_amount"
+				},
+				{
+					"Source":
+					{
+						"Text": "Anti-Aliasing"
+					},
+					"Translation":
+					{
+						"Text": "Сглаживание"
+					},
+					"Key": "settings_antialising"
+				},
+				{
+					"Source":
+					{
+						"Text": "Apply"
+					},
+					"Translation":
+					{
+						"Text": "Применить"
+					},
+					"Key": "settings_apply"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure you want to buy back {ItemName} for {Gold} gold?"
+					},
+					"Translation":
+					{
+						"Text": "Ты уверен, что хочешь выкупить {ItemName} за {Gold} золота?"
+					},
+					"Key": "trade_buy_back"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure you want to buy {ItemName} for {Gold} gold?"
+					},
+					"Translation":
+					{
+						"Text": "Ты уверен, что хочешь купить {ItemName} за {Gold} золота?"
+					},
+					"Key": "trade_buy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure you want to sell {ItemName} for {Gold} gold?"
+					},
+					"Translation":
+					{
+						"Text": "Ты уверен, что хочешь продать {ItemName} за {Gold}золота?"
+					},
+					"Key": "trade_sell"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure?"
+					},
+					"Translation":
+					{
+						"Text": "Ты уверен?"
+					},
+					"Key": "difficulty_confirm_question"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure?"
+					},
+					"Translation":
+					{
+						"Text": "Ты уверен?"
+					},
+					"Key": "confirm_keyboard_settings_reset"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure?"
+					},
+					"Translation":
+					{
+						"Text": "Ты уверен?"
+					},
+					"Key": "save_slots_remove_confirm"
+				},
+				{
+					"Source":
+					{
+						"Text": "As hard as it can get"
+					},
+					"Translation":
+					{
+						"Text": "Безумный"
+					},
+					"Key": "difficulty_insane"
+				},
+				{
+					"Source":
+					{
+						"Text": "Aspect Ratio"
+					},
+					"Translation":
+					{
+						"Text": "Соотношение сторон"
+					},
+					"Key": "settings_aspect_ratio"
+				},
+				{
+					"Source":
+					{
+						"Text": "Audio"
+					},
+					"Translation":
+					{
+						"Text": "Звук"
+					},
+					"Key": "settings_audio"
+				},
+				{
+					"Source":
+					{
+						"Text": "Auto detect Gamepad Layout"
+					},
+					"Translation":
+					{
+						"Text": "Автоматическое определение Раскладки Геймпада"
+					},
+					"Key": "settings_auto_detect_controller"
+				},
+				{
+					"Source":
+					{
+						"Text": "B Button"
+					},
+					"Translation":
+					{
+						"Text": "кнопка B"
+					},
+					"Key": "Switch_FaceButton_Bottom"
+				},
+				{
+					"Source":
+					{
+						"Text": "Back"
+					},
+					"Translation":
+					{
+						"Text": "Назад"
+					},
+					"Key": "panel_command_inv_back"
+				},
+				{
+					"Source":
+					{
+						"Text": "Back"
+					},
+					"Translation":
+					{
+						"Text": "Назад"
+					},
+					"Key": "back"
+				},
+				{
+					"Source":
+					{
+						"Text": "Better than nothing"
+					},
+					"Translation":
+					{
+						"Text": "Лучше, чем ничего"
+					},
+					"Key": "item_rarity_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Better than nothing, right?"
+					},
+					"Translation":
+					{
+						"Text": "Лучше, чем ничего, верно?"
+					},
+					"Key": "item_rarity_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Borderless"
+					},
+					"Translation":
+					{
+						"Text": "Без Рамки"
+					},
+					"Key": "settings_borderless"
+				},
+				{
+					"Source":
+					{
+						"Text": "Brightness"
+					},
+					"Translation":
+					{
+						"Text": "Яркость"
+					},
+					"Key": "settings_brightness"
+				},
+				{
+					"Source":
+					{
+						"Text": "Buy"
+					},
+					"Translation":
+					{
+						"Text": "Купить"
+					},
+					"Key": "buy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Buy Back"
+					},
+					"Translation":
+					{
+						"Text": "Выкупить обратно"
+					},
+					"Key": "buy_back"
+				},
+				{
+					"Source":
+					{
+						"Text": "Buy Full Game"
+					},
+					"Translation":
+					{
+						"Text": "Купить Полную Игру"
+					},
+					"Key": "steam_main_game_buy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Buy WarriOrb in Steam and follow us on social media:"
+					},
+					"Translation":
+					{
+						"Text": "Покупайте WarriOrb в Steam и следите за нами в социальных сетях:"
+					},
+					"Key": "buy_on_steam_and_follow"
+				},
+				{
+					"Source":
+					{
+						"Text": "Can not be used in air"
+					},
+					"Translation":
+					{
+						"Text": "Не может быть использован в воздухе"
+					},
+					"Key": "spell_only_in_air"
+				},
+				{
+					"Source":
+					{
+						"Text": "Can not be used in restricted areas"
+					},
+					"Translation":
+					{
+						"Text": "Не может быть использовано в зонах ограниченного доступа"
+					},
+					"Key": "spell_restricted"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cancel"
+					},
+					"Translation":
+					{
+						"Text": "Отменить"
+					},
+					"Key": "settings_cancel"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cancel"
+					},
+					"Translation":
+					{
+						"Text": "Отменить"
+					},
+					"Key": "cancel"
+				},
+				{
+					"Source":
+					{
+						"Text": "Capacity: {0}/{1}"
+					},
+					"Translation":
+					{
+						"Text": "Вместимость: {0}/{1}"
+					},
+					"Key": "panel_spell_capacity"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Item"
+					},
+					"Translation":
+					{
+						"Text": "Смените Элемент"
+					},
+					"Key": "input_change_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Item"
+					},
+					"Translation":
+					{
+						"Text": "Смените Элемент"
+					},
+					"Key": "panel_command_inv_change_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Spell"
+					},
+					"Translation":
+					{
+						"Text": "Смените Заклинание"
+					},
+					"Key": "input_change_spell"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Spells"
+					},
+					"Translation":
+					{
+						"Text": "Поменять Заклинание"
+					},
+					"Key": "panel_rest_option_change_spells"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change User"
+					},
+					"Translation":
+					{
+						"Text": "Сменить профиль"
+					},
+					"Key": "change_user"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Weapon"
+					},
+					"Translation":
+					{
+						"Text": "Смените Оружие"
+					},
+					"Key": "input_change_weapon"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change the display and locale (numbers, dates) language"
+					},
+					"Translation":
+					{
+						"Text": "Изменение языка отображения и локали (номера, даты)"
+					},
+					"Key": "settings_language_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Changes the speed of the game.\nHigher speed might make the game have lower FPS."
+					},
+					"Translation":
+					{
+						"Text": "Меняет скорость игры. Высокая скорость игры может уменьшить FPS."
+					},
+					"Key": "settings_game_speed_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Changes the visuals of the player character"
+					},
+					"Translation":
+					{
+						"Text": "Изменяет визуальный облик персонажа игрока."
+					},
+					"Key": "character_skin_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chapter"
+					},
+					"Translation":
+					{
+						"Text": "Глава"
+					},
+					"Key": "chapter"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chapter 1 completed. Save is Locked."
+					},
+					"Translation":
+					{
+						"Text": "Глава 1 завершена. Функция “Сохранить” заблокирована."
+					},
+					"Key": "chapter1_completed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Character Sheet"
+					},
+					"Translation":
+					{
+						"Text": "Панель Персонажа"
+					},
+					"Key": "panel_character_sheet"
+				},
+				{
+					"Source":
+					{
+						"Text": "Character Skin"
+					},
+					"Translation":
+					{
+						"Text": "Стиль Персонажа"
+					},
+					"Key": "character_skin_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Checkpoint"
+					},
+					"Translation":
+					{
+						"Text": "Чекпоинт"
+					},
+					"Key": "checkpoint"
+				},
+				{
+					"Source":
+					{
+						"Text": "Classic"
+					},
+					"Translation":
+					{
+						"Text": "Классический "
+					},
+					"Key": "character_skin_classic"
+				},
+				{
+					"Source":
+					{
+						"Text": "Clear"
+					},
+					"Translation":
+					{
+						"Text": "Очистить"
+					},
+					"Key": "save_slots_clear"
+				},
+				{
+					"Source":
+					{
+						"Text": "Close"
+					},
+					"Translation":
+					{
+						"Text": "Закрыть"
+					},
+					"Key": "close"
+				},
+				{
+					"Source":
+					{
+						"Text": "Collect Usage Statistics"
+					},
+					"Translation":
+					{
+						"Text": "Статистика использования"
+					},
+					"Key": "settings_collect_analytics"
+				},
+				{
+					"Source":
+					{
+						"Text": "Compare"
+					},
+					"Translation":
+					{
+						"Text": "Сравнить"
+					},
+					"Key": "panel_command_inv_compare"
+				},
+				{
+					"Source":
+					{
+						"Text": "Completed in {time}"
+					},
+					"Translation":
+					{
+						"Text": "Завершено за {time}"
+					},
+					"Key": "completed_in_time"
+				},
+				{
+					"Source":
+					{
+						"Text": "Confirm"
+					},
+					"Translation":
+					{
+						"Text": "Подтвердить"
+					},
+					"Key": "confirm"
+				},
+				{
+					"Source":
+					{
+						"Text": "Confirm Display Settings in"
+					},
+					"Translation":
+					{
+						"Text": "Подтвердить настройки отображения в"
+					},
+					"Key": "settings_confirm_display_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Continue"
+					},
+					"Translation":
+					{
+						"Text": "Продолжить"
+					},
+					"Key": "continue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Controls"
+					},
+					"Translation":
+					{
+						"Text": "Управление"
+					},
+					"Key": "settings_controller_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cooldown"
+					},
+					"Translation":
+					{
+						"Text": "Восстановение"
+					},
+					"Key": "inventory_item_tooltip_cooldown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cooldown only starts on ground"
+					},
+					"Translation":
+					{
+						"Text": "Восстановление начинается только на земле"
+					},
+					"Key": "spell_cooldown_stops_in_air"
+				},
+				{
+					"Source":
+					{
+						"Text": "Credits"
+					},
+					"Translation":
+					{
+						"Text": "Титры"
+					},
+					"Key": "credits"
+				},
+				{
+					"Source":
+					{
+						"Text": "Currently selected button:"
+					},
+					"Translation":
+					{
+						"Text": "Выбранная кнопка:"
+					},
+					"Key": "key_selection_current"
+				},
+				{
+					"Source":
+					{
+						"Text": "Custom Map {0}"
+					},
+					"Translation":
+					{
+						"Text": "Своих Карт {0}"
+					},
+					"Key": "custom_map_x"
+				},
+				{
+					"Source":
+					{
+						"Text": "Custom Maps"
+					},
+					"Translation":
+					{
+						"Text": "Свои Карты"
+					},
+					"Key": "custom_maps"
+				},
+				{
+					"Source":
+					{
+						"Text": "Damage"
+					},
+					"Translation":
+					{
+						"Text": "Урон"
+					},
+					"Key": "inventory_item_tooltip_damage"
+				},
+				{
+					"Source":
+					{
+						"Text": "Default Value is 100%"
+					},
+					"Translation":
+					{
+						"Text": "По умолчанию 100%"
+					},
+					"Key": "settings_brightness_default_value"
+				},
+				{
+					"Source":
+					{
+						"Text": "Defines what aspect ratios are available for your resolution."
+					},
+					"Translation":
+					{
+						"Text": "Определяет, какие пропорции доступны для вашего разрешения."
+					},
+					"Key": "settings_aspect_ratio_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Description"
+					},
+					"Translation":
+					{
+						"Text": "Описание"
+					},
+					"Key": "description"
+				},
+				{
+					"Source":
+					{
+						"Text": "Difficulty"
+					},
+					"Translation":
+					{
+						"Text": "Сложность"
+					},
+					"Key": "difficulty_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Difficulty"
+					},
+					"Translation":
+					{
+						"Text": "Сложность"
+					},
+					"Key": "difficulty"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disabled"
+					},
+					"Translation":
+					{
+						"Text": "Отключен"
+					},
+					"Key": "disabled"
+				},
+				{
+					"Source":
+					{
+						"Text": "Discord"
+					},
+					"Translation":
+					{
+						"Text": "Discord"
+					},
+					"Key": "discord"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display"
+					},
+					"Translation":
+					{
+						"Text": "Дисплей"
+					},
+					"Key": "settings_display"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display Damage"
+					},
+					"Translation":
+					{
+						"Text": "Отображение Урона"
+					},
+					"Key": "settings_display_damage"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display Enemy Health"
+					},
+					"Translation":
+					{
+						"Text": "Отображение здоровья врага"
+					},
+					"Key": "settings_display_enemy_hp"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display FPS"
+					},
+					"Translation":
+					{
+						"Text": "Отображение FPS"
+					},
+					"Key": "settings_display_fps"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display Floating Voice Lines"
+					},
+					"Translation":
+					{
+						"Text": "Отображение всплывающего текста диалогов"
+					},
+					"Key": "settings_display_floating_vo"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display Mode"
+					},
+					"Translation":
+					{
+						"Text": "Режим отображения"
+					},
+					"Key": "settings_display_mode"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display Play Time"
+					},
+					"Translation":
+					{
+						"Text": "Отображение времени игры"
+					},
+					"Key": "settings_display_play_time"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do not Send"
+					},
+					"Translation":
+					{
+						"Text": "Не отправлять"
+					},
+					"Key": "send_no"
+				},
+				{
+					"Source":
+					{
+						"Text": "Down Button"
+					},
+					"Translation":
+					{
+						"Text": "кнопка Вниз"
+					},
+					"Key": "Switch_special_dpad_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Drink"
+					},
+					"Translation":
+					{
+						"Text": "Выпить"
+					},
+					"Key": "panel_command_inv_drink"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarf"
+					},
+					"Translation":
+					{
+						"Text": "Гном"
+					},
+					"Key": "dwarf_language"
+				},
+				{
+					"Source":
+					{
+						"Text": "Effect Quality"
+					},
+					"Translation":
+					{
+						"Text": "Качество эффектов"
+					},
+					"Key": "settings_effects"
+				},
+				{
+					"Source":
+					{
+						"Text": "Empty"
+					},
+					"Translation":
+					{
+						"Text": "Пустой"
+					},
+					"Key": "empty"
+				},
+				{
+					"Source":
+					{
+						"Text": "Epic"
+					},
+					"Translation":
+					{
+						"Text": "Эпический"
+					},
+					"Key": "settings_quality_epic"
+				},
+				{
+					"Source":
+					{
+						"Text": "Equip"
+					},
+					"Translation":
+					{
+						"Text": "Снарядить"
+					},
+					"Key": "panel_command_inv_equip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Equip Item"
+					},
+					"Translation":
+					{
+						"Text": "Снарядить предмет"
+					},
+					"Key": "panel_command_inv_equip_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Equip Next"
+					},
+					"Translation":
+					{
+						"Text": "Снарядить Следующее"
+					},
+					"Key": "panel_command_inv_equip_next"
+				},
+				{
+					"Source":
+					{
+						"Text": "Equipped Spells"
+					},
+					"Translation":
+					{
+						"Text": "Экипированые заклинания"
+					},
+					"Key": "panel_equipped_spells"
+				},
+				{
+					"Source":
+					{
+						"Text": "Essence"
+					},
+					"Translation":
+					{
+						"Text": "Сущность"
+					},
+					"Key": "essence"
+				},
+				{
+					"Source":
+					{
+						"Text": "Examine"
+					},
+					"Translation":
+					{
+						"Text": "Осмотреть"
+					},
+					"Key": "chest_examine"
+				},
+				{
+					"Source":
+					{
+						"Text": "Feedback"
+					},
+					"Translation":
+					{
+						"Text": "Фидбэк"
+					},
+					"Key": "feedback"
+				},
+				{
+					"Source":
+					{
+						"Text": "Float"
+					},
+					"Translation":
+					{
+						"Text": "Плавать"
+					},
+					"Key": "bubble_float"
+				},
+				{
+					"Source":
+					{
+						"Text": "Floating"
+					},
+					"Translation":
+					{
+						"Text": "Парить"
+					},
+					"Key": "input_float"
+				},
+				{
+					"Source":
+					{
+						"Text": "Frame Limit (FPS)"
+					},
+					"Translation":
+					{
+						"Text": "Лимит частоты кадров (FPS):"
+					},
+					"Key": "settings_frame_limit"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fullscreen"
+					},
+					"Translation":
+					{
+						"Text": "Полный экран"
+					},
+					"Key": "settings_fullscreen"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game"
+					},
+					"Translation":
+					{
+						"Text": "Игра"
+					},
+					"Key": "settings_game"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game Defeated!"
+					},
+					"Translation":
+					{
+						"Text": "Игра Пройдена!"
+					},
+					"Key": "game_defeated"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game Speed"
+					},
+					"Translation":
+					{
+						"Text": "Скорость Игры"
+					},
+					"Key": "settings_game_speed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game currently under development"
+					},
+					"Translation":
+					{
+						"Text": "Игра в настоящее время в разработке"
+					},
+					"Key": "game_is_wip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gamepad"
+					},
+					"Translation":
+					{
+						"Text": "Геймпад"
+					},
+					"Key": "settings_controller"
+				},
+				{
+					"Source":
+					{
+						"Text": "Go back to main menu"
+					},
+					"Translation":
+					{
+						"Text": "Вернуться в главное меню"
+					},
+					"Key": "go_back_to_menu"
+				},
+				{
+					"Source":
+					{
+						"Text": "Good stuff"
+					},
+					"Translation":
+					{
+						"Text": "Хорошая вещь"
+					},
+					"Key": "item_rarity_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Group Defeated"
+					},
+					"Translation":
+					{
+						"Text": "Группа была повержена"
+					},
+					"Key": "group_defeated_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "High"
+					},
+					"Translation":
+					{
+						"Text": "Высокий"
+					},
+					"Key": "settings_quality_high"
+				},
+				{
+					"Source":
+					{
+						"Text": "In Windowed mode you can interact with other windows easier. In Borderless mode you can quickly switch between applications."
+					},
+					"Translation":
+					{
+						"Text": "В Оконном режиме вы можете легче взаимодействовать с другими окнами. В режиме Без полей вы можете быстро переключаться между приложениями."
+					},
+					"Key": "settings_display_mode_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "In certain areas background traps are deactivated or background visuals look cheaper to gain more performance."
+					},
+					"Translation":
+					{
+						"Text": "В некоторых местах ловушки на заднем плане отключены для повышения производительности."
+					},
+					"Key": "settings_force_weak_hardware_opt_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Interact"
+					},
+					"Translation":
+					{
+						"Text": "Изменить"
+					},
+					"Key": "input_interact"
+				},
+				{
+					"Source":
+					{
+						"Text": "Interact Alternative"
+					},
+					"Translation":
+					{
+						"Text": "Назначение клавиш"
+					},
+					"Key": "input_alt_interact"
+				},
+				{
+					"Source":
+					{
+						"Text": "Inventory"
+					},
+					"Translation":
+					{
+						"Text": "Инвентарь"
+					},
+					"Key": "panel_inventory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Jump"
+					},
+					"Translation":
+					{
+						"Text": "Прыгать"
+					},
+					"Key": "input_jump"
+				},
+				{
+					"Source":
+					{
+						"Text": "Jump"
+					},
+					"Translation":
+					{
+						"Text": "Прыгать"
+					},
+					"Key": "bubble_jump"
+				},
+				{
+					"Source":
+					{
+						"Text": "Just an adventure"
+					},
+					"Translation":
+					{
+						"Text": "Легкий"
+					},
+					"Key": "difficulty_sane"
+				},
+				{
+					"Source":
+					{
+						"Text": "Keyboard"
+					},
+					"Translation":
+					{
+						"Text": "Клавиатура"
+					},
+					"Key": "settings_keyboard"
+				},
+				{
+					"Source":
+					{
+						"Text": "L Button"
+					},
+					"Translation":
+					{
+						"Text": "кнопка L"
+					},
+					"Key": "Switch_Shoulder_Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Language"
+					},
+					"Translation":
+					{
+						"Text": "Язык"
+					},
+					"Key": "settings_language"
+				},
+				{
+					"Source":
+					{
+						"Text": "Layout"
+					},
+					"Translation":
+					{
+						"Text": "Раскладка"
+					},
+					"Key": "settings_controller_platform"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave"
+					},
+					"Translation":
+					{
+						"Text": "Выйти"
+					},
+					"Key": "chest_leave"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Button"
+					},
+					"Translation":
+					{
+						"Text": "кнопка Влево"
+					},
+					"Key": "Switch_special_dpad_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Stick"
+					},
+					"Translation":
+					{
+						"Text": "левый мини-джойстик"
+					},
+					"Key": "Switch_LeftThumbstick"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Stick Down"
+					},
+					"Translation":
+					{
+						"Text": "левый мини-джойстик - Вниз"
+					},
+					"Key": "Switch_Gamepad_LeftStick_Down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Stick Left"
+					},
+					"Translation":
+					{
+						"Text": "левый мини-джойстик - Влево"
+					},
+					"Key": "Switch_Gamepad_LeftStick_Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Stick Right"
+					},
+					"Translation":
+					{
+						"Text": "левый мини-джойстик - Вправо"
+					},
+					"Key": "Switch_Gamepad_LeftStick_Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Stick Up"
+					},
+					"Translation":
+					{
+						"Text": "левый мини-джойстик - Вверх"
+					},
+					"Key": "Switch_Gamepad_LeftStick_Up"
+				},
+				{
+					"Source":
+					{
+						"Text": "Limit the maximum frame rate for a consistent experience."
+					},
+					"Translation":
+					{
+						"Text": "Ограничить максимальную частоту смены кадров для получения стабильной производительности."
+					},
+					"Key": "settings_frame_limit_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Listen to Music"
+					},
+					"Translation":
+					{
+						"Text": "Послушать музыку"
+					},
+					"Key": "panel_rest_option_listen_to_music"
+				},
+				{
+					"Source":
+					{
+						"Text": "Loot"
+					},
+					"Translation":
+					{
+						"Text": "Взять"
+					},
+					"Key": "chest_loot"
+				},
+				{
+					"Source":
+					{
+						"Text": "Low"
+					},
+					"Translation":
+					{
+						"Text": "Низкий"
+					},
+					"Key": "settings_quality_low"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mailing List"
+					},
+					"Translation":
+					{
+						"Text": "Список Рассылки"
+					},
+					"Key": "mailing_list"
+				},
+				{
+					"Source":
+					{
+						"Text": "Master volume"
+					},
+					"Translation":
+					{
+						"Text": "Общая громкость"
+					},
+					"Key": "settings_master_volume"
+				},
+				{
+					"Source":
+					{
+						"Text": "Medium"
+					},
+					"Translation":
+					{
+						"Text": "Средний"
+					},
+					"Key": "settings_quality_medium"
+				},
+				{
+					"Source":
+					{
+						"Text": "Menu button"
+					},
+					"Translation":
+					{
+						"Text": "Кнопка \"Меню\""
+					},
+					"Key": "gamepad_special_right_xbox"
+				},
+				{
+					"Source":
+					{
+						"Text": "Merciful Bounce Mode"
+					},
+					"Translation":
+					{
+						"Text": "Милосердный Режим Прыжка"
+					},
+					"Key": "settings_merciful_bounce"
+				},
+				{
+					"Source":
+					{
+						"Text": "Move Left"
+					},
+					"Translation":
+					{
+						"Text": "Движение Влево"
+					},
+					"Key": "input_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Move Right"
+					},
+					"Translation":
+					{
+						"Text": "Движение Вправо"
+					},
+					"Key": "input_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Move left/right"
+					},
+					"Translation":
+					{
+						"Text": "Движение влево/вправо"
+					},
+					"Key": "settings_move_left_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mummy"
+					},
+					"Translation":
+					{
+						"Text": "Мумия "
+					},
+					"Key": "character_skin_mummy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Music volume"
+					},
+					"Translation":
+					{
+						"Text": "Громкость музыки"
+					},
+					"Key": "settings_music_volume"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute all audio"
+					},
+					"Translation":
+					{
+						"Text": "Отключить все звуки"
+					},
+					"Key": "settings_mute_audio_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute audio"
+					},
+					"Translation":
+					{
+						"Text": "Отключить звук"
+					},
+					"Key": "settings_mute_audio"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute audio when in background"
+					},
+					"Translation":
+					{
+						"Text": "Отключение звука, когда игра свернута"
+					},
+					"Key": "settings_mute_audio_unfocused"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute the audio when the game window is not in focus"
+					},
+					"Translation":
+					{
+						"Text": "Отключить звук, когда окно игры вне фокуса"
+					},
+					"Key": "settings_mute_audio_unfocused_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute the gibberish voices inside the dialogues"
+					},
+					"Translation":
+					{
+						"Text": "Отключить тарабарщину внутри диалогов"
+					},
+					"Key": "settings_mute_dialogue_voice_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute the gibberish voices outside the dialogues"
+					},
+					"Translation":
+					{
+						"Text": "Отключить тарабарщину за пределами диалогов"
+					},
+					"Key": "settings_mute_voice_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute voices in dialogues"
+					},
+					"Translation":
+					{
+						"Text": "Отключить голоса в диалогах"
+					},
+					"Key": "settings_mute_dialogue_voice"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute voices outside of dialogues"
+					},
+					"Translation":
+					{
+						"Text": "Отключить голоса вне диалогов"
+					},
+					"Key": "settings_mute_voice"
+				},
+				{
+					"Source":
+					{
+						"Text": "Never"
+					},
+					"Translation":
+					{
+						"Text": "Никогда"
+					},
+					"Key": "settings_merciful_bounce_never"
+				},
+				{
+					"Source":
+					{
+						"Text": "Never completed"
+					},
+					"Translation":
+					{
+						"Text": "Так и не завершено"
+					},
+					"Key": "never_completed"
+				},
+				{
+					"Source":
+					{
+						"Text": "New Game"
+					},
+					"Translation":
+					{
+						"Text": "Новая игра"
+					},
+					"Key": "save_slots_new_game"
+				},
+				{
+					"Source":
+					{
+						"Text": "No"
+					},
+					"Translation":
+					{
+						"Text": "Нет"
+					},
+					"Key": "no"
+				},
+				{
+					"Source":
+					{
+						"Text": "Nope!"
+					},
+					"Translation":
+					{
+						"Text": "Нет!"
+					},
+					"Key": "trade_nope"
+				},
+				{
+					"Source":
+					{
+						"Text": "Normal"
+					},
+					"Translation":
+					{
+						"Text": "Нормальный"
+					},
+					"Key": "difficulty_normal"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not Yet would like to collect usage statistics from your game automatically.\nThese are not used to identify individuals, but help us to understand players needs to improve our game.\n\nSelect \"Send Automatically\" to allow collection of usage statistics,\nor \"Do Not Send\" to prevent the game from sending information to Not Yet.\n\nYou can change this setting at any time via the Settings Game tab."
+					},
+					"Translation":
+					{
+						"Text": "Not Yet хотел бы автоматически собирать собирать пользовательскую статистику. \nОна не используется для идентификации личности, но помогает нам понять потребности игроков в улучшении нашей игры.\n\nВыберите “Отправить автоматически”, чтобы разрешить сбор статистики,\nили “Не посылать”, чтобы предотвратить отправку информации в “Not Yet”.\nВы можете изменить эту настройку в любое время через вкладку “Настройки игры”."
+					},
+					"Key": "stats_usage_description"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not allowed to remap to Left Stick or Right Stick"
+					},
+					"Translation":
+					{
+						"Text": "Назначение действий на L и R запрещено"
+					},
+					"Key": "input_not_allowed_thumbsticks_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not allowed to remap to the + Button"
+					},
+					"Translation":
+					{
+						"Text": "Назначение действий на Кнопка \"кнопка +\""
+					},
+					"Key": "input_not_allowed_options_menu_button_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not allowed to remap to the Menu button"
+					},
+					"Translation":
+					{
+						"Text": "Назначение действий на Кнопка \"Меню\""
+					},
+					"Key": "input_not_allowed_options_menu_button"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not allowed to remap to thumbsticks"
+					},
+					"Translation":
+					{
+						"Text": "Назначение действий на L и R запрещено"
+					},
+					"Key": "input_not_allowed_thumbsticks"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not for sale"
+					},
+					"Translation":
+					{
+						"Text": "Не продается"
+					},
+					"Key": "item_not_For_sale"
+				},
+				{
+					"Source":
+					{
+						"Text": "Note: Playing with a controller is recommended"
+					},
+					"Translation":
+					{
+						"Text": "Примечание: Рекомендуется использовать контроллер"
+					},
+					"Key": "controller_recommended"
+				},
+				{
+					"Source":
+					{
+						"Text": "Now I remember the night when it started..."
+					},
+					"Translation":
+					{
+						"Text": "Теперь я вспоминаю ночь, когда все началось…"
+					},
+					"Key": "black_fade_teleport_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Okay..."
+					},
+					"Translation":
+					{
+						"Text": "Ок…"
+					},
+					"Key": "trade_okay"
+				},
+				{
+					"Source":
+					{
+						"Text": "On Easy"
+					},
+					"Translation":
+					{
+						"Text": "В Легком режиме"
+					},
+					"Key": "settings_merciful_bounce_on_easy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Inventory"
+					},
+					"Translation":
+					{
+						"Text": "Открыть Инвентарь"
+					},
+					"Key": "input_open_inventory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Menu/Escape/Back"
+					},
+					"Translation":
+					{
+						"Text": "Открыть Меню/Сбежать/Назад"
+					},
+					"Key": "input_menu_back"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pause game when idle"
+					},
+					"Translation":
+					{
+						"Text": "Приостановить игру, когда система находится в ждущем режиме"
+					},
+					"Key": "settings_pause_game_idle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pause game when unfocused"
+					},
+					"Translation":
+					{
+						"Text": "Приостановить игру, когда окно игры вне фокуса"
+					},
+					"Key": "settings_pause_game_unfocused"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pauses the game when the game loses focus"
+					},
+					"Translation":
+					{
+						"Text": "Отключить звук, когда окно игры вне фокуса"
+					},
+					"Key": "settings_pause_game_unfocused_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pauses the game when the user is idle for a certain amount of minutes"
+					},
+					"Translation":
+					{
+						"Text": "Приостановить игру если пользователь был неактивен несколько минут"
+					},
+					"Key": "settings_pause_game_idle_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Play Time"
+					},
+					"Translation":
+					{
+						"Text": "Время играть"
+					},
+					"Key": "play_time"
+				},
+				{
+					"Source":
+					{
+						"Text": "PlayStation 4"
+					},
+					"Translation":
+					{
+						"Text": "PlayStation 4"
+					},
+					"Key": "console_ps4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Please adjust the brightness of the game to your display"
+					},
+					"Translation":
+					{
+						"Text": "Пожалуйста, настройте яркость игры на вашем дисплее"
+					},
+					"Key": "settings_brightness_description"
+				},
+				{
+					"Source":
+					{
+						"Text": "Please use a gamepad in order to remap"
+					},
+					"Translation":
+					{
+						"Text": "Пожалуйста, используйте геймпад, чтобы изменить управление"
+					},
+					"Key": "settings_controller_remap_noedit"
+				},
+				{
+					"Source":
+					{
+						"Text": "Please use a keyboard in order to change the keyboard input"
+					},
+					"Translation":
+					{
+						"Text": "Пожалуйста, используйте клавиатуру, чтобы изменить ввод с клавиш"
+					},
+					"Key": "settings_keyboard_remap_noedit"
+				},
+				{
+					"Source":
+					{
+						"Text": "Post-Effects"
+					},
+					"Translation":
+					{
+						"Text": "Пост-эффекты"
+					},
+					"Key": "settings_post_effects"
+				},
+				{
+					"Source":
+					{
+						"Text": "Press any button to continue..."
+					},
+					"Translation":
+					{
+						"Text": "Нажмите любую кнопку, чтобы продолжить…"
+					},
+					"Key": "loading_screen_press_key_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Press any key to continue..."
+					},
+					"Translation":
+					{
+						"Text": "Нажмите любую кнопку, чтобы продолжить…"
+					},
+					"Key": "loading_screen_press_key"
+				},
+				{
+					"Source":
+					{
+						"Text": "Press the button you want to assign to the action:"
+					},
+					"Translation":
+					{
+						"Text": "Нажмите кнопку, которую вы хотите задать этому действию:"
+					},
+					"Key": "key_selection_press_button"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pretty good stuff"
+					},
+					"Translation":
+					{
+						"Text": "Довольно неплохая вещь"
+					},
+					"Key": "item_rarity_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Primary Strike"
+					},
+					"Translation":
+					{
+						"Text": "Основной Удар"
+					},
+					"Key": "input_strike_primary"
+				},
+				{
+					"Source":
+					{
+						"Text": "Progress will be lost"
+					},
+					"Translation":
+					{
+						"Text": "Прогресс будет утерян"
+					},
+					"Key": "save_slots_remove_confirm_subtext"
+				},
+				{
+					"Source":
+					{
+						"Text": "Progress will be saved"
+					},
+					"Translation":
+					{
+						"Text": "Прогресс будет сохранен"
+					},
+					"Key": "progress_saved"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pumpkin"
+					},
+					"Translation":
+					{
+						"Text": "Тыква"
+					},
+					"Key": "character_skin_pumpkin"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quick select spells up/down/left/right"
+					},
+					"Translation":
+					{
+						"Text": "Быстрый выбор заклинаний вверх/вниз/влево/право"
+					},
+					"Key": "spell_cast_switch_controls"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quit Game"
+					},
+					"Translation":
+					{
+						"Text": "Выйти из игры"
+					},
+					"Key": "quit_game"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quit Game?"
+					},
+					"Translation":
+					{
+						"Text": "Выйти из игры?"
+					},
+					"Key": "quit_game_question"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quit to Menu"
+					},
+					"Translation":
+					{
+						"Text": "В Главное Меню"
+					},
+					"Key": "quit_to_menu"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quit to Menu?"
+					},
+					"Translation":
+					{
+						"Text": "Перейти в Главное Меню?"
+					},
+					"Key": "quit_to_menu_question"
+				},
+				{
+					"Source":
+					{
+						"Text": "R Button"
+					},
+					"Translation":
+					{
+						"Text": "кнопка R"
+					},
+					"Key": "Switch_Shoulder_Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Read"
+					},
+					"Translation":
+					{
+						"Text": "Прочитать"
+					},
+					"Key": "panel_command_inv_read"
+				},
+				{
+					"Source":
+					{
+						"Text": "Realistic looking fog. Has a high performance impact, disable it to improve performance."
+					},
+					"Translation":
+					{
+						"Text": "Реалистично выглядящий туман. Он воздействует на производительность, отключая ее для повышения производительности."
+					},
+					"Key": "settings_volumetric_fog_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remap Controls"
+					},
+					"Translation":
+					{
+						"Text": "Управление кнопок"
+					},
+					"Key": "settings_controller_remap"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remap Controls"
+					},
+					"Translation":
+					{
+						"Text": "Управление кнопок"
+					},
+					"Key": "settings_controller_remap_single"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remove"
+					},
+					"Translation":
+					{
+						"Text": "Убрать"
+					},
+					"Key": "panel_command_spell_remove"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset"
+					},
+					"Translation":
+					{
+						"Text": "Сбросить"
+					},
+					"Key": "settings_reset"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset button to default"
+					},
+					"Translation":
+					{
+						"Text": "Кнопка сброса по умолчанию"
+					},
+					"Key": "settings_reset_input_key"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset to Arrow defaults"
+					},
+					"Translation":
+					{
+						"Text": "Использовать Стрелки по умолчанию"
+					},
+					"Key": "reset_keyboard_arrows"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset to Defaults"
+					},
+					"Translation":
+					{
+						"Text": "Сбросить к основным"
+					},
+					"Key": "settings_reset_default"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset to WASD defaults"
+					},
+					"Translation":
+					{
+						"Text": "Использовать WASD по умолчанию"
+					},
+					"Key": "reset_keyboard_wasd"
+				},
+				{
+					"Source":
+					{
+						"Text": "Resistances"
+					},
+					"Translation":
+					{
+						"Text": "Сопротивление"
+					},
+					"Key": "paneL_resistances"
+				},
+				{
+					"Source":
+					{
+						"Text": "Resolution"
+					},
+					"Translation":
+					{
+						"Text": "Разрешение"
+					},
+					"Key": "settings_resolution"
+				},
+				{
+					"Source":
+					{
+						"Text": "Resolution Scale"
+					},
+					"Translation":
+					{
+						"Text": "Масштаб разрешения"
+					},
+					"Key": "settings_resolution_scale"
+				},
+				{
+					"Source":
+					{
+						"Text": "Restart"
+					},
+					"Translation":
+					{
+						"Text": "Перезапустить"
+					},
+					"Key": "restart"
+				},
+				{
+					"Source":
+					{
+						"Text": "Restart Game?"
+					},
+					"Translation":
+					{
+						"Text": "Перезапустить игру?"
+					},
+					"Key": "restart_game_question"
+				},
+				{
+					"Source":
+					{
+						"Text": "Retreat"
+					},
+					"Translation":
+					{
+						"Text": "Отступить"
+					},
+					"Key": "game_over_retreat"
+				},
+				{
+					"Source":
+					{
+						"Text": "Retry"
+					},
+					"Translation":
+					{
+						"Text": "Повторить"
+					},
+					"Key": "game_over_retry"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Button"
+					},
+					"Translation":
+					{
+						"Text": "кнопка Вправо"
+					},
+					"Key": "Switch_special_dpad_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Stick"
+					},
+					"Translation":
+					{
+						"Text": "правый мини-джойстик"
+					},
+					"Key": "Switch_RightThumbstick"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Stick Down"
+					},
+					"Translation":
+					{
+						"Text": "правый мини-джойстик - Вниз"
+					},
+					"Key": "Switch_Gamepad_RightStick_Down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Stick Left"
+					},
+					"Translation":
+					{
+						"Text": "правый мини-джойстик - Влево"
+					},
+					"Key": "Switch_Gamepad_RightStick_Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Stick Right"
+					},
+					"Translation":
+					{
+						"Text": "правый мини-джойстик - Вправо"
+					},
+					"Key": "Switch_Gamepad_RightStick_Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Stick Up"
+					},
+					"Translation":
+					{
+						"Text": "правый мини-джойстик - Вверх"
+					},
+					"Key": "Switch_Gamepad_RightStick_Up"
+				},
+				{
+					"Source":
+					{
+						"Text": "Roll"
+					},
+					"Translation":
+					{
+						"Text": "Катится"
+					},
+					"Key": "input_roll"
+				},
+				{
+					"Source":
+					{
+						"Text": "Save Slots"
+					},
+					"Translation":
+					{
+						"Text": "Сохранить слоты"
+					},
+					"Key": "saves"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select"
+					},
+					"Translation":
+					{
+						"Text": "Выбрать"
+					},
+					"Key": "select"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select"
+					},
+					"Translation":
+					{
+						"Text": "Выбрать"
+					},
+					"Key": "spell_cast_switch_select"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select"
+					},
+					"Translation":
+					{
+						"Text": "Выбрать"
+					},
+					"Key": "save_slots_select"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select & Cast"
+					},
+					"Translation":
+					{
+						"Text": "Выбрать Заклинание & Заколдовать"
+					},
+					"Key": "spell_cast_switch_select_cast"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select another"
+					},
+					"Translation":
+					{
+						"Text": "Выбрать другое"
+					},
+					"Key": "settings_select_another"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select spells"
+					},
+					"Translation":
+					{
+						"Text": "Выбрать заклинания"
+					},
+					"Key": "select_spells"
+				},
+				{
+					"Source":
+					{
+						"Text": "Selected button = {Key}, is not allowed as an input option"
+					},
+					"Translation":
+					{
+						"Text": "Выбранная кнопка = {Key}, не допускается в качестве опции ввода"
+					},
+					"Key": "input_selected_key_not_allowed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Selected button = {Key}, will get unbound from the {NumActions}|plural(one=Action,other=Actions) = {ActionNames}"
+					},
+					"Translation":
+					{
+						"Text": "Выбранная кнопка = {Key}, будет сброшена c {NumActions}|plural(one=Команда,other=Команды) = {ActionNames}"
+					},
+					"Key": "input_actions_conflicts"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sell"
+					},
+					"Translation":
+					{
+						"Text": "Продать"
+					},
+					"Key": "sell"
+				},
+				{
+					"Source":
+					{
+						"Text": "Send Automatically"
+					},
+					"Translation":
+					{
+						"Text": "Отправлять автоматически"
+					},
+					"Key": "send_automatically"
+				},
+				{
+					"Source":
+					{
+						"Text": "Settings"
+					},
+					"Translation":
+					{
+						"Text": "Настройки"
+					},
+					"Key": "settings"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shadow Quality"
+					},
+					"Translation":
+					{
+						"Text": "Качество Тени"
+					},
+					"Key": "settings_shadows"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show FPS counter"
+					},
+					"Translation":
+					{
+						"Text": "Показать счетчик FPS"
+					},
+					"Key": "settings_display_fps_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show a small health bar above injured enemies"
+					},
+					"Translation":
+					{
+						"Text": "Показывать уровень здоровья над ранеными врагами"
+					},
+					"Key": "settings_display_enemy_hp_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show current play time"
+					},
+					"Translation":
+					{
+						"Text": "Показывать текущее время игры"
+					},
+					"Key": "settings_display_play_time_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show damage as a floating number on the screen"
+					},
+					"Translation":
+					{
+						"Text": "Показывать повреждения в виде всплывающих чисел на экране"
+					},
+					"Key": "settings_display_damage_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show voice lines as floating texts"
+					},
+					"Translation":
+					{
+						"Text": "Показывать текст диалогов как всплывающие тексты"
+					},
+					"Key": "settings_display_floating_vo_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sidenotes"
+					},
+					"Translation":
+					{
+						"Text": "Заметки"
+					},
+					"Key": "panel_notes"
+				},
+				{
+					"Source":
+					{
+						"Text": "Skip"
+					},
+					"Translation":
+					{
+						"Text": "Пропустить"
+					},
+					"Key": "skip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sleep"
+					},
+					"Translation":
+					{
+						"Text": "Поспать"
+					},
+					"Key": "panel_rest_option_sleep"
+				},
+				{
+					"Source":
+					{
+						"Text": "Smooths out the edges by blending the colors of the pixels around the object to create the illusion of smoothness."
+					},
+					"Translation":
+					{
+						"Text": "Сглаживает края, смешивая цвета пикселей вокруг объекта, создавая иллюзию гладкости."
+					},
+					"Key": "settings_antialising_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sound Effects volume"
+					},
+					"Translation":
+					{
+						"Text": "Громкость звуковых эффектов"
+					},
+					"Key": "settings_effects_volume"
+				},
+				{
+					"Source":
+					{
+						"Text": "Special Strike"
+					},
+					"Translation":
+					{
+						"Text": "Специальный Удар"
+					},
+					"Key": "input_strike_special"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spells"
+					},
+					"Translation":
+					{
+						"Text": "Заклинания"
+					},
+					"Key": "panel_spells"
+				},
+				{
+					"Source":
+					{
+						"Text": "Start"
+					},
+					"Translation":
+					{
+						"Text": "Старт"
+					},
+					"Key": "start"
+				},
+				{
+					"Source":
+					{
+						"Text": "Start Game"
+					},
+					"Translation":
+					{
+						"Text": "Начать Игру"
+					},
+					"Key": "start_game"
+				},
+				{
+					"Source":
+					{
+						"Text": "Status"
+					},
+					"Translation":
+					{
+						"Text": "Статус"
+					},
+					"Key": "status"
+				},
+				{
+					"Source":
+					{
+						"Text": "Surfaces of the game world will increase in fidelity if the setting is higher."
+					},
+					"Translation":
+					{
+						"Text": "Поверхности игрового мира будут более точными, если значение параметра выше."
+					},
+					"Key": "settings_textures_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Switch"
+					},
+					"Translation":
+					{
+						"Text": "Switch"
+					},
+					"Key": "console_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Synchronize the game refresh rate with the monitor refresh rate. Disable it for higher framerate and better input response.\nWhen enabled it prevents screen tearing."
+					},
+					"Translation":
+					{
+						"Text": "Синхронизация частоты обновления игры с частотой обновления экрана. Отключите ее для более высокой частоты кадров и лучшей загрузки.\nПри включении предотвращает разрыв экрана."
+					},
+					"Key": "settings_vsync_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "THANK YOU FOR PLAYING WARRIORB DEMO PROLOGUE, WE HOPE YOU HAD A GREAT TIME!"
+					},
+					"Translation":
+					{
+						"Text": "СПАСИБО ЗА ТО, ЧТО ИГРАЛИ В ДЕМО-ПРОЛОГ WARRIORB, НАДЕЕМСЯ, ВЫ ОТЛИЧНО ПРОВЕЛИ ВРЕМЯ!"
+					},
+					"Key": "thank_you_prologue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Weapon Away"
+					},
+					"Translation":
+					{
+						"Text": "Убрать Оружие"
+					},
+					"Key": "input_take_weapon"
+				},
+				{
+					"Source":
+					{
+						"Text": "Teleport To Checkpoint"
+					},
+					"Translation":
+					{
+						"Text": "Телепорт на Чекпоинт"
+					},
+					"Key": "teleport_to_cp"
+				},
+				{
+					"Source":
+					{
+						"Text": "Teleport To SoulKeeper"
+					},
+					"Translation":
+					{
+						"Text": "Телепорт к Хранителю Душ"
+					},
+					"Key": "teleport_to_sk"
+				},
+				{
+					"Source":
+					{
+						"Text": "Texture Quality"
+					},
+					"Translation":
+					{
+						"Text": "Качество текстуры"
+					},
+					"Key": "settings_textures"
+				},
+				{
+					"Source":
+					{
+						"Text": "The desired resolution to use when rendering the game. It does not affect the UI.\nLowering it improves performance on lower end machines."
+					},
+					"Translation":
+					{
+						"Text": "Желаемое разрешение для использования при рендеринге игры. Оно не влияет на пользовательский интерфейс.\nПонижение его улучшает производительность на более слабых компьютерах."
+					},
+					"Key": "settings_resolution_scale_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "The higher the quality the finer the shadow."
+					},
+					"Translation":
+					{
+						"Text": "Чем выше качество, тем тоньше тень."
+					},
+					"Key": "settings_shadows_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "The path ahead is challenging. Do not despise failure. Every wrong attempt discarded is another step forward."
+					},
+					"Translation":
+					{
+						"Text": "Впереди трудный путь. Не стоит презирать неудачи. Каждая неверная попытка - это еще один шаг вперед."
+					},
+					"Key": "encourage_line1"
+				},
+				{
+					"Source":
+					{
+						"Text": "The trader is not interested in buying that item from you!"
+					},
+					"Translation":
+					{
+						"Text": "Торговец не заинтересован в покупке этого предмета!"
+					},
+					"Key": "trade_no_intrested"
+				},
+				{
+					"Source":
+					{
+						"Text": "The way the game is meant to be played"
+					},
+					"Translation":
+					{
+						"Text": "Так, как должна быть сыграна игра"
+					},
+					"Key": "difficulty_desc_intended"
+				},
+				{
+					"Source":
+					{
+						"Text": "These are not used to identify individuals, but help us to understand players needs to improve our game."
+					},
+					"Translation":
+					{
+						"Text": "Они не используются для идентификации личности, но помогают нам понять потребности игроков для улучшения нашей игры."
+					},
+					"Key": "settings_collect_analytics_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "This choice is permanent"
+					},
+					"Translation":
+					{
+						"Text": "Данный выбор будет необратим"
+					},
+					"Key": "difficulty_confirm_subtext"
+				},
+				{
+					"Source":
+					{
+						"Text": "This is a loading screen. We wait a few seconds here to look more professional."
+					},
+					"Translation":
+					{
+						"Text": "Это экран загрузки. Чтобы выглядеть более профессионально, мы подождем здесь несколько секунд."
+					},
+					"Key": "loading_screen_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Total Deaths"
+					},
+					"Translation":
+					{
+						"Text": "Всего смертей"
+					},
+					"Key": "total_deaths"
+				},
+				{
+					"Source":
+					{
+						"Text": "Twitter"
+					},
+					"Translation":
+					{
+						"Text": "Twitter"
+					},
+					"Key": "twitter"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Action Back"
+					},
+					"Translation":
+					{
+						"Text": "Команда Назад"
+					},
+					"Key": "input_action_back"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Action First"
+					},
+					"Translation":
+					{
+						"Text": "Первая Команда"
+					},
+					"Key": "input_action_first"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Action Second"
+					},
+					"Translation":
+					{
+						"Text": "Вторая Команда"
+					},
+					"Key": "input_action_second"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Action Third"
+					},
+					"Translation":
+					{
+						"Text": "Третья Команда"
+					},
+					"Key": "input_action_third"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Move Down"
+					},
+					"Translation":
+					{
+						"Text": "Движение Вниз"
+					},
+					"Key": "input_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Move Up"
+					},
+					"Translation":
+					{
+						"Text": "Движение Вверх"
+					},
+					"Key": "input_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Down"
+					},
+					"Translation":
+					{
+						"Text": "Заклинание Вниз"
+					},
+					"Key": "input_spell_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Left"
+					},
+					"Translation":
+					{
+						"Text": "Заклинание Слева"
+					},
+					"Key": "input_spell_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Right"
+					},
+					"Translation":
+					{
+						"Text": "Заклинание Вправо"
+					},
+					"Key": "input_spell_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Select"
+					},
+					"Translation":
+					{
+						"Text": "Выбрать Заклинание"
+					},
+					"Key": "input_spell_select"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Select & Cast"
+					},
+					"Translation":
+					{
+						"Text": "Выбрать Заклинание & Заколдовать"
+					},
+					"Key": "input_spell_select_and_cast"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Up"
+					},
+					"Translation":
+					{
+						"Text": "Заклинание Вверх"
+					},
+					"Key": "input_spell_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Top Left"
+					},
+					"Translation":
+					{
+						"Text": "Вверху Слева"
+					},
+					"Key": "input_top_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Top Right"
+					},
+					"Translation":
+					{
+						"Text": "Верху Справа"
+					},
+					"Key": "input_top_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "UNKNOWN"
+					},
+					"Translation":
+					{
+						"Text": "Неизвестный"
+					},
+					"Key": "unknown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unbound"
+					},
+					"Translation":
+					{
+						"Text": "Заменить"
+					},
+					"Key": "input_unbound"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unequip"
+					},
+					"Translation":
+					{
+						"Text": "Снять"
+					},
+					"Key": "panel_command_inv_unequip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unknown"
+					},
+					"Translation":
+					{
+						"Text": "Неизвестный"
+					},
+					"Key": "settings_unknown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unlimited"
+					},
+					"Translation":
+					{
+						"Text": "Неограниченный"
+					},
+					"Key": "settings_fps_unlimited"
+				},
+				{
+					"Source":
+					{
+						"Text": "Up Button"
+					},
+					"Translation":
+					{
+						"Text": "кнопка Вверх"
+					},
+					"Key": "Switch_special_dpad_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "Usage Statistics"
+					},
+					"Translation":
+					{
+						"Text": "Статистика использования"
+					},
+					"Key": "stats_usage_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Item"
+					},
+					"Translation":
+					{
+						"Text": "Использовать предмет"
+					},
+					"Key": "input_use_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Vertical Sync"
+					},
+					"Translation":
+					{
+						"Text": "Вертикальная синхронизация"
+					},
+					"Key": "settings_vsync"
+				},
+				{
+					"Source":
+					{
+						"Text": "Vibration"
+					},
+					"Translation":
+					{
+						"Text": "Вибрация"
+					},
+					"Key": "settings_gamepad_vibration"
+				},
+				{
+					"Source":
+					{
+						"Text": "View button"
+					},
+					"Translation":
+					{
+						"Text": "Кнопка \"Просмотр\""
+					},
+					"Key": "gamepad_special_left_xbox"
+				},
+				{
+					"Source":
+					{
+						"Text": "Volumetric Fog"
+					},
+					"Translation":
+					{
+						"Text": "Объемный туман"
+					},
+					"Key": "settings_volumetric_fog"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wake Up"
+					},
+					"Translation":
+					{
+						"Text": "Проснуться"
+					},
+					"Key": "panel_rest_option_wake_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "WarriOrb"
+					},
+					"Translation":
+					{
+						"Text": "WarriOrb"
+					},
+					"Key": "warriorb"
+				},
+				{
+					"Source":
+					{
+						"Text": "WarriOrb DRM"
+					},
+					"Translation":
+					{
+						"Text": "WarriOrb ДРМ"
+					},
+					"Key": "drm_defeatead_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "We suspect that you play a pirated copy of the game.\nIt's fine. We hope you will enjoy it!\n\nIf you like the game, please tell your friends about it, and maybe even consider buying it.\n\nWe would love to keep making games!"
+					},
+					"Translation":
+					{
+						"Text": "Мы подозреваем, что Вы играете в пиратскую копию игры.\nЭто не проблема. Мы надеемся, вам понравится!\n\n Если Вам понравилась игра, расскажите об этом друзьям и, может быть подумайте о ее покупке.\n\n Мы хотели бы продолжить создавать игры!"
+					},
+					"Key": "drm_defeatead_description"
+				},
+				{
+					"Source":
+					{
+						"Text": "Windowed"
+					},
+					"Translation":
+					{
+						"Text": "Оконный"
+					},
+					"Key": "settings_windowed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wishlist"
+					},
+					"Translation":
+					{
+						"Text": "В Желаемое"
+					},
+					"Key": "steam_main_game"
+				},
+				{
+					"Source":
+					{
+						"Text": "X Button"
+					},
+					"Translation":
+					{
+						"Text": "кнопка X"
+					},
+					"Key": "Switch_FaceButton_Top"
+				},
+				{
+					"Source":
+					{
+						"Text": "XBox One"
+					},
+					"Translation":
+					{
+						"Text": "XBox One"
+					},
+					"Key": "console_xbox_one"
+				},
+				{
+					"Source":
+					{
+						"Text": "XP"
+					},
+					"Translation":
+					{
+						"Text": "XP"
+					},
+					"Key": "xp"
+				},
+				{
+					"Source":
+					{
+						"Text": "Y Button"
+					},
+					"Translation":
+					{
+						"Text": "кнопка Y"
+					},
+					"Key": "Switch_FaceButton_Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Yes"
+					},
+					"Translation":
+					{
+						"Text": "Да"
+					},
+					"Key": "yes"
+				},
+				{
+					"Source":
+					{
+						"Text": "You can only change the equipped spells near ancient statues."
+					},
+					"Translation":
+					{
+						"Text": "Сменить заклинания можно только у древних статуй."
+					},
+					"Key": "panel_spell_selection_denied"
+				},
+				{
+					"Source":
+					{
+						"Text": "You don't have the necessary item to use spells!"
+					},
+					"Translation":
+					{
+						"Text": "У тебя нет необходимого предмета для использования заклинаний!"
+					},
+					"Key": "panel_rest_no_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Your progress is saved automatically whenever this icon is displayed"
+					},
+					"Translation":
+					{
+						"Text": "Ваш прогресс сохраняется автоматически всякий раз, когда отображается этот значок"
+					},
+					"Key": "progress_saved_automatically"
+				},
+				{
+					"Source":
+					{
+						"Text": "ZL Button"
+					},
+					"Translation":
+					{
+						"Text": "кнопка ZL"
+					},
+					"Key": "Switch_Trigger_Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "ZR Button"
+					},
+					"Translation":
+					{
+						"Text": "кнопка ZR"
+					},
+					"Key": "Switch_Trigger_Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "[Empty Button]"
+					},
+					"Translation":
+					{
+						"Text": "[Пустая кнопка]"
+					},
+					"Key": "key_selection_empty"
+				},
+				{
+					"Source":
+					{
+						"Text": "[Press Button]"
+					},
+					"Translation":
+					{
+						"Text": "[Нажмите кнопку]"
+					},
+					"Key": "key_selection_press"
+				},
+				{
+					"Source":
+					{
+						"Text": "seconds"
+					},
+					"Translation":
+					{
+						"Text": "секунды"
+					},
+					"Key": "seconds"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} H {1} M"
+					},
+					"Translation":
+					{
+						"Text": "{0} В {1} M"
+					},
+					"Key": "save_slots_playtime"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} M"
+					},
+					"Translation":
+					{
+						"Text": "{0} M"
+					},
+					"Key": "save_slots_playtime_short"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} for {1} gold"
+					},
+					"Translation":
+					{
+						"Text": "{0} за {1} золота"
+					},
+					"Key": "trade_amount_x_x"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} sec"
+					},
+					"Translation":
+					{
+						"Text": "{0} секунд"
+					},
+					"Key": "inventory_item_tooltip_sec"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0}%"
+					},
+					"Translation":
+					{
+						"Text": "{0}%"
+					},
+					"Key": "percentage_argument"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0}x{1}"
+					},
+					"Translation":
+					{
+						"Text": "{0}x{1}"
+					},
+					"Key": "settings_resolution_entry"
+				}
+			]
+		}
+	]
+}

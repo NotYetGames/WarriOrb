@@ -1,0 +1,104 @@
+Key,SourceString,Comment
+white_wall,White Wall,
+ruined_realm,Ruined Realm,
+act1_loading,"You are a Mighty Spirit from the Unknown Realm. You were torn away from your home by a pathetic mortal Wizard. After a magical accident your essence is bound to an unlikely body. Find a way out of your ball-body prison!",
+act2_loading,Reaching Crossroad Cave you are a step closer to the Three Artifacts - and to freedom.,
+act3_loading,Finding the Three Artifacts required all your skills and strength. You hope that delivering them to the Wizard will be less difficult.,
+ending_loading,"Finally! You did your part of the deal, now it's the Wizard's turn to get you back home.",
+grey_gate,Grey Gate,name of an area
+sunken_sewer,Sunken Sewer,name of an area
+ancient_arcade,Ancient Arcade,name of an area
+cerulean_city,Cerulean City,name of an area
+crossroad_cave,Crossroad Cave,name of an area
+obedient_outpost,Obedient Outpost,name of an area
+dwarven_dungeons,Dwarven Dungeons,name of an area
+hallowed_heart,Hallowed Heart,"name of an area, Hallowed as in made holy; consecrated."
+remnant_road,Remnant Road,name of an area
+lava_lair,Lava Lair,name of an area
+snake_slide,Snake Slide,name of an area
+wracked_waters,Wracked Waters,name of an area
+bubble_border,Bubble Border,name of an area
+last_land,Last Land,name of an area
+portal_place,Portal Place,name of an area
+chasm_chamber,Chasm Chamber,name of an area
+lost_land,Lost Land,name of an area
+perfect_palace,Perfect Palace,name of an area
+darkest_dungeon,Darkest Dungeon,name of an area
+act_1,Act I,text displayed on black screen the first time a chapter is started
+act_2,Act II,text displayed on black screen the first time a chapter is started
+act_3,Act III,text displayed on black screen the first time a chapter is started
+epilogue,Epilogue,text displayed on black screen the first time a chapter is started
+prologue,Prologue,text displayed on black screen the first time a chapter is started
+progress_act1_start,Lost in Ruin,progress info on save slots
+progress_act1_tut1,Am I Worthy?,progress info on save slots
+progress_act1_arcade1,Remnants of a Realm,progress info on save slots
+progress_act1_tut2,Sewer again,progress info on save slots
+progress_act1_arcade2,Discovering Ancient Technology,progress info on save slots
+progress_act1_tut3,Third time Worthy,progress info on save slots
+progress_act1_before_raven,Searching for a way out,progress info on save slots
+progress_act1_gem,Looking for a Gem,progress info on save slots
+progress_act1_infuse,Infusing the Gem,progress info on save slots
+progress_act1_test_stone,Bouncing Stones,progress info on save slots
+progress_act1_portals,Looking for a Portal,progress info on save slots
+progress_act1_boss_fight,Facing the Keeper,progress info on save slots
+progress_act2_crossroad,At a crossroad,progress info on save slots in act 2
+progress_act2_dwarf_0,Into the Blue,progress info on save slots in act 2
+progress_act2_dwarf_1,Elevator Gem and Key,progress info on save slots in act 2
+progress_act2_dwarf_2,Opening the Gate,progress info on save slots in act 2
+progress_act2_dwarf_boss,Dwarven Statue,progress info on save slots in act 2
+progress_act2_lava_0,Into the Red,progress info on save slots in act 2
+progress_act2_lava_1,Uniting Key Pieces,progress info on save slots in act 2
+progress_act2_lava_2,Climbing the Tower,progress info on save slots in act 2
+progress_act2_lava_boss,Armour Wrath,progress info on save slots in act 2
+progress_act2_ww_0,Into the Green,progress info on save slots in act 2
+progress_act2_ww_1,Through the Lake,progress info on save slots in act 2
+progress_act2_ww_2,Being Followed,progress info on save slots in act 2
+progress_act2_ww_boss,Fallen Druid,progress info on save slots in act 2
+progress_act2_end,To the Fourth Station,progress info on save slots in act 2
+progress_act3_start,Lost in the Caves,progress info on save slots in act 3
+progress_act3_pipes,Moving Pipes,progress info on save slots in act 3
+progress_act3_floating,Floating,progress info on save slots in act 3
+progress_act3_monk,Monk's Home,progress info on save slots in act 3
+progress_act3_way_out,Way out of the Realm,progress info on save slots in act 3
+progress_epilogue_castle,Wizard's Castle,progress info on save slots in epilogue
+progress_epilogue_boss,The Real Demon,progress info on save slots in epilogue
+progress_epilogue_past_and_future,Past and Future,progress info on save slots in epilogue
+progress_epilogue_save_creatures,Chance for everyone,progress info on save slots in epilogue
+progress_epilogue_separate_worlds,Separated Worlds,progress info on save slots in epilogue
+loading_tip_act1_0,"In Ball form you go faster.", loading screen tip for act 1
+loading_tip_act1_1,"In Ball form you bounce back when you hit a surface.", loading screen tip for act 1
+loading_tip_act1_2,"Each weapon has its own unique special strike.", loading screen tip for act 1
+loading_tip_act1_3,"Most of the people died after Ruin happened, but there are still some survivors.", loading screen tip for act 1
+loading_tip_act1_4,"Some items can’t be used but merchants still like to buy them.", loading screen tip for act 1
+loading_tip_act1_5,"There are many keys, and when I say many, I mean it.", loading screen tip for act 1
+loading_tip_act1_6,"When you find an item it would make sense to check what it is, wouldn’t it?", loading screen tip for act 1
+loading_tip_act1_7,"Spells can make combat easier.", loading screen tip for act 1
+loading_tip_act1_8,"Dying often is absolutely normal. If you don’t die a lot, you are doing something wrong.", loading screen tip for act 1
+loading_tip_act1_9,"You can always check the Sidenotes in your Inventory to see if you have any side quests.", loading screen tip for act 1
+loading_tip_act2_0,"Using the Railway can shorten your journey.", loading screen tip for act 2
+loading_tip_act2_1,"We’ll try to make our next game without any loading screens, we promise...", loading screen tip for act 2
+loading_tip_act2_2,"Choosing the right weapon against a Boss will make your life easier.", loading screen tip for act 2
+loading_tip_act2_3,"Don’t forget to use the Soulkeeper!", loading screen tip for act 2
+loading_tip_act2_4,"Finding the Artefacts might be hard, but this is your only chance to get out.", loading screen tip for act 2
+loading_tip_act2_5,"Talk to any Survivor if you can. They might be able to help you.", loading screen tip for act 2
+loading_tip_act2_6,"If you find an area too difficult you can always go to another area first.", loading screen tip for act 2
+loading_tip_act2_7,"Don’t forget to spend your gold! (Ad sponsored by Gnory)", loading screen tip for act 2
+loading_tip_act2_8,"Equipping the right items will make the combat easier.", loading screen tip for act 2
+loading_tip_act2_9,"If you manage to defeat every member of a group you won’t have to fight them ever again.", loading screen tip for act 2
+loading_tip_act3_0,"Using the Railway can also make your Journey longer.", loading screen tip for act 3
+loading_tip_act3_1,"If you got this far, you surely know everything now.", loading screen tip for act 3
+loading_tip_act3_2,"Loading screen tips are very useful - except in a few cases.", loading screen tip for act 3
+loading_tip_act3_3,"Now is your time to think about the fate of the Ruined Realm.", loading screen tip for act 3
+loading_tip_act3_4,"The End is near... I mean no loading screen can take forever, right?", loading screen tip for act 3
+loading_tip_act3_5,"Now your only task is to bring the Artefacts to Wizard.", loading screen tip for act 3
+loading_tip_act3_6,"If you find a combat too hard try to use different shards, spells, and weapons.", loading screen tip for act 3
+loading_tip_act3_7,"Don’t give up! Victory is close.", loading screen tip for act 3
+loading_tip_end_0,"The Human Realm is a weird place...", loading screen tip for epilogue
+loading_tip_end_1,"You really did your part of the deal, now it’s time to go home!", loading screen tip for epilogue
+loading_tip_end_2,"Should you care about the fate of the Realms?", loading screen tip for epilogue
+loading_tip_end_3,"Looks like it’s always you who has to take care of the mess others left behind.", loading screen tip for epilogue
+loading_tip_end_4,"Time to finish what you started. One way or another.", loading screen tip for epilogue
+intro_subtitle_0,"I wish I could just... turn back time to undo what I have done.", intro subtitle line 1
+intro_subtitle_1,"However the past is behind us", intro subtitle line 01
+intro_subtitle_2,"and all I can change now", intro subtitle line 2
+intro_subtitle_3,"is the future.", intro subtitle line 3

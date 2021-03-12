@@ -1,0 +1,10678 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "Areas",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Act I"
+					},
+					"Translation":
+					{
+						"Text": "第一章"
+					},
+					"Key": "act_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Act II"
+					},
+					"Translation":
+					{
+						"Text": "第二章"
+					},
+					"Key": "act_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Act III"
+					},
+					"Translation":
+					{
+						"Text": "第三章"
+					},
+					"Key": "act_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Am I Worthy?"
+					},
+					"Translation":
+					{
+						"Text": "值得吗?"
+					},
+					"Key": "progress_act1_tut1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ancient Arcade"
+					},
+					"Translation":
+					{
+						"Text": "古代回廊"
+					},
+					"Key": "ancient_arcade"
+				},
+				{
+					"Source":
+					{
+						"Text": "Armour Wrath"
+					},
+					"Translation":
+					{
+						"Text": "铠甲之怒"
+					},
+					"Key": "progress_act2_lava_boss"
+				},
+				{
+					"Source":
+					{
+						"Text": "At a crossroad"
+					},
+					"Translation":
+					{
+						"Text": "在十字路口"
+					},
+					"Key": "progress_act2_crossroad"
+				},
+				{
+					"Source":
+					{
+						"Text": "Being Followed"
+					},
+					"Translation":
+					{
+						"Text": "被跟踪了"
+					},
+					"Key": "progress_act2_ww_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bouncing Stones"
+					},
+					"Translation":
+					{
+						"Text": "跳石"
+					},
+					"Key": "progress_act1_test_stone"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bubble Border"
+					},
+					"Translation":
+					{
+						"Text": "泡沫边境"
+					},
+					"Key": "bubble_border"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cerulean City"
+					},
+					"Translation":
+					{
+						"Text": "蔚蓝之城"
+					},
+					"Key": "cerulean_city"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chance for everyone"
+					},
+					"Translation":
+					{
+						"Text": "人人都有机会"
+					},
+					"Key": "progress_epilogue_save_creatures"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chasm Chamber"
+					},
+					"Translation":
+					{
+						"Text": "裂痕之间"
+					},
+					"Key": "chasm_chamber"
+				},
+				{
+					"Source":
+					{
+						"Text": "Choosing the right weapon against a Boss will make your life easier."
+					},
+					"Translation":
+					{
+						"Text": "选择正确的武器对付BOSS会让你的生活变得更容易。"
+					},
+					"Key": "loading_tip_act2_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Climbing the Tower"
+					},
+					"Translation":
+					{
+						"Text": "爬塔"
+					},
+					"Key": "progress_act2_lava_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Crossroad Cave"
+					},
+					"Translation":
+					{
+						"Text": "十字洞穴"
+					},
+					"Key": "crossroad_cave"
+				},
+				{
+					"Source":
+					{
+						"Text": "Darkest Dungeon"
+					},
+					"Translation":
+					{
+						"Text": "黑暗地牢"
+					},
+					"Key": "darkest_dungeon"
+				},
+				{
+					"Source":
+					{
+						"Text": "Discovering Ancient Technology"
+					},
+					"Translation":
+					{
+						"Text": "发现古老科技"
+					},
+					"Key": "progress_act1_arcade2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don’t forget to spend your gold! (Ad sponsored by Gnory)"
+					},
+					"Translation":
+					{
+						"Text": "别忘了花光你的金子!(此条由格诺里赞助)"
+					},
+					"Key": "loading_tip_act2_7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don’t forget to use the Soulkeeper!"
+					},
+					"Translation":
+					{
+						"Text": "别忘了使用灵魂守护者!"
+					},
+					"Key": "loading_tip_act2_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don’t give up! Victory is close."
+					},
+					"Translation":
+					{
+						"Text": "别放弃!胜利近在眼前。"
+					},
+					"Key": "loading_tip_act3_7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarven Dungeons"
+					},
+					"Translation":
+					{
+						"Text": "矮人地城"
+					},
+					"Key": "dwarven_dungeons"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarven Statue"
+					},
+					"Translation":
+					{
+						"Text": "矮人雕像"
+					},
+					"Key": "progress_act2_dwarf_boss"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dying often is absolutely normal. If you don’t die a lot, you are doing something wrong."
+					},
+					"Translation":
+					{
+						"Text": "死亡是绝对正常的。如果你死得不多，那你一定是某个地方做错了。"
+					},
+					"Key": "loading_tip_act1_8"
+				},
+				{
+					"Source":
+					{
+						"Text": "Each weapon has its own unique special strike."
+					},
+					"Translation":
+					{
+						"Text": "每种武器都有自己独特的打击方式。"
+					},
+					"Key": "loading_tip_act1_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Elevator Gem and Key"
+					},
+					"Translation":
+					{
+						"Text": "宝石与钥匙"
+					},
+					"Key": "progress_act2_dwarf_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Epilogue"
+					},
+					"Translation":
+					{
+						"Text": "后记"
+					},
+					"Key": "epilogue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Equipping the right items will make the combat easier."
+					},
+					"Translation":
+					{
+						"Text": "装备正确的物品将使战斗更容易。"
+					},
+					"Key": "loading_tip_act2_8"
+				},
+				{
+					"Source":
+					{
+						"Text": "Facing the Keeper"
+					},
+					"Translation":
+					{
+						"Text": "面对守护者"
+					},
+					"Key": "progress_act1_boss_fight"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fallen Druid"
+					},
+					"Translation":
+					{
+						"Text": "堕落的德鲁伊"
+					},
+					"Key": "progress_act2_ww_boss"
+				},
+				{
+					"Source":
+					{
+						"Text": "Finally! You did your part of the deal, now it's the Wizard's turn to get you back home."
+					},
+					"Translation":
+					{
+						"Text": "终于!你完成了你的任务，现在轮到巫师带你回家了。"
+					},
+					"Key": "ending_loading"
+				},
+				{
+					"Source":
+					{
+						"Text": "Finding the Artefacts might be hard, but this is your only chance to get out."
+					},
+					"Translation":
+					{
+						"Text": "找到这些工艺品会很艰难，但这是你唯一的机会。"
+					},
+					"Key": "loading_tip_act2_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Finding the Three Artifacts required all your skills and strength. You hope that delivering them to the Wizard will be less difficult."
+					},
+					"Translation":
+					{
+						"Text": "找到这三件工艺品需要实力和技能。你希望完成这件事不会太困难。"
+					},
+					"Key": "act3_loading"
+				},
+				{
+					"Source":
+					{
+						"Text": "Floating"
+					},
+					"Translation":
+					{
+						"Text": "漂浮"
+					},
+					"Key": "progress_act3_floating"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grey Gate"
+					},
+					"Translation":
+					{
+						"Text": "灰暗之门"
+					},
+					"Key": "grey_gate"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hallowed Heart"
+					},
+					"Translation":
+					{
+						"Text": "神圣之心"
+					},
+					"Key": "hallowed_heart"
+				},
+				{
+					"Source":
+					{
+						"Text": "However the past is behind us"
+					},
+					"Translation":
+					{
+						"Text": "但是过去已经过去了"
+					},
+					"Key": "intro_subtitle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I wish I could just... turn back time to undo what I have done."
+					},
+					"Translation":
+					{
+						"Text": "我希望我能…让时间倒流，来撤销我所做的一切。"
+					},
+					"Key": "intro_subtitle_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "If you find a combat too hard try to use different shards, spells, and weapons."
+					},
+					"Translation":
+					{
+						"Text": "如果你觉得战斗太困难，尝试使用不同的碎片，法术和武器。"
+					},
+					"Key": "loading_tip_act3_6"
+				},
+				{
+					"Source":
+					{
+						"Text": "If you find an area too difficult you can always go to another area first."
+					},
+					"Translation":
+					{
+						"Text": "如果你发现一个地方太难，可以先去另一个地方试试。"
+					},
+					"Key": "loading_tip_act2_6"
+				},
+				{
+					"Source":
+					{
+						"Text": "If you got this far, you surely know everything now."
+					},
+					"Translation":
+					{
+						"Text": "你走过的路越远，你知道的东西越多。"
+					},
+					"Key": "loading_tip_act3_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "If you manage to defeat every member of a group you won’t have to fight them ever again."
+					},
+					"Translation":
+					{
+						"Text": "如果你能打败团队中的每一个成员，你就不用再和他们战斗了。"
+					},
+					"Key": "loading_tip_act2_9"
+				},
+				{
+					"Source":
+					{
+						"Text": "In Ball form you bounce back when you hit a surface."
+					},
+					"Translation":
+					{
+						"Text": "当你以球形态碰撞一个地面或墙面时，会反弹回来。"
+					},
+					"Key": "loading_tip_act1_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "In Ball form you go faster."
+					},
+					"Translation":
+					{
+						"Text": "球形态会使你跑得更快。"
+					},
+					"Key": "loading_tip_act1_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Infusing the Gem"
+					},
+					"Translation":
+					{
+						"Text": "充能宝石"
+					},
+					"Key": "progress_act1_infuse"
+				},
+				{
+					"Source":
+					{
+						"Text": "Into the Blue"
+					},
+					"Translation":
+					{
+						"Text": "深入蔚蓝"
+					},
+					"Key": "progress_act2_dwarf_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Into the Green"
+					},
+					"Translation":
+					{
+						"Text": "深入翠绿"
+					},
+					"Key": "progress_act2_ww_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Into the Red"
+					},
+					"Translation":
+					{
+						"Text": "深入猩红"
+					},
+					"Key": "progress_act2_lava_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Last Land"
+					},
+					"Translation":
+					{
+						"Text": "最后的土地"
+					},
+					"Key": "last_land"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lava Lair"
+					},
+					"Translation":
+					{
+						"Text": "熔岩巢穴"
+					},
+					"Key": "lava_lair"
+				},
+				{
+					"Source":
+					{
+						"Text": "Loading screen tips are very useful - except in a few cases."
+					},
+					"Translation":
+					{
+						"Text": "游戏加载时候的小贴士都是非常有用的-除了少部分..."
+					},
+					"Key": "loading_tip_act3_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Looking for a Gem"
+					},
+					"Translation":
+					{
+						"Text": "寻找宝石"
+					},
+					"Key": "progress_act1_gem"
+				},
+				{
+					"Source":
+					{
+						"Text": "Looking for a Portal"
+					},
+					"Translation":
+					{
+						"Text": "寻找传送门"
+					},
+					"Key": "progress_act1_portals"
+				},
+				{
+					"Source":
+					{
+						"Text": "Looks like it’s always you who has to take care of the mess others left behind."
+					},
+					"Translation":
+					{
+						"Text": "看起来总是你来收拾别人留下的烂摊子。"
+					},
+					"Key": "loading_tip_end_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lost Land"
+					},
+					"Translation":
+					{
+						"Text": "失落之地"
+					},
+					"Key": "lost_land"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lost in Ruin"
+					},
+					"Translation":
+					{
+						"Text": "迷失之墟"
+					},
+					"Key": "progress_act1_start"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lost in the Caves"
+					},
+					"Translation":
+					{
+						"Text": "迷失在洞穴"
+					},
+					"Key": "progress_act3_start"
+				},
+				{
+					"Source":
+					{
+						"Text": "Monk's Home"
+					},
+					"Translation":
+					{
+						"Text": "修道士之家"
+					},
+					"Key": "progress_act3_monk"
+				},
+				{
+					"Source":
+					{
+						"Text": "Most of the people died after Ruin happened, but there are still some survivors."
+					},
+					"Translation":
+					{
+						"Text": "虽然有些人在废墟中死去，但仍有一些幸存者。"
+					},
+					"Key": "loading_tip_act1_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Moving Pipes"
+					},
+					"Translation":
+					{
+						"Text": "移动管道"
+					},
+					"Key": "progress_act3_pipes"
+				},
+				{
+					"Source":
+					{
+						"Text": "Now is your time to think about the fate of the Ruined Realm."
+					},
+					"Translation":
+					{
+						"Text": "现在是你们思考这片废墟命运的时候了。"
+					},
+					"Key": "loading_tip_act3_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Now your only task is to bring the Artefacts to Wizard."
+					},
+					"Translation":
+					{
+						"Text": "现在你唯一的任务就是把这些古代工艺品带给巫师。"
+					},
+					"Key": "loading_tip_act3_5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Obedient Outpost"
+					},
+					"Translation":
+					{
+						"Text": "前哨"
+					},
+					"Key": "obedient_outpost"
+				},
+				{
+					"Source":
+					{
+						"Text": "Opening the Gate"
+					},
+					"Translation":
+					{
+						"Text": "开门"
+					},
+					"Key": "progress_act2_dwarf_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Past and Future"
+					},
+					"Translation":
+					{
+						"Text": "过去和未来"
+					},
+					"Key": "progress_epilogue_past_and_future"
+				},
+				{
+					"Source":
+					{
+						"Text": "Perfect Palace"
+					},
+					"Translation":
+					{
+						"Text": "完美宫殿"
+					},
+					"Key": "perfect_palace"
+				},
+				{
+					"Source":
+					{
+						"Text": "Portal Place"
+					},
+					"Translation":
+					{
+						"Text": "传送门"
+					},
+					"Key": "portal_place"
+				},
+				{
+					"Source":
+					{
+						"Text": "Prologue"
+					},
+					"Translation":
+					{
+						"Text": "序章"
+					},
+					"Key": "prologue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reaching Crossroad Cave you are a step closer to the Three Artifacts - and to freedom."
+					},
+					"Translation":
+					{
+						"Text": "到达十字路口的洞穴意味着离这三件古物又近了一步——也离自由更近了一步。"
+					},
+					"Key": "act2_loading"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remnant Road"
+					},
+					"Translation":
+					{
+						"Text": "残路"
+					},
+					"Key": "remnant_road"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remnants of a Realm"
+					},
+					"Translation":
+					{
+						"Text": "王国遗迹"
+					},
+					"Key": "progress_act1_arcade1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruined Realm"
+					},
+					"Translation":
+					{
+						"Text": "荒废领域"
+					},
+					"Key": "ruined_realm"
+				},
+				{
+					"Source":
+					{
+						"Text": "Searching for a way out"
+					},
+					"Translation":
+					{
+						"Text": "寻找出路"
+					},
+					"Key": "progress_act1_before_raven"
+				},
+				{
+					"Source":
+					{
+						"Text": "Separated Worlds"
+					},
+					"Translation":
+					{
+						"Text": "分离的世界"
+					},
+					"Key": "progress_epilogue_separate_worlds"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sewer again"
+					},
+					"Translation":
+					{
+						"Text": "又见下水道"
+					},
+					"Key": "progress_act1_tut2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Should you care about the fate of the Realms?"
+					},
+					"Translation":
+					{
+						"Text": "你应该关心王国的命运吗?"
+					},
+					"Key": "loading_tip_end_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Snake Slide"
+					},
+					"Translation":
+					{
+						"Text": "蛇形滑梯"
+					},
+					"Key": "snake_slide"
+				},
+				{
+					"Source":
+					{
+						"Text": "Some items can’t be used but merchants still like to buy them."
+					},
+					"Translation":
+					{
+						"Text": "有些物品虽然不能使用，但商人们喜欢收购它们。"
+					},
+					"Key": "loading_tip_act1_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spells can make combat easier."
+					},
+					"Translation":
+					{
+						"Text": "法术可以使战斗变得更容易。"
+					},
+					"Key": "loading_tip_act1_7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sunken Sewer"
+					},
+					"Translation":
+					{
+						"Text": "沉没的下水道"
+					},
+					"Key": "sunken_sewer"
+				},
+				{
+					"Source":
+					{
+						"Text": "Talk to any Survivor if you can. They might be able to help you."
+					},
+					"Translation":
+					{
+						"Text": "多和幸存者谈谈。他们也许能帮助你。"
+					},
+					"Key": "loading_tip_act2_5"
+				},
+				{
+					"Source":
+					{
+						"Text": "The End is near... I mean no loading screen can take forever, right?"
+					},
+					"Translation":
+					{
+						"Text": "快结束了……我的意思是加载画面没可能持续那么长时间的，对吧?"
+					},
+					"Key": "loading_tip_act3_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Human Realm is a weird place..."
+					},
+					"Translation":
+					{
+						"Text": "人类王国是个奇怪的地方……"
+					},
+					"Key": "loading_tip_end_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Real Demon"
+					},
+					"Translation":
+					{
+						"Text": "真正的恶魔"
+					},
+					"Key": "progress_epilogue_boss"
+				},
+				{
+					"Source":
+					{
+						"Text": "There are many keys, and when I say many, I mean it."
+					},
+					"Translation":
+					{
+						"Text": "钥匙数量很多，当我说很多的时候，我是认真的。"
+					},
+					"Key": "loading_tip_act1_5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Third time Worthy"
+					},
+					"Translation":
+					{
+						"Text": "第三次"
+					},
+					"Key": "progress_act1_tut3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Through the Lake"
+					},
+					"Translation":
+					{
+						"Text": "穿过湖泊"
+					},
+					"Key": "progress_act2_ww_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Time to finish what you started. One way or another."
+					},
+					"Translation":
+					{
+						"Text": "是时候完成你已经开始的事情了。不管怎样。"
+					},
+					"Key": "loading_tip_end_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "To the Fourth Station"
+					},
+					"Translation":
+					{
+						"Text": "第四站"
+					},
+					"Key": "progress_act2_end"
+				},
+				{
+					"Source":
+					{
+						"Text": "Uniting Key Pieces"
+					},
+					"Translation":
+					{
+						"Text": "关键部分"
+					},
+					"Key": "progress_act2_lava_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Using the Railway can also make your Journey longer."
+					},
+					"Translation":
+					{
+						"Text": "轨道交通也可能使你的旅程更长。"
+					},
+					"Key": "loading_tip_act3_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Using the Railway can shorten your journey."
+					},
+					"Translation":
+					{
+						"Text": "坐火车可以缩短你的路程。"
+					},
+					"Key": "loading_tip_act2_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Way out of the Realm"
+					},
+					"Translation":
+					{
+						"Text": "离开废墟的方式"
+					},
+					"Key": "progress_act3_way_out"
+				},
+				{
+					"Source":
+					{
+						"Text": "We’ll try to make our next game without any loading screens, we promise..."
+					},
+					"Translation":
+					{
+						"Text": "我们努力让我们的下一个游戏没有任何加载画面，保证……"
+					},
+					"Key": "loading_tip_act2_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "When you find an item it would make sense to check what it is, wouldn’t it?"
+					},
+					"Translation":
+					{
+						"Text": "每当你找到一样新的物品时，最好先看看是做什么用的!"
+					},
+					"Key": "loading_tip_act1_6"
+				},
+				{
+					"Source":
+					{
+						"Text": "White Wall"
+					},
+					"Translation":
+					{
+						"Text": "白色巨墙"
+					},
+					"Key": "white_wall"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wizard's Castle"
+					},
+					"Translation":
+					{
+						"Text": "巫师的城堡"
+					},
+					"Key": "progress_epilogue_castle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wracked Waters"
+					},
+					"Translation":
+					{
+						"Text": "废水"
+					},
+					"Key": "wracked_waters"
+				},
+				{
+					"Source":
+					{
+						"Text": "You are a Mighty Spirit from the Unknown Realm. You were torn away from your home by a pathetic mortal Wizard. After a magical accident your essence is bound to an unlikely body. Find a way out of your ball-body prison!"
+					},
+					"Translation":
+					{
+						"Text": "你是一个来自未知领域的强大灵魂。被一个卑微的家伙从家里带走。一次神奇的意外将你的灵魂被束缚在一个不可思议的躯体里。快想个办法将自己从这个球状的监狱里解脱出来!"
+					},
+					"Key": "act1_loading"
+				},
+				{
+					"Source":
+					{
+						"Text": "You can always check the Sidenotes in your Inventory to see if you have any side quests."
+					},
+					"Translation":
+					{
+						"Text": "时不时翻翻你包里的笔记本，看看是否有支线任务要完成。"
+					},
+					"Key": "loading_tip_act1_9"
+				},
+				{
+					"Source":
+					{
+						"Text": "You really did your part of the deal, now it’s time to go home!"
+					},
+					"Translation":
+					{
+						"Text": "你确实做了你该做的，现在该回家了!"
+					},
+					"Key": "loading_tip_end_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "and all I can change now"
+					},
+					"Translation":
+					{
+						"Text": "所有我能改变的"
+					},
+					"Key": "intro_subtitle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "is the future."
+					},
+					"Translation":
+					{
+						"Text": "只有未来。"
+					},
+					"Key": "intro_subtitle_3"
+				}
+			]
+		},
+		{
+			"Namespace": "Credits",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Made with FMOD Studio by Firelight Technologies Pty Ltd."
+					},
+					"Translation":
+					{
+						"Text": "由Firelight Technologies Pty Ltd与FMOD Studio合作制作。"
+					},
+					"Key": "credits_fmod"
+				}
+			]
+		},
+		{
+			"Namespace": "DateTimeHelper",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "April"
+					},
+					"Translation":
+					{
+						"Text": "四月"
+					},
+					"Key": "MonthApril"
+				},
+				{
+					"Source":
+					{
+						"Text": "August"
+					},
+					"Translation":
+					{
+						"Text": "八月"
+					},
+					"Key": "MonthAugust"
+				},
+				{
+					"Source":
+					{
+						"Text": "December"
+					},
+					"Translation":
+					{
+						"Text": "十二月"
+					},
+					"Key": "MonthDecember"
+				},
+				{
+					"Source":
+					{
+						"Text": "February"
+					},
+					"Translation":
+					{
+						"Text": "二月"
+					},
+					"Key": "MonthFebruary"
+				},
+				{
+					"Source":
+					{
+						"Text": "January"
+					},
+					"Translation":
+					{
+						"Text": "一月"
+					},
+					"Key": "MonthJanuary"
+				},
+				{
+					"Source":
+					{
+						"Text": "July"
+					},
+					"Translation":
+					{
+						"Text": "七月"
+					},
+					"Key": "MonthJuly"
+				},
+				{
+					"Source":
+					{
+						"Text": "June"
+					},
+					"Translation":
+					{
+						"Text": "六月"
+					},
+					"Key": "MonthJune"
+				},
+				{
+					"Source":
+					{
+						"Text": "March"
+					},
+					"Translation":
+					{
+						"Text": "三月"
+					},
+					"Key": "MonthMarch"
+				},
+				{
+					"Source":
+					{
+						"Text": "May"
+					},
+					"Translation":
+					{
+						"Text": "五月"
+					},
+					"Key": "MonthMay"
+				},
+				{
+					"Source":
+					{
+						"Text": "November"
+					},
+					"Translation":
+					{
+						"Text": "十一月"
+					},
+					"Key": "MonthNovember"
+				},
+				{
+					"Source":
+					{
+						"Text": "October"
+					},
+					"Translation":
+					{
+						"Text": "十月"
+					},
+					"Key": "MonthOctober"
+				},
+				{
+					"Source":
+					{
+						"Text": "September"
+					},
+					"Translation":
+					{
+						"Text": "九月"
+					},
+					"Key": "MonthSeptember"
+				},
+				{
+					"Source":
+					{
+						"Text": "{Hours}:{Minutes}:{Seconds}"
+					},
+					"Translation":
+					{
+						"Text": "{Hours}:{Minutes}:{Seconds}"
+					},
+					"Key": "SecondsToTimeMinusSeconds"
+				},
+				{
+					"Source":
+					{
+						"Text": "{Minutes}:{Seconds}"
+					},
+					"Translation":
+					{
+						"Text": "{Minutes}:{Seconds}"
+					},
+					"Key": "SecondsToTime"
+				}
+			]
+		},
+		{
+			"Namespace": "Dialogue",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Altar"
+					},
+					"Translation":
+					{
+						"Text": "圣塔"
+					},
+					"Key": "npc_altar"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ancient Gate"
+					},
+					"Translation":
+					{
+						"Text": "远古之门"
+					},
+					"Key": "npc_ancient_gate"
+				},
+				{
+					"Source":
+					{
+						"Text": "BALL-E"
+					},
+					"Translation":
+					{
+						"Text": "E球"
+					},
+					"Key": "char_name_ball_e"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bored Gnome"
+					},
+					"Translation":
+					{
+						"Text": "无聊的侏儒"
+					},
+					"Key": "npc_teachy_unkown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Demon Lillian"
+					},
+					"Translation":
+					{
+						"Text": "恶魔莉莉安"
+					},
+					"Key": "npc_demon_lillian"
+				},
+				{
+					"Source":
+					{
+						"Text": "Destroyer"
+					},
+					"Translation":
+					{
+						"Text": "毁灭者"
+					},
+					"Key": "char_name_destroyer"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don't buy"
+					},
+					"Translation":
+					{
+						"Text": "不买"
+					},
+					"Key": "char_name_dont_buy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dr. Ball"
+					},
+					"Translation":
+					{
+						"Text": "球先生"
+					},
+					"Key": "char_name_dr_ball"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarven Workshop"
+					},
+					"Translation":
+					{
+						"Text": "矮人工坊"
+					},
+					"Key": "npc_dwarven_workshop"
+				},
+				{
+					"Source":
+					{
+						"Text": "Epic Sphero"
+					},
+					"Translation":
+					{
+						"Text": "史诗球面"
+					},
+					"Key": "char_name_epic_sphero"
+				},
+				{
+					"Source":
+					{
+						"Text": "Failed One"
+					},
+					"Translation":
+					{
+						"Text": "堕落者"
+					},
+					"Key": "char_name_failed_one"
+				},
+				{
+					"Source":
+					{
+						"Text": "Finish"
+					},
+					"Translation":
+					{
+						"Text": "完成"
+					},
+					"Key": "finish"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fishy"
+					},
+					"Translation":
+					{
+						"Text": "呆鱼"
+					},
+					"Key": "npc_fishy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fountain"
+					},
+					"Translation":
+					{
+						"Text": "喷泉"
+					},
+					"Key": "npc_fountain"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gatekeeper"
+					},
+					"Translation":
+					{
+						"Text": "看门人"
+					},
+					"Key": "npc_gatekeeper"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ghost Dwarf"
+					},
+					"Translation":
+					{
+						"Text": "矮人幽魂"
+					},
+					"Key": "npc_ghost_dwarf"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gnome Lady"
+					},
+					"Translation":
+					{
+						"Text": "侏儒女士"
+					},
+					"Key": "npc_lory_unkown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gnory"
+					},
+					"Translation":
+					{
+						"Text": "格诺里"
+					},
+					"Key": "npc_gnory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Golem Maker"
+					},
+					"Translation":
+					{
+						"Text": "机器人制造者"
+					},
+					"Key": "npc_golem_maker"
+				},
+				{
+					"Source":
+					{
+						"Text": "Kobold Chef"
+					},
+					"Translation":
+					{
+						"Text": "地精厨师"
+					},
+					"Key": "npc_name_kobold"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lory"
+					},
+					"Translation":
+					{
+						"Text": "劳里"
+					},
+					"Key": "npc_lory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Magic Mirror"
+					},
+					"Translation":
+					{
+						"Text": "魔镜"
+					},
+					"Key": "npc_magic_mirror"
+				},
+				{
+					"Source":
+					{
+						"Text": "Merch Ant"
+					},
+					"Translation":
+					{
+						"Text": "默克蚂蚁"
+					},
+					"Key": "npc_merchant"
+				},
+				{
+					"Source":
+					{
+						"Text": "Monk"
+					},
+					"Translation":
+					{
+						"Text": "修道士"
+					},
+					"Key": "npc_monk"
+				},
+				{
+					"Source":
+					{
+						"Text": "Next"
+					},
+					"Translation":
+					{
+						"Text": "下一个"
+					},
+					"Key": "next"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pipe Walker"
+					},
+					"Translation":
+					{
+						"Text": "管行者"
+					},
+					"Key": "npc_pipe_walker"
+				},
+				{
+					"Source":
+					{
+						"Text": "Raven"
+					},
+					"Translation":
+					{
+						"Text": "乌鸦"
+					},
+					"Key": "npc_raven"
+				},
+				{
+					"Source":
+					{
+						"Text": "Saviour"
+					},
+					"Translation":
+					{
+						"Text": "救世主"
+					},
+					"Key": "char_name_saviour"
+				},
+				{
+					"Source":
+					{
+						"Text": "Scholar"
+					},
+					"Translation":
+					{
+						"Text": "斯考拉"
+					},
+					"Key": "npc_scholar"
+				},
+				{
+					"Source":
+					{
+						"Text": "Secret Hideout Gate"
+					},
+					"Translation":
+					{
+						"Text": "秘密藏身处的门"
+					},
+					"Key": "npc_secret_hideout"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sewer Creature"
+					},
+					"Translation":
+					{
+						"Text": "下水道魔物"
+					},
+					"Key": "npc_sewer_creature"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sorbcerer"
+					},
+					"Translation":
+					{
+						"Text": "巫师"
+					},
+					"Key": "char_name_sorbcerer"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spirit Of the Unknown"
+					},
+					"Translation":
+					{
+						"Text": "无名幽魂"
+					},
+					"Key": "char_name_spirit_of_the_unknown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Statue"
+					},
+					"Translation":
+					{
+						"Text": "雕像"
+					},
+					"Key": "npc_statue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Supper Dwarf"
+					},
+					"Translation":
+					{
+						"Text": "晚餐矮人"
+					},
+					"Key": "npc_supper_dwarf"
+				},
+				{
+					"Source":
+					{
+						"Text": "Teachy"
+					},
+					"Translation":
+					{
+						"Text": "提奇"
+					},
+					"Key": "npc_teachy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tomb"
+					},
+					"Translation":
+					{
+						"Text": "坟墓"
+					},
+					"Key": "npc_tomb"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ultimate Frisbee"
+					},
+					"Translation":
+					{
+						"Text": "极限飞盘"
+					},
+					"Key": "char_name_ultimate_frisbee"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unknown Wizard"
+					},
+					"Translation":
+					{
+						"Text": "无名巫师"
+					},
+					"Key": "npc_unknown_wizard"
+				},
+				{
+					"Source":
+					{
+						"Text": "Voice"
+					},
+					"Translation":
+					{
+						"Text": "声音"
+					},
+					"Key": "npc_merchant_voice"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wanderer"
+					},
+					"Translation":
+					{
+						"Text": "流浪者"
+					},
+					"Key": "char_name_wanderer"
+				},
+				{
+					"Source":
+					{
+						"Text": "Warlorb"
+					},
+					"Translation":
+					{
+						"Text": "球督"
+					},
+					"Key": "char_name_warlorb"
+				},
+				{
+					"Source":
+					{
+						"Text": "WarriOrb"
+					},
+					"Translation":
+					{
+						"Text": "球魂"
+					},
+					"Key": "char_name_warriorb"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wizard"
+					},
+					"Translation":
+					{
+						"Text": "巫师"
+					},
+					"Key": "npc_wizard"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} Gold Gained"
+					},
+					"Translation":
+					{
+						"Text": "获得 {0} 金币"
+					},
+					"Key": "gold_gained"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} Gold Lost"
+					},
+					"Translation":
+					{
+						"Text": "失去 {0} 金币"
+					},
+					"Key": "gold_lost"
+				},
+				{
+					"Source":
+					{
+						"Text": "{Amount} {ItemName} gained!"
+					},
+					"Translation":
+					{
+						"Text": "获得 {Amount} {ItemName}！"
+					},
+					"Key": "item_gained_n"
+				},
+				{
+					"Source":
+					{
+						"Text": "{Amount} {ItemName} lost!"
+					},
+					"Translation":
+					{
+						"Text": "失去 {Amount} {ItemName}！"
+					},
+					"Key": "item_lost_n"
+				},
+				{
+					"Source":
+					{
+						"Text": "{ItemName} gained!"
+					},
+					"Translation":
+					{
+						"Text": "获得 {ItemName}！"
+					},
+					"Key": "item_gained"
+				},
+				{
+					"Source":
+					{
+						"Text": "{ItemName} lost!"
+					},
+					"Translation":
+					{
+						"Text": "失去 {ItemName}！"
+					},
+					"Key": "item_lost"
+				}
+			]
+		},
+		{
+			"Namespace": "Dialogue_VV_Kobold",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Accept Quest"
+					},
+					"Translation":
+					{
+						"Text": "接受任务"
+					},
+					"Key": "C530096E4FA1A2B68077C3AD6AC1BF44"
+				},
+				{
+					"Source":
+					{
+						"Text": "All right, thank you."
+					},
+					"Translation":
+					{
+						"Text": "好的，谢谢。"
+					},
+					"Key": "41C1FCA947041D49247FC8A157D7407F"
+				},
+				{
+					"Source":
+					{
+						"Text": "And it also attracts the Pipewalkers."
+					},
+					"Translation":
+					{
+						"Text": "它还吸引了管道行走者。"
+					},
+					"Key": "3764BB48401ABEDCD125F186B4BF0E17"
+				},
+				{
+					"Source":
+					{
+						"Text": "Any news on your lost tribe?"
+					},
+					"Translation":
+					{
+						"Text": "有你失踪部落的消息了吗？"
+					},
+					"Key": "DA9D493F42420BE9442B1EA983AEF9C2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Because I’m a chef."
+					},
+					"Translation":
+					{
+						"Text": "因为我是一个厨师。"
+					},
+					"Key": "52A8B1F04C37F262E014DEA14AB68957"
+				},
+				{
+					"Source":
+					{
+						"Text": "Can I help?"
+					},
+					"Translation":
+					{
+						"Text": "我能帮忙吗？"
+					},
+					"Key": "8FF6BF7B4745BB75C2D8F7873C492C2D"
+				},
+				{
+					"Source":
+					{
+						"Text": "Could you activate it for me?"
+					},
+					"Translation":
+					{
+						"Text": "你能帮我激活它吗？"
+					},
+					"Key": "1B9834C6405C60960F322585AB0F1704"
+				},
+				{
+					"Source":
+					{
+						"Text": "Could you activate it for me?"
+					},
+					"Translation":
+					{
+						"Text": "你能帮我激活它吗？"
+					},
+					"Key": "2189E8064ACF974902FBA49BD12D0F47"
+				},
+				{
+					"Source":
+					{
+						"Text": "Decline"
+					},
+					"Translation":
+					{
+						"Text": "下降"
+					},
+					"Key": "3DCACAB047175FB687542AB0CA25D972"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you know how can I reach that Purple Portal?"
+					},
+					"Translation":
+					{
+						"Text": "你知道我怎样才能到达那个紫色传送门吗？"
+					},
+					"Key": "EBC97F7C45858FE6DC72209536FC5C3B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you need help with something?"
+					},
+					"Translation":
+					{
+						"Text": "你需要帮助吗？"
+					},
+					"Key": "8240EF7946C8434333AFAEBEF3583917"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you think you will find Pipewalkers here?"
+					},
+					"Translation":
+					{
+						"Text": "你觉得能在这里找到管道行走者吗？"
+					},
+					"Key": "3C0498284D71B7B64FEA4094F42A5502"
+				},
+				{
+					"Source":
+					{
+						"Text": "Good bye!"
+					},
+					"Translation":
+					{
+						"Text": "再见！"
+					},
+					"Key": "BA715D554C47932C092462B36ADEA081"
+				},
+				{
+					"Source":
+					{
+						"Text": "Good idea."
+					},
+					"Translation":
+					{
+						"Text": "好主意。"
+					},
+					"Key": "10ADF4F948FB99445BF791BB0722AD90"
+				},
+				{
+					"Source":
+					{
+						"Text": "Haha... Yes I’m back again."
+					},
+					"Translation":
+					{
+						"Text": "哈哈... 我又回来了。"
+					},
+					"Key": "63EA4DDD45390542E3A904928143D9AF"
+				},
+				{
+					"Source":
+					{
+						"Text": "Have you found out anything about Ruin?"
+					},
+					"Translation":
+					{
+						"Text": "你知道什么叫毁灭吗？"
+					},
+					"Key": "C339B87742C2B475E2387F93418AA855"
+				},
+				{
+					"Source":
+					{
+						"Text": "How on earth have you managed to reach this node?"
+					},
+					"Translation":
+					{
+						"Text": "你到底是怎么到达这个点的？"
+					},
+					"Key": "DE668E4B4A3D0F785A693B9190E635D3"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can’t promise I’ll do that."
+					},
+					"Translation":
+					{
+						"Text": "我不能保证会那样做。"
+					},
+					"Key": "9FD2679D44BEBBFBBAD2EAAECFFEE0D5"
+				},
+				{
+					"Source":
+					{
+						"Text": "I need to go now."
+					},
+					"Translation":
+					{
+						"Text": "我得走了。"
+					},
+					"Key": "DE2390ED4366A621E4D220A3761333DE"
+				},
+				{
+					"Source":
+					{
+						"Text": "I think I managed to activate the device on the wall of the Portal Tower."
+					},
+					"Translation":
+					{
+						"Text": "我想我成功激活了传送塔上的装置。"
+					},
+					"Key": "0944D8A541F933BEB5DD068CA9099075"
+				},
+				{
+					"Source":
+					{
+						"Text": "I think I've already done that."
+					},
+					"Translation":
+					{
+						"Text": "我想我已经做过了。"
+					},
+					"Key": "274EB7AD410061E3E200A9813A54AB29"
+				},
+				{
+					"Source":
+					{
+						"Text": "I think they came here and followed the messages just like you."
+					},
+					"Translation":
+					{
+						"Text": "我想他们跟你一样，来到这儿并且遵循信息指示行动。"
+					},
+					"Key": "F9EBA1684D435C8AEB14129A7B57A604"
+				},
+				{
+					"Source":
+					{
+						"Text": "I want to find my tribe."
+					},
+					"Translation":
+					{
+						"Text": "我想找到我的部落。"
+					},
+					"Key": "3A0924F7449355545C0A98B94994616B"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm on my way. Take care!"
+					},
+					"Translation":
+					{
+						"Text": "我马上就来。保重！"
+					},
+					"Key": "E83287164D066CCE8FBFDE835FBD4CFB"
+				},
+				{
+					"Source":
+					{
+						"Text": "I've got to go. See you soon!"
+					},
+					"Translation":
+					{
+						"Text": "我得走了。再见！"
+					},
+					"Key": "AA1C6EF444BAB6A929E953A87BB87ABB"
+				},
+				{
+					"Source":
+					{
+						"Text": "If there are any they will come here when they smell the soup."
+					},
+					"Translation":
+					{
+						"Text": "如果有的话，他们闻到汤味就会过来。"
+					},
+					"Key": "807FF1A945548216DAD305B4D5A4437F"
+				},
+				{
+					"Source":
+					{
+						"Text": "If they are still alive they must be beyond that Purple Portal."
+					},
+					"Translation":
+					{
+						"Text": "如果他们还活着，一定能穿越这所紫色传送门。"
+					},
+					"Key": "43C8FE9248340E49F1F31882D7B96642"
+				},
+				{
+					"Source":
+					{
+						"Text": "If you activate it I’ll be able to use the portal to teleport to other places."
+					},
+					"Translation":
+					{
+						"Text": "如果你激活它，我就可以使用传送门传送到其他地方。"
+					},
+					"Key": "97E4FDC74B47A6037D6023A4C65B2934"
+				},
+				{
+					"Source":
+					{
+						"Text": "It helps me keep my mind clear."
+					},
+					"Translation":
+					{
+						"Text": "它帮助我保持头脑清醒。"
+					},
+					"Key": "D058108241051A9FD0D130B3C9EA4B8B"
+				},
+				{
+					"Source":
+					{
+						"Text": "It was nice to meet you."
+					},
+					"Translation":
+					{
+						"Text": "见到你很高兴。"
+					},
+					"Key": "BE7B3444431F43E8E1487F8702B94845"
+				},
+				{
+					"Source":
+					{
+						"Text": "It wasn’t that complicated after all."
+					},
+					"Translation":
+					{
+						"Text": "其实并没有那么复杂。"
+					},
+					"Key": "F911D6CB45AA59448C03379A1C07DD60"
+				},
+				{
+					"Source":
+					{
+						"Text": "I’m glad you are back again!"
+					},
+					"Translation":
+					{
+						"Text": "很高兴你又回来了！"
+					},
+					"Key": "022227664F6F422B20B109A19B8789AA"
+				},
+				{
+					"Source":
+					{
+						"Text": "I’m not sure... but I have a key which might be useful."
+					},
+					"Translation":
+					{
+						"Text": "我不确定… 但是我有一把可能会派上作用的钥匙。"
+					},
+					"Key": "869485E24E19938DEE48BFB5C5240BB3"
+				},
+				{
+					"Source":
+					{
+						"Text": "I’m sorry but that sounds complicated."
+					},
+					"Translation":
+					{
+						"Text": "对不起，这听起来很复杂。"
+					},
+					"Key": "833BB4384231444247779CAB596D0259"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave"
+					},
+					"Translation":
+					{
+						"Text": "离开"
+					},
+					"Key": "5F376BF945B8CE4AA12B7EB05F8C62A5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Looks like I can’t get rid of this body."
+					},
+					"Translation":
+					{
+						"Text": "看来我无法摆脱这具身体。"
+					},
+					"Key": "804671AF40165C92FA6A8F8A5AE97997"
+				},
+				{
+					"Source":
+					{
+						"Text": "Meanwhile I cooked something special for you. Take this!"
+					},
+					"Translation":
+					{
+						"Text": "同时，我为你做了一些特别的东西。拿好这个！"
+					},
+					"Key": "D8F879684C57BB474E7153B971073663"
+				},
+				{
+					"Source":
+					{
+						"Text": "Nice, well done!"
+					},
+					"Translation":
+					{
+						"Text": "好，做得好！"
+					},
+					"Key": "E6D3401944B2FF128DD1689F5159AF96"
+				},
+				{
+					"Source":
+					{
+						"Text": "No problem."
+					},
+					"Translation":
+					{
+						"Text": "没问题。"
+					},
+					"Key": "CD8CDA3443CDE79BE257B99A0801B209"
+				},
+				{
+					"Source":
+					{
+						"Text": "No. To be honest I don’t care much about Ruin."
+					},
+					"Translation":
+					{
+						"Text": "不。说实话，我不太在乎毁灭。"
+					},
+					"Key": "891684A24BA64E351E7F0B9ADEA3D6DF"
+				},
+				{
+					"Source":
+					{
+						"Text": "Oh, it’s you."
+					},
+					"Translation":
+					{
+						"Text": "哦，是你。"
+					},
+					"Key": "86FBA5A24734DD97167512A054A2E0D9"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pls. report it as a bug."
+					},
+					"Translation":
+					{
+						"Text": "请把这个作为错误进行报告。"
+					},
+					"Key": "E29E2D044497A86DD0FCA8B540703597"
+				},
+				{
+					"Source":
+					{
+						"Text": "Purple Portal"
+					},
+					"Translation":
+					{
+						"Text": "紫色传送门"
+					},
+					"Key": "73240093450B12BEEA1EB78C9CF7D89E"
+				},
+				{
+					"Source":
+					{
+						"Text": "Really? Anyway, I’m happy to see you."
+					},
+					"Translation":
+					{
+						"Text": "真的吗？不管怎样，很高兴见到你。"
+					},
+					"Key": "B621AECE42A14A508C945595493F3A3A"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruin"
+					},
+					"Translation":
+					{
+						"Text": "毁灭"
+					},
+					"Key": "694B6E3F4F4C7CEAAACB51A2D30FFD26"
+				},
+				{
+					"Source":
+					{
+						"Text": "See you!"
+					},
+					"Translation":
+					{
+						"Text": "回头见！"
+					},
+					"Key": "85656A9E46844B03D49E13AC951FDE07"
+				},
+				{
+					"Source":
+					{
+						"Text": "Soup"
+					},
+					"Translation":
+					{
+						"Text": "汤"
+					},
+					"Key": "C4D263AB48B800D5522A24923C541ED3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sure! I’ll see what I can do."
+					},
+					"Translation":
+					{
+						"Text": "当然！我看看应该怎么做。"
+					},
+					"Key": "444DD931423A98C7DD95D4BB73F0F1C6"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take it! I still need some time to finish the soup anyway."
+					},
+					"Translation":
+					{
+						"Text": "拿着！我还需要点时间才能喝完这道汤。"
+					},
+					"Key": "95A7C27A44B78CBF17C1FD8C9446CBD7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Thank you!"
+					},
+					"Translation":
+					{
+						"Text": "谢谢！"
+					},
+					"Key": "7304F1034A83C6D17E274090FA8E543B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Thanks!"
+					},
+					"Translation":
+					{
+						"Text": "谢谢！"
+					},
+					"Key": "E3F52F4F47289406E4A546BB0BF3AC3F"
+				},
+				{
+					"Source":
+					{
+						"Text": "Thanks!"
+					},
+					"Translation":
+					{
+						"Text": "谢谢！"
+					},
+					"Key": "64EE856046A396F2750AE1BC1042CF26"
+				},
+				{
+					"Source":
+					{
+						"Text": "Thanks."
+					},
+					"Translation":
+					{
+						"Text": "谢谢。"
+					},
+					"Key": "AED4FBE3422E0FC4AC4BD38650F95CA9"
+				},
+				{
+					"Source":
+					{
+						"Text": "The soup is almost ready..."
+					},
+					"Translation":
+					{
+						"Text": "汤已经准备好了..."
+					},
+					"Key": "C82668E6497A810FA6ADC0AB6F362B47"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tower Device"
+					},
+					"Translation":
+					{
+						"Text": "塔装置"
+					},
+					"Key": "93B13014434102C8033B41A06DBED69B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tribe"
+					},
+					"Translation":
+					{
+						"Text": "部落"
+					},
+					"Key": "4FF2FA154BEFBD448EFDB0BB7FE3F0AF"
+				},
+				{
+					"Source":
+					{
+						"Text": "Why are you making soup?"
+					},
+					"Translation":
+					{
+						"Text": "你为什么要做汤？"
+					},
+					"Key": "B0BAD1934671ADCB2DD1E1BA582E3C68"
+				},
+				{
+					"Source":
+					{
+						"Text": "Yes. According to a book I read here there is a device on the wall of the Portal Tower."
+					},
+					"Translation":
+					{
+						"Text": "是的。根据我在这里读到的一本书上据说，传送塔的墙上有一个装置。"
+					},
+					"Key": "C1BB24A443D4297B17E2F6A280B02E91"
+				},
+				{
+					"Source":
+					{
+						"Text": "You know, sometimes I miss the Pipewalkers..."
+					},
+					"Translation":
+					{
+						"Text": "你知道，有时候我会想念那些管道中行走的家伙..."
+					},
+					"Key": "16358AE840D8B8553E8930A3B7E69BBA"
+				},
+				{
+					"Source":
+					{
+						"Text": "You said you wouldn't do it..."
+					},
+					"Translation":
+					{
+						"Text": "你说过你不会这么做的..."
+					},
+					"Key": "137B87BB447D45E46C0425A940E8B7F0"
+				},
+				{
+					"Source":
+					{
+						"Text": "You? I never thought I’ll see you in this shape again."
+					},
+					"Translation":
+					{
+						"Text": "是你？没想到竟然还能见到你变成这副模样。"
+					},
+					"Key": "2A57878148EFCC8532E34CAE1B9C9A0F"
+				}
+			]
+		},
+		{
+			"Namespace": "Dialogue_WW_Pergamen",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "'Come visit us beyond the Purple Portal!'"
+					},
+					"Translation":
+					{
+						"Text": "'到紫色传送门那儿来找我们吧！'"
+					},
+					"Key": "B10818134FFE3A1E99A9D789BFABBBEE"
+				},
+				{
+					"Source":
+					{
+						"Text": "'Ruin took over some of us. It's no longer safe here.'"
+					},
+					"Translation":
+					{
+						"Text": "'毁灭摧毁了我们中的一些人。这个地方不再安全。'"
+					},
+					"Key": "3DAA74ED48BE31E35D868FB1492E57A8"
+				},
+				{
+					"Source":
+					{
+						"Text": "'We are close to the solution, but your help is still needed.'"
+					},
+					"Translation":
+					{
+						"Text": "'我们基本能解决问题了。但还需要你的帮助。'"
+					},
+					"Key": "D292364A4E58F52FB874AA98C1F969A6"
+				}
+			]
+		},
+		{
+			"Namespace": "Dialogue_WW_Statue",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "'White Wall will never fall!'"
+					},
+					"Translation":
+					{
+						"Text": "'白色巨塔永不倒!'"
+					},
+					"Key": "2D531D384CB6A56DBC4834BD229622E7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Oooops..."
+					},
+					"Translation":
+					{
+						"Text": "糟糕..."
+					},
+					"Key": "0CD0FD884718EF68B38D578CDE17110A"
+				}
+			]
+		},
+		{
+			"Namespace": "Dialogue_WW_StatueWelcome",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "'There is still hope.'"
+					},
+					"Translation":
+					{
+						"Text": "“还有希望。”"
+					},
+					"Key": "7C3340434A4C80010AC2D58BF8504339"
+				},
+				{
+					"Source":
+					{
+						"Text": "'We know how to stop Ruin.'"
+					},
+					"Translation":
+					{
+						"Text": "“我们知道如何阻止毁灭。”"
+					},
+					"Key": "2690E77045D5E42F32AC6582BAFF27AA"
+				}
+			]
+		},
+		{
+			"Namespace": "Enemies",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Armour Wrath"
+					},
+					"Translation":
+					{
+						"Text": "铠甲之怒"
+					},
+					"Key": "armour_wrath_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarf"
+					},
+					"Translation":
+					{
+						"Text": "矮人"
+					},
+					"Key": "dwarf_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fallen Druid"
+					},
+					"Translation":
+					{
+						"Text": "堕落的德鲁伊"
+					},
+					"Key": "fallen_druid_name"
+				}
+			]
+		},
+		{
+			"Namespace": "Episodes",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "\"And as Darkness spreads an unknown Warriorb will rise...\""
+					},
+					"Translation":
+					{
+						"Text": "“随着黑暗的蔓延，一个未知的球魂将崛起……”"
+					},
+					"Key": "escape_darkness_completed_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "After months of researching I found a way to return back to the Ruined Realm. Ironically enough I have to use the same body I was trapped in before. I'll need to be quick and clever for this might be my very last chance to stop Ruin before it devours the World."
+					},
+					"Translation":
+					{
+						"Text": "经过几个月的研究，我发现了一个回到荒废领域的方法。讽刺的是，我不得不使用曾经将我困住的那个躯体。我需要快速行动并保持头脑灵活 ，因为这可能是我在毁灭吞噬世界之前能阻止它的最后机会。"
+					},
+					"Key": "white_wall_loadingscreen_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Although it's long abandoned the fortress of White Wall still stands against Ruin. After centuries of silence some groups of unexpected visitors broke the loneliness of the decaying city."
+					},
+					"Translation":
+					{
+						"Text": "虽然它已经废弃很久了，但白墙要塞仍然屹立着阻碍着毁灭的脚步。在沉寂了几个世纪之后，一些不速之客打破了这座衰败城市的孤独。"
+					},
+					"Key": "white_wall_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you fast enough to race against Darkness itself?"
+					},
+					"Translation":
+					{
+						"Text": "你有足够快的速度跑赢黑暗吗？"
+					},
+					"Key": "escape_darkness_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dreamhack"
+					},
+					"Translation":
+					{
+						"Text": "Dreamhack"
+					},
+					"Key": "dreamhack_friendly_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dreamhack Demo"
+					},
+					"Translation":
+					{
+						"Text": "Dreamhack试玩"
+					},
+					"Key": "dreamhack_completed_subtitle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Episode Completed!"
+					},
+					"Translation":
+					{
+						"Text": "章节完成！"
+					},
+					"Key": "episode_end_main_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Escape Darkness"
+					},
+					"Translation":
+					{
+						"Text": "逃离黑暗"
+					},
+					"Key": "escape_darkness_friendly_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Escaped from Darkness"
+					},
+					"Translation":
+					{
+						"Text": "逃离黑暗"
+					},
+					"Key": "escape_darkness_completed_subtitle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Thanks for playing the game, we hope you had a great time!"
+					},
+					"Translation":
+					{
+						"Text": "感谢体验！希望您游戏愉快！"
+					},
+					"Key": "dreamhack_completed_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "What happened beyond the portal is another story, which will be told at another time."
+					},
+					"Translation":
+					{
+						"Text": "传送门之外发生的另一个故事，我们将择日再进行讲述。"
+					},
+					"Key": "white_wall_completed_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "What happens when you lock a mighty demon's spirit inside a ball body?"
+					},
+					"Translation":
+					{
+						"Text": "当你把一个强大的恶魔之魂锁在一个球体内会发生什么？"
+					},
+					"Key": "dreamhack_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "White Wall"
+					},
+					"Translation":
+					{
+						"Text": "白色巨墙"
+					},
+					"Key": "white_wall_friendly_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "White Wall"
+					},
+					"Translation":
+					{
+						"Text": "白色巨墙"
+					},
+					"Key": "white_wall_completed_subtitle"
+				}
+			]
+		},
+		{
+			"Namespace": "FloatingEnemyAndNPCLines",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Aaaaaaargh!"
+					},
+					"Translation":
+					{
+						"Text": "啊！"
+					},
+					"Key": "char_vo_ghosthelmet_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Aaahhh"
+					},
+					"Translation":
+					{
+						"Text": "啊~~~"
+					},
+					"Key": "char_vo_golemmaker_idle_moan_aaahhh"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ahm"
+					},
+					"Translation":
+					{
+						"Text": "啊"
+					},
+					"Key": "char_vo_teachy_idle_book_up_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "All is Lost."
+					},
+					"Translation":
+					{
+						"Text": "一无所有。"
+					},
+					"Key": "char_vo_golemmaker_idle_mindlessly_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "All right, gg!"
+					},
+					"Translation":
+					{
+						"Text": "好吧！"
+					},
+					"Key": "char_vo_flybug_die_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "At your service."
+					},
+					"Translation":
+					{
+						"Text": "乐意效劳。"
+					},
+					"Key": "char_vo_maintainer_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Attention to the heights again!"
+					},
+					"Translation":
+					{
+						"Text": "再次注意高度!"
+					},
+					"Key": "char_vo_gatekeeper_attack_electric_bubbles_phase_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Attention to the heights!"
+					},
+					"Translation":
+					{
+						"Text": "注意高度!"
+					},
+					"Key": "char_vo_gatekeeper_attack_electric_bubbles"
+				},
+				{
+					"Source":
+					{
+						"Text": "Auch"
+					},
+					"Translation":
+					{
+						"Text": "呼"
+					},
+					"Key": "char_vo_lory_idle_humming_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Avoid these!"
+					},
+					"Translation":
+					{
+						"Text": "避开那些！"
+					},
+					"Key": "char_vo_gatekeeper_attack_aimed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Be right back!"
+					},
+					"Translation":
+					{
+						"Text": "马上回来！"
+					},
+					"Key": "char_vo_ghosthelmet_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "Careful!"
+					},
+					"Translation":
+					{
+						"Text": "小心！"
+					},
+					"Key": "char_vo_flybug_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chaaaaaarge!"
+					},
+					"Translation":
+					{
+						"Text": "补给！"
+					},
+					"Key": "char_vo_ghosthelmet_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Come to me!"
+					},
+					"Translation":
+					{
+						"Text": "到我这儿来！"
+					},
+					"Key": "char_vo_shadesphere_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Croon"
+					},
+					"Translation":
+					{
+						"Text": "低吟"
+					},
+					"Key": "char_vo_lory_idle_croon"
+				},
+				{
+					"Source":
+					{
+						"Text": "Death is not peace."
+					},
+					"Translation":
+					{
+						"Text": "死亡不代表和平。"
+					},
+					"Key": "char_vo_shade_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Death to the outlaw!"
+					},
+					"Translation":
+					{
+						"Text": "亡命之徒！"
+					},
+					"Key": "char_vo_ghostarmor_attack_fall"
+				},
+				{
+					"Source":
+					{
+						"Text": "Death... again?!"
+					},
+					"Translation":
+					{
+						"Text": "又是... 死亡？！"
+					},
+					"Key": "char_vo_shade_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "Did you hear that?"
+					},
+					"Translation":
+					{
+						"Text": "你听到了吗?"
+					},
+					"Key": "char_vo_primitivefishy_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dinner is served!"
+					},
+					"Translation":
+					{
+						"Text": "晚餐已就绪！"
+					},
+					"Key": "char_vo_maintainer_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do not resist me!"
+					},
+					"Translation":
+					{
+						"Text": "不要反抗我！"
+					},
+					"Key": "char_vo_shadesphere_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you exist outside of my mind?"
+					},
+					"Translation":
+					{
+						"Text": "你存在于我的脑海之外吗？"
+					},
+					"Key": "char_vo_teachy_idle_book_down_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you really think you are worthy?"
+					},
+					"Translation":
+					{
+						"Text": "你真的认为自己有价值吗?"
+					},
+					"Key": "char_vo_gatekeeper_attack_shield"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don't do that again!"
+					},
+					"Translation":
+					{
+						"Text": "别再这样做了!"
+					},
+					"Key": "char_vo_maintainer_miniboss_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Easy man, easy!"
+					},
+					"Translation":
+					{
+						"Text": "小伙子，放轻松！"
+					},
+					"Key": "char_vo_flybug_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ehemm, ehemm"
+					},
+					"Translation":
+					{
+						"Text": "啦啦啦~"
+					},
+					"Key": "char_vo_supperdwarf_idle_2_humming_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ehm, what?"
+					},
+					"Translation":
+					{
+						"Text": "嗯，什么？"
+					},
+					"Key": "char_vo_teachy_idle_book_down_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ehmm"
+					},
+					"Translation":
+					{
+						"Text": "嗯"
+					},
+					"Key": "char_vo_teachy_idle_book_up_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ehmm-hmmm-uhmm"
+					},
+					"Translation":
+					{
+						"Text": "嗯-哈-嘿"
+					},
+					"Key": "char_vo_teachy_idle_humming_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ehmmm... where is my spoon?"
+					},
+					"Translation":
+					{
+						"Text": "嗯.... 我的汤匙在哪儿？"
+					},
+					"Key": "char_vo_supperdwarf_idle_1_eating_food_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fishy leaves."
+					},
+					"Translation":
+					{
+						"Text": "可疑的树叶。"
+					},
+					"Key": "char_vo_primitivefishy_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "Flyyyyyyy!"
+					},
+					"Translation":
+					{
+						"Text": "飞起！"
+					},
+					"Key": "char_vo_primitivefishy_attack_long_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Follow the rules!"
+					},
+					"Translation":
+					{
+						"Text": "遵守规则！"
+					},
+					"Key": "char_vo_ghostarmor_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "For justice!"
+					},
+					"Translation":
+					{
+						"Text": "为了正义！"
+					},
+					"Key": "char_vo_ghostarmor_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hemm"
+					},
+					"Translation":
+					{
+						"Text": "嘿"
+					},
+					"Key": "char_vo_teachy_idle_book_up_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hissing"
+					},
+					"Translation":
+					{
+						"Text": "嘶嘶声"
+					},
+					"Key": "char_vo_fishy_idle_hiss"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hmm..."
+					},
+					"Translation":
+					{
+						"Text": "嗯..."
+					},
+					"Key": "char_vo_koboldchef_idle_04"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hmmm"
+					},
+					"Translation":
+					{
+						"Text": "嗯..."
+					},
+					"Key": "char_vo_supperdwarf_idle_2_humming_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hmmm"
+					},
+					"Translation":
+					{
+						"Text": "嗯..."
+					},
+					"Key": "char_vo_lory_idle_humming_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hmmm-hmmm-hmm"
+					},
+					"Translation":
+					{
+						"Text": "嗯-嗯-嗯"
+					},
+					"Key": "char_vo_teachy_idle_humming_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hmmm... tasty"
+					},
+					"Translation":
+					{
+						"Text": "嗯....  好吃"
+					},
+					"Key": "char_vo_supperdwarf_idle_1_eating_food_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Huh! Surprised?"
+					},
+					"Translation":
+					{
+						"Text": "哼！吃惊吗？"
+					},
+					"Key": "char_vo_flybug_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Humm"
+					},
+					"Translation":
+					{
+						"Text": "哈"
+					},
+					"Key": "char_vo_teachy_idle_book_up_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Humming"
+					},
+					"Translation":
+					{
+						"Text": "嗡嗡声"
+					},
+					"Key": "char_vo_gnory_idle_humming"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hurray!"
+					},
+					"Translation":
+					{
+						"Text": "万岁！"
+					},
+					"Key": "char_vo_primitivefishy_attack_long_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I am perfect"
+					},
+					"Translation":
+					{
+						"Text": "我是完美的"
+					},
+					"Key": "char_vo_armourwrath_attack_strike_down_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "I am, therefore I think!"
+					},
+					"Translation":
+					{
+						"Text": "是我，所以我想！"
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_long_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can create!"
+					},
+					"Translation":
+					{
+						"Text": "我可以创造！"
+					},
+					"Key": "char_vo_final_boss_p2_red_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can create!"
+					},
+					"Translation":
+					{
+						"Text": "我可以创造！"
+					},
+					"Key": "char_vo_final_boss_p1_green"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can destroy!"
+					},
+					"Translation":
+					{
+						"Text": "我可以摧毁！"
+					},
+					"Key": "char_vo_final_boss_p2_red_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can fix this"
+					},
+					"Translation":
+					{
+						"Text": "我可以解决这个问题"
+					},
+					"Key": "char_vo_maintainer_miniboss_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can take more!"
+					},
+					"Translation":
+					{
+						"Text": "我要更多!"
+					},
+					"Key": "char_vo_dwarvenstatue_attack_meteor"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can't rest."
+					},
+					"Translation":
+					{
+						"Text": "我不能休息。"
+					},
+					"Key": "char_vo_shade_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can't... I was... above."
+					},
+					"Translation":
+					{
+						"Text": "我不能... 我在... 上面。"
+					},
+					"Key": "char_vo_maintainer_miniboss_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "I create essence which resists the ruin."
+					},
+					"Translation":
+					{
+						"Text": "我创造了抵抗毁灭的精髓。"
+					},
+					"Key": "char_vo_golemmaker_idle_explain_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I have... failed"
+					},
+					"Translation":
+					{
+						"Text": "我... 失败了"
+					},
+					"Key": "char_vo_fallendruid_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "I hold it back!"
+					},
+					"Translation":
+					{
+						"Text": "我忍住了!"
+					},
+					"Key": "char_vo_dwarvenstatue_shield_knock"
+				},
+				{
+					"Source":
+					{
+						"Text": "I keep Ruin"
+					},
+					"Translation":
+					{
+						"Text": "我既是毁灭"
+					},
+					"Key": "char_vo_dwarvenstatue_attack_axe_point"
+				},
+				{
+					"Source":
+					{
+						"Text": "I need some fish!"
+					},
+					"Translation":
+					{
+						"Text": "我需要一些鱼!"
+					},
+					"Key": "char_vo_primitivefishy_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I still serve."
+					},
+					"Translation":
+					{
+						"Text": "我依然提供服务。"
+					},
+					"Key": "char_vo_maintainer_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "I think... I am..."
+					},
+					"Translation":
+					{
+						"Text": "我想... 我是..."
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_long_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I won't fail the Maker!"
+					},
+					"Translation":
+					{
+						"Text": "我不会让制造者失望的！"
+					},
+					"Key": "char_vo_armourwrath_attack_clap"
+				},
+				{
+					"Source":
+					{
+						"Text": "I won't move... again"
+					},
+					"Translation":
+					{
+						"Text": "我不愿改变……再一次"
+					},
+					"Key": "char_vo_dwarvenstatue_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'll change you!"
+					},
+					"Translation":
+					{
+						"Text": "我会改变你的！"
+					},
+					"Key": "char_vo_shadesphere_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'll need a blacksmith!"
+					},
+					"Translation":
+					{
+						"Text": "我需要一个铁匠！"
+					},
+					"Key": "char_vo_ghosthelmet_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'll need to be repaired."
+					},
+					"Translation":
+					{
+						"Text": "我需要得到修理。"
+					},
+					"Key": "char_vo_maintainer_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'll need... replacement."
+					},
+					"Translation":
+					{
+						"Text": "我需要... 替代者。"
+					},
+					"Key": "char_vo_maintainer_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'll reorganize!"
+					},
+					"Translation":
+					{
+						"Text": "我要重整旗鼓!"
+					},
+					"Key": "char_vo_maintainer_miniboss_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm above!"
+					},
+					"Translation":
+					{
+						"Text": "我在上面！"
+					},
+					"Key": "char_vo_maintainer_miniboss_attack_meteor"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm free!"
+					},
+					"Translation":
+					{
+						"Text": "我自由了！"
+					},
+					"Key": "char_vo_final_boss_p3_blue"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm human!"
+					},
+					"Translation":
+					{
+						"Text": "我是人类！"
+					},
+					"Key": "char_vo_final_boss_p1_red"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm the daughter of the Wizard!"
+					},
+					"Translation":
+					{
+						"Text": "我是巫师的女儿！"
+					},
+					"Key": "char_vo_final_boss_p2_blue"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm the daughter of the Wizard!"
+					},
+					"Translation":
+					{
+						"Text": "我是巫师的女儿！"
+					},
+					"Key": "char_vo_final_boss_p1_blue"
+				},
+				{
+					"Source":
+					{
+						"Text": "I... don't..."
+					},
+					"Translation":
+					{
+						"Text": "我.. 不..."
+					},
+					"Key": "char_vo_ghostarmor__die"
+				},
+				{
+					"Source":
+					{
+						"Text": "Is this the end?"
+					},
+					"Translation":
+					{
+						"Text": "结束了吗？"
+					},
+					"Key": "char_vo_shade_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "It needs more salt!"
+					},
+					"Translation":
+					{
+						"Text": "它需要更多的盐！"
+					},
+					"Key": "char_vo_koboldchef_idle_02"
+				},
+				{
+					"Source":
+					{
+						"Text": "It will be delicious."
+					},
+					"Translation":
+					{
+						"Text": "一定很美味。"
+					},
+					"Key": "char_vo_koboldchef_idle_03"
+				},
+				{
+					"Source":
+					{
+						"Text": "It's not funny!"
+					},
+					"Translation":
+					{
+						"Text": "一点也不好玩！"
+					},
+					"Key": "char_vo_flybug_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "It's safe here."
+					},
+					"Translation":
+					{
+						"Text": "这儿很安全。"
+					},
+					"Key": "char_vo_fallendruid_attack_flybug"
+				},
+				{
+					"Source":
+					{
+						"Text": "It's still... me..."
+					},
+					"Translation":
+					{
+						"Text": "还是... 我..."
+					},
+					"Key": "char_vo_shadesphere_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Join me!"
+					},
+					"Translation":
+					{
+						"Text": "加入我！"
+					},
+					"Key": "char_vo_shade_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Just a scratch."
+					},
+					"Translation":
+					{
+						"Text": "一点皮毛伤。"
+					},
+					"Key": "char_vo_ghostarmor_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Knowledge is Lost, All is Lost."
+					},
+					"Translation":
+					{
+						"Text": "不学无术，一无所有。"
+					},
+					"Key": "char_vo_golemmaker_idle_mindlessly_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Let's head east!"
+					},
+					"Translation":
+					{
+						"Text": "向东前进！"
+					},
+					"Key": "char_vo_ghosthelmet_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Nature will survive!"
+					},
+					"Translation":
+					{
+						"Text": "自然将永存！"
+					},
+					"Key": "char_vo_fallendruid_attack_tendril"
+				},
+				{
+					"Source":
+					{
+						"Text": "No... I'm still... perfect"
+					},
+					"Translation":
+					{
+						"Text": "不... 我依然... 完美"
+					},
+					"Key": "char_vo_armourwrath_attack_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "Now it's clean!"
+					},
+					"Translation":
+					{
+						"Text": "现在它可干净了！"
+					},
+					"Key": "char_vo_maintainer_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ohh"
+					},
+					"Translation":
+					{
+						"Text": "噢"
+					},
+					"Key": "char_vo_lory_idle_humming_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ohm"
+					},
+					"Translation":
+					{
+						"Text": "噢~"
+					},
+					"Key": "char_vo_supperdwarf_idle_2_humming_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ommm"
+					},
+					"Translation":
+					{
+						"Text": "喔..."
+					},
+					"Key": "char_vo_lory_idle_humming_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Onon"
+					},
+					"Translation":
+					{
+						"Text": "哟"
+					},
+					"Key": "char_vo_golemmaker_idle_sad_onon"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ooohhh"
+					},
+					"Translation":
+					{
+						"Text": "噢~~~"
+					},
+					"Key": "char_vo_golemmaker_idle_moan_ooohhh"
+				},
+				{
+					"Source":
+					{
+						"Text": "Order, order, order!"
+					},
+					"Translation":
+					{
+						"Text": "命令，命令，命令！"
+					},
+					"Key": "char_vo_maintainer_miniboss_attack_spawn_enemy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Order..."
+					},
+					"Translation":
+					{
+						"Text": "点菜..."
+					},
+					"Key": "char_vo_maintainer_elite_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Out of my way!"
+					},
+					"Translation":
+					{
+						"Text": "别挡道！"
+					},
+					"Key": "char_vo_armourwrath_attack_strike_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Out with you, Ruin!"
+					},
+					"Translation":
+					{
+						"Text": "滚开，毁灭！"
+					},
+					"Key": "char_vo_fallendruid_attack_thorn_sphere"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pain..."
+					},
+					"Translation":
+					{
+						"Text": "痛..."
+					},
+					"Key": "char_vo_shade_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Resist Ruin!"
+					},
+					"Translation":
+					{
+						"Text": "抵抗毁灭！"
+					},
+					"Key": "char_vo_armourwrath_attack_magic"
+				},
+				{
+					"Source":
+					{
+						"Text": "Send someone for a hammer!"
+					},
+					"Translation":
+					{
+						"Text": "派人去拿把锤子来！"
+					},
+					"Key": "char_vo_ghosthelmet_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Serve..."
+					},
+					"Translation":
+					{
+						"Text": "上菜..."
+					},
+					"Key": "char_vo_maintainer_elite_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shish!"
+					},
+					"Translation":
+					{
+						"Text": "烤肉！"
+					},
+					"Key": "char_vo_primitivefishy_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Srrrr!"
+					},
+					"Translation":
+					{
+						"Text": "呃!"
+					},
+					"Key": "char_vo_primitivefishy_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take this!"
+					},
+					"Translation":
+					{
+						"Text": "拿着这个！"
+					},
+					"Key": "char_vo_flybug_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "That sounds funny!"
+					},
+					"Translation":
+					{
+						"Text": "听上去很有趣！"
+					},
+					"Key": "char_vo_final_boss_p3_green"
+				},
+				{
+					"Source":
+					{
+						"Text": "That sounds funny!"
+					},
+					"Translation":
+					{
+						"Text": "听上去很有趣！"
+					},
+					"Key": "char_vo_final_boss_p2_green"
+				},
+				{
+					"Source":
+					{
+						"Text": "The mind is furnished with ideas by a drunk upholsterer..."
+					},
+					"Translation":
+					{
+						"Text": "这个头脑装满了来自一个醉醺醺的装饰工提供的各种想法……"
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_long_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "The unexamined life is not worth living!"
+					},
+					"Translation":
+					{
+						"Text": "缺乏考验的生活是没有价值的！"
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_long_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "This is my order!"
+					},
+					"Translation":
+					{
+						"Text": "这是我的命令！"
+					},
+					"Key": "char_vo_maintainer_miniboss_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "This place shall stand!"
+					},
+					"Translation":
+					{
+						"Text": "此地将屹立不倒！"
+					},
+					"Key": "char_vo_fallendruid_attack_spike"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tic-tac"
+					},
+					"Translation":
+					{
+						"Text": "嘀嗒，嘀嗒"
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_short_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "To be..."
+					},
+					"Translation":
+					{
+						"Text": "..."
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_short_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Too hot!"
+					},
+					"Translation":
+					{
+						"Text": "太热了！"
+					},
+					"Key": "char_vo_koboldchef_idle_01"
+				},
+				{
+					"Source":
+					{
+						"Text": "Umm-huhummm"
+					},
+					"Translation":
+					{
+						"Text": "唔-咳"
+					},
+					"Key": "char_vo_teachy_idle_humming_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use your head... or mine!"
+					},
+					"Translation":
+					{
+						"Text": "用你的头……我的也行！"
+					},
+					"Key": "char_vo_ghosthelmet_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Uuush!"
+					},
+					"Translation":
+					{
+						"Text": "嘘！"
+					},
+					"Key": "char_vo_primitivefishy_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Walking ball?"
+					},
+					"Translation":
+					{
+						"Text": "走路的球？"
+					},
+					"Key": "char_vo_teachy_idle_book_down_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Watch out for your head!"
+					},
+					"Translation":
+					{
+						"Text": "小心你的头!"
+					},
+					"Key": "char_vo_gatekeeper_attack_meteors"
+				},
+				{
+					"Source":
+					{
+						"Text": "Watch out where you bounce to!"
+					},
+					"Translation":
+					{
+						"Text": "当心你会跳去的地方！"
+					},
+					"Key": "char_vo_gatekeeper_attack_aimed_phase_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "We are above the Law!"
+					},
+					"Translation":
+					{
+						"Text": "我们凌驾于律法之上!"
+					},
+					"Key": "char_vo_dwarvenstatue_attack_axe_strike_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "We keep the Wall."
+					},
+					"Translation":
+					{
+						"Text": "我们守着这堵墙。"
+					},
+					"Key": "char_vo_ghostarmor_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Weird"
+					},
+					"Translation":
+					{
+						"Text": "奇怪"
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_short_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "What do you wish to be?"
+					},
+					"Translation":
+					{
+						"Text": "你想成为什么？"
+					},
+					"Key": "char_vo_shadesphere_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "What is it like down there? Heh?"
+					},
+					"Translation":
+					{
+						"Text": "下面是什么样子的？"
+					},
+					"Key": "char_vo_flybug_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "What makes you say that?"
+					},
+					"Translation":
+					{
+						"Text": "你为什么这么说？"
+					},
+					"Key": "char_vo_final_boss_p3_red"
+				},
+				{
+					"Source":
+					{
+						"Text": "Whistling"
+					},
+					"Translation":
+					{
+						"Text": "哨声"
+					},
+					"Key": "char_vo_gnory_idle_whistle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Why did you...?"
+					},
+					"Translation":
+					{
+						"Text": "你为什么...？"
+					},
+					"Key": "char_vo_shadesphere_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "You changed... me?"
+					},
+					"Translation":
+					{
+						"Text": "你把我... 修改了吗？"
+					},
+					"Key": "char_vo_shadesphere_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "You shall die too!"
+					},
+					"Translation":
+					{
+						"Text": "你也会死的！"
+					},
+					"Key": "char_vo_shade_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "You shall perish!"
+					},
+					"Translation":
+					{
+						"Text": "下地狱吧！"
+					},
+					"Key": "char_vo_ghostarmor_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "You... can't."
+					},
+					"Translation":
+					{
+						"Text": "你... 不能..."
+					},
+					"Key": "char_vo_ghostarmor_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "You?"
+					},
+					"Translation":
+					{
+						"Text": "是你？"
+					},
+					"Key": "char_vo_teachy_idle_book_down_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Your order?"
+					},
+					"Translation":
+					{
+						"Text": "你的命令吗？"
+					},
+					"Key": "char_vo_maintainer_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Your words remind me of something."
+					},
+					"Translation":
+					{
+						"Text": "你的话让我想起了一件事。"
+					},
+					"Key": "char_vo_golemmaker_idle_tries_to_remember"
+				},
+				{
+					"Source":
+					{
+						"Text": "Yum-yum hmmmm... delicious"
+					},
+					"Translation":
+					{
+						"Text": "吧唧吧唧...  真美味"
+					},
+					"Key": "char_vo_supperdwarf_idle_1_eating_food_0"
+				}
+			]
+		},
+		{
+			"Namespace": "InputKeys",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Any Key"
+					},
+					"Translation":
+					{
+						"Text": "任意键"
+					},
+					"Key": "AnyKey"
+				},
+				{
+					"Source":
+					{
+						"Text": "Down"
+					},
+					"Translation":
+					{
+						"Text": "下"
+					},
+					"Key": "Down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left"
+					},
+					"Translation":
+					{
+						"Text": "左"
+					},
+					"Key": "Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right"
+					},
+					"Translation":
+					{
+						"Text": "右"
+					},
+					"Key": "Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Up"
+					},
+					"Translation":
+					{
+						"Text": "上"
+					},
+					"Key": "Up"
+				}
+			]
+		},
+		{
+			"Namespace": "Interaction",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "A few items acquired"
+					},
+					"Translation":
+					{
+						"Text": "获得一些物品"
+					},
+					"Key": "acquired_few_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "A rope could be placed here"
+					},
+					"Translation":
+					{
+						"Text": "这里可以放置绳索"
+					},
+					"Key": "rope_can_be_placed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Absorb Energy"
+					},
+					"Translation":
+					{
+						"Text": "吸收能量"
+					},
+					"Key": "absorb_energy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Acquire Memory Stone"
+					},
+					"Translation":
+					{
+						"Text": "获取记忆之石"
+					},
+					"Key": "memory_stone_aquire"
+				},
+				{
+					"Source":
+					{
+						"Text": "Activate"
+					},
+					"Translation":
+					{
+						"Text": "激活"
+					},
+					"Key": "activate"
+				},
+				{
+					"Source":
+					{
+						"Text": "Activate Elevator"
+					},
+					"Translation":
+					{
+						"Text": "激活电梯"
+					},
+					"Key": "activate_elevator"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ascend"
+					},
+					"Translation":
+					{
+						"Text": "使用"
+					},
+					"Key": "ascend"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bed"
+					},
+					"Translation":
+					{
+						"Text": "床"
+					},
+					"Key": "bed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Boat to the Kitchen"
+					},
+					"Translation":
+					{
+						"Text": "乘船去厨房"
+					},
+					"Key": "boat_to_kitchen"
+				},
+				{
+					"Source":
+					{
+						"Text": "Boat to the Ruins"
+					},
+					"Translation":
+					{
+						"Text": "乘船去废墟"
+					},
+					"Key": "boat_to_ruins"
+				},
+				{
+					"Source":
+					{
+						"Text": "Boat to the Station"
+					},
+					"Translation":
+					{
+						"Text": "乘船去车站"
+					},
+					"Key": "boat_to_station"
+				},
+				{
+					"Source":
+					{
+						"Text": "Call Elevator"
+					},
+					"Translation":
+					{
+						"Text": "呼叫电梯"
+					},
+					"Key": "call_elevator"
+				},
+				{
+					"Source":
+					{
+						"Text": "Candles"
+					},
+					"Translation":
+					{
+						"Text": "蜡烛"
+					},
+					"Key": "candles"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chair"
+					},
+					"Translation":
+					{
+						"Text": "椅子"
+					},
+					"Key": "chair"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Spells"
+					},
+					"Translation":
+					{
+						"Text": "改变法术"
+					},
+					"Key": "change_spells"
+				},
+				{
+					"Source":
+					{
+						"Text": "Charge"
+					},
+					"Translation":
+					{
+						"Text": "充能"
+					},
+					"Key": "charge"
+				},
+				{
+					"Source":
+					{
+						"Text": "Check Chest"
+					},
+					"Translation":
+					{
+						"Text": "查看宝箱"
+					},
+					"Key": "chest_check"
+				},
+				{
+					"Source":
+					{
+						"Text": "Check Door"
+					},
+					"Translation":
+					{
+						"Text": "检查门"
+					},
+					"Key": "check_door"
+				},
+				{
+					"Source":
+					{
+						"Text": "Check Small Chest"
+					},
+					"Translation":
+					{
+						"Text": "查看小宝箱"
+					},
+					"Key": "chest_check_small"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chest"
+					},
+					"Translation":
+					{
+						"Text": "宝箱"
+					},
+					"Key": "chest"
+				},
+				{
+					"Source":
+					{
+						"Text": "Close Chest"
+					},
+					"Translation":
+					{
+						"Text": "关闭宝箱"
+					},
+					"Key": "chest_close"
+				},
+				{
+					"Source":
+					{
+						"Text": "Close Door"
+					},
+					"Translation":
+					{
+						"Text": "关门"
+					},
+					"Key": "close_door"
+				},
+				{
+					"Source":
+					{
+						"Text": "Close Small Chest"
+					},
+					"Translation":
+					{
+						"Text": "关闭小宝箱"
+					},
+					"Key": "chest_close_small"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cross Planks"
+					},
+					"Translation":
+					{
+						"Text": "横木板"
+					},
+					"Key": "cross_planks"
+				},
+				{
+					"Source":
+					{
+						"Text": "Daddy's Room"
+					},
+					"Translation":
+					{
+						"Text": "爸爸的房间"
+					},
+					"Key": "dads_room"
+				},
+				{
+					"Source":
+					{
+						"Text": "Descend"
+					},
+					"Translation":
+					{
+						"Text": "下降"
+					},
+					"Key": "descend"
+				},
+				{
+					"Source":
+					{
+						"Text": "Destroy"
+					},
+					"Translation":
+					{
+						"Text": "毁灭"
+					},
+					"Key": "destroy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Destroy the device to save the creatures of Ruined Realm"
+					},
+					"Translation":
+					{
+						"Text": "摧毁这个装置来拯救毁灭王国的生物"
+					},
+					"Key": "use_destroy_explained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Device"
+					},
+					"Translation":
+					{
+						"Text": "装置"
+					},
+					"Key": "device"
+				},
+				{
+					"Source":
+					{
+						"Text": "Door"
+					},
+					"Translation":
+					{
+						"Text": "门"
+					},
+					"Key": "door"
+				},
+				{
+					"Source":
+					{
+						"Text": "Door does not open from this side!"
+					},
+					"Translation":
+					{
+						"Text": "这扇门无法从这边打开！"
+					},
+					"Key": "door_does_not_open_from_this_side"
+				},
+				{
+					"Source":
+					{
+						"Text": "Door opened"
+					},
+					"Translation":
+					{
+						"Text": "门已打开"
+					},
+					"Key": "door_opened"
+				},
+				{
+					"Source":
+					{
+						"Text": "Drop"
+					},
+					"Translation":
+					{
+						"Text": "丢弃"
+					},
+					"Key": "drop"
+				},
+				{
+					"Source":
+					{
+						"Text": "Elevator Activated"
+					},
+					"Translation":
+					{
+						"Text": "电梯已启动"
+					},
+					"Key": "elevator_activated"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter"
+					},
+					"Translation":
+					{
+						"Text": "进入"
+					},
+					"Key": "enter"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Bridge"
+					},
+					"Translation":
+					{
+						"Text": "进入大桥"
+					},
+					"Key": "enter_bridge"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Cave"
+					},
+					"Translation":
+					{
+						"Text": "进入洞穴"
+					},
+					"Key": "enter_cave"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Flames"
+					},
+					"Translation":
+					{
+						"Text": "进入烈焰"
+					},
+					"Key": "enter_flames"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Gate"
+					},
+					"Translation":
+					{
+						"Text": "进入大门"
+					},
+					"Key": "enter_gate"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Hut"
+					},
+					"Translation":
+					{
+						"Text": "进入小屋"
+					},
+					"Key": "enter_hut"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Kitchen"
+					},
+					"Translation":
+					{
+						"Text": "进入厨房"
+					},
+					"Key": "enter_kitchen"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Pipe"
+					},
+					"Translation":
+					{
+						"Text": "进入管"
+					},
+					"Key": "enter_pipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Portal"
+					},
+					"Translation":
+					{
+						"Text": "进入门户"
+					},
+					"Key": "enter_portal"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Stairs on the Left"
+					},
+					"Translation":
+					{
+						"Text": "从左边上楼梯"
+					},
+					"Key": "enter_stairs_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Stairs on the Right"
+					},
+					"Translation":
+					{
+						"Text": "从右边上楼梯"
+					},
+					"Key": "enter_stairs_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Tower"
+					},
+					"Translation":
+					{
+						"Text": "进入塔"
+					},
+					"Key": "enter_tower"
+				},
+				{
+					"Source":
+					{
+						"Text": "Entrance locked from the other side"
+					},
+					"Translation":
+					{
+						"Text": "入口从另一边锁上了"
+					},
+					"Key": "entrace_locked"
+				},
+				{
+					"Source":
+					{
+						"Text": "Examine"
+					},
+					"Translation":
+					{
+						"Text": "检查"
+					},
+					"Key": "examine"
+				},
+				{
+					"Source":
+					{
+						"Text": "Examine Device"
+					},
+					"Translation":
+					{
+						"Text": "检查装置"
+					},
+					"Key": "examine_device"
+				},
+				{
+					"Source":
+					{
+						"Text": "Examine Elevator"
+					},
+					"Translation":
+					{
+						"Text": "检查电梯"
+					},
+					"Key": "examine_elevator"
+				},
+				{
+					"Source":
+					{
+						"Text": "Examine Switch"
+					},
+					"Translation":
+					{
+						"Text": "检查开关"
+					},
+					"Key": "examine_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Exit"
+					},
+					"Translation":
+					{
+						"Text": "出口"
+					},
+					"Key": "exit"
+				},
+				{
+					"Source":
+					{
+						"Text": "Explore more stations before using the railway system."
+					},
+					"Translation":
+					{
+						"Text": "请在使用铁路系统之前探索更多的车站。"
+					},
+					"Key": "explore_stations"
+				},
+				{
+					"Source":
+					{
+						"Text": "Finish Demo"
+					},
+					"Translation":
+					{
+						"Text": "完成试玩"
+					},
+					"Key": "finish_demo"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fire"
+					},
+					"Translation":
+					{
+						"Text": "开火"
+					},
+					"Key": "fire"
+				},
+				{
+					"Source":
+					{
+						"Text": "Go down"
+					},
+					"Translation":
+					{
+						"Text": "向下"
+					},
+					"Key": "go_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Go up"
+					},
+					"Translation":
+					{
+						"Text": "向上"
+					},
+					"Key": "go_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "Inspect Fountain"
+					},
+					"Translation":
+					{
+						"Text": "检查喷泉"
+					},
+					"Key": "inspect_fountain"
+				},
+				{
+					"Source":
+					{
+						"Text": "Inventory"
+					},
+					"Translation":
+					{
+						"Text": "背包"
+					},
+					"Key": "inventory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Key Missing: {0}"
+					},
+					"Translation":
+					{
+						"Text": "缺少的钥匙：{0}"
+					},
+					"Key": "key_missing"
+				},
+				{
+					"Source":
+					{
+						"Text": "Kick Rope"
+					},
+					"Translation":
+					{
+						"Text": "踢绳索"
+					},
+					"Key": "kick_rope"
+				},
+				{
+					"Source":
+					{
+						"Text": "Laboratory"
+					},
+					"Translation":
+					{
+						"Text": "实验室"
+					},
+					"Key": "laboratory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lamps"
+					},
+					"Translation":
+					{
+						"Text": "壁灯"
+					},
+					"Key": "lamps"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave"
+					},
+					"Translation":
+					{
+						"Text": "离开"
+					},
+					"Key": "leave"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave Bridge"
+					},
+					"Translation":
+					{
+						"Text": "离开大桥"
+					},
+					"Key": "leave_bridge"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave Cave"
+					},
+					"Translation":
+					{
+						"Text": "离开洞穴"
+					},
+					"Key": "leave_cave"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave Circle"
+					},
+					"Translation":
+					{
+						"Text": "离开圆环"
+					},
+					"Key": "leave_circle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave Hut"
+					},
+					"Translation":
+					{
+						"Text": "离开小屋"
+					},
+					"Key": "leave_hut"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Lever"
+					},
+					"Translation":
+					{
+						"Text": "左操纵杆"
+					},
+					"Key": "left_lever"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lever activated. The crystal broke."
+					},
+					"Translation":
+					{
+						"Text": "操纵杆激活。水晶破碎。"
+					},
+					"Key": "lever_is_active"
+				},
+				{
+					"Source":
+					{
+						"Text": "Memory Stone Gained"
+					},
+					"Translation":
+					{
+						"Text": "记忆之石已获取"
+					},
+					"Key": "memory_stone_gained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Middle Lever"
+					},
+					"Translation":
+					{
+						"Text": "中操纵杆"
+					},
+					"Key": "middle_lever"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mom's Room"
+					},
+					"Translation":
+					{
+						"Text": "母亲的房间"
+					},
+					"Key": "moms_room"
+				},
+				{
+					"Source":
+					{
+						"Text": "Notebook"
+					},
+					"Translation":
+					{
+						"Text": "笔记本"
+					},
+					"Key": "notebook"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open"
+					},
+					"Translation":
+					{
+						"Text": "打开"
+					},
+					"Key": "open"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Chest"
+					},
+					"Translation":
+					{
+						"Text": "打开宝箱"
+					},
+					"Key": "chest_open"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Door"
+					},
+					"Translation":
+					{
+						"Text": "打开门"
+					},
+					"Key": "open_door"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Small Chest"
+					},
+					"Translation":
+					{
+						"Text": "打开小宝箱"
+					},
+					"Key": "chest_open_small"
+				},
+				{
+					"Source":
+					{
+						"Text": "Painting"
+					},
+					"Translation":
+					{
+						"Text": "绘画"
+					},
+					"Key": "painting"
+				},
+				{
+					"Source":
+					{
+						"Text": "Paintings"
+					},
+					"Translation":
+					{
+						"Text": "绘画"
+					},
+					"Key": "paintings"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pass Bridge"
+					},
+					"Translation":
+					{
+						"Text": "过桥"
+					},
+					"Key": "pass_bridge"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pick Up"
+					},
+					"Translation":
+					{
+						"Text": "捡起"
+					},
+					"Key": "pick_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "Place Rope"
+					},
+					"Translation":
+					{
+						"Text": "把绳子"
+					},
+					"Key": "place_rope"
+				},
+				{
+					"Source":
+					{
+						"Text": "Primary Strike"
+					},
+					"Translation":
+					{
+						"Text": "常规攻击"
+					},
+					"Key": "primary_strike"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pull"
+					},
+					"Translation":
+					{
+						"Text": "拉"
+					},
+					"Key": "pull"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pull Lever"
+					},
+					"Translation":
+					{
+						"Text": "拉动操纵杆"
+					},
+					"Key": "pull_lever"
+				},
+				{
+					"Source":
+					{
+						"Text": "Push"
+					},
+					"Translation":
+					{
+						"Text": "推"
+					},
+					"Key": "push"
+				},
+				{
+					"Source":
+					{
+						"Text": "Put Weapon Away"
+					},
+					"Translation":
+					{
+						"Text": "收起武器"
+					},
+					"Key": "put_weapon_away"
+				},
+				{
+					"Source":
+					{
+						"Text": "Read"
+					},
+					"Translation":
+					{
+						"Text": "阅读"
+					},
+					"Key": "read"
+				},
+				{
+					"Source":
+					{
+						"Text": "Read Dictionary"
+					},
+					"Translation":
+					{
+						"Text": "阅读字典"
+					},
+					"Key": "read_dictionary"
+				},
+				{
+					"Source":
+					{
+						"Text": "Read Symbols"
+					},
+					"Translation":
+					{
+						"Text": "读取符号"
+					},
+					"Key": "read_symbols"
+				},
+				{
+					"Source":
+					{
+						"Text": "Release"
+					},
+					"Translation":
+					{
+						"Text": "释放"
+					},
+					"Key": "wheel_release"
+				},
+				{
+					"Source":
+					{
+						"Text": "Release Keeper"
+					},
+					"Translation":
+					{
+						"Text": "释放守护者"
+					},
+					"Key": "release_keeper"
+				},
+				{
+					"Source":
+					{
+						"Text": "Replay Boss Fight"
+					},
+					"Translation":
+					{
+						"Text": "重玩Boss战"
+					},
+					"Key": "replay_boss_fight"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset Portals"
+					},
+					"Translation":
+					{
+						"Text": "重设传送门"
+					},
+					"Key": "reset_portals"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rest"
+					},
+					"Translation":
+					{
+						"Text": "休息"
+					},
+					"Key": "rest"
+				},
+				{
+					"Source":
+					{
+						"Text": "Restore"
+					},
+					"Translation":
+					{
+						"Text": "恢复"
+					},
+					"Key": "restore"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Lever"
+					},
+					"Translation":
+					{
+						"Text": "右操纵杆"
+					},
+					"Key": "right_lever"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ring the bell"
+					},
+					"Translation":
+					{
+						"Text": "按铃"
+					},
+					"Key": "ring_bell"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rope kicked"
+					},
+					"Translation":
+					{
+						"Text": "绳索被踢走了"
+					},
+					"Key": "rope_kicked"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rope placed"
+					},
+					"Translation":
+					{
+						"Text": "绳索已放置"
+					},
+					"Key": "rope_placed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sail"
+					},
+					"Translation":
+					{
+						"Text": "风帆"
+					},
+					"Key": "sail"
+				},
+				{
+					"Source":
+					{
+						"Text": "Seems to be inactive"
+					},
+					"Translation":
+					{
+						"Text": "似乎没有启动"
+					},
+					"Key": "lever_is_inactive"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Key Acquired"
+					},
+					"Translation":
+					{
+						"Text": "获得银钥匙"
+					},
+					"Key": "aquired_silver_key"
+				},
+				{
+					"Source":
+					{
+						"Text": "Soulkeeper released"
+					},
+					"Translation":
+					{
+						"Text": "灵魂守护者已释放"
+					},
+					"Key": "soulkeeper_released"
+				},
+				{
+					"Source":
+					{
+						"Text": "Special Strike"
+					},
+					"Translation":
+					{
+						"Text": "特殊攻击"
+					},
+					"Key": "special_strike"
+				},
+				{
+					"Source":
+					{
+						"Text": "Stairs"
+					},
+					"Translation":
+					{
+						"Text": "楼梯"
+					},
+					"Key": "stairs"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swing"
+					},
+					"Translation":
+					{
+						"Text": "摇摆不定的"
+					},
+					"Key": "swing"
+				},
+				{
+					"Source":
+					{
+						"Text": "Switch"
+					},
+					"Translation":
+					{
+						"Text": "开关"
+					},
+					"Key": "switch_interact"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tabby's Bed"
+					},
+					"Translation":
+					{
+						"Text": "泰比的床"
+					},
+					"Key": "cat_bed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take"
+					},
+					"Translation":
+					{
+						"Text": "取走"
+					},
+					"Key": "take"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Abacus"
+					},
+					"Translation":
+					{
+						"Text": "取走算盘"
+					},
+					"Key": "take_abacus"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take All"
+					},
+					"Translation":
+					{
+						"Text": "取走所有物品"
+					},
+					"Key": "take_all"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Axe"
+					},
+					"Translation":
+					{
+						"Text": "取走斧子"
+					},
+					"Key": "take_axe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Blades"
+					},
+					"Translation":
+					{
+						"Text": "取走刃剑"
+					},
+					"Key": "take_blades"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Books"
+					},
+					"Translation":
+					{
+						"Text": "取走书籍"
+					},
+					"Key": "take_books"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Mace"
+					},
+					"Translation":
+					{
+						"Text": "取走权杖"
+					},
+					"Key": "take_mace"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Mushrooms"
+					},
+					"Translation":
+					{
+						"Text": "取走蘑菇"
+					},
+					"Key": "take_mushrooms"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Rope"
+					},
+					"Translation":
+					{
+						"Text": "取走绳索"
+					},
+					"Key": "take_rope"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Sabre"
+					},
+					"Translation":
+					{
+						"Text": "取走军刀"
+					},
+					"Key": "take_sabre"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Spellcaster"
+					},
+					"Translation":
+					{
+						"Text": "取走施法物"
+					},
+					"Key": "take_spellcaster"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Stones"
+					},
+					"Translation":
+					{
+						"Text": "取走石头"
+					},
+					"Key": "take_stones"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Sword"
+					},
+					"Translation":
+					{
+						"Text": "取走宝剑"
+					},
+					"Key": "take_sword"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Wheel"
+					},
+					"Translation":
+					{
+						"Text": "取走轮子"
+					},
+					"Key": "take_wheel"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take a seat"
+					},
+					"Translation":
+					{
+						"Text": "坐下"
+					},
+					"Key": "take_a_seat"
+				},
+				{
+					"Source":
+					{
+						"Text": "Talk"
+					},
+					"Translation":
+					{
+						"Text": "交谈"
+					},
+					"Key": "talk"
+				},
+				{
+					"Source":
+					{
+						"Text": "The elevator does not move to the selected direction"
+					},
+					"Translation":
+					{
+						"Text": "电梯不向选定的方向移动"
+					},
+					"Key": "elevator_not_move_to_dir"
+				},
+				{
+					"Source":
+					{
+						"Text": "The elevator seems to be inactive"
+					},
+					"Translation":
+					{
+						"Text": "电梯好像不动了"
+					},
+					"Key": "elevator_inactive"
+				},
+				{
+					"Source":
+					{
+						"Text": "Toggle Switch"
+					},
+					"Translation":
+					{
+						"Text": "拨动开关"
+					},
+					"Key": "toggle_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Touch Statue"
+					},
+					"Translation":
+					{
+						"Text": "触摸塑像"
+					},
+					"Key": "touch_statue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Travel"
+					},
+					"Translation":
+					{
+						"Text": "旅行"
+					},
+					"Key": "travel"
+				},
+				{
+					"Source":
+					{
+						"Text": "Turn"
+					},
+					"Translation":
+					{
+						"Text": "转"
+					},
+					"Key": "wheel_turn"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unlocked with {0}"
+					},
+					"Translation":
+					{
+						"Text": "用  {0} 解锁"
+					},
+					"Key": "unlocked_with"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use"
+					},
+					"Translation":
+					{
+						"Text": "使用"
+					},
+					"Key": "use"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Active Item"
+					},
+					"Translation":
+					{
+						"Text": "使用激活的物品"
+					},
+					"Key": "use_active_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Crystal"
+					},
+					"Translation":
+					{
+						"Text": "使用水晶"
+					},
+					"Key": "use_crystal"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Device"
+					},
+					"Translation":
+					{
+						"Text": "使用装置"
+					},
+					"Key": "use_device"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Elevator"
+					},
+					"Translation":
+					{
+						"Text": "使用电梯"
+					},
+					"Key": "use_elevator"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Elevator Gem"
+					},
+					"Translation":
+					{
+						"Text": "使用电梯的宝石"
+					},
+					"Key": "use_elevator_gem"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Magic Mirror"
+					},
+					"Translation":
+					{
+						"Text": "使用魔镜"
+					},
+					"Key": "use_magic_mirror"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Workshop"
+					},
+					"Translation":
+					{
+						"Text": "使用工坊"
+					},
+					"Key": "use_workshop"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use switch"
+					},
+					"Translation":
+					{
+						"Text": "使用开关"
+					},
+					"Key": "use_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use the device to separate the Realms"
+					},
+					"Translation":
+					{
+						"Text": "使用这个装置将王国进行分离"
+					},
+					"Key": "use_separate_explained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Window"
+					},
+					"Translation":
+					{
+						"Text": "窗口"
+					},
+					"Key": "window"
+				},
+				{
+					"Source":
+					{
+						"Text": "Workroom"
+					},
+					"Translation":
+					{
+						"Text": "工作室"
+					},
+					"Key": "workroom"
+				},
+				{
+					"Source":
+					{
+						"Text": "You are not worthy!"
+					},
+					"Translation":
+					{
+						"Text": "你不配!"
+					},
+					"Key": "you_are_worthy"
+				},
+				{
+					"Source":
+					{
+						"Text": "You can't carry more {0}"
+					},
+					"Translation":
+					{
+						"Text": "你携带不了更多的{0}"
+					},
+					"Key": "stone_cant_carry"
+				},
+				{
+					"Source":
+					{
+						"Text": "You don't have anything you could use to store {0}"
+					},
+					"Translation":
+					{
+						"Text": "你没有任何东西可以用来存储{0}"
+					},
+					"Key": "stone_cant_store"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} acquired"
+					},
+					"Translation":
+					{
+						"Text": "获得 {0}"
+					},
+					"Key": "acquired_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} {1} added to your bag!"
+					},
+					"Translation":
+					{
+						"Text": "{0}{1}添加至背包中!"
+					},
+					"Key": "stone_added"
+				}
+			]
+		},
+		{
+			"Namespace": "Items",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Ice Stone"
+					},
+					"Translation":
+					{
+						"Text": "冰石"
+					},
+					"Key": "ice_stone_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Test Stone"
+					},
+					"Translation":
+					{
+						"Text": "试炼之石"
+					},
+					"Key": "test_stone_name"
+				}
+			]
+		},
+		{
+			"Namespace": "ItemsCommon",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Attack Speed"
+					},
+					"Translation":
+					{
+						"Text": "攻击速度"
+					},
+					"Key": "speed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Capacity Cost"
+					},
+					"Translation":
+					{
+						"Text": "能力消耗"
+					},
+					"Key": "spellcapacitycost"
+				},
+				{
+					"Source":
+					{
+						"Text": "Charge"
+					},
+					"Translation":
+					{
+						"Text": "补给"
+					},
+					"Key": "spellusagecount"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cooldown"
+					},
+					"Translation":
+					{
+						"Text": "冷却"
+					},
+					"Key": "cooldown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dual Wield Weapon"
+					},
+					"Translation":
+					{
+						"Text": "双持武器"
+					},
+					"Key": "dualwield"
+				},
+				{
+					"Source":
+					{
+						"Text": "Health"
+					},
+					"Translation":
+					{
+						"Text": "生命值"
+					},
+					"Key": "health"
+				},
+				{
+					"Source":
+					{
+						"Text": "Invalid"
+					},
+					"Translation":
+					{
+						"Text": "无效的"
+					},
+					"Key": "invalid_shard_max"
+				},
+				{
+					"Source":
+					{
+						"Text": "Invalid Weapon"
+					},
+					"Translation":
+					{
+						"Text": "无效武器"
+					},
+					"Key": "invalid_weapon_max"
+				},
+				{
+					"Source":
+					{
+						"Text": "Key"
+					},
+					"Translation":
+					{
+						"Text": "钥匙"
+					},
+					"Key": "key"
+				},
+				{
+					"Source":
+					{
+						"Text": "Memory Stone"
+					},
+					"Translation":
+					{
+						"Text": "记忆石"
+					},
+					"Key": "MemoryStone"
+				},
+				{
+					"Source":
+					{
+						"Text": "One-Handed Weapon"
+					},
+					"Translation":
+					{
+						"Text": "单手武器"
+					},
+					"Key": "onehanded"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quest Item"
+					},
+					"Translation":
+					{
+						"Text": "任务物品"
+					},
+					"Key": "QuestItem"
+				},
+				{
+					"Source":
+					{
+						"Text": "Runestone"
+					},
+					"Translation":
+					{
+						"Text": "符石"
+					},
+					"Key": "RuneStone"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shard"
+					},
+					"Translation":
+					{
+						"Text": "碎片"
+					},
+					"Key": "shard"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shard of Justice"
+					},
+					"Translation":
+					{
+						"Text": "正义碎片"
+					},
+					"Key": "offensive"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shard of Protection"
+					},
+					"Translation":
+					{
+						"Text": "保护碎片"
+					},
+					"Key": "defensive"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shard of Wonder"
+					},
+					"Translation":
+					{
+						"Text": "奇迹碎片"
+					},
+					"Key": "special"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something interesting"
+					},
+					"Translation":
+					{
+						"Text": "有趣的事物"
+					},
+					"Key": "keylikeitem"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something interesting"
+					},
+					"Translation":
+					{
+						"Text": "有趣的事物"
+					},
+					"Key": "item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to cast with"
+					},
+					"Translation":
+					{
+						"Text": "可用来施法的东西"
+					},
+					"Key": "spell"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to drink"
+					},
+					"Translation":
+					{
+						"Text": "能喝的东西"
+					},
+					"Key": "potion"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to read"
+					},
+					"Translation":
+					{
+						"Text": "可读内容"
+					},
+					"Key": "book"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to shoot with"
+					},
+					"Translation":
+					{
+						"Text": "可以用来射击的东西"
+					},
+					"Key": "crossbow"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to throw"
+					},
+					"Translation":
+					{
+						"Text": "可扔的东西"
+					},
+					"Key": "throwable"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to unlock with"
+					},
+					"Translation":
+					{
+						"Text": "可用来解锁的东西"
+					},
+					"Key": "something_unlock"
+				},
+				{
+					"Source":
+					{
+						"Text": "Two-Handed Weapon"
+					},
+					"Translation":
+					{
+						"Text": "双手武器"
+					},
+					"Key": "twohanded"
+				},
+				{
+					"Source":
+					{
+						"Text": "Usable"
+					},
+					"Translation":
+					{
+						"Text": "可用的"
+					},
+					"Key": "usable"
+				},
+				{
+					"Source":
+					{
+						"Text": "Valuable"
+					},
+					"Translation":
+					{
+						"Text": "有价值的"
+					},
+					"Key": "jewelry"
+				},
+				{
+					"Source":
+					{
+						"Text": "Weapon"
+					},
+					"Translation":
+					{
+						"Text": "武器"
+					},
+					"Key": "weapon"
+				}
+			]
+		},
+		{
+			"Namespace": "MusicName",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "All is lost"
+					},
+					"Translation":
+					{
+						"Text": "一切都失去了"
+					},
+					"Key": "mus_ending_dlg_UnknownWizard_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Armours of the Deep"
+					},
+					"Translation":
+					{
+						"Text": "深处的铠甲"
+					},
+					"Key": "mus2_combat_catacombs_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Decaying City"
+					},
+					"Translation":
+					{
+						"Text": "腐烂的城市"
+					},
+					"Key": "mus_cm_WhiteWall_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disfunctional Golems"
+					},
+					"Translation":
+					{
+						"Text": "失效的机器人"
+					},
+					"Key": "mus1_combat_1_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Duty"
+					},
+					"Translation":
+					{
+						"Text": "责任"
+					},
+					"Key": "mus1_dlg_Golem_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarven Catacombs"
+					},
+					"Translation":
+					{
+						"Text": "矮人地下墓穴"
+					},
+					"Key": "mus2_env_Catacombs_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enlightened Mind"
+					},
+					"Translation":
+					{
+						"Text": "开明的思想"
+					},
+					"Key": "mus1_dlg_Monk_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "I hold it back"
+					},
+					"Translation":
+					{
+						"Text": "我忍住了"
+					},
+					"Key": "mus2_combat_DwarvenBoss_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "In Memoriam"
+					},
+					"Translation":
+					{
+						"Text": "悼念"
+					},
+					"Key": "mus1_env_SecondArcade_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Infected Golems"
+					},
+					"Translation":
+					{
+						"Text": "受感染的机器人"
+					},
+					"Key": "mus3_combat_Bubble_Ground_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Intelligence and Wisdom"
+					},
+					"Translation":
+					{
+						"Text": "聪明才智"
+					},
+					"Key": "mus2_dlg_Gnory_Fishy_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Jump for your life!"
+					},
+					"Translation":
+					{
+						"Text": "为你的生命一跃而下！"
+					},
+					"Key": "mus_chase_theme_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Just a bit crazy"
+					},
+					"Translation":
+					{
+						"Text": "有点疯狂"
+					},
+					"Key": "mus1_dlg_Teachy_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Last Shalter"
+					},
+					"Translation":
+					{
+						"Text": "最后的碎片"
+					},
+					"Key": "mus3_env_CaveHouse_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Last of his Tribe"
+					},
+					"Translation":
+					{
+						"Text": "他的最后一个部落"
+					},
+					"Key": "mus2_env_Kobold_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lost Memories"
+					},
+					"Translation":
+					{
+						"Text": "失去的记忆"
+					},
+					"Key": "mus2_dlg_GolemMaker_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Machine Rage"
+					},
+					"Translation":
+					{
+						"Text": "机器的愤怒"
+					},
+					"Key": "mus1_combat_2_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Meant to be Perfect"
+					},
+					"Translation":
+					{
+						"Text": "注定完美"
+					},
+					"Key": "mus2_combat_LavaBoss_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Moving Pipes"
+					},
+					"Translation":
+					{
+						"Text": "移动管道"
+					},
+					"Key": "mus3_env_PipePuzzle_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "No price too high"
+					},
+					"Translation":
+					{
+						"Text": "价格再高也不过分"
+					},
+					"Key": "mus2_combat_WWBoss_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "One would fail"
+					},
+					"Translation":
+					{
+						"Text": "注定失败"
+					},
+					"Key": "mus3_env_Raven_Puzzle_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pilgrim Road"
+					},
+					"Translation":
+					{
+						"Text": "朝圣者之路"
+					},
+					"Key": "mus2_env_LavaEntrance_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pipe Walkers"
+					},
+					"Translation":
+					{
+						"Text": "管道行走者"
+					},
+					"Key": "mus1_dlg_SewerCreature_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quick and Clever"
+					},
+					"Translation":
+					{
+						"Text": "又快又敏捷"
+					},
+					"Key": "mus2_env_WrackedWaterpath_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Railway Station"
+					},
+					"Translation":
+					{
+						"Text": "火车站"
+					},
+					"Key": "mus2_env_CrossroadCave_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remnant Colors"
+					},
+					"Translation":
+					{
+						"Text": "剩余的颜色"
+					},
+					"Key": "mus1_env_AncientArcade_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sanctuary of Law"
+					},
+					"Translation":
+					{
+						"Text": "律法庇护"
+					},
+					"Key": "mus2_env_DwarvenGate_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Small but Tiny"
+					},
+					"Translation":
+					{
+						"Text": "迷你般的小"
+					},
+					"Key": "mus2_dlg_MerchAnt_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "So close yet so far"
+					},
+					"Translation":
+					{
+						"Text": "如此近却又如此远"
+					},
+					"Key": "mus3_env_BubbleGround_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spirit of the Unknown"
+					},
+					"Translation":
+					{
+						"Text": "未知的精神"
+					},
+					"Key": "mus_main_theme_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Stories never end"
+					},
+					"Translation":
+					{
+						"Text": "故事永远不会结束"
+					},
+					"Key": "mus_waterpath_alter_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sunken Sewer"
+					},
+					"Translation":
+					{
+						"Text": "沉没的下水道"
+					},
+					"Key": "mus1_env_TutorialLevel_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Supper time"
+					},
+					"Translation":
+					{
+						"Text": "晚餐时间"
+					},
+					"Key": "mus2_dlg_SupperDwarf_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Temple for the Ancestors"
+					},
+					"Translation":
+					{
+						"Text": "先祖庙"
+					},
+					"Key": "mus2_env_LavaDeep_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "The end, really"
+					},
+					"Translation":
+					{
+						"Text": "最后，真的"
+					},
+					"Key": "mus3_env_RuinedRealm_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "The other Bell"
+					},
+					"Translation":
+					{
+						"Text": "另一只钟"
+					},
+					"Key": "mus1_dlg_Lory_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Those who survived"
+					},
+					"Translation":
+					{
+						"Text": "那些幸存者们"
+					},
+					"Key": "mus2_combat_WrackedWaterpath_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Touch of Ruin"
+					},
+					"Translation":
+					{
+						"Text": "毁灭之触"
+					},
+					"Key": "mus1_env_GreyGate_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unexpected Friend"
+					},
+					"Translation":
+					{
+						"Text": "意想不到的朋友"
+					},
+					"Key": "mus1_dlg_Generic_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Where the rail leads"
+					},
+					"Translation":
+					{
+						"Text": "铁轨通向何方"
+					},
+					"Key": "mus2_env_DwarvenOutpost_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Winged Wisdom"
+					},
+					"Translation":
+					{
+						"Text": "长翅膀的智者"
+					},
+					"Key": "mus1_dlg_Raven_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Worthy"
+					},
+					"Translation":
+					{
+						"Text": "有价值的"
+					},
+					"Key": "mus1_combat_GateKeeper_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wracked Warriors"
+					},
+					"Translation":
+					{
+						"Text": "受尽折磨的勇士"
+					},
+					"Key": "mus2_combat_WrackedWaterpath_2_display_name"
+				}
+			]
+		},
+		{
+			"Namespace": "Spells",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Blocked"
+					},
+					"Translation":
+					{
+						"Text": "锁定的"
+					},
+					"Key": "blocked"
+				},
+				{
+					"Source":
+					{
+						"Text": "Can't in air"
+					},
+					"Translation":
+					{
+						"Text": "不能在空中"
+					},
+					"Key": "cant_use_in_air"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dangerous Location"
+					},
+					"Translation":
+					{
+						"Text": "危险的位置"
+					},
+					"Key": "cant_use_sk_free_zone"
+				},
+				{
+					"Source":
+					{
+						"Text": "Health Increased!"
+					},
+					"Translation":
+					{
+						"Text": "生命值提升了！"
+					},
+					"Key": "hp_gained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Immune"
+					},
+					"Translation":
+					{
+						"Text": "免疫"
+					},
+					"Key": "immune"
+				},
+				{
+					"Source":
+					{
+						"Text": "Infected"
+					},
+					"Translation":
+					{
+						"Text": "被感染的"
+					},
+					"Key": "infected"
+				},
+				{
+					"Source":
+					{
+						"Text": "Instant Recharge"
+					},
+					"Translation":
+					{
+						"Text": "即时充能"
+					},
+					"Key": "instant_recharge"
+				},
+				{
+					"Source":
+					{
+						"Text": "No need"
+					},
+					"Translation":
+					{
+						"Text": "不需要"
+					},
+					"Key": "no_need_for_heal"
+				},
+				{
+					"Source":
+					{
+						"Text": "Resisted"
+					},
+					"Translation":
+					{
+						"Text": "反抗的"
+					},
+					"Key": "resisted"
+				},
+				{
+					"Source":
+					{
+						"Text": "Second Chance"
+					},
+					"Translation":
+					{
+						"Text": "第二次机会"
+					},
+					"Key": "second_chance"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spell Charge Regained!"
+					},
+					"Translation":
+					{
+						"Text": "法术充能恢复！"
+					},
+					"Key": "spell_regained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spellpower Increased!"
+					},
+					"Translation":
+					{
+						"Text": "法力增强！"
+					},
+					"Key": "spell_capacity_gained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Who? Where? What?!"
+					},
+					"Translation":
+					{
+						"Text": "是谁？在哪儿？什么？！"
+					},
+					"Key": "missing_target"
+				}
+			]
+		},
+		{
+			"Namespace": "UI",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "+ Button"
+					},
+					"Translation":
+					{
+						"Text": "+键"
+					},
+					"Key": "Switch_special_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "+{x} GOLD"
+					},
+					"Translation":
+					{
+						"Text": "+{x}金币"
+					},
+					"Key": "gold_x"
+				},
+				{
+					"Source":
+					{
+						"Text": "-"
+					},
+					"Translation":
+					{
+						"Text": "-"
+					},
+					"Key": "empty_line"
+				},
+				{
+					"Source":
+					{
+						"Text": "- Button"
+					},
+					"Translation":
+					{
+						"Text": "-键"
+					},
+					"Key": "Switch_special_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "- Infinite <Blue>SoulKeeper</> (Checkpoint) spell charges\n- No health penalty when respawning near the <Blue>SoulKeeper</>\n- Decreased incoming damage\n- Decreased Enemy Health"
+					},
+					"Translation":
+					{
+						"Text": "- 无限 <Blue>灵魂守护者</> (检查点)\n- 在<Blue>灵魂守护者</>附近重生不会受到生命惩罚\n- 减少受到的伤害\n- 减少敌人的生命值"
+					},
+					"Key": "difficulty_desc_sane"
+				},
+				{
+					"Source":
+					{
+						"Text": "- Loaded -"
+					},
+					"Translation":
+					{
+						"Text": "-已加载-"
+					},
+					"Key": "save_slots_loaded"
+				},
+				{
+					"Source":
+					{
+						"Text": "- The <Blue>SoulKeeper</> (Portable Checkpoint) spell is removed from the game\n- Increased incoming damage\n- Increased Enemy Health"
+					},
+					"Translation":
+					{
+						"Text": "- <Blue>灵魂守护者</> (检查点) 将被移除。\n- 增加受到的伤害\n- 增加敌人的生命值"
+					},
+					"Key": "difficulty_desc_insane"
+				},
+				{
+					"Source":
+					{
+						"Text": "---Equipped---"
+					},
+					"Translation":
+					{
+						"Text": "---装备的---"
+					},
+					"Key": "item_equipped"
+				},
+				{
+					"Source":
+					{
+						"Text": "..."
+					},
+					"Translation":
+					{
+						"Text": "..."
+					},
+					"Key": "line_three_dots"
+				},
+				{
+					"Source":
+					{
+						"Text": "16:10"
+					},
+					"Translation":
+					{
+						"Text": "16:10"
+					},
+					"Key": "settings_ratio_16_10"
+				},
+				{
+					"Source":
+					{
+						"Text": "16:9"
+					},
+					"Translation":
+					{
+						"Text": "16:9"
+					},
+					"Key": "settings_ratio_16_9"
+				},
+				{
+					"Source":
+					{
+						"Text": "4:3"
+					},
+					"Translation":
+					{
+						"Text": "4:3"
+					},
+					"Key": "settings_ratio_4_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "A Button"
+					},
+					"Translation":
+					{
+						"Text": "A键"
+					},
+					"Key": "Switch_FaceButton_Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "A true challenge"
+					},
+					"Translation":
+					{
+						"Text": "普通"
+					},
+					"Key": "difficulty_intended"
+				},
+				{
+					"Source":
+					{
+						"Text": "Acknowledge"
+					},
+					"Translation":
+					{
+						"Text": "确认"
+					},
+					"Key": "acknowledge"
+				},
+				{
+					"Source":
+					{
+						"Text": "Acknowledge"
+					},
+					"Translation":
+					{
+						"Text": "确认"
+					},
+					"Key": "group_defeated_ack"
+				},
+				{
+					"Source":
+					{
+						"Text": "Add"
+					},
+					"Translation":
+					{
+						"Text": "增加"
+					},
+					"Key": "panel_command_spell_add"
+				},
+				{
+					"Source":
+					{
+						"Text": "Additional Optimizations"
+					},
+					"Translation":
+					{
+						"Text": "其他优化"
+					},
+					"Key": "settings_force_weak_hardware_opt"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the master volume"
+					},
+					"Translation":
+					{
+						"Text": "调节主音量"
+					},
+					"Key": "settings_master_volume_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the music volume"
+					},
+					"Translation":
+					{
+						"Text": "调整音乐音量"
+					},
+					"Key": "settings_music_volume_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the sound effects volume"
+					},
+					"Translation":
+					{
+						"Text": "调整音效音量"
+					},
+					"Key": "settings_effects_volume_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Affects the quality of particles in the world, a lower quality might make some projectiles in the world harder to see."
+					},
+					"Translation":
+					{
+						"Text": "此修改将影响游戏画面的粒子质量，较低的质量可能会使游戏展的一些抛射体更难被看到。"
+					},
+					"Key": "settings_effects_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Affects the quality of the post process effects after the scene is rendered."
+					},
+					"Translation":
+					{
+						"Text": "它会影响场景渲染后的后期效果的质量。"
+					},
+					"Key": "settings_post_effects_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "All progress will be lost"
+					},
+					"Translation":
+					{
+						"Text": "所有的进度都将丢失"
+					},
+					"Key": "restart_game_warning"
+				},
+				{
+					"Source":
+					{
+						"Text": "Allows Higher Bounce even if the Jump button is pressed after the character hits the ground"
+					},
+					"Translation":
+					{
+						"Text": "在角色触地后按下跳跃按钮依然可以弹跳地更高"
+					},
+					"Key": "settings_merciful_bounce_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Allows changing the Screen Resolution."
+					},
+					"Translation":
+					{
+						"Text": "允许改变屏幕分辨率。"
+					},
+					"Key": "settings_resolution_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Always"
+					},
+					"Translation":
+					{
+						"Text": "经常"
+					},
+					"Key": "settings_merciful_bounce_always"
+				},
+				{
+					"Source":
+					{
+						"Text": "Amazing stuff"
+					},
+					"Translation":
+					{
+						"Text": "令人惊叹的东西"
+					},
+					"Key": "item_rarity_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Amount: {0}"
+					},
+					"Translation":
+					{
+						"Text": "数量：{0}"
+					},
+					"Key": "inventory_item_amount"
+				},
+				{
+					"Source":
+					{
+						"Text": "Anti-Aliasing"
+					},
+					"Translation":
+					{
+						"Text": "抗锯齿"
+					},
+					"Key": "settings_antialising"
+				},
+				{
+					"Source":
+					{
+						"Text": "Apply"
+					},
+					"Translation":
+					{
+						"Text": "应用"
+					},
+					"Key": "settings_apply"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure you want to buy back {ItemName} for {Gold} gold?"
+					},
+					"Translation":
+					{
+						"Text": "您确定要以{Gold}金币换回{ItemName}吗?"
+					},
+					"Key": "trade_buy_back"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure you want to buy {ItemName} for {Gold} gold?"
+					},
+					"Translation":
+					{
+						"Text": "您确定要用{Gold}金币购买{ItemName}吗?"
+					},
+					"Key": "trade_buy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure you want to sell {ItemName} for {Gold} gold?"
+					},
+					"Translation":
+					{
+						"Text": "您确定要将{ItemName}以{Gold}金币出售吗?"
+					},
+					"Key": "trade_sell"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure?"
+					},
+					"Translation":
+					{
+						"Text": "你确定?"
+					},
+					"Key": "difficulty_confirm_question"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure?"
+					},
+					"Translation":
+					{
+						"Text": "你确定?"
+					},
+					"Key": "confirm_keyboard_settings_reset"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure?"
+					},
+					"Translation":
+					{
+						"Text": "你确定?"
+					},
+					"Key": "save_slots_remove_confirm"
+				},
+				{
+					"Source":
+					{
+						"Text": "As hard as it can get"
+					},
+					"Translation":
+					{
+						"Text": "疯狂"
+					},
+					"Key": "difficulty_insane"
+				},
+				{
+					"Source":
+					{
+						"Text": "Aspect Ratio"
+					},
+					"Translation":
+					{
+						"Text": "屏幕比例"
+					},
+					"Key": "settings_aspect_ratio"
+				},
+				{
+					"Source":
+					{
+						"Text": "Audio"
+					},
+					"Translation":
+					{
+						"Text": "声音"
+					},
+					"Key": "settings_audio"
+				},
+				{
+					"Source":
+					{
+						"Text": "Auto detect Gamepad Layout"
+					},
+					"Translation":
+					{
+						"Text": "自动检测手柄布局"
+					},
+					"Key": "settings_auto_detect_controller"
+				},
+				{
+					"Source":
+					{
+						"Text": "B Button"
+					},
+					"Translation":
+					{
+						"Text": "B键"
+					},
+					"Key": "Switch_FaceButton_Bottom"
+				},
+				{
+					"Source":
+					{
+						"Text": "Back"
+					},
+					"Translation":
+					{
+						"Text": "返回"
+					},
+					"Key": "panel_command_inv_back"
+				},
+				{
+					"Source":
+					{
+						"Text": "Back"
+					},
+					"Translation":
+					{
+						"Text": "返回"
+					},
+					"Key": "back"
+				},
+				{
+					"Source":
+					{
+						"Text": "Better than nothing"
+					},
+					"Translation":
+					{
+						"Text": "有胜于无"
+					},
+					"Key": "item_rarity_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Better than nothing, right?"
+					},
+					"Translation":
+					{
+						"Text": "总比一无所获好吧？"
+					},
+					"Key": "item_rarity_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Borderless"
+					},
+					"Translation":
+					{
+						"Text": "无边框"
+					},
+					"Key": "settings_borderless"
+				},
+				{
+					"Source":
+					{
+						"Text": "Brightness"
+					},
+					"Translation":
+					{
+						"Text": "亮度"
+					},
+					"Key": "settings_brightness"
+				},
+				{
+					"Source":
+					{
+						"Text": "Buy"
+					},
+					"Translation":
+					{
+						"Text": "买"
+					},
+					"Key": "buy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Buy Back"
+					},
+					"Translation":
+					{
+						"Text": "买回"
+					},
+					"Key": "buy_back"
+				},
+				{
+					"Source":
+					{
+						"Text": "Buy Full Game"
+					},
+					"Translation":
+					{
+						"Text": "Buy Full Game"
+					},
+					"Key": "steam_main_game_buy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Buy WarriOrb in Steam and follow us on social media:"
+					},
+					"Translation":
+					{
+						"Text": "在Steam中购买WarriOrb并在社交媒体上关注我们："
+					},
+					"Key": "buy_on_steam_and_follow"
+				},
+				{
+					"Source":
+					{
+						"Text": "Can not be used in air"
+					},
+					"Translation":
+					{
+						"Text": "不能在空中使用"
+					},
+					"Key": "spell_only_in_air"
+				},
+				{
+					"Source":
+					{
+						"Text": "Can not be used in restricted areas"
+					},
+					"Translation":
+					{
+						"Text": "不能在某些禁区内使用"
+					},
+					"Key": "spell_restricted"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cancel"
+					},
+					"Translation":
+					{
+						"Text": "取消"
+					},
+					"Key": "settings_cancel"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cancel"
+					},
+					"Translation":
+					{
+						"Text": "取消"
+					},
+					"Key": "cancel"
+				},
+				{
+					"Source":
+					{
+						"Text": "Capacity: {0}/{1}"
+					},
+					"Translation":
+					{
+						"Text": "能力: {0}/{1}"
+					},
+					"Key": "panel_spell_capacity"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Item"
+					},
+					"Translation":
+					{
+						"Text": "切换物品"
+					},
+					"Key": "input_change_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Item"
+					},
+					"Translation":
+					{
+						"Text": "切换物品"
+					},
+					"Key": "panel_command_inv_change_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Spell"
+					},
+					"Translation":
+					{
+						"Text": "切换法术"
+					},
+					"Key": "input_change_spell"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Spells"
+					},
+					"Translation":
+					{
+						"Text": "切换法术"
+					},
+					"Key": "panel_rest_option_change_spells"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change User"
+					},
+					"Translation":
+					{
+						"Text": "变更使用者"
+					},
+					"Key": "change_user"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Weapon"
+					},
+					"Translation":
+					{
+						"Text": "切换武器"
+					},
+					"Key": "input_change_weapon"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change the display and locale (numbers, dates) language"
+					},
+					"Translation":
+					{
+						"Text": "更改显示和语言环境(数字、日期)"
+					},
+					"Key": "settings_language_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Changes the speed of the game.\nHigher speed might make the game have lower FPS."
+					},
+					"Translation":
+					{
+						"Text": "调整游戏速度\n更高的游戏速度可能会导致FPS降低"
+					},
+					"Key": "settings_game_speed_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Changes the visuals of the player character"
+					},
+					"Translation":
+					{
+						"Text": "改变玩家角色的视觉效果"
+					},
+					"Key": "character_skin_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chapter"
+					},
+					"Translation":
+					{
+						"Text": "章节"
+					},
+					"Key": "chapter"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chapter 1 completed. Save is Locked."
+					},
+					"Translation":
+					{
+						"Text": "章节 1 已完成。存档已锁定。"
+					},
+					"Key": "chapter1_completed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Character Sheet"
+					},
+					"Translation":
+					{
+						"Text": "角色表"
+					},
+					"Key": "panel_character_sheet"
+				},
+				{
+					"Source":
+					{
+						"Text": "Character Skin"
+					},
+					"Translation":
+					{
+						"Text": "角色皮肤"
+					},
+					"Key": "character_skin_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Checkpoint"
+					},
+					"Translation":
+					{
+						"Text": "关卡"
+					},
+					"Key": "checkpoint"
+				},
+				{
+					"Source":
+					{
+						"Text": "Classic"
+					},
+					"Translation":
+					{
+						"Text": "经典"
+					},
+					"Key": "character_skin_classic"
+				},
+				{
+					"Source":
+					{
+						"Text": "Clear"
+					},
+					"Translation":
+					{
+						"Text": "完成"
+					},
+					"Key": "save_slots_clear"
+				},
+				{
+					"Source":
+					{
+						"Text": "Close"
+					},
+					"Translation":
+					{
+						"Text": "关闭"
+					},
+					"Key": "close"
+				},
+				{
+					"Source":
+					{
+						"Text": "Collect Usage Statistics"
+					},
+					"Translation":
+					{
+						"Text": "收集使用情况统计信息"
+					},
+					"Key": "settings_collect_analytics"
+				},
+				{
+					"Source":
+					{
+						"Text": "Compare"
+					},
+					"Translation":
+					{
+						"Text": "比较"
+					},
+					"Key": "panel_command_inv_compare"
+				},
+				{
+					"Source":
+					{
+						"Text": "Completed in {time}"
+					},
+					"Translation":
+					{
+						"Text": "在{time}内完成"
+					},
+					"Key": "completed_in_time"
+				},
+				{
+					"Source":
+					{
+						"Text": "Confirm"
+					},
+					"Translation":
+					{
+						"Text": "确定"
+					},
+					"Key": "confirm"
+				},
+				{
+					"Source":
+					{
+						"Text": "Confirm Display Settings in"
+					},
+					"Translation":
+					{
+						"Text": "确认显示设置"
+					},
+					"Key": "settings_confirm_display_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Continue"
+					},
+					"Translation":
+					{
+						"Text": "继续"
+					},
+					"Key": "continue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Controls"
+					},
+					"Translation":
+					{
+						"Text": "控制项"
+					},
+					"Key": "settings_controller_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cooldown"
+					},
+					"Translation":
+					{
+						"Text": "冷却"
+					},
+					"Key": "inventory_item_tooltip_cooldown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cooldown only starts on ground"
+					},
+					"Translation":
+					{
+						"Text": "冷却只从地面开始计算"
+					},
+					"Key": "spell_cooldown_stops_in_air"
+				},
+				{
+					"Source":
+					{
+						"Text": "Credits"
+					},
+					"Translation":
+					{
+						"Text": "制作名单"
+					},
+					"Key": "credits"
+				},
+				{
+					"Source":
+					{
+						"Text": "Currently selected button:"
+					},
+					"Translation":
+					{
+						"Text": "当前选中的按钮："
+					},
+					"Key": "key_selection_current"
+				},
+				{
+					"Source":
+					{
+						"Text": "Custom Map {0}"
+					},
+					"Translation":
+					{
+						"Text": "自定义地图 {0}"
+					},
+					"Key": "custom_map_x"
+				},
+				{
+					"Source":
+					{
+						"Text": "Custom Maps"
+					},
+					"Translation":
+					{
+						"Text": "自定义地图"
+					},
+					"Key": "custom_maps"
+				},
+				{
+					"Source":
+					{
+						"Text": "Damage"
+					},
+					"Translation":
+					{
+						"Text": "伤害"
+					},
+					"Key": "inventory_item_tooltip_damage"
+				},
+				{
+					"Source":
+					{
+						"Text": "Default Value is 100%"
+					},
+					"Translation":
+					{
+						"Text": "默认值为100%"
+					},
+					"Key": "settings_brightness_default_value"
+				},
+				{
+					"Source":
+					{
+						"Text": "Defines what aspect ratios are available for your resolution."
+					},
+					"Translation":
+					{
+						"Text": "根据你的屏幕分辨率决定纵横比例。"
+					},
+					"Key": "settings_aspect_ratio_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Description"
+					},
+					"Translation":
+					{
+						"Text": "描述"
+					},
+					"Key": "description"
+				},
+				{
+					"Source":
+					{
+						"Text": "Difficulty"
+					},
+					"Translation":
+					{
+						"Text": "难度"
+					},
+					"Key": "difficulty_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Difficulty"
+					},
+					"Translation":
+					{
+						"Text": "难度"
+					},
+					"Key": "difficulty"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disabled"
+					},
+					"Translation":
+					{
+						"Text": "失效的"
+					},
+					"Key": "disabled"
+				},
+				{
+					"Source":
+					{
+						"Text": "Discord"
+					},
+					"Translation":
+					{
+						"Text": "Discord"
+					},
+					"Key": "discord"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display"
+					},
+					"Translation":
+					{
+						"Text": "显示"
+					},
+					"Key": "settings_display"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display Damage"
+					},
+					"Translation":
+					{
+						"Text": "显示伤害"
+					},
+					"Key": "settings_display_damage"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display Enemy Health"
+					},
+					"Translation":
+					{
+						"Text": "显示敌人的生命值"
+					},
+					"Key": "settings_display_enemy_hp"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display FPS"
+					},
+					"Translation":
+					{
+						"Text": "显示帧"
+					},
+					"Key": "settings_display_fps"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display Floating Voice Lines"
+					},
+					"Translation":
+					{
+						"Text": "显示浮动语音线路"
+					},
+					"Key": "settings_display_floating_vo"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display Mode"
+					},
+					"Translation":
+					{
+						"Text": "显示方式"
+					},
+					"Key": "settings_display_mode"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display Play Time"
+					},
+					"Translation":
+					{
+						"Text": "显示游戏时间"
+					},
+					"Key": "settings_display_play_time"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do not Send"
+					},
+					"Translation":
+					{
+						"Text": "不发送"
+					},
+					"Key": "send_no"
+				},
+				{
+					"Source":
+					{
+						"Text": "Down Button"
+					},
+					"Translation":
+					{
+						"Text": "下键"
+					},
+					"Key": "Switch_special_dpad_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Drink"
+					},
+					"Translation":
+					{
+						"Text": "喝"
+					},
+					"Key": "panel_command_inv_drink"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarf"
+					},
+					"Translation":
+					{
+						"Text": "矮人语"
+					},
+					"Key": "dwarf_language"
+				},
+				{
+					"Source":
+					{
+						"Text": "Effect Quality"
+					},
+					"Translation":
+					{
+						"Text": "影响质量"
+					},
+					"Key": "settings_effects"
+				},
+				{
+					"Source":
+					{
+						"Text": "Empty"
+					},
+					"Translation":
+					{
+						"Text": "空"
+					},
+					"Key": "empty"
+				},
+				{
+					"Source":
+					{
+						"Text": "Epic"
+					},
+					"Translation":
+					{
+						"Text": "极致"
+					},
+					"Key": "settings_quality_epic"
+				},
+				{
+					"Source":
+					{
+						"Text": "Equip"
+					},
+					"Translation":
+					{
+						"Text": "装备"
+					},
+					"Key": "panel_command_inv_equip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Equip Item"
+					},
+					"Translation":
+					{
+						"Text": "装备物品"
+					},
+					"Key": "panel_command_inv_equip_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Equip Next"
+					},
+					"Translation":
+					{
+						"Text": "装备下一个"
+					},
+					"Key": "panel_command_inv_equip_next"
+				},
+				{
+					"Source":
+					{
+						"Text": "Equipped Spells"
+					},
+					"Translation":
+					{
+						"Text": "装备的法术"
+					},
+					"Key": "panel_equipped_spells"
+				},
+				{
+					"Source":
+					{
+						"Text": "Essence"
+					},
+					"Translation":
+					{
+						"Text": "精华"
+					},
+					"Key": "essence"
+				},
+				{
+					"Source":
+					{
+						"Text": "Examine"
+					},
+					"Translation":
+					{
+						"Text": "查看"
+					},
+					"Key": "chest_examine"
+				},
+				{
+					"Source":
+					{
+						"Text": "Feedback"
+					},
+					"Translation":
+					{
+						"Text": "反馈"
+					},
+					"Key": "feedback"
+				},
+				{
+					"Source":
+					{
+						"Text": "Float"
+					},
+					"Translation":
+					{
+						"Text": "漂浮"
+					},
+					"Key": "bubble_float"
+				},
+				{
+					"Source":
+					{
+						"Text": "Floating"
+					},
+					"Translation":
+					{
+						"Text": "漂浮的"
+					},
+					"Key": "input_float"
+				},
+				{
+					"Source":
+					{
+						"Text": "Frame Limit (FPS)"
+					},
+					"Translation":
+					{
+						"Text": "框架限制(FPS)"
+					},
+					"Key": "settings_frame_limit"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fullscreen"
+					},
+					"Translation":
+					{
+						"Text": "全屏"
+					},
+					"Key": "settings_fullscreen"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game"
+					},
+					"Translation":
+					{
+						"Text": "游戏"
+					},
+					"Key": "settings_game"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game Defeated!"
+					},
+					"Translation":
+					{
+						"Text": "游戏结束"
+					},
+					"Key": "game_defeated"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game Speed"
+					},
+					"Translation":
+					{
+						"Text": "游戏速度"
+					},
+					"Key": "settings_game_speed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game currently under development"
+					},
+					"Translation":
+					{
+						"Text": "游戏目前正在开发中"
+					},
+					"Key": "game_is_wip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gamepad"
+					},
+					"Translation":
+					{
+						"Text": "手柄"
+					},
+					"Key": "settings_controller"
+				},
+				{
+					"Source":
+					{
+						"Text": "Go back to main menu"
+					},
+					"Translation":
+					{
+						"Text": "返回主菜单"
+					},
+					"Key": "go_back_to_menu"
+				},
+				{
+					"Source":
+					{
+						"Text": "Good stuff"
+					},
+					"Translation":
+					{
+						"Text": "好东西"
+					},
+					"Key": "item_rarity_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Group Defeated"
+					},
+					"Translation":
+					{
+						"Text": "击败的敌人"
+					},
+					"Key": "group_defeated_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "High"
+					},
+					"Translation":
+					{
+						"Text": "高"
+					},
+					"Key": "settings_quality_high"
+				},
+				{
+					"Source":
+					{
+						"Text": "In Windowed mode you can interact with other windows easier. In Borderless mode you can quickly switch between applications."
+					},
+					"Translation":
+					{
+						"Text": "在窗口模式下，我去可以更容易地与其他窗口交互。在无边框模式下，你可以在应用程序之间快速切换。"
+					},
+					"Key": "settings_display_mode_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "In certain areas background traps are deactivated or background visuals look cheaper to gain more performance."
+					},
+					"Translation":
+					{
+						"Text": "取消某些区域背景或调低背景视觉效果，以获得更多的性能。"
+					},
+					"Key": "settings_force_weak_hardware_opt_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Interact"
+					},
+					"Translation":
+					{
+						"Text": "交互"
+					},
+					"Key": "input_interact"
+				},
+				{
+					"Source":
+					{
+						"Text": "Interact Alternative"
+					},
+					"Translation":
+					{
+						"Text": "替代交互"
+					},
+					"Key": "input_alt_interact"
+				},
+				{
+					"Source":
+					{
+						"Text": "Inventory"
+					},
+					"Translation":
+					{
+						"Text": "物品栏"
+					},
+					"Key": "panel_inventory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Jump"
+					},
+					"Translation":
+					{
+						"Text": "跳"
+					},
+					"Key": "input_jump"
+				},
+				{
+					"Source":
+					{
+						"Text": "Jump"
+					},
+					"Translation":
+					{
+						"Text": "跳"
+					},
+					"Key": "bubble_jump"
+				},
+				{
+					"Source":
+					{
+						"Text": "Just an adventure"
+					},
+					"Translation":
+					{
+						"Text": "简单"
+					},
+					"Key": "difficulty_sane"
+				},
+				{
+					"Source":
+					{
+						"Text": "Keyboard"
+					},
+					"Translation":
+					{
+						"Text": "键盘"
+					},
+					"Key": "settings_keyboard"
+				},
+				{
+					"Source":
+					{
+						"Text": "L Button"
+					},
+					"Translation":
+					{
+						"Text": "L键"
+					},
+					"Key": "Switch_Shoulder_Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Language"
+					},
+					"Translation":
+					{
+						"Text": "语言"
+					},
+					"Key": "settings_language"
+				},
+				{
+					"Source":
+					{
+						"Text": "Layout"
+					},
+					"Translation":
+					{
+						"Text": "布局"
+					},
+					"Key": "settings_controller_platform"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave"
+					},
+					"Translation":
+					{
+						"Text": "离开"
+					},
+					"Key": "chest_leave"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Button"
+					},
+					"Translation":
+					{
+						"Text": "左键"
+					},
+					"Key": "Switch_special_dpad_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Stick"
+					},
+					"Translation":
+					{
+						"Text": "L摇杆"
+					},
+					"Key": "Switch_LeftThumbstick"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Stick Down"
+					},
+					"Translation":
+					{
+						"Text": "L摇杆 - 下"
+					},
+					"Key": "Switch_Gamepad_LeftStick_Down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Stick Left"
+					},
+					"Translation":
+					{
+						"Text": "L摇杆 - 左"
+					},
+					"Key": "Switch_Gamepad_LeftStick_Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Stick Right"
+					},
+					"Translation":
+					{
+						"Text": "L摇杆 - 右"
+					},
+					"Key": "Switch_Gamepad_LeftStick_Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Stick Up"
+					},
+					"Translation":
+					{
+						"Text": "L摇杆 - 上"
+					},
+					"Key": "Switch_Gamepad_LeftStick_Up"
+				},
+				{
+					"Source":
+					{
+						"Text": "Limit the maximum frame rate for a consistent experience."
+					},
+					"Translation":
+					{
+						"Text": "限制最大帧速率以获得最流畅的体验。"
+					},
+					"Key": "settings_frame_limit_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Listen to Music"
+					},
+					"Translation":
+					{
+						"Text": "听音乐"
+					},
+					"Key": "panel_rest_option_listen_to_music"
+				},
+				{
+					"Source":
+					{
+						"Text": "Loot"
+					},
+					"Translation":
+					{
+						"Text": "拾取"
+					},
+					"Key": "chest_loot"
+				},
+				{
+					"Source":
+					{
+						"Text": "Low"
+					},
+					"Translation":
+					{
+						"Text": "低"
+					},
+					"Key": "settings_quality_low"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mailing List"
+					},
+					"Translation":
+					{
+						"Text": "邮箱列表"
+					},
+					"Key": "mailing_list"
+				},
+				{
+					"Source":
+					{
+						"Text": "Master volume"
+					},
+					"Translation":
+					{
+						"Text": "主音量"
+					},
+					"Key": "settings_master_volume"
+				},
+				{
+					"Source":
+					{
+						"Text": "Medium"
+					},
+					"Translation":
+					{
+						"Text": "中"
+					},
+					"Key": "settings_quality_medium"
+				},
+				{
+					"Source":
+					{
+						"Text": "Menu button"
+					},
+					"Translation":
+					{
+						"Text": "“菜单”按钮"
+					},
+					"Key": "gamepad_special_right_xbox"
+				},
+				{
+					"Source":
+					{
+						"Text": "Merciful Bounce Mode"
+					},
+					"Translation":
+					{
+						"Text": "仁慈的跳跳模式"
+					},
+					"Key": "settings_merciful_bounce"
+				},
+				{
+					"Source":
+					{
+						"Text": "Move Left"
+					},
+					"Translation":
+					{
+						"Text": "向左移动"
+					},
+					"Key": "input_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Move Right"
+					},
+					"Translation":
+					{
+						"Text": "向右移动"
+					},
+					"Key": "input_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Move left/right"
+					},
+					"Translation":
+					{
+						"Text": "向左/向右移动"
+					},
+					"Key": "settings_move_left_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mummy"
+					},
+					"Translation":
+					{
+						"Text": "木乃伊"
+					},
+					"Key": "character_skin_mummy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Music volume"
+					},
+					"Translation":
+					{
+						"Text": "音乐音量"
+					},
+					"Key": "settings_music_volume"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute all audio"
+					},
+					"Translation":
+					{
+						"Text": "关闭所有音频"
+					},
+					"Key": "settings_mute_audio_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute audio"
+					},
+					"Translation":
+					{
+						"Text": "静音"
+					},
+					"Key": "settings_mute_audio"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute audio when in background"
+					},
+					"Translation":
+					{
+						"Text": "调到后台时静默所有声音"
+					},
+					"Key": "settings_mute_audio_unfocused"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute the audio when the game window is not in focus"
+					},
+					"Translation":
+					{
+						"Text": "当游戏窗口不清晰时将音频静音"
+					},
+					"Key": "settings_mute_audio_unfocused_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute the gibberish voices inside the dialogues"
+					},
+					"Translation":
+					{
+						"Text": "把对话中胡言乱语的声音消除"
+					},
+					"Key": "settings_mute_dialogue_voice_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute the gibberish voices outside the dialogues"
+					},
+					"Translation":
+					{
+						"Text": "把对话外胡言乱语的声音消除"
+					},
+					"Key": "settings_mute_voice_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute voices in dialogues"
+					},
+					"Translation":
+					{
+						"Text": "静默对话中的声音"
+					},
+					"Key": "settings_mute_dialogue_voice"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute voices outside of dialogues"
+					},
+					"Translation":
+					{
+						"Text": "静默对话外的声音"
+					},
+					"Key": "settings_mute_voice"
+				},
+				{
+					"Source":
+					{
+						"Text": "Never"
+					},
+					"Translation":
+					{
+						"Text": "从不"
+					},
+					"Key": "settings_merciful_bounce_never"
+				},
+				{
+					"Source":
+					{
+						"Text": "Never completed"
+					},
+					"Translation":
+					{
+						"Text": "从未完成"
+					},
+					"Key": "never_completed"
+				},
+				{
+					"Source":
+					{
+						"Text": "New Game"
+					},
+					"Translation":
+					{
+						"Text": "新游戏"
+					},
+					"Key": "save_slots_new_game"
+				},
+				{
+					"Source":
+					{
+						"Text": "No"
+					},
+					"Translation":
+					{
+						"Text": "否"
+					},
+					"Key": "no"
+				},
+				{
+					"Source":
+					{
+						"Text": "Nope!"
+					},
+					"Translation":
+					{
+						"Text": "不!"
+					},
+					"Key": "trade_nope"
+				},
+				{
+					"Source":
+					{
+						"Text": "Normal"
+					},
+					"Translation":
+					{
+						"Text": "普通"
+					},
+					"Key": "difficulty_normal"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not Yet would like to collect usage statistics from your game automatically.\nThese are not used to identify individuals, but help us to understand players needs to improve our game.\n\nSelect \"Send Automatically\" to allow collection of usage statistics,\nor \"Do Not Send\" to prevent the game from sending information to Not Yet.\n\nYou can change this setting at any time via the Settings Game tab."
+					},
+					"Translation":
+					{
+						"Text": "尚未开始自动收集您游戏时的使用数据。\n这些不是用来识别个人，而是帮助我们理解玩家需要改进我们的游戏。\n选择“自动发送”，允许收集使用统计数据，\n或“不发送”，防止游戏发送个人数据信息。\n您可以随时通过设置游戏选项卡更改此设置。"
+					},
+					"Key": "stats_usage_description"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not allowed to remap to Left Stick or Right Stick"
+					},
+					"Translation":
+					{
+						"Text": "不允许重新映射到摇杆"
+					},
+					"Key": "input_not_allowed_thumbsticks_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not allowed to remap to the + Button"
+					},
+					"Translation":
+					{
+						"Text": "不允许重新映射到“+键”按钮"
+					},
+					"Key": "input_not_allowed_options_menu_button_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not allowed to remap to the Menu button"
+					},
+					"Translation":
+					{
+						"Text": "不允许重新映射到“菜单”按钮"
+					},
+					"Key": "input_not_allowed_options_menu_button"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not allowed to remap to thumbsticks"
+					},
+					"Translation":
+					{
+						"Text": "不允许重新映射到摇杆"
+					},
+					"Key": "input_not_allowed_thumbsticks"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not for sale"
+					},
+					"Translation":
+					{
+						"Text": "非卖品"
+					},
+					"Key": "item_not_For_sale"
+				},
+				{
+					"Source":
+					{
+						"Text": "Note: Playing with a controller is recommended"
+					},
+					"Translation":
+					{
+						"Text": "注意：推荐使用手柄进行游戏"
+					},
+					"Key": "controller_recommended"
+				},
+				{
+					"Source":
+					{
+						"Text": "Now I remember the night when it started..."
+					},
+					"Translation":
+					{
+						"Text": "现在我还记得事情开始的那个晚上……"
+					},
+					"Key": "black_fade_teleport_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Okay..."
+					},
+					"Translation":
+					{
+						"Text": "好吧……"
+					},
+					"Key": "trade_okay"
+				},
+				{
+					"Source":
+					{
+						"Text": "On Easy"
+					},
+					"Translation":
+					{
+						"Text": "在简单模式下"
+					},
+					"Key": "settings_merciful_bounce_on_easy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Inventory"
+					},
+					"Translation":
+					{
+						"Text": "打开物品栏"
+					},
+					"Key": "input_open_inventory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Menu/Escape/Back"
+					},
+					"Translation":
+					{
+						"Text": "打开菜单/逃跑/返回"
+					},
+					"Key": "input_menu_back"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pause game when idle"
+					},
+					"Translation":
+					{
+						"Text": "空闲时暂停游戏"
+					},
+					"Key": "settings_pause_game_idle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pause game when unfocused"
+					},
+					"Translation":
+					{
+						"Text": "游戏失焦时暂停游戏"
+					},
+					"Key": "settings_pause_game_unfocused"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pauses the game when the game loses focus"
+					},
+					"Translation":
+					{
+						"Text": "当游戏失焦时暂停游戏"
+					},
+					"Key": "settings_pause_game_unfocused_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pauses the game when the user is idle for a certain amount of minutes"
+					},
+					"Translation":
+					{
+						"Text": "当用户空闲一定时间时即暂停游戏"
+					},
+					"Key": "settings_pause_game_idle_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Play Time"
+					},
+					"Translation":
+					{
+						"Text": "游戏时间"
+					},
+					"Key": "play_time"
+				},
+				{
+					"Source":
+					{
+						"Text": "PlayStation 4"
+					},
+					"Translation":
+					{
+						"Text": "PlayStation 4"
+					},
+					"Key": "console_ps4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Please adjust the brightness of the game to your display"
+					},
+					"Translation":
+					{
+						"Text": "请调整游戏的亮度"
+					},
+					"Key": "settings_brightness_description"
+				},
+				{
+					"Source":
+					{
+						"Text": "Please use a gamepad in order to remap"
+					},
+					"Translation":
+					{
+						"Text": "请使用游戏手柄重新映射"
+					},
+					"Key": "settings_controller_remap_noedit"
+				},
+				{
+					"Source":
+					{
+						"Text": "Please use a keyboard in order to change the keyboard input"
+					},
+					"Translation":
+					{
+						"Text": "请使用键盘来更改键盘输入"
+					},
+					"Key": "settings_keyboard_remap_noedit"
+				},
+				{
+					"Source":
+					{
+						"Text": "Post-Effects"
+					},
+					"Translation":
+					{
+						"Text": "后置效应"
+					},
+					"Key": "settings_post_effects"
+				},
+				{
+					"Source":
+					{
+						"Text": "Press any button to continue..."
+					},
+					"Translation":
+					{
+						"Text": "按任意按钮继续..."
+					},
+					"Key": "loading_screen_press_key_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Press any key to continue..."
+					},
+					"Translation":
+					{
+						"Text": "按任意键继续..."
+					},
+					"Key": "loading_screen_press_key"
+				},
+				{
+					"Source":
+					{
+						"Text": "Press the button you want to assign to the action:"
+					},
+					"Translation":
+					{
+						"Text": "按下你想分配的行动按钮："
+					},
+					"Key": "key_selection_press_button"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pretty good stuff"
+					},
+					"Translation":
+					{
+						"Text": "优质的东西"
+					},
+					"Key": "item_rarity_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Primary Strike"
+					},
+					"Translation":
+					{
+						"Text": "常规攻击"
+					},
+					"Key": "input_strike_primary"
+				},
+				{
+					"Source":
+					{
+						"Text": "Progress will be lost"
+					},
+					"Translation":
+					{
+						"Text": "进度将丢失"
+					},
+					"Key": "save_slots_remove_confirm_subtext"
+				},
+				{
+					"Source":
+					{
+						"Text": "Progress will be saved"
+					},
+					"Translation":
+					{
+						"Text": "进度将保存"
+					},
+					"Key": "progress_saved"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pumpkin"
+					},
+					"Translation":
+					{
+						"Text": "南瓜"
+					},
+					"Key": "character_skin_pumpkin"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quick select spells up/down/left/right"
+					},
+					"Translation":
+					{
+						"Text": "快速选择法术向上/向下/向左/向右"
+					},
+					"Key": "spell_cast_switch_controls"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quit Game"
+					},
+					"Translation":
+					{
+						"Text": "退出游戏"
+					},
+					"Key": "quit_game"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quit Game?"
+					},
+					"Translation":
+					{
+						"Text": "确定退出游戏？"
+					},
+					"Key": "quit_game_question"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quit to Menu"
+					},
+					"Translation":
+					{
+						"Text": "退出到菜单"
+					},
+					"Key": "quit_to_menu"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quit to Menu?"
+					},
+					"Translation":
+					{
+						"Text": "确定退出到菜单？"
+					},
+					"Key": "quit_to_menu_question"
+				},
+				{
+					"Source":
+					{
+						"Text": "R Button"
+					},
+					"Translation":
+					{
+						"Text": "R键"
+					},
+					"Key": "Switch_Shoulder_Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Read"
+					},
+					"Translation":
+					{
+						"Text": "阅读"
+					},
+					"Key": "panel_command_inv_read"
+				},
+				{
+					"Source":
+					{
+						"Text": "Realistic looking fog. Has a high performance impact, disable it to improve performance."
+					},
+					"Translation":
+					{
+						"Text": "雾状效果具有较高的性能影响，禁用它可以提高性能。"
+					},
+					"Key": "settings_volumetric_fog_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remap Controls"
+					},
+					"Translation":
+					{
+						"Text": "重新映射控制器"
+					},
+					"Key": "settings_controller_remap"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remap Controls"
+					},
+					"Translation":
+					{
+						"Text": "重新映射控制器"
+					},
+					"Key": "settings_controller_remap_single"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remove"
+					},
+					"Translation":
+					{
+						"Text": "移除"
+					},
+					"Key": "panel_command_spell_remove"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset"
+					},
+					"Translation":
+					{
+						"Text": "重置"
+					},
+					"Key": "settings_reset"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset button to default"
+					},
+					"Translation":
+					{
+						"Text": "重置按钮为默认值"
+					},
+					"Key": "settings_reset_input_key"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset to Arrow defaults"
+					},
+					"Translation":
+					{
+						"Text": "重置为箭头默认值"
+					},
+					"Key": "reset_keyboard_arrows"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset to Defaults"
+					},
+					"Translation":
+					{
+						"Text": "重置为默认值"
+					},
+					"Key": "settings_reset_default"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset to WASD defaults"
+					},
+					"Translation":
+					{
+						"Text": "重置为WASD默认值"
+					},
+					"Key": "reset_keyboard_wasd"
+				},
+				{
+					"Source":
+					{
+						"Text": "Resistances"
+					},
+					"Translation":
+					{
+						"Text": "抗性"
+					},
+					"Key": "paneL_resistances"
+				},
+				{
+					"Source":
+					{
+						"Text": "Resolution"
+					},
+					"Translation":
+					{
+						"Text": "分辨率"
+					},
+					"Key": "settings_resolution"
+				},
+				{
+					"Source":
+					{
+						"Text": "Resolution Scale"
+					},
+					"Translation":
+					{
+						"Text": "分辨率"
+					},
+					"Key": "settings_resolution_scale"
+				},
+				{
+					"Source":
+					{
+						"Text": "Restart"
+					},
+					"Translation":
+					{
+						"Text": "重新开始"
+					},
+					"Key": "restart"
+				},
+				{
+					"Source":
+					{
+						"Text": "Restart Game?"
+					},
+					"Translation":
+					{
+						"Text": "重新开始游戏？"
+					},
+					"Key": "restart_game_question"
+				},
+				{
+					"Source":
+					{
+						"Text": "Retreat"
+					},
+					"Translation":
+					{
+						"Text": "撤回"
+					},
+					"Key": "game_over_retreat"
+				},
+				{
+					"Source":
+					{
+						"Text": "Retry"
+					},
+					"Translation":
+					{
+						"Text": "重试"
+					},
+					"Key": "game_over_retry"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Button"
+					},
+					"Translation":
+					{
+						"Text": "右键"
+					},
+					"Key": "Switch_special_dpad_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Stick"
+					},
+					"Translation":
+					{
+						"Text": "R摇杆"
+					},
+					"Key": "Switch_RightThumbstick"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Stick Down"
+					},
+					"Translation":
+					{
+						"Text": "R摇杆 - 下"
+					},
+					"Key": "Switch_Gamepad_RightStick_Down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Stick Left"
+					},
+					"Translation":
+					{
+						"Text": "R摇杆 - 左"
+					},
+					"Key": "Switch_Gamepad_RightStick_Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Stick Right"
+					},
+					"Translation":
+					{
+						"Text": "R摇杆 - 右"
+					},
+					"Key": "Switch_Gamepad_RightStick_Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Stick Up"
+					},
+					"Translation":
+					{
+						"Text": "R摇杆 - 上"
+					},
+					"Key": "Switch_Gamepad_RightStick_Up"
+				},
+				{
+					"Source":
+					{
+						"Text": "Roll"
+					},
+					"Translation":
+					{
+						"Text": "滚动"
+					},
+					"Key": "input_roll"
+				},
+				{
+					"Source":
+					{
+						"Text": "Save Slots"
+					},
+					"Translation":
+					{
+						"Text": "存档"
+					},
+					"Key": "saves"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select"
+					},
+					"Translation":
+					{
+						"Text": "选择"
+					},
+					"Key": "select"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select"
+					},
+					"Translation":
+					{
+						"Text": "选择"
+					},
+					"Key": "spell_cast_switch_select"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select"
+					},
+					"Translation":
+					{
+						"Text": "选择"
+					},
+					"Key": "save_slots_select"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select & Cast"
+					},
+					"Translation":
+					{
+						"Text": "选择 & 施放"
+					},
+					"Key": "spell_cast_switch_select_cast"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select another"
+					},
+					"Translation":
+					{
+						"Text": "选另一个"
+					},
+					"Key": "settings_select_another"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select spells"
+					},
+					"Translation":
+					{
+						"Text": "选择法术"
+					},
+					"Key": "select_spells"
+				},
+				{
+					"Source":
+					{
+						"Text": "Selected button = {Key}, is not allowed as an input option"
+					},
+					"Translation":
+					{
+						"Text": "被选中的按钮 = {Key}，不允许作为输入选项"
+					},
+					"Key": "input_selected_key_not_allowed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Selected button = {Key}, will get unbound from the {NumActions}|plural(one=Action,other=Actions) = {ActionNames}"
+					},
+					"Translation":
+					{
+						"Text": "被选中的按钮= {Key}, 将不受{NumActions}|plural(one=Action,other=Actions) = {ActionNames}的约束"
+					},
+					"Key": "input_actions_conflicts"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sell"
+					},
+					"Translation":
+					{
+						"Text": "出售"
+					},
+					"Key": "sell"
+				},
+				{
+					"Source":
+					{
+						"Text": "Send Automatically"
+					},
+					"Translation":
+					{
+						"Text": "自动发送"
+					},
+					"Key": "send_automatically"
+				},
+				{
+					"Source":
+					{
+						"Text": "Settings"
+					},
+					"Translation":
+					{
+						"Text": "设置"
+					},
+					"Key": "settings"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shadow Quality"
+					},
+					"Translation":
+					{
+						"Text": "阴影质量"
+					},
+					"Key": "settings_shadows"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show FPS counter"
+					},
+					"Translation":
+					{
+						"Text": "显示帧数"
+					},
+					"Key": "settings_display_fps_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show a small health bar above injured enemies"
+					},
+					"Translation":
+					{
+						"Text": "在受伤的敌人上方显示一个小的生命条"
+					},
+					"Key": "settings_display_enemy_hp_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show current play time"
+					},
+					"Translation":
+					{
+						"Text": "显示当前游戏时间"
+					},
+					"Key": "settings_display_play_time_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show damage as a floating number on the screen"
+					},
+					"Translation":
+					{
+						"Text": "在屏幕上以浮动数字显示伤害"
+					},
+					"Key": "settings_display_damage_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show voice lines as floating texts"
+					},
+					"Translation":
+					{
+						"Text": "将语音线显示为浮动文本"
+					},
+					"Key": "settings_display_floating_vo_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sidenotes"
+					},
+					"Translation":
+					{
+						"Text": "旁注"
+					},
+					"Key": "panel_notes"
+				},
+				{
+					"Source":
+					{
+						"Text": "Skip"
+					},
+					"Translation":
+					{
+						"Text": "跳过"
+					},
+					"Key": "skip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sleep"
+					},
+					"Translation":
+					{
+						"Text": "睡觉"
+					},
+					"Key": "panel_rest_option_sleep"
+				},
+				{
+					"Source":
+					{
+						"Text": "Smooths out the edges by blending the colors of the pixels around the object to create the illusion of smoothness."
+					},
+					"Translation":
+					{
+						"Text": "通过混合对象周围像素的颜色来平滑边缘，以创建平滑感。"
+					},
+					"Key": "settings_antialising_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sound Effects volume"
+					},
+					"Translation":
+					{
+						"Text": "音效音量"
+					},
+					"Key": "settings_effects_volume"
+				},
+				{
+					"Source":
+					{
+						"Text": "Special Strike"
+					},
+					"Translation":
+					{
+						"Text": "特殊袭击"
+					},
+					"Key": "input_strike_special"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spells"
+					},
+					"Translation":
+					{
+						"Text": "法术"
+					},
+					"Key": "panel_spells"
+				},
+				{
+					"Source":
+					{
+						"Text": "Start"
+					},
+					"Translation":
+					{
+						"Text": "开始"
+					},
+					"Key": "start"
+				},
+				{
+					"Source":
+					{
+						"Text": "Start Game"
+					},
+					"Translation":
+					{
+						"Text": "开始游戏"
+					},
+					"Key": "start_game"
+				},
+				{
+					"Source":
+					{
+						"Text": "Status"
+					},
+					"Translation":
+					{
+						"Text": "状态"
+					},
+					"Key": "status"
+				},
+				{
+					"Source":
+					{
+						"Text": "Surfaces of the game world will increase in fidelity if the setting is higher."
+					},
+					"Translation":
+					{
+						"Text": "此项设置越高，游戏世界越真实。"
+					},
+					"Key": "settings_textures_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Switch"
+					},
+					"Translation":
+					{
+						"Text": "Switch"
+					},
+					"Key": "console_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Synchronize the game refresh rate with the monitor refresh rate. Disable it for higher framerate and better input response.\nWhen enabled it prevents screen tearing."
+					},
+					"Translation":
+					{
+						"Text": "将游戏刷新率与显示器刷新率同步。禁用它可以获得更高的帧率和更好的输入响应。\n当启用时，它可以防止画面撕裂感。"
+					},
+					"Key": "settings_vsync_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "THANK YOU FOR PLAYING WARRIORB DEMO PROLOGUE, WE HOPE YOU HAD A GREAT TIME!"
+					},
+					"Translation":
+					{
+						"Text": "感谢试玩《球魂》序章，希望你喜欢这个游戏！"
+					},
+					"Key": "thank_you_prologue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Weapon Away"
+					},
+					"Translation":
+					{
+						"Text": "拾取武器"
+					},
+					"Key": "input_take_weapon"
+				},
+				{
+					"Source":
+					{
+						"Text": "Teleport To Checkpoint"
+					},
+					"Translation":
+					{
+						"Text": "传送至关卡"
+					},
+					"Key": "teleport_to_cp"
+				},
+				{
+					"Source":
+					{
+						"Text": "Teleport To SoulKeeper"
+					},
+					"Translation":
+					{
+						"Text": "传送至灵魂守护者"
+					},
+					"Key": "teleport_to_sk"
+				},
+				{
+					"Source":
+					{
+						"Text": "Texture Quality"
+					},
+					"Translation":
+					{
+						"Text": "纹理质量"
+					},
+					"Key": "settings_textures"
+				},
+				{
+					"Source":
+					{
+						"Text": "The desired resolution to use when rendering the game. It does not affect the UI.\nLowering it improves performance on lower end machines."
+					},
+					"Translation":
+					{
+						"Text": "渲染游戏时所需的分辨率。它不影响UI。\n降低它可以提高低端机器的性能。"
+					},
+					"Key": "settings_resolution_scale_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "The higher the quality the finer the shadow."
+					},
+					"Translation":
+					{
+						"Text": "质量越高，阴影越细。"
+					},
+					"Key": "settings_shadows_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "The path ahead is challenging. Do not despise failure. Every wrong attempt discarded is another step forward."
+					},
+					"Translation":
+					{
+						"Text": "前方的道路充满挑战。不要害怕失败。每一次挫折都会让你更进一步。"
+					},
+					"Key": "encourage_line1"
+				},
+				{
+					"Source":
+					{
+						"Text": "The trader is not interested in buying that item from you!"
+					},
+					"Translation":
+					{
+						"Text": "商人没有兴趣从你那里买东西!"
+					},
+					"Key": "trade_no_intrested"
+				},
+				{
+					"Source":
+					{
+						"Text": "The way the game is meant to be played"
+					},
+					"Translation":
+					{
+						"Text": "原汁原味"
+					},
+					"Key": "difficulty_desc_intended"
+				},
+				{
+					"Source":
+					{
+						"Text": "These are not used to identify individuals, but help us to understand players needs to improve our game."
+					},
+					"Translation":
+					{
+						"Text": "这些不是用来纪录各种信息的，而是帮助我们理解玩家需要以便改进我们的游戏。"
+					},
+					"Key": "settings_collect_analytics_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "This choice is permanent"
+					},
+					"Translation":
+					{
+						"Text": "选择将永久生效"
+					},
+					"Key": "difficulty_confirm_subtext"
+				},
+				{
+					"Source":
+					{
+						"Text": "This is a loading screen. We wait a few seconds here to look more professional."
+					},
+					"Translation":
+					{
+						"Text": "这是一个加载中的显示。我们需要在此处等待几秒以展示我们的专业度。"
+					},
+					"Key": "loading_screen_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Total Deaths"
+					},
+					"Translation":
+					{
+						"Text": "总计死亡数"
+					},
+					"Key": "total_deaths"
+				},
+				{
+					"Source":
+					{
+						"Text": "Twitter"
+					},
+					"Translation":
+					{
+						"Text": "Twitter"
+					},
+					"Key": "twitter"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Action Back"
+					},
+					"Translation":
+					{
+						"Text": "界面行动 返回"
+					},
+					"Key": "input_action_back"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Action First"
+					},
+					"Translation":
+					{
+						"Text": "界面行动 顺序一"
+					},
+					"Key": "input_action_first"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Action Second"
+					},
+					"Translation":
+					{
+						"Text": "界面动作 顺序二"
+					},
+					"Key": "input_action_second"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Action Third"
+					},
+					"Translation":
+					{
+						"Text": "界面动作 顺序三"
+					},
+					"Key": "input_action_third"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Move Down"
+					},
+					"Translation":
+					{
+						"Text": "界面向下移动"
+					},
+					"Key": "input_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Move Up"
+					},
+					"Translation":
+					{
+						"Text": "界面向上移动"
+					},
+					"Key": "input_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Down"
+					},
+					"Translation":
+					{
+						"Text": "界面 法术向下"
+					},
+					"Key": "input_spell_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Left"
+					},
+					"Translation":
+					{
+						"Text": "界面 法术向左"
+					},
+					"Key": "input_spell_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Right"
+					},
+					"Translation":
+					{
+						"Text": "界面 法术向右"
+					},
+					"Key": "input_spell_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Select"
+					},
+					"Translation":
+					{
+						"Text": "界面 法术选择"
+					},
+					"Key": "input_spell_select"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Select & Cast"
+					},
+					"Translation":
+					{
+						"Text": "界面 法术选择 & 施放"
+					},
+					"Key": "input_spell_select_and_cast"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Up"
+					},
+					"Translation":
+					{
+						"Text": "界面 法术向上"
+					},
+					"Key": "input_spell_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Top Left"
+					},
+					"Translation":
+					{
+						"Text": "界面左上角"
+					},
+					"Key": "input_top_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Top Right"
+					},
+					"Translation":
+					{
+						"Text": "界面右上角"
+					},
+					"Key": "input_top_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "UNKNOWN"
+					},
+					"Translation":
+					{
+						"Text": "未知"
+					},
+					"Key": "unknown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unbound"
+					},
+					"Translation":
+					{
+						"Text": "自由的"
+					},
+					"Key": "input_unbound"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unequip"
+					},
+					"Translation":
+					{
+						"Text": "卸下"
+					},
+					"Key": "panel_command_inv_unequip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unknown"
+					},
+					"Translation":
+					{
+						"Text": "未知"
+					},
+					"Key": "settings_unknown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unlimited"
+					},
+					"Translation":
+					{
+						"Text": "无限制"
+					},
+					"Key": "settings_fps_unlimited"
+				},
+				{
+					"Source":
+					{
+						"Text": "Up Button"
+					},
+					"Translation":
+					{
+						"Text": "上键"
+					},
+					"Key": "Switch_special_dpad_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "Usage Statistics"
+					},
+					"Translation":
+					{
+						"Text": "使用数据"
+					},
+					"Key": "stats_usage_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Item"
+					},
+					"Translation":
+					{
+						"Text": "使用物品"
+					},
+					"Key": "input_use_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Vertical Sync"
+					},
+					"Translation":
+					{
+						"Text": "垂直同步"
+					},
+					"Key": "settings_vsync"
+				},
+				{
+					"Source":
+					{
+						"Text": "Vibration"
+					},
+					"Translation":
+					{
+						"Text": "振动"
+					},
+					"Key": "settings_gamepad_vibration"
+				},
+				{
+					"Source":
+					{
+						"Text": "View button"
+					},
+					"Translation":
+					{
+						"Text": "“视图”按钮"
+					},
+					"Key": "gamepad_special_left_xbox"
+				},
+				{
+					"Source":
+					{
+						"Text": "Volumetric Fog"
+					},
+					"Translation":
+					{
+						"Text": "体积雾"
+					},
+					"Key": "settings_volumetric_fog"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wake Up"
+					},
+					"Translation":
+					{
+						"Text": "醒来"
+					},
+					"Key": "panel_rest_option_wake_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "WarriOrb"
+					},
+					"Translation":
+					{
+						"Text": "球魂"
+					},
+					"Key": "warriorb"
+				},
+				{
+					"Source":
+					{
+						"Text": "WarriOrb DRM"
+					},
+					"Translation":
+					{
+						"Text": "WarriOrb DRM"
+					},
+					"Key": "drm_defeatead_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "We suspect that you play a pirated copy of the game.\nIt's fine. We hope you will enjoy it!\n\nIf you like the game, please tell your friends about it, and maybe even consider buying it.\n\nWe would love to keep making games!"
+					},
+					"Translation":
+					{
+						"Text": "我们检测到您玩的可能是盗版。\n没关系。我们希望游戏能给您到来快乐!\n\n如果您喜欢这个游戏，非常希望您能介绍给您的朋友，或者考虑购买正版。\n\n我们愿意继续将游戏做得更好!"
+					},
+					"Key": "drm_defeatead_description"
+				},
+				{
+					"Source":
+					{
+						"Text": "Windowed"
+					},
+					"Translation":
+					{
+						"Text": "窗口化"
+					},
+					"Key": "settings_windowed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wishlist"
+					},
+					"Translation":
+					{
+						"Text": "愿望单"
+					},
+					"Key": "steam_main_game"
+				},
+				{
+					"Source":
+					{
+						"Text": "X Button"
+					},
+					"Translation":
+					{
+						"Text": "X键"
+					},
+					"Key": "Switch_FaceButton_Top"
+				},
+				{
+					"Source":
+					{
+						"Text": "XBox One"
+					},
+					"Translation":
+					{
+						"Text": "XBox One"
+					},
+					"Key": "console_xbox_one"
+				},
+				{
+					"Source":
+					{
+						"Text": "XP"
+					},
+					"Translation":
+					{
+						"Text": "经验值"
+					},
+					"Key": "xp"
+				},
+				{
+					"Source":
+					{
+						"Text": "Y Button"
+					},
+					"Translation":
+					{
+						"Text": "Y键"
+					},
+					"Key": "Switch_FaceButton_Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Yes"
+					},
+					"Translation":
+					{
+						"Text": "是"
+					},
+					"Key": "yes"
+				},
+				{
+					"Source":
+					{
+						"Text": "You can only change the equipped spells near ancient statues."
+					},
+					"Translation":
+					{
+						"Text": "你只能改变古代雕像附近的装备法术。"
+					},
+					"Key": "panel_spell_selection_denied"
+				},
+				{
+					"Source":
+					{
+						"Text": "You don't have the necessary item to use spells!"
+					},
+					"Translation":
+					{
+						"Text": "你没有使用法术的必需品！"
+					},
+					"Key": "panel_rest_no_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Your progress is saved automatically whenever this icon is displayed"
+					},
+					"Translation":
+					{
+						"Text": "每当显示此图标时，说明进度已经自动保存"
+					},
+					"Key": "progress_saved_automatically"
+				},
+				{
+					"Source":
+					{
+						"Text": "ZL Button"
+					},
+					"Translation":
+					{
+						"Text": "ZL键"
+					},
+					"Key": "Switch_Trigger_Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "ZR Button"
+					},
+					"Translation":
+					{
+						"Text": "ZR键"
+					},
+					"Key": "Switch_Trigger_Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "[Empty Button]"
+					},
+					"Translation":
+					{
+						"Text": "空钮"
+					},
+					"Key": "key_selection_empty"
+				},
+				{
+					"Source":
+					{
+						"Text": "[Press Button]"
+					},
+					"Translation":
+					{
+						"Text": "[按下按钮]"
+					},
+					"Key": "key_selection_press"
+				},
+				{
+					"Source":
+					{
+						"Text": "seconds"
+					},
+					"Translation":
+					{
+						"Text": "秒"
+					},
+					"Key": "seconds"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} H {1} M"
+					},
+					"Translation":
+					{
+						"Text": "{0} H {1} M"
+					},
+					"Key": "save_slots_playtime"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} M"
+					},
+					"Translation":
+					{
+						"Text": "{0}M"
+					},
+					"Key": "save_slots_playtime_short"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} for {1} gold"
+					},
+					"Translation":
+					{
+						"Text": "{0}表示{1}金币"
+					},
+					"Key": "trade_amount_x_x"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} sec"
+					},
+					"Translation":
+					{
+						"Text": "{0} 秒"
+					},
+					"Key": "inventory_item_tooltip_sec"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0}%"
+					},
+					"Translation":
+					{
+						"Text": "{0}%"
+					},
+					"Key": "percentage_argument"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0}x{1}"
+					},
+					"Translation":
+					{
+						"Text": "{0}x{1}"
+					},
+					"Key": "settings_resolution_entry"
+				}
+			]
+		}
+	]
+}

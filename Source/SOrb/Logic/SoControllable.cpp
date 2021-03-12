@@ -1,0 +1,9 @@
+// Copyright (c) Csaba Molnar & Daniel Butum. All Rights Reserved.
+#include "SoControllable.h"
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+USoControllable::USoControllable(const FObjectInitializer& PCIP)
+	: Super(PCIP)
+{
+}

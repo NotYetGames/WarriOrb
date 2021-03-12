@@ -1,0 +1,55 @@
+# Let git use LF in git and automatic line endings in the OS
+* text=auto
+
+# if something breaks again, add -text to see line endings in diff
+*.dlg	diff text
+*.sc	text
+*.ini	diff text
+
+# Declare files that will always have CRLF line endings on checkout.
+*.sln text eol=crlf
+
+#sources
+*.c text
+*.cc text
+*.cxx text
+*.cpp text
+*.c++ text
+*.hpp text
+*.h text
+*.h++ text
+*.hh text
+
+# Localization
+*.po diff text
+*.manifest diff text working-tree-encoding=UTF-16 eol=CRLF
+*.archive diff text working-tree-encoding=UTF-16 eol=CRLF
+*.locres binary
+*.locmeta binary
+*.mo binary
+
+# Compiled Object files
+*.slo binary
+*.lo binary
+*.o binary
+*.obj binary
+
+# Precompiled Headers
+*.gch binary
+*.pch binary
+
+# Compiled Dynamic libraries
+*.so binary
+*.dylib binary
+*.dll binary
+
+# Compiled Static libraries
+*.lai binary
+*.la binary
+*.a binary
+*.lib binary
+
+# Executables
+*.exe binary
+*.out binary
+*.app binary

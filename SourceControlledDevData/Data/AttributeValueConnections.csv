@@ -1,0 +1,14 @@
+,Value,Attribute,AttributeValueType
+0,Health,Vitality,Primary
+1,Stamina,Endurance,Primary
+2,StaminaRegeneration,Endurance,Secondary
+3,DamageBonusSlash,Agility,Primary
+4,BaseAttackSpeed,Agility,Secondary
+5,DamageBonusCrush,Strength,Primary
+6,EquipmentLimit,Strength,Secondary
+7,ResistanceCrush,Resistance,Primary
+8,ResistanceSlash,Resistance,Primary
+9,ResistanceThrust,Resistance,Primary
+10,ResistanceFire,Resistance,Primary
+11,ResistanceWater,Resistance,Primary
+12,ResistanceElectric,Resistance,Primary

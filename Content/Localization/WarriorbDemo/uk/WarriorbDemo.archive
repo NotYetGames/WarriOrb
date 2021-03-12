@@ -1,0 +1,10678 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "Areas",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Act I"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "act_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Act II"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "act_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Act III"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "act_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Am I Worthy?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act1_tut1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ancient Arcade"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "ancient_arcade"
+				},
+				{
+					"Source":
+					{
+						"Text": "Armour Wrath"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act2_lava_boss"
+				},
+				{
+					"Source":
+					{
+						"Text": "At a crossroad"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act2_crossroad"
+				},
+				{
+					"Source":
+					{
+						"Text": "Being Followed"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act2_ww_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bouncing Stones"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act1_test_stone"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bubble Border"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "bubble_border"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cerulean City"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "cerulean_city"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chance for everyone"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_epilogue_save_creatures"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chasm Chamber"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "chasm_chamber"
+				},
+				{
+					"Source":
+					{
+						"Text": "Choosing the right weapon against a Boss will make your life easier."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act2_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Climbing the Tower"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act2_lava_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Crossroad Cave"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "crossroad_cave"
+				},
+				{
+					"Source":
+					{
+						"Text": "Darkest Dungeon"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "darkest_dungeon"
+				},
+				{
+					"Source":
+					{
+						"Text": "Discovering Ancient Technology"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act1_arcade2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don’t forget to spend your gold! (Ad sponsored by Gnory)"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act2_7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don’t forget to use the Soulkeeper!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act2_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don’t give up! Victory is close."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act3_7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarven Dungeons"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "dwarven_dungeons"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarven Statue"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act2_dwarf_boss"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dying often is absolutely normal. If you don’t die a lot, you are doing something wrong."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act1_8"
+				},
+				{
+					"Source":
+					{
+						"Text": "Each weapon has its own unique special strike."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act1_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Elevator Gem and Key"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act2_dwarf_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Epilogue"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "epilogue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Equipping the right items will make the combat easier."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act2_8"
+				},
+				{
+					"Source":
+					{
+						"Text": "Facing the Keeper"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act1_boss_fight"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fallen Druid"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act2_ww_boss"
+				},
+				{
+					"Source":
+					{
+						"Text": "Finally! You did your part of the deal, now it's the Wizard's turn to get you back home."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "ending_loading"
+				},
+				{
+					"Source":
+					{
+						"Text": "Finding the Artefacts might be hard, but this is your only chance to get out."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act2_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Finding the Three Artifacts required all your skills and strength. You hope that delivering them to the Wizard will be less difficult."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "act3_loading"
+				},
+				{
+					"Source":
+					{
+						"Text": "Floating"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act3_floating"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grey Gate"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "grey_gate"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hallowed Heart"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "hallowed_heart"
+				},
+				{
+					"Source":
+					{
+						"Text": "However the past is behind us"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "intro_subtitle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I wish I could just... turn back time to undo what I have done."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "intro_subtitle_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "If you find a combat too hard try to use different shards, spells, and weapons."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act3_6"
+				},
+				{
+					"Source":
+					{
+						"Text": "If you find an area too difficult you can always go to another area first."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act2_6"
+				},
+				{
+					"Source":
+					{
+						"Text": "If you got this far, you surely know everything now."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act3_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "If you manage to defeat every member of a group you won’t have to fight them ever again."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act2_9"
+				},
+				{
+					"Source":
+					{
+						"Text": "In Ball form you bounce back when you hit a surface."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act1_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "In Ball form you go faster."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act1_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Infusing the Gem"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act1_infuse"
+				},
+				{
+					"Source":
+					{
+						"Text": "Into the Blue"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act2_dwarf_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Into the Green"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act2_ww_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Into the Red"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act2_lava_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Last Land"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "last_land"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lava Lair"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "lava_lair"
+				},
+				{
+					"Source":
+					{
+						"Text": "Loading screen tips are very useful - except in a few cases."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act3_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Looking for a Gem"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act1_gem"
+				},
+				{
+					"Source":
+					{
+						"Text": "Looking for a Portal"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act1_portals"
+				},
+				{
+					"Source":
+					{
+						"Text": "Looks like it’s always you who has to take care of the mess others left behind."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_end_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lost Land"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "lost_land"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lost in Ruin"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act1_start"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lost in the Caves"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act3_start"
+				},
+				{
+					"Source":
+					{
+						"Text": "Monk's Home"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act3_monk"
+				},
+				{
+					"Source":
+					{
+						"Text": "Most of the people died after Ruin happened, but there are still some survivors."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act1_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Moving Pipes"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act3_pipes"
+				},
+				{
+					"Source":
+					{
+						"Text": "Now is your time to think about the fate of the Ruined Realm."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act3_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Now your only task is to bring the Artefacts to Wizard."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act3_5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Obedient Outpost"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "obedient_outpost"
+				},
+				{
+					"Source":
+					{
+						"Text": "Opening the Gate"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act2_dwarf_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Past and Future"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_epilogue_past_and_future"
+				},
+				{
+					"Source":
+					{
+						"Text": "Perfect Palace"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "perfect_palace"
+				},
+				{
+					"Source":
+					{
+						"Text": "Portal Place"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "portal_place"
+				},
+				{
+					"Source":
+					{
+						"Text": "Prologue"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "prologue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reaching Crossroad Cave you are a step closer to the Three Artifacts - and to freedom."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "act2_loading"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remnant Road"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "remnant_road"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remnants of a Realm"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act1_arcade1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruined Realm"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "ruined_realm"
+				},
+				{
+					"Source":
+					{
+						"Text": "Searching for a way out"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act1_before_raven"
+				},
+				{
+					"Source":
+					{
+						"Text": "Separated Worlds"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_epilogue_separate_worlds"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sewer again"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act1_tut2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Should you care about the fate of the Realms?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_end_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Snake Slide"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "snake_slide"
+				},
+				{
+					"Source":
+					{
+						"Text": "Some items can’t be used but merchants still like to buy them."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act1_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spells can make combat easier."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act1_7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sunken Sewer"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "sunken_sewer"
+				},
+				{
+					"Source":
+					{
+						"Text": "Talk to any Survivor if you can. They might be able to help you."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act2_5"
+				},
+				{
+					"Source":
+					{
+						"Text": "The End is near... I mean no loading screen can take forever, right?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act3_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Human Realm is a weird place..."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_end_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Real Demon"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_epilogue_boss"
+				},
+				{
+					"Source":
+					{
+						"Text": "There are many keys, and when I say many, I mean it."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act1_5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Third time Worthy"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act1_tut3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Through the Lake"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act2_ww_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Time to finish what you started. One way or another."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_end_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "To the Fourth Station"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act2_end"
+				},
+				{
+					"Source":
+					{
+						"Text": "Uniting Key Pieces"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act2_lava_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Using the Railway can also make your Journey longer."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act3_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Using the Railway can shorten your journey."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act2_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Way out of the Realm"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_act3_way_out"
+				},
+				{
+					"Source":
+					{
+						"Text": "We’ll try to make our next game without any loading screens, we promise..."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act2_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "When you find an item it would make sense to check what it is, wouldn’t it?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act1_6"
+				},
+				{
+					"Source":
+					{
+						"Text": "White Wall"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "white_wall"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wizard's Castle"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_epilogue_castle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wracked Waters"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "wracked_waters"
+				},
+				{
+					"Source":
+					{
+						"Text": "You are a Mighty Spirit from the Unknown Realm. You were torn away from your home by a pathetic mortal Wizard. After a magical accident your essence is bound to an unlikely body. Find a way out of your ball-body prison!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "act1_loading"
+				},
+				{
+					"Source":
+					{
+						"Text": "You can always check the Sidenotes in your Inventory to see if you have any side quests."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_act1_9"
+				},
+				{
+					"Source":
+					{
+						"Text": "You really did your part of the deal, now it’s time to go home!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_tip_end_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "and all I can change now"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "intro_subtitle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "is the future."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "intro_subtitle_3"
+				}
+			]
+		},
+		{
+			"Namespace": "Credits",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Made with FMOD Studio by Firelight Technologies Pty Ltd."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "credits_fmod"
+				}
+			]
+		},
+		{
+			"Namespace": "DateTimeHelper",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "April"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "MonthApril"
+				},
+				{
+					"Source":
+					{
+						"Text": "August"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "MonthAugust"
+				},
+				{
+					"Source":
+					{
+						"Text": "December"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "MonthDecember"
+				},
+				{
+					"Source":
+					{
+						"Text": "February"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "MonthFebruary"
+				},
+				{
+					"Source":
+					{
+						"Text": "January"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "MonthJanuary"
+				},
+				{
+					"Source":
+					{
+						"Text": "July"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "MonthJuly"
+				},
+				{
+					"Source":
+					{
+						"Text": "June"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "MonthJune"
+				},
+				{
+					"Source":
+					{
+						"Text": "March"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "MonthMarch"
+				},
+				{
+					"Source":
+					{
+						"Text": "May"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "MonthMay"
+				},
+				{
+					"Source":
+					{
+						"Text": "November"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "MonthNovember"
+				},
+				{
+					"Source":
+					{
+						"Text": "October"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "MonthOctober"
+				},
+				{
+					"Source":
+					{
+						"Text": "September"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "MonthSeptember"
+				},
+				{
+					"Source":
+					{
+						"Text": "{Hours}:{Minutes}:{Seconds}"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "SecondsToTimeMinusSeconds"
+				},
+				{
+					"Source":
+					{
+						"Text": "{Minutes}:{Seconds}"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "SecondsToTime"
+				}
+			]
+		},
+		{
+			"Namespace": "Dialogue",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Altar"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_altar"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ancient Gate"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_ancient_gate"
+				},
+				{
+					"Source":
+					{
+						"Text": "BALL-E"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_name_ball_e"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bored Gnome"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_teachy_unkown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Demon Lillian"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_demon_lillian"
+				},
+				{
+					"Source":
+					{
+						"Text": "Destroyer"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_name_destroyer"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don't buy"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_name_dont_buy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dr. Ball"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_name_dr_ball"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarven Workshop"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_dwarven_workshop"
+				},
+				{
+					"Source":
+					{
+						"Text": "Epic Sphero"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_name_epic_sphero"
+				},
+				{
+					"Source":
+					{
+						"Text": "Failed One"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_name_failed_one"
+				},
+				{
+					"Source":
+					{
+						"Text": "Finish"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "finish"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fishy"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_fishy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fountain"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_fountain"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gatekeeper"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_gatekeeper"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ghost Dwarf"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_ghost_dwarf"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gnome Lady"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_lory_unkown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gnory"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_gnory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Golem Maker"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_golem_maker"
+				},
+				{
+					"Source":
+					{
+						"Text": "Kobold Chef"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_name_kobold"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lory"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_lory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Magic Mirror"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_magic_mirror"
+				},
+				{
+					"Source":
+					{
+						"Text": "Merch Ant"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_merchant"
+				},
+				{
+					"Source":
+					{
+						"Text": "Monk"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_monk"
+				},
+				{
+					"Source":
+					{
+						"Text": "Next"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "next"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pipe Walker"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_pipe_walker"
+				},
+				{
+					"Source":
+					{
+						"Text": "Raven"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_raven"
+				},
+				{
+					"Source":
+					{
+						"Text": "Saviour"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_name_saviour"
+				},
+				{
+					"Source":
+					{
+						"Text": "Scholar"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_scholar"
+				},
+				{
+					"Source":
+					{
+						"Text": "Secret Hideout Gate"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_secret_hideout"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sewer Creature"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_sewer_creature"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sorbcerer"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_name_sorbcerer"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spirit Of the Unknown"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_name_spirit_of_the_unknown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Statue"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_statue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Supper Dwarf"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_supper_dwarf"
+				},
+				{
+					"Source":
+					{
+						"Text": "Teachy"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_teachy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tomb"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_tomb"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ultimate Frisbee"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_name_ultimate_frisbee"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unknown Wizard"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_unknown_wizard"
+				},
+				{
+					"Source":
+					{
+						"Text": "Voice"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_merchant_voice"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wanderer"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_name_wanderer"
+				},
+				{
+					"Source":
+					{
+						"Text": "Warlorb"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_name_warlorb"
+				},
+				{
+					"Source":
+					{
+						"Text": "WarriOrb"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_name_warriorb"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wizard"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "npc_wizard"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} Gold Gained"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "gold_gained"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} Gold Lost"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "gold_lost"
+				},
+				{
+					"Source":
+					{
+						"Text": "{Amount} {ItemName} gained!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "item_gained_n"
+				},
+				{
+					"Source":
+					{
+						"Text": "{Amount} {ItemName} lost!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "item_lost_n"
+				},
+				{
+					"Source":
+					{
+						"Text": "{ItemName} gained!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "item_gained"
+				},
+				{
+					"Source":
+					{
+						"Text": "{ItemName} lost!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "item_lost"
+				}
+			]
+		},
+		{
+			"Namespace": "Dialogue_VV_Kobold",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Accept Quest"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "C530096E4FA1A2B68077C3AD6AC1BF44"
+				},
+				{
+					"Source":
+					{
+						"Text": "All right, thank you."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "41C1FCA947041D49247FC8A157D7407F"
+				},
+				{
+					"Source":
+					{
+						"Text": "And it also attracts the Pipewalkers."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "3764BB48401ABEDCD125F186B4BF0E17"
+				},
+				{
+					"Source":
+					{
+						"Text": "Any news on your lost tribe?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "DA9D493F42420BE9442B1EA983AEF9C2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Because I’m a chef."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "52A8B1F04C37F262E014DEA14AB68957"
+				},
+				{
+					"Source":
+					{
+						"Text": "Can I help?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "8FF6BF7B4745BB75C2D8F7873C492C2D"
+				},
+				{
+					"Source":
+					{
+						"Text": "Could you activate it for me?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "1B9834C6405C60960F322585AB0F1704"
+				},
+				{
+					"Source":
+					{
+						"Text": "Could you activate it for me?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "2189E8064ACF974902FBA49BD12D0F47"
+				},
+				{
+					"Source":
+					{
+						"Text": "Decline"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "3DCACAB047175FB687542AB0CA25D972"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you know how can I reach that Purple Portal?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "EBC97F7C45858FE6DC72209536FC5C3B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you need help with something?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "8240EF7946C8434333AFAEBEF3583917"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you think you will find Pipewalkers here?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "3C0498284D71B7B64FEA4094F42A5502"
+				},
+				{
+					"Source":
+					{
+						"Text": "Good bye!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "BA715D554C47932C092462B36ADEA081"
+				},
+				{
+					"Source":
+					{
+						"Text": "Good idea."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "10ADF4F948FB99445BF791BB0722AD90"
+				},
+				{
+					"Source":
+					{
+						"Text": "Haha... Yes I’m back again."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "63EA4DDD45390542E3A904928143D9AF"
+				},
+				{
+					"Source":
+					{
+						"Text": "Have you found out anything about Ruin?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "C339B87742C2B475E2387F93418AA855"
+				},
+				{
+					"Source":
+					{
+						"Text": "How on earth have you managed to reach this node?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "DE668E4B4A3D0F785A693B9190E635D3"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can’t promise I’ll do that."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "9FD2679D44BEBBFBBAD2EAAECFFEE0D5"
+				},
+				{
+					"Source":
+					{
+						"Text": "I need to go now."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "DE2390ED4366A621E4D220A3761333DE"
+				},
+				{
+					"Source":
+					{
+						"Text": "I think I managed to activate the device on the wall of the Portal Tower."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "0944D8A541F933BEB5DD068CA9099075"
+				},
+				{
+					"Source":
+					{
+						"Text": "I think I've already done that."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "274EB7AD410061E3E200A9813A54AB29"
+				},
+				{
+					"Source":
+					{
+						"Text": "I think they came here and followed the messages just like you."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "F9EBA1684D435C8AEB14129A7B57A604"
+				},
+				{
+					"Source":
+					{
+						"Text": "I want to find my tribe."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "3A0924F7449355545C0A98B94994616B"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm on my way. Take care!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "E83287164D066CCE8FBFDE835FBD4CFB"
+				},
+				{
+					"Source":
+					{
+						"Text": "I've got to go. See you soon!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "AA1C6EF444BAB6A929E953A87BB87ABB"
+				},
+				{
+					"Source":
+					{
+						"Text": "If there are any they will come here when they smell the soup."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "807FF1A945548216DAD305B4D5A4437F"
+				},
+				{
+					"Source":
+					{
+						"Text": "If they are still alive they must be beyond that Purple Portal."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "43C8FE9248340E49F1F31882D7B96642"
+				},
+				{
+					"Source":
+					{
+						"Text": "If you activate it I’ll be able to use the portal to teleport to other places."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "97E4FDC74B47A6037D6023A4C65B2934"
+				},
+				{
+					"Source":
+					{
+						"Text": "It helps me keep my mind clear."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "D058108241051A9FD0D130B3C9EA4B8B"
+				},
+				{
+					"Source":
+					{
+						"Text": "It was nice to meet you."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "BE7B3444431F43E8E1487F8702B94845"
+				},
+				{
+					"Source":
+					{
+						"Text": "It wasn’t that complicated after all."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "F911D6CB45AA59448C03379A1C07DD60"
+				},
+				{
+					"Source":
+					{
+						"Text": "I’m glad you are back again!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "022227664F6F422B20B109A19B8789AA"
+				},
+				{
+					"Source":
+					{
+						"Text": "I’m not sure... but I have a key which might be useful."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "869485E24E19938DEE48BFB5C5240BB3"
+				},
+				{
+					"Source":
+					{
+						"Text": "I’m sorry but that sounds complicated."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "833BB4384231444247779CAB596D0259"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "5F376BF945B8CE4AA12B7EB05F8C62A5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Looks like I can’t get rid of this body."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "804671AF40165C92FA6A8F8A5AE97997"
+				},
+				{
+					"Source":
+					{
+						"Text": "Meanwhile I cooked something special for you. Take this!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "D8F879684C57BB474E7153B971073663"
+				},
+				{
+					"Source":
+					{
+						"Text": "Nice, well done!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "E6D3401944B2FF128DD1689F5159AF96"
+				},
+				{
+					"Source":
+					{
+						"Text": "No problem."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "CD8CDA3443CDE79BE257B99A0801B209"
+				},
+				{
+					"Source":
+					{
+						"Text": "No. To be honest I don’t care much about Ruin."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "891684A24BA64E351E7F0B9ADEA3D6DF"
+				},
+				{
+					"Source":
+					{
+						"Text": "Oh, it’s you."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "86FBA5A24734DD97167512A054A2E0D9"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pls. report it as a bug."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "E29E2D044497A86DD0FCA8B540703597"
+				},
+				{
+					"Source":
+					{
+						"Text": "Purple Portal"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "73240093450B12BEEA1EB78C9CF7D89E"
+				},
+				{
+					"Source":
+					{
+						"Text": "Really? Anyway, I’m happy to see you."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "B621AECE42A14A508C945595493F3A3A"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruin"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "694B6E3F4F4C7CEAAACB51A2D30FFD26"
+				},
+				{
+					"Source":
+					{
+						"Text": "See you!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "85656A9E46844B03D49E13AC951FDE07"
+				},
+				{
+					"Source":
+					{
+						"Text": "Soup"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "C4D263AB48B800D5522A24923C541ED3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sure! I’ll see what I can do."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "444DD931423A98C7DD95D4BB73F0F1C6"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take it! I still need some time to finish the soup anyway."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "95A7C27A44B78CBF17C1FD8C9446CBD7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Thank you!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "7304F1034A83C6D17E274090FA8E543B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Thanks!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "E3F52F4F47289406E4A546BB0BF3AC3F"
+				},
+				{
+					"Source":
+					{
+						"Text": "Thanks!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "64EE856046A396F2750AE1BC1042CF26"
+				},
+				{
+					"Source":
+					{
+						"Text": "Thanks."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "AED4FBE3422E0FC4AC4BD38650F95CA9"
+				},
+				{
+					"Source":
+					{
+						"Text": "The soup is almost ready..."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "C82668E6497A810FA6ADC0AB6F362B47"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tower Device"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "93B13014434102C8033B41A06DBED69B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tribe"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "4FF2FA154BEFBD448EFDB0BB7FE3F0AF"
+				},
+				{
+					"Source":
+					{
+						"Text": "Why are you making soup?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "B0BAD1934671ADCB2DD1E1BA582E3C68"
+				},
+				{
+					"Source":
+					{
+						"Text": "Yes. According to a book I read here there is a device on the wall of the Portal Tower."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "C1BB24A443D4297B17E2F6A280B02E91"
+				},
+				{
+					"Source":
+					{
+						"Text": "You know, sometimes I miss the Pipewalkers..."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "16358AE840D8B8553E8930A3B7E69BBA"
+				},
+				{
+					"Source":
+					{
+						"Text": "You said you wouldn't do it..."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "137B87BB447D45E46C0425A940E8B7F0"
+				},
+				{
+					"Source":
+					{
+						"Text": "You? I never thought I’ll see you in this shape again."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "2A57878148EFCC8532E34CAE1B9C9A0F"
+				}
+			]
+		},
+		{
+			"Namespace": "Dialogue_WW_Pergamen",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "'Come visit us beyond the Purple Portal!'"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "B10818134FFE3A1E99A9D789BFABBBEE"
+				},
+				{
+					"Source":
+					{
+						"Text": "'Ruin took over some of us. It's no longer safe here.'"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "3DAA74ED48BE31E35D868FB1492E57A8"
+				},
+				{
+					"Source":
+					{
+						"Text": "'We are close to the solution, but your help is still needed.'"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "D292364A4E58F52FB874AA98C1F969A6"
+				}
+			]
+		},
+		{
+			"Namespace": "Dialogue_WW_Statue",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "'White Wall will never fall!'"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "2D531D384CB6A56DBC4834BD229622E7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Oooops..."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "0CD0FD884718EF68B38D578CDE17110A"
+				}
+			]
+		},
+		{
+			"Namespace": "Dialogue_WW_StatueWelcome",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "'There is still hope.'"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "7C3340434A4C80010AC2D58BF8504339"
+				},
+				{
+					"Source":
+					{
+						"Text": "'We know how to stop Ruin.'"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "2690E77045D5E42F32AC6582BAFF27AA"
+				}
+			]
+		},
+		{
+			"Namespace": "Enemies",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Armour Wrath"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "armour_wrath_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarf"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "dwarf_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fallen Druid"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "fallen_druid_name"
+				}
+			]
+		},
+		{
+			"Namespace": "Episodes",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "\"And as Darkness spreads an unknown Warriorb will rise...\""
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "escape_darkness_completed_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "After months of researching I found a way to return back to the Ruined Realm. Ironically enough I have to use the same body I was trapped in before. I'll need to be quick and clever for this might be my very last chance to stop Ruin before it devours the World."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "white_wall_loadingscreen_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Although it's long abandoned the fortress of White Wall still stands against Ruin. After centuries of silence some groups of unexpected visitors broke the loneliness of the decaying city."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "white_wall_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you fast enough to race against Darkness itself?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "escape_darkness_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dreamhack"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "dreamhack_friendly_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dreamhack Demo"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "dreamhack_completed_subtitle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Episode Completed!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "episode_end_main_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Escape Darkness"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "escape_darkness_friendly_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Escaped from Darkness"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "escape_darkness_completed_subtitle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Thanks for playing the game, we hope you had a great time!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "dreamhack_completed_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "What happened beyond the portal is another story, which will be told at another time."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "white_wall_completed_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "What happens when you lock a mighty demon's spirit inside a ball body?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "dreamhack_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "White Wall"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "white_wall_friendly_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "White Wall"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "white_wall_completed_subtitle"
+				}
+			]
+		},
+		{
+			"Namespace": "FloatingEnemyAndNPCLines",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Aaaaaaargh!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_ghosthelmet_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Aaahhh"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_golemmaker_idle_moan_aaahhh"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ahm"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_teachy_idle_book_up_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "All is Lost."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_golemmaker_idle_mindlessly_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "All right, gg!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_flybug_die_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "At your service."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_maintainer_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Attention to the heights again!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_gatekeeper_attack_electric_bubbles_phase_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Attention to the heights!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_gatekeeper_attack_electric_bubbles"
+				},
+				{
+					"Source":
+					{
+						"Text": "Auch"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_lory_idle_humming_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Avoid these!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_gatekeeper_attack_aimed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Be right back!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_ghosthelmet_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "Careful!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_flybug_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chaaaaaarge!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_ghosthelmet_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Come to me!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_shadesphere_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Croon"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_lory_idle_croon"
+				},
+				{
+					"Source":
+					{
+						"Text": "Death is not peace."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_shade_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Death to the outlaw!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_ghostarmor_attack_fall"
+				},
+				{
+					"Source":
+					{
+						"Text": "Death... again?!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_shade_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "Did you hear that?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_primitivefishy_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dinner is served!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_maintainer_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do not resist me!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_shadesphere_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you exist outside of my mind?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_teachy_idle_book_down_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you really think you are worthy?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_gatekeeper_attack_shield"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don't do that again!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_maintainer_miniboss_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Easy man, easy!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_flybug_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ehemm, ehemm"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_supperdwarf_idle_2_humming_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ehm, what?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_teachy_idle_book_down_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ehmm"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_teachy_idle_book_up_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ehmm-hmmm-uhmm"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_teachy_idle_humming_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ehmmm... where is my spoon?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_supperdwarf_idle_1_eating_food_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fishy leaves."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_primitivefishy_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "Flyyyyyyy!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_primitivefishy_attack_long_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Follow the rules!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_ghostarmor_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "For justice!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_ghostarmor_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hemm"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_teachy_idle_book_up_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hissing"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_fishy_idle_hiss"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hmm..."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_koboldchef_idle_04"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hmmm"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_supperdwarf_idle_2_humming_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hmmm"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_lory_idle_humming_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hmmm-hmmm-hmm"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_teachy_idle_humming_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hmmm... tasty"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_supperdwarf_idle_1_eating_food_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Huh! Surprised?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_flybug_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Humm"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_teachy_idle_book_up_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Humming"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_gnory_idle_humming"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hurray!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_primitivefishy_attack_long_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I am perfect"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_armourwrath_attack_strike_down_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "I am, therefore I think!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_long_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can create!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_final_boss_p2_red_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can create!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_final_boss_p1_green"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can destroy!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_final_boss_p2_red_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can fix this"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_maintainer_miniboss_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can take more!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_dwarvenstatue_attack_meteor"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can't rest."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_shade_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I can't... I was... above."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_maintainer_miniboss_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "I create essence which resists the ruin."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_golemmaker_idle_explain_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I have... failed"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_fallendruid_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "I hold it back!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_dwarvenstatue_shield_knock"
+				},
+				{
+					"Source":
+					{
+						"Text": "I keep Ruin"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_dwarvenstatue_attack_axe_point"
+				},
+				{
+					"Source":
+					{
+						"Text": "I need some fish!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_primitivefishy_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I still serve."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_maintainer_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "I think... I am..."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_long_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I won't fail the Maker!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_armourwrath_attack_clap"
+				},
+				{
+					"Source":
+					{
+						"Text": "I won't move... again"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_dwarvenstatue_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'll change you!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_shadesphere_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'll need a blacksmith!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_ghosthelmet_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'll need to be repaired."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_maintainer_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'll need... replacement."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_maintainer_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'll reorganize!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_maintainer_miniboss_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm above!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_maintainer_miniboss_attack_meteor"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm free!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_final_boss_p3_blue"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm human!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_final_boss_p1_red"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm the daughter of the Wizard!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_final_boss_p2_blue"
+				},
+				{
+					"Source":
+					{
+						"Text": "I'm the daughter of the Wizard!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_final_boss_p1_blue"
+				},
+				{
+					"Source":
+					{
+						"Text": "I... don't..."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_ghostarmor__die"
+				},
+				{
+					"Source":
+					{
+						"Text": "Is this the end?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_shade_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "It needs more salt!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_koboldchef_idle_02"
+				},
+				{
+					"Source":
+					{
+						"Text": "It will be delicious."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_koboldchef_idle_03"
+				},
+				{
+					"Source":
+					{
+						"Text": "It's not funny!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_flybug_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "It's safe here."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_fallendruid_attack_flybug"
+				},
+				{
+					"Source":
+					{
+						"Text": "It's still... me..."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_shadesphere_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Join me!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_shade_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Just a scratch."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_ghostarmor_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Knowledge is Lost, All is Lost."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_golemmaker_idle_mindlessly_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Let's head east!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_ghosthelmet_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Nature will survive!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_fallendruid_attack_tendril"
+				},
+				{
+					"Source":
+					{
+						"Text": "No... I'm still... perfect"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_armourwrath_attack_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "Now it's clean!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_maintainer_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ohh"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_lory_idle_humming_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ohm"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_supperdwarf_idle_2_humming_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ommm"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_lory_idle_humming_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Onon"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_golemmaker_idle_sad_onon"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ooohhh"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_golemmaker_idle_moan_ooohhh"
+				},
+				{
+					"Source":
+					{
+						"Text": "Order, order, order!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_maintainer_miniboss_attack_spawn_enemy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Order..."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_maintainer_elite_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Out of my way!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_armourwrath_attack_strike_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Out with you, Ruin!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_fallendruid_attack_thorn_sphere"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pain..."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_shade_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Resist Ruin!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_armourwrath_attack_magic"
+				},
+				{
+					"Source":
+					{
+						"Text": "Send someone for a hammer!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_ghosthelmet_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Serve..."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_maintainer_elite_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shish!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_primitivefishy_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Srrrr!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_primitivefishy_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take this!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_flybug_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "That sounds funny!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_final_boss_p3_green"
+				},
+				{
+					"Source":
+					{
+						"Text": "That sounds funny!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_final_boss_p2_green"
+				},
+				{
+					"Source":
+					{
+						"Text": "The mind is furnished with ideas by a drunk upholsterer..."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_long_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "The unexamined life is not worth living!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_long_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "This is my order!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_maintainer_miniboss_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "This place shall stand!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_fallendruid_attack_spike"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tic-tac"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_short_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "To be..."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_short_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Too hot!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_koboldchef_idle_01"
+				},
+				{
+					"Source":
+					{
+						"Text": "Umm-huhummm"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_teachy_idle_humming_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use your head... or mine!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_ghosthelmet_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Uuush!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_primitivefishy_damaged_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Walking ball?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_teachy_idle_book_down_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Watch out for your head!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_gatekeeper_attack_meteors"
+				},
+				{
+					"Source":
+					{
+						"Text": "Watch out where you bounce to!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_gatekeeper_attack_aimed_phase_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "We are above the Law!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_dwarvenstatue_attack_axe_strike_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "We keep the Wall."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_ghostarmor_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Weird"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_teachy_idle_humming_speaking_short_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "What do you wish to be?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_shadesphere_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "What is it like down there? Heh?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_flybug_idle_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "What makes you say that?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_final_boss_p3_red"
+				},
+				{
+					"Source":
+					{
+						"Text": "Whistling"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_gnory_idle_whistle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Why did you...?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_shadesphere_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "You changed... me?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_shadesphere_die"
+				},
+				{
+					"Source":
+					{
+						"Text": "You shall die too!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_shade_attack_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "You shall perish!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_ghostarmor_attack_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "You... can't."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_ghostarmor_damaged_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "You?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_teachy_idle_book_down_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Your order?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_maintainer_idle_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Your words remind me of something."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_golemmaker_idle_tries_to_remember"
+				},
+				{
+					"Source":
+					{
+						"Text": "Yum-yum hmmmm... delicious"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "char_vo_supperdwarf_idle_1_eating_food_0"
+				}
+			]
+		},
+		{
+			"Namespace": "InputKeys",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Any Key"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "AnyKey"
+				},
+				{
+					"Source":
+					{
+						"Text": "Down"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Up"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Up"
+				}
+			]
+		},
+		{
+			"Namespace": "Interaction",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "A few items acquired"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "acquired_few_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "A rope could be placed here"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "rope_can_be_placed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Absorb Energy"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "absorb_energy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Acquire Memory Stone"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "memory_stone_aquire"
+				},
+				{
+					"Source":
+					{
+						"Text": "Activate"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "activate"
+				},
+				{
+					"Source":
+					{
+						"Text": "Activate Elevator"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "activate_elevator"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ascend"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "ascend"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bed"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "bed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Boat to the Kitchen"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "boat_to_kitchen"
+				},
+				{
+					"Source":
+					{
+						"Text": "Boat to the Ruins"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "boat_to_ruins"
+				},
+				{
+					"Source":
+					{
+						"Text": "Boat to the Station"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "boat_to_station"
+				},
+				{
+					"Source":
+					{
+						"Text": "Call Elevator"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "call_elevator"
+				},
+				{
+					"Source":
+					{
+						"Text": "Candles"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "candles"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chair"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "chair"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Spells"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "change_spells"
+				},
+				{
+					"Source":
+					{
+						"Text": "Charge"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "charge"
+				},
+				{
+					"Source":
+					{
+						"Text": "Check Chest"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "chest_check"
+				},
+				{
+					"Source":
+					{
+						"Text": "Check Door"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "check_door"
+				},
+				{
+					"Source":
+					{
+						"Text": "Check Small Chest"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "chest_check_small"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chest"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "chest"
+				},
+				{
+					"Source":
+					{
+						"Text": "Close Chest"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "chest_close"
+				},
+				{
+					"Source":
+					{
+						"Text": "Close Door"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "close_door"
+				},
+				{
+					"Source":
+					{
+						"Text": "Close Small Chest"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "chest_close_small"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cross Planks"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "cross_planks"
+				},
+				{
+					"Source":
+					{
+						"Text": "Daddy's Room"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "dads_room"
+				},
+				{
+					"Source":
+					{
+						"Text": "Descend"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "descend"
+				},
+				{
+					"Source":
+					{
+						"Text": "Destroy"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "destroy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Destroy the device to save the creatures of Ruined Realm"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "use_destroy_explained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Device"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "device"
+				},
+				{
+					"Source":
+					{
+						"Text": "Door"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "door"
+				},
+				{
+					"Source":
+					{
+						"Text": "Door does not open from this side!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "door_does_not_open_from_this_side"
+				},
+				{
+					"Source":
+					{
+						"Text": "Door opened"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "door_opened"
+				},
+				{
+					"Source":
+					{
+						"Text": "Drop"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "drop"
+				},
+				{
+					"Source":
+					{
+						"Text": "Elevator Activated"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "elevator_activated"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "enter"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Bridge"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "enter_bridge"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Cave"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "enter_cave"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Flames"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "enter_flames"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Gate"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "enter_gate"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Hut"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "enter_hut"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Kitchen"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "enter_kitchen"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Pipe"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "enter_pipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Portal"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "enter_portal"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Stairs on the Left"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "enter_stairs_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Stairs on the Right"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "enter_stairs_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enter Tower"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "enter_tower"
+				},
+				{
+					"Source":
+					{
+						"Text": "Entrance locked from the other side"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "entrace_locked"
+				},
+				{
+					"Source":
+					{
+						"Text": "Examine"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "examine"
+				},
+				{
+					"Source":
+					{
+						"Text": "Examine Device"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "examine_device"
+				},
+				{
+					"Source":
+					{
+						"Text": "Examine Elevator"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "examine_elevator"
+				},
+				{
+					"Source":
+					{
+						"Text": "Examine Switch"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "examine_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Exit"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "exit"
+				},
+				{
+					"Source":
+					{
+						"Text": "Explore more stations before using the railway system."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "explore_stations"
+				},
+				{
+					"Source":
+					{
+						"Text": "Finish Demo"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "finish_demo"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fire"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "fire"
+				},
+				{
+					"Source":
+					{
+						"Text": "Go down"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "go_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Go up"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "go_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "Inspect Fountain"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "inspect_fountain"
+				},
+				{
+					"Source":
+					{
+						"Text": "Inventory"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "inventory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Key Missing: {0}"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "key_missing"
+				},
+				{
+					"Source":
+					{
+						"Text": "Kick Rope"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "kick_rope"
+				},
+				{
+					"Source":
+					{
+						"Text": "Laboratory"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "laboratory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lamps"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "lamps"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "leave"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave Bridge"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "leave_bridge"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave Cave"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "leave_cave"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave Circle"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "leave_circle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave Hut"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "leave_hut"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Lever"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "left_lever"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lever activated. The crystal broke."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "lever_is_active"
+				},
+				{
+					"Source":
+					{
+						"Text": "Memory Stone Gained"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "memory_stone_gained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Middle Lever"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "middle_lever"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mom's Room"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "moms_room"
+				},
+				{
+					"Source":
+					{
+						"Text": "Notebook"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "notebook"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "open"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Chest"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "chest_open"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Door"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "open_door"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Small Chest"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "chest_open_small"
+				},
+				{
+					"Source":
+					{
+						"Text": "Painting"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "painting"
+				},
+				{
+					"Source":
+					{
+						"Text": "Paintings"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "paintings"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pass Bridge"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "pass_bridge"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pick Up"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "pick_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "Place Rope"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "place_rope"
+				},
+				{
+					"Source":
+					{
+						"Text": "Primary Strike"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "primary_strike"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pull"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "pull"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pull Lever"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "pull_lever"
+				},
+				{
+					"Source":
+					{
+						"Text": "Push"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "push"
+				},
+				{
+					"Source":
+					{
+						"Text": "Put Weapon Away"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "put_weapon_away"
+				},
+				{
+					"Source":
+					{
+						"Text": "Read"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "read"
+				},
+				{
+					"Source":
+					{
+						"Text": "Read Dictionary"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "read_dictionary"
+				},
+				{
+					"Source":
+					{
+						"Text": "Read Symbols"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "read_symbols"
+				},
+				{
+					"Source":
+					{
+						"Text": "Release"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "wheel_release"
+				},
+				{
+					"Source":
+					{
+						"Text": "Release Keeper"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "release_keeper"
+				},
+				{
+					"Source":
+					{
+						"Text": "Replay Boss Fight"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "replay_boss_fight"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset Portals"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "reset_portals"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rest"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "rest"
+				},
+				{
+					"Source":
+					{
+						"Text": "Restore"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "restore"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Lever"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "right_lever"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ring the bell"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "ring_bell"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rope kicked"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "rope_kicked"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rope placed"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "rope_placed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sail"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "sail"
+				},
+				{
+					"Source":
+					{
+						"Text": "Seems to be inactive"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "lever_is_inactive"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Key Acquired"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "aquired_silver_key"
+				},
+				{
+					"Source":
+					{
+						"Text": "Soulkeeper released"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "soulkeeper_released"
+				},
+				{
+					"Source":
+					{
+						"Text": "Special Strike"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "special_strike"
+				},
+				{
+					"Source":
+					{
+						"Text": "Stairs"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "stairs"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swing"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "swing"
+				},
+				{
+					"Source":
+					{
+						"Text": "Switch"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "switch_interact"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tabby's Bed"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "cat_bed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "take"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Abacus"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "take_abacus"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take All"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "take_all"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Axe"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "take_axe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Blades"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "take_blades"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Books"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "take_books"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Mace"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "take_mace"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Mushrooms"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "take_mushrooms"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Rope"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "take_rope"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Sabre"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "take_sabre"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Spellcaster"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "take_spellcaster"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Stones"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "take_stones"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Sword"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "take_sword"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Wheel"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "take_wheel"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take a seat"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "take_a_seat"
+				},
+				{
+					"Source":
+					{
+						"Text": "Talk"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "talk"
+				},
+				{
+					"Source":
+					{
+						"Text": "The elevator does not move to the selected direction"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "elevator_not_move_to_dir"
+				},
+				{
+					"Source":
+					{
+						"Text": "The elevator seems to be inactive"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "elevator_inactive"
+				},
+				{
+					"Source":
+					{
+						"Text": "Toggle Switch"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "toggle_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Touch Statue"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "touch_statue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Travel"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "travel"
+				},
+				{
+					"Source":
+					{
+						"Text": "Turn"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "wheel_turn"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unlocked with {0}"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "unlocked_with"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "use"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Active Item"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "use_active_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Crystal"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "use_crystal"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Device"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "use_device"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Elevator"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "use_elevator"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Elevator Gem"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "use_elevator_gem"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Magic Mirror"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "use_magic_mirror"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Workshop"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "use_workshop"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use switch"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "use_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use the device to separate the Realms"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "use_separate_explained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Window"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "window"
+				},
+				{
+					"Source":
+					{
+						"Text": "Workroom"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "workroom"
+				},
+				{
+					"Source":
+					{
+						"Text": "You are not worthy!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "you_are_worthy"
+				},
+				{
+					"Source":
+					{
+						"Text": "You can't carry more {0}"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "stone_cant_carry"
+				},
+				{
+					"Source":
+					{
+						"Text": "You don't have anything you could use to store {0}"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "stone_cant_store"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} acquired"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "acquired_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} {1} added to your bag!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "stone_added"
+				}
+			]
+		},
+		{
+			"Namespace": "Items",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Ice Stone"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "ice_stone_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Test Stone"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "test_stone_name"
+				}
+			]
+		},
+		{
+			"Namespace": "ItemsCommon",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Attack Speed"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "speed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Capacity Cost"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "spellcapacitycost"
+				},
+				{
+					"Source":
+					{
+						"Text": "Charge"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "spellusagecount"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cooldown"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "cooldown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dual Wield Weapon"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "dualwield"
+				},
+				{
+					"Source":
+					{
+						"Text": "Health"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "health"
+				},
+				{
+					"Source":
+					{
+						"Text": "Invalid"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "invalid_shard_max"
+				},
+				{
+					"Source":
+					{
+						"Text": "Invalid Weapon"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "invalid_weapon_max"
+				},
+				{
+					"Source":
+					{
+						"Text": "Key"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "key"
+				},
+				{
+					"Source":
+					{
+						"Text": "Memory Stone"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "MemoryStone"
+				},
+				{
+					"Source":
+					{
+						"Text": "One-Handed Weapon"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "onehanded"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quest Item"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "QuestItem"
+				},
+				{
+					"Source":
+					{
+						"Text": "Runestone"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "RuneStone"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shard"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "shard"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shard of Justice"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "offensive"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shard of Protection"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "defensive"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shard of Wonder"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "special"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something interesting"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "keylikeitem"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something interesting"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to cast with"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "spell"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to drink"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "potion"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to read"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "book"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to shoot with"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "crossbow"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to throw"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "throwable"
+				},
+				{
+					"Source":
+					{
+						"Text": "Something to unlock with"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "something_unlock"
+				},
+				{
+					"Source":
+					{
+						"Text": "Two-Handed Weapon"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "twohanded"
+				},
+				{
+					"Source":
+					{
+						"Text": "Usable"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "usable"
+				},
+				{
+					"Source":
+					{
+						"Text": "Valuable"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "jewelry"
+				},
+				{
+					"Source":
+					{
+						"Text": "Weapon"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "weapon"
+				}
+			]
+		},
+		{
+			"Namespace": "MusicName",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "All is lost"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus_ending_dlg_UnknownWizard_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Armours of the Deep"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus2_combat_catacombs_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Decaying City"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus_cm_WhiteWall_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disfunctional Golems"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus1_combat_1_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Duty"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus1_dlg_Golem_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarven Catacombs"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus2_env_Catacombs_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enlightened Mind"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus1_dlg_Monk_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "I hold it back"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus2_combat_DwarvenBoss_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "In Memoriam"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus1_env_SecondArcade_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Infected Golems"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus3_combat_Bubble_Ground_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Intelligence and Wisdom"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus2_dlg_Gnory_Fishy_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Jump for your life!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus_chase_theme_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Just a bit crazy"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus1_dlg_Teachy_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Last Shalter"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus3_env_CaveHouse_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Last of his Tribe"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus2_env_Kobold_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lost Memories"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus2_dlg_GolemMaker_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Machine Rage"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus1_combat_2_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Meant to be Perfect"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus2_combat_LavaBoss_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Moving Pipes"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus3_env_PipePuzzle_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "No price too high"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus2_combat_WWBoss_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "One would fail"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus3_env_Raven_Puzzle_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pilgrim Road"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus2_env_LavaEntrance_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pipe Walkers"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus1_dlg_SewerCreature_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quick and Clever"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus2_env_WrackedWaterpath_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Railway Station"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus2_env_CrossroadCave_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remnant Colors"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus1_env_AncientArcade_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sanctuary of Law"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus2_env_DwarvenGate_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Small but Tiny"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus2_dlg_MerchAnt_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "So close yet so far"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus3_env_BubbleGround_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spirit of the Unknown"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus_main_theme_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Stories never end"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus_waterpath_alter_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sunken Sewer"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus1_env_TutorialLevel_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Supper time"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus2_dlg_SupperDwarf_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Temple for the Ancestors"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus2_env_LavaDeep_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "The end, really"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus3_env_RuinedRealm_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "The other Bell"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus1_dlg_Lory_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Those who survived"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus2_combat_WrackedWaterpath_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Touch of Ruin"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus1_env_GreyGate_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unexpected Friend"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus1_dlg_Generic_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Where the rail leads"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus2_env_DwarvenOutpost_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Winged Wisdom"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus1_dlg_Raven_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Worthy"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus1_combat_GateKeeper_display_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wracked Warriors"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mus2_combat_WrackedWaterpath_2_display_name"
+				}
+			]
+		},
+		{
+			"Namespace": "Spells",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Blocked"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "blocked"
+				},
+				{
+					"Source":
+					{
+						"Text": "Can't in air"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "cant_use_in_air"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dangerous Location"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "cant_use_sk_free_zone"
+				},
+				{
+					"Source":
+					{
+						"Text": "Health Increased!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "hp_gained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Immune"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "immune"
+				},
+				{
+					"Source":
+					{
+						"Text": "Infected"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "infected"
+				},
+				{
+					"Source":
+					{
+						"Text": "Instant Recharge"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "instant_recharge"
+				},
+				{
+					"Source":
+					{
+						"Text": "No need"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "no_need_for_heal"
+				},
+				{
+					"Source":
+					{
+						"Text": "Resisted"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "resisted"
+				},
+				{
+					"Source":
+					{
+						"Text": "Second Chance"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "second_chance"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spell Charge Regained!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "spell_regained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spellpower Increased!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "spell_capacity_gained"
+				},
+				{
+					"Source":
+					{
+						"Text": "Who? Where? What?!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "missing_target"
+				}
+			]
+		},
+		{
+			"Namespace": "UI",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "+ Button"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_special_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "+{x} GOLD"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "gold_x"
+				},
+				{
+					"Source":
+					{
+						"Text": "-"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "empty_line"
+				},
+				{
+					"Source":
+					{
+						"Text": "- Button"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_special_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "- Infinite <Blue>SoulKeeper</> (Checkpoint) spell charges\n- No health penalty when respawning near the <Blue>SoulKeeper</>\n- Decreased incoming damage\n- Decreased Enemy Health"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "difficulty_desc_sane"
+				},
+				{
+					"Source":
+					{
+						"Text": "- Loaded -"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "save_slots_loaded"
+				},
+				{
+					"Source":
+					{
+						"Text": "- The <Blue>SoulKeeper</> (Portable Checkpoint) spell is removed from the game\n- Increased incoming damage\n- Increased Enemy Health"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "difficulty_desc_insane"
+				},
+				{
+					"Source":
+					{
+						"Text": "---Equipped---"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "item_equipped"
+				},
+				{
+					"Source":
+					{
+						"Text": "..."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "line_three_dots"
+				},
+				{
+					"Source":
+					{
+						"Text": "16:10"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_ratio_16_10"
+				},
+				{
+					"Source":
+					{
+						"Text": "16:9"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_ratio_16_9"
+				},
+				{
+					"Source":
+					{
+						"Text": "4:3"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_ratio_4_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "A Button"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_FaceButton_Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "A true challenge"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "difficulty_intended"
+				},
+				{
+					"Source":
+					{
+						"Text": "Acknowledge"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "acknowledge"
+				},
+				{
+					"Source":
+					{
+						"Text": "Acknowledge"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "group_defeated_ack"
+				},
+				{
+					"Source":
+					{
+						"Text": "Add"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_command_spell_add"
+				},
+				{
+					"Source":
+					{
+						"Text": "Additional Optimizations"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_force_weak_hardware_opt"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the master volume"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_master_volume_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the music volume"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_music_volume_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the sound effects volume"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_effects_volume_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Affects the quality of particles in the world, a lower quality might make some projectiles in the world harder to see."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_effects_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Affects the quality of the post process effects after the scene is rendered."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_post_effects_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "All progress will be lost"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "restart_game_warning"
+				},
+				{
+					"Source":
+					{
+						"Text": "Allows Higher Bounce even if the Jump button is pressed after the character hits the ground"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_merciful_bounce_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Allows changing the Screen Resolution."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_resolution_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Always"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_merciful_bounce_always"
+				},
+				{
+					"Source":
+					{
+						"Text": "Amazing stuff"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "item_rarity_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Amount: {0}"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "inventory_item_amount"
+				},
+				{
+					"Source":
+					{
+						"Text": "Anti-Aliasing"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_antialising"
+				},
+				{
+					"Source":
+					{
+						"Text": "Apply"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_apply"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure you want to buy back {ItemName} for {Gold} gold?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "trade_buy_back"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure you want to buy {ItemName} for {Gold} gold?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "trade_buy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure you want to sell {ItemName} for {Gold} gold?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "trade_sell"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "difficulty_confirm_question"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "confirm_keyboard_settings_reset"
+				},
+				{
+					"Source":
+					{
+						"Text": "Are you sure?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "save_slots_remove_confirm"
+				},
+				{
+					"Source":
+					{
+						"Text": "As hard as it can get"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "difficulty_insane"
+				},
+				{
+					"Source":
+					{
+						"Text": "Aspect Ratio"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_aspect_ratio"
+				},
+				{
+					"Source":
+					{
+						"Text": "Audio"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_audio"
+				},
+				{
+					"Source":
+					{
+						"Text": "Auto detect Gamepad Layout"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_auto_detect_controller"
+				},
+				{
+					"Source":
+					{
+						"Text": "B Button"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_FaceButton_Bottom"
+				},
+				{
+					"Source":
+					{
+						"Text": "Back"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_command_inv_back"
+				},
+				{
+					"Source":
+					{
+						"Text": "Back"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "back"
+				},
+				{
+					"Source":
+					{
+						"Text": "Better than nothing"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "item_rarity_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Better than nothing, right?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "item_rarity_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Borderless"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_borderless"
+				},
+				{
+					"Source":
+					{
+						"Text": "Brightness"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_brightness"
+				},
+				{
+					"Source":
+					{
+						"Text": "Buy"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "buy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Buy Back"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "buy_back"
+				},
+				{
+					"Source":
+					{
+						"Text": "Buy Full Game"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "steam_main_game_buy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Buy WarriOrb in Steam and follow us on social media:"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "buy_on_steam_and_follow"
+				},
+				{
+					"Source":
+					{
+						"Text": "Can not be used in air"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "spell_only_in_air"
+				},
+				{
+					"Source":
+					{
+						"Text": "Can not be used in restricted areas"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "spell_restricted"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cancel"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_cancel"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cancel"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "cancel"
+				},
+				{
+					"Source":
+					{
+						"Text": "Capacity: {0}/{1}"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_spell_capacity"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Item"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_change_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Item"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_command_inv_change_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Spell"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_change_spell"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Spells"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_rest_option_change_spells"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change User"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "change_user"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change Weapon"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_change_weapon"
+				},
+				{
+					"Source":
+					{
+						"Text": "Change the display and locale (numbers, dates) language"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_language_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Changes the speed of the game.\nHigher speed might make the game have lower FPS."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_game_speed_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Changes the visuals of the player character"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "character_skin_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chapter"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "chapter"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chapter 1 completed. Save is Locked."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "chapter1_completed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Character Sheet"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_character_sheet"
+				},
+				{
+					"Source":
+					{
+						"Text": "Character Skin"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "character_skin_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Checkpoint"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "checkpoint"
+				},
+				{
+					"Source":
+					{
+						"Text": "Classic"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "character_skin_classic"
+				},
+				{
+					"Source":
+					{
+						"Text": "Clear"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "save_slots_clear"
+				},
+				{
+					"Source":
+					{
+						"Text": "Close"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "close"
+				},
+				{
+					"Source":
+					{
+						"Text": "Collect Usage Statistics"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_collect_analytics"
+				},
+				{
+					"Source":
+					{
+						"Text": "Compare"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_command_inv_compare"
+				},
+				{
+					"Source":
+					{
+						"Text": "Completed in {time}"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "completed_in_time"
+				},
+				{
+					"Source":
+					{
+						"Text": "Confirm"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "confirm"
+				},
+				{
+					"Source":
+					{
+						"Text": "Confirm Display Settings in"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_confirm_display_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Continue"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "continue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Controls"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_controller_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cooldown"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "inventory_item_tooltip_cooldown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cooldown only starts on ground"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "spell_cooldown_stops_in_air"
+				},
+				{
+					"Source":
+					{
+						"Text": "Credits"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "credits"
+				},
+				{
+					"Source":
+					{
+						"Text": "Currently selected key:"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "key_selection_current"
+				},
+				{
+					"Source":
+					{
+						"Text": "Custom Map {0}"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "custom_map_x"
+				},
+				{
+					"Source":
+					{
+						"Text": "Custom Maps"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "custom_maps"
+				},
+				{
+					"Source":
+					{
+						"Text": "Damage"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "inventory_item_tooltip_damage"
+				},
+				{
+					"Source":
+					{
+						"Text": "Default Value is 100%"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_brightness_default_value"
+				},
+				{
+					"Source":
+					{
+						"Text": "Defines what aspect ratios are available for your resolution."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_aspect_ratio_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Description"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "description"
+				},
+				{
+					"Source":
+					{
+						"Text": "Difficulty"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "difficulty_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Difficulty"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "difficulty"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disabled"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "disabled"
+				},
+				{
+					"Source":
+					{
+						"Text": "Discord"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "discord"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_display"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display Damage"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_display_damage"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display Enemy Health"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_display_enemy_hp"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display FPS"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_display_fps"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display Floating Voice Lines"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_display_floating_vo"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display Mode"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_display_mode"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display Play Time"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_display_play_time"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do not Send"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "send_no"
+				},
+				{
+					"Source":
+					{
+						"Text": "Down Button"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_special_dpad_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Drink"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_command_inv_drink"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarf"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "dwarf_language"
+				},
+				{
+					"Source":
+					{
+						"Text": "Effect Quality"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_effects"
+				},
+				{
+					"Source":
+					{
+						"Text": "Empty"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "empty"
+				},
+				{
+					"Source":
+					{
+						"Text": "Epic"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_quality_epic"
+				},
+				{
+					"Source":
+					{
+						"Text": "Equip"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_command_inv_equip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Equip Item"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_command_inv_equip_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Equip Next"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_command_inv_equip_next"
+				},
+				{
+					"Source":
+					{
+						"Text": "Equipped Spells"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_equipped_spells"
+				},
+				{
+					"Source":
+					{
+						"Text": "Essence"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "essence"
+				},
+				{
+					"Source":
+					{
+						"Text": "Examine"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "chest_examine"
+				},
+				{
+					"Source":
+					{
+						"Text": "Feedback"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "feedback"
+				},
+				{
+					"Source":
+					{
+						"Text": "Float"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "bubble_float"
+				},
+				{
+					"Source":
+					{
+						"Text": "Floating"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_float"
+				},
+				{
+					"Source":
+					{
+						"Text": "Frame Limit (FPS)"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_frame_limit"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fullscreen"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_fullscreen"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_game"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game Defeated!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "game_defeated"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game Speed"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_game_speed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game currently under development"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "game_is_wip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gamepad"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_controller"
+				},
+				{
+					"Source":
+					{
+						"Text": "Go back to main menu"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "go_back_to_menu"
+				},
+				{
+					"Source":
+					{
+						"Text": "Good stuff"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "item_rarity_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Group Defeated"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "group_defeated_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "High"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_quality_high"
+				},
+				{
+					"Source":
+					{
+						"Text": "In Windowed mode you can interact with other windows easier. In Borderless mode you can quickly switch between applications."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_display_mode_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "In certain areas background traps are deactivated or background visuals look cheaper to gain more performance."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_force_weak_hardware_opt_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Interact"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_interact"
+				},
+				{
+					"Source":
+					{
+						"Text": "Interact Alternative"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_alt_interact"
+				},
+				{
+					"Source":
+					{
+						"Text": "Inventory"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_inventory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Jump"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_jump"
+				},
+				{
+					"Source":
+					{
+						"Text": "Jump"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "bubble_jump"
+				},
+				{
+					"Source":
+					{
+						"Text": "Just an adventure"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "difficulty_sane"
+				},
+				{
+					"Source":
+					{
+						"Text": "Keyboard"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_keyboard"
+				},
+				{
+					"Source":
+					{
+						"Text": "L Button"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_Shoulder_Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Language"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_language"
+				},
+				{
+					"Source":
+					{
+						"Text": "Layout"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_controller_platform"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leave"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "chest_leave"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Button"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_special_dpad_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Stick"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_LeftThumbstick"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Stick Down"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_Gamepad_LeftStick_Down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Stick Left"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_Gamepad_LeftStick_Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Stick Right"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_Gamepad_LeftStick_Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left Stick Up"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_Gamepad_LeftStick_Up"
+				},
+				{
+					"Source":
+					{
+						"Text": "Limit the maximum frame rate for a consistent experience."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_frame_limit_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Listen to Music"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_rest_option_listen_to_music"
+				},
+				{
+					"Source":
+					{
+						"Text": "Loot"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "chest_loot"
+				},
+				{
+					"Source":
+					{
+						"Text": "Low"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_quality_low"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mailing List"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "mailing_list"
+				},
+				{
+					"Source":
+					{
+						"Text": "Master volume"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_master_volume"
+				},
+				{
+					"Source":
+					{
+						"Text": "Medium"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_quality_medium"
+				},
+				{
+					"Source":
+					{
+						"Text": "Menu button"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "gamepad_special_right_xbox"
+				},
+				{
+					"Source":
+					{
+						"Text": "Merciful Bounce Mode"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_merciful_bounce"
+				},
+				{
+					"Source":
+					{
+						"Text": "Move Left"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Move Right"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Move left/right"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_move_left_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mummy"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "character_skin_mummy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Music volume"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_music_volume"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute all audio"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_mute_audio_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute audio"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_mute_audio"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute audio when in background"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_mute_audio_unfocused"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute the audio when the game window is not in focus"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_mute_audio_unfocused_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute the gibberish voices inside the dialogues"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_mute_dialogue_voice_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute the gibberish voices outside the dialogues"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_mute_voice_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute voices in dialogues"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_mute_dialogue_voice"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mute voices outside of dialogues"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_mute_voice"
+				},
+				{
+					"Source":
+					{
+						"Text": "Never"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_merciful_bounce_never"
+				},
+				{
+					"Source":
+					{
+						"Text": "Never completed"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "never_completed"
+				},
+				{
+					"Source":
+					{
+						"Text": "New Game"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "save_slots_new_game"
+				},
+				{
+					"Source":
+					{
+						"Text": "No"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "no"
+				},
+				{
+					"Source":
+					{
+						"Text": "Nope!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "trade_nope"
+				},
+				{
+					"Source":
+					{
+						"Text": "Normal"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "difficulty_normal"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not Yet would like to collect usage statistics from your game automatically.\nThese are not used to identify individuals, but help us to understand players needs to improve our game.\n\nSelect \"Send Automatically\" to allow collection of usage statistics,\nor \"Do Not Send\" to prevent the game from sending information to Not Yet.\n\nYou can change this setting at any time via the Settings Game tab."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "stats_usage_description"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not allowed to remap to Left Stick or Right Stick"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_not_allowed_thumbsticks_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not allowed to remap to the + Button"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_not_allowed_options_menu_button_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not allowed to remap to the Menu button"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_not_allowed_options_menu_button"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not allowed to remap to thumbsticks"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_not_allowed_thumbsticks"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not for sale"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "item_not_For_sale"
+				},
+				{
+					"Source":
+					{
+						"Text": "Note: Playing with a controller is recommended"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "controller_recommended"
+				},
+				{
+					"Source":
+					{
+						"Text": "Now I remember the night when it started..."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "black_fade_teleport_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Okay..."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "trade_okay"
+				},
+				{
+					"Source":
+					{
+						"Text": "On Easy"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_merciful_bounce_on_easy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Inventory"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_open_inventory"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Menu/Escape/Back"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_menu_back"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pause game when idle"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_pause_game_idle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pause game when unfocused"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_pause_game_unfocused"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pauses the game when the game loses focus"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_pause_game_unfocused_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pauses the game when the user is idle for a certain amount of minutes"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_pause_game_idle_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Play Time"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "play_time"
+				},
+				{
+					"Source":
+					{
+						"Text": "PlayStation 4"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "console_ps4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Please adjust the brightness of the game to your display"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_brightness_description"
+				},
+				{
+					"Source":
+					{
+						"Text": "Please use a gamepad in order to remap"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_controller_remap_noedit"
+				},
+				{
+					"Source":
+					{
+						"Text": "Please use a keyboard in order to change the keyboard input"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_keyboard_remap_noedit"
+				},
+				{
+					"Source":
+					{
+						"Text": "Post-Effects"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_post_effects"
+				},
+				{
+					"Source":
+					{
+						"Text": "Press any button to continue..."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_screen_press_key_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Press any key to continue..."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_screen_press_key"
+				},
+				{
+					"Source":
+					{
+						"Text": "Press the button you want to assign to the action:"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "key_selection_press_button"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pretty good stuff"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "item_rarity_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Primary Strike"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_strike_primary"
+				},
+				{
+					"Source":
+					{
+						"Text": "Progress will be lost"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "save_slots_remove_confirm_subtext"
+				},
+				{
+					"Source":
+					{
+						"Text": "Progress will be saved"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_saved"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pumpkin"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "character_skin_pumpkin"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quick select spells up/down/left/right"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "spell_cast_switch_controls"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quit Game"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "quit_game"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quit Game?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "quit_game_question"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quit to Menu"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "quit_to_menu"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quit to Menu?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "quit_to_menu_question"
+				},
+				{
+					"Source":
+					{
+						"Text": "R Button"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_Shoulder_Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Read"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_command_inv_read"
+				},
+				{
+					"Source":
+					{
+						"Text": "Realistic looking fog. Has a high performance impact, disable it to improve performance."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_volumetric_fog_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remap Controls"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_controller_remap_single"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remap Gamepad"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_controller_remap"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remove"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_command_spell_remove"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_reset"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset key to default"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_reset_input_key"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset to Arrow defaults"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "reset_keyboard_arrows"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset to Defaults"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_reset_default"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reset to WASD defaults"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "reset_keyboard_wasd"
+				},
+				{
+					"Source":
+					{
+						"Text": "Resistances"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "paneL_resistances"
+				},
+				{
+					"Source":
+					{
+						"Text": "Resolution"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_resolution"
+				},
+				{
+					"Source":
+					{
+						"Text": "Resolution Scale"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_resolution_scale"
+				},
+				{
+					"Source":
+					{
+						"Text": "Restart"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "restart"
+				},
+				{
+					"Source":
+					{
+						"Text": "Restart Game?"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "restart_game_question"
+				},
+				{
+					"Source":
+					{
+						"Text": "Retreat"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "game_over_retreat"
+				},
+				{
+					"Source":
+					{
+						"Text": "Retry"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "game_over_retry"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Button"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_special_dpad_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Stick"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_RightThumbstick"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Stick Down"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_Gamepad_RightStick_Down"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Stick Left"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_Gamepad_RightStick_Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Stick Right"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_Gamepad_RightStick_Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right Stick Up"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_Gamepad_RightStick_Up"
+				},
+				{
+					"Source":
+					{
+						"Text": "Roll"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_roll"
+				},
+				{
+					"Source":
+					{
+						"Text": "Save Slots"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "saves"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "select"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "spell_cast_switch_select"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "save_slots_select"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select & Cast"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "spell_cast_switch_select_cast"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select another"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_select_another"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select spells"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "select_spells"
+				},
+				{
+					"Source":
+					{
+						"Text": "Selected key = {Key}, is not allowed as an input option"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_selected_key_not_allowed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Selected key = {Key}, will get unbound from the {NumActions}|plural(one=Action,other=Actions) = {ActionNames}"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_actions_conflicts"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sell"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "sell"
+				},
+				{
+					"Source":
+					{
+						"Text": "Send Automatically"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "send_automatically"
+				},
+				{
+					"Source":
+					{
+						"Text": "Settings"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shadow Quality"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_shadows"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show FPS counter"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_display_fps_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show a small health bar above injured enemies"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_display_enemy_hp_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show current play time"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_display_play_time_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show damage as a floating number on the screen"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_display_damage_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show voice lines as floating texts"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_display_floating_vo_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sidenotes"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_notes"
+				},
+				{
+					"Source":
+					{
+						"Text": "Skip"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "skip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sleep"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_rest_option_sleep"
+				},
+				{
+					"Source":
+					{
+						"Text": "Smooths out the edges by blending the colors of the pixels around the object to create the illusion of smoothness."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_antialising_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sound Effects volume"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_effects_volume"
+				},
+				{
+					"Source":
+					{
+						"Text": "Special Strike"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_strike_special"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spells"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_spells"
+				},
+				{
+					"Source":
+					{
+						"Text": "Start"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "start"
+				},
+				{
+					"Source":
+					{
+						"Text": "Start Game"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "start_game"
+				},
+				{
+					"Source":
+					{
+						"Text": "Status"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "status"
+				},
+				{
+					"Source":
+					{
+						"Text": "Surfaces of the game world will increase in fidelity if the setting is higher."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_textures_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Switch"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "console_switch"
+				},
+				{
+					"Source":
+					{
+						"Text": "Synchronize the game refresh rate with the monitor refresh rate. Disable it for higher framerate and better input response.\nWhen enabled it prevents screen tearing."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_vsync_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "THANK YOU FOR PLAYING WARRIORB DEMO PROLOGUE, WE HOPE YOU HAD A GREAT TIME!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "thank_you_prologue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Take Weapon Away"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_take_weapon"
+				},
+				{
+					"Source":
+					{
+						"Text": "Teleport To Checkpoint"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "teleport_to_cp"
+				},
+				{
+					"Source":
+					{
+						"Text": "Teleport To SoulKeeper"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "teleport_to_sk"
+				},
+				{
+					"Source":
+					{
+						"Text": "Texture Quality"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_textures"
+				},
+				{
+					"Source":
+					{
+						"Text": "The desired resolution to use when rendering the game. It does not affect the UI.\nLowering it improves performance on lower end machines."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_resolution_scale_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "The higher the quality the finer the shadow."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_shadows_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "The path ahead is challenging. Do not despise failure. Every wrong attempt discarded is another step forward."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "encourage_line1"
+				},
+				{
+					"Source":
+					{
+						"Text": "The trader is not interested in buying that item from you!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "trade_no_intrested"
+				},
+				{
+					"Source":
+					{
+						"Text": "The way the game is meant to be played"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "difficulty_desc_intended"
+				},
+				{
+					"Source":
+					{
+						"Text": "These are not used to identify individuals, but help us to understand players needs to improve our game."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_collect_analytics_tooltip"
+				},
+				{
+					"Source":
+					{
+						"Text": "This choice is permanent"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "difficulty_confirm_subtext"
+				},
+				{
+					"Source":
+					{
+						"Text": "This is a loading screen. We wait a few seconds here to look more professional."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "loading_screen_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Total Deaths"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "total_deaths"
+				},
+				{
+					"Source":
+					{
+						"Text": "Twitter"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "twitter"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Action Back"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_action_back"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Action First"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_action_first"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Action Second"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_action_second"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Action Third"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_action_third"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Move Down"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Move Up"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Down"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_spell_down"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Left"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_spell_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Right"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_spell_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Select"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_spell_select"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Select & Cast"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_spell_select_and_cast"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Spell Up"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_spell_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Top Left"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_top_left"
+				},
+				{
+					"Source":
+					{
+						"Text": "UI Top Right"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_top_right"
+				},
+				{
+					"Source":
+					{
+						"Text": "UNKNOWN"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "unknown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unbound"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_unbound"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unequip"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_command_inv_unequip"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unknown"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_unknown"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unlimited"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_fps_unlimited"
+				},
+				{
+					"Source":
+					{
+						"Text": "Up Button"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_special_dpad_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "Usage Statistics"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "stats_usage_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use Item"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "input_use_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Vertical Sync"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_vsync"
+				},
+				{
+					"Source":
+					{
+						"Text": "Vibration"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_gamepad_vibration"
+				},
+				{
+					"Source":
+					{
+						"Text": "View button"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "gamepad_special_left_xbox"
+				},
+				{
+					"Source":
+					{
+						"Text": "Volumetric Fog"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_volumetric_fog"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wake Up"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_rest_option_wake_up"
+				},
+				{
+					"Source":
+					{
+						"Text": "WarriOrb"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "warriorb"
+				},
+				{
+					"Source":
+					{
+						"Text": "WarriOrb DRM"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "drm_defeatead_title"
+				},
+				{
+					"Source":
+					{
+						"Text": "We suspect that you play a pirated copy of the game.\nIt's fine. We hope you will enjoy it!\n\nIf you like the game, please tell your friends about it, and maybe even consider buying it.\n\nWe would love to keep making games!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "drm_defeatead_description"
+				},
+				{
+					"Source":
+					{
+						"Text": "Windowed"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_windowed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wishlist"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "steam_main_game"
+				},
+				{
+					"Source":
+					{
+						"Text": "X Button"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_FaceButton_Top"
+				},
+				{
+					"Source":
+					{
+						"Text": "XBox One"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "console_xbox_one"
+				},
+				{
+					"Source":
+					{
+						"Text": "XP"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "xp"
+				},
+				{
+					"Source":
+					{
+						"Text": "Y Button"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_FaceButton_Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "Yes"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "yes"
+				},
+				{
+					"Source":
+					{
+						"Text": "You can only change the equipped spells near ancient statues."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_spell_selection_denied"
+				},
+				{
+					"Source":
+					{
+						"Text": "You don't have the necessary item to use spells!"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "panel_rest_no_item"
+				},
+				{
+					"Source":
+					{
+						"Text": "Your progress is saved automatically whenever this icon is displayed"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "progress_saved_automatically"
+				},
+				{
+					"Source":
+					{
+						"Text": "ZL Button"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_Trigger_Left"
+				},
+				{
+					"Source":
+					{
+						"Text": "ZR Button"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Switch_Trigger_Right"
+				},
+				{
+					"Source":
+					{
+						"Text": "[Empty Key]"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "key_selection_empty"
+				},
+				{
+					"Source":
+					{
+						"Text": "[Press Key]"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "key_selection_press"
+				},
+				{
+					"Source":
+					{
+						"Text": "seconds"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "seconds"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} H {1} M"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "save_slots_playtime"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} M"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "save_slots_playtime_short"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} for {1} gold"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "trade_amount_x_x"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0} sec"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "inventory_item_tooltip_sec"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0}%"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "percentage_argument"
+				},
+				{
+					"Source":
+					{
+						"Text": "{0}x{1}"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "settings_resolution_entry"
+				}
+			]
+		}
+	]
+}

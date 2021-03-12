@@ -1,0 +1,356 @@
+Key,SourceString,Comment
+continue,Continue,Menu Continue
+start_game,Start Game,Menu Start Game
+teleport_to_sk,Teleport To SoulKeeper,Menu Teleport to Soulkeeper
+teleport_to_cp,Teleport To Checkpoint,Menu Teleport To Checkpoint
+saves,Save Slots,Menu saves
+custom_maps,Custom Maps,Menu custom Maps
+settings,Settings,Menu settings
+credits,Credits,Menu credits
+quit_game,Quit Game,Menu Quit Game
+change_user,Change User,Change User
+quit_to_menu,Quit to Menu,Menu Quit To Menu
+quit_game_question,Quit Game?,Confirm Quit popup
+quit_to_menu_question,Quit to Menu?,Confirm Quit popup
+progress_saved,Progress will be saved,Confirm Quit popup
+restart_game_question,Restart Game?,Confirm Restart popup
+restart_game_warning,All progress will be lost,Confirm Restart popup
+send_no,Do not Send,Analytics popup
+send_automatically,Send Automatically,Analytics popup
+percentage_argument,{0}%,Slider
+reset_keyboard_wasd,Reset to WASD defaults,Confirm keyboard settings
+reset_keyboard_arrows,Reset to Arrow defaults,Confirm keyboard settings
+confirm_keyboard_settings_reset,Are you sure?,Confirm keyboard settings
+key_selection_press_button,Press the button you want to assign to the action:,Select Input key
+key_selection_current,Currently selected button:,Select Input key
+key_selection_empty,[Empty Button],Select Input key
+key_selection_press,[Press Button],Select Input key
+confirm,Confirm,Confirm popup
+cancel,Cancel,Confirm popup
+yes,Yes,Confirm popup
+no,No,Confirm popup
+chapter1_completed,Chapter 1 completed. Save is Locked.,Temporary for chapter 1
+difficulty_normal,Normal,
+start,Start,The name of the checkpoint. Custom Map action
+empty,Empty,
+never_completed,Never completed,Custom Map
+completed_in_time,Completed in {time},Custom Map
+custom_map_x,Custom Map {0},Custom Map
+unknown,UNKNOWN,Unknown input binding
+input_unbound,Unbound,Unbound input
+input_actions_conflicts,"Selected button = {Key}, will get unbound from the {NumActions}|plural(one=Action,other=Actions) = {ActionNames}","Input remap.  {Key} = key display name. {NumAction} the number of actions, this will determine what to choose between one and other."
+input_selected_key_not_allowed,"Selected button = {Key}, is not allowed as an input option",Input remap. {Key} = key display name
+input_not_allowed_thumbsticks,Not allowed to remap to thumbsticks,Input remap gamepad
+input_not_allowed_thumbsticks_switch,Not allowed to remap to Left Stick or Right Stick,Input remap gamepad switch
+input_not_allowed_options_menu_button,Not allowed to remap to the Menu button,Input remap gamepad
+input_not_allowed_options_menu_button_switch,Not allowed to remap to the + Button,Input remap gamepad
+settings_reset,Reset,Settings reset
+settings_reset_default,Reset to Defaults,Settings reset to default
+settings_reset_input_key,Reset button to default,Input reset key to default
+settings_language,Language,Game settings
+settings_game_speed,Game Speed,Game settings
+settings_display_fps,Display FPS,Game settings
+settings_display_play_time,Display Play Time,Game settings
+settings_display_damage,Display Damage,Game settings
+settings_display_enemy_hp,Display Enemy Health,Game settings
+settings_display_floating_vo,Display Floating Voice Lines,Game settings
+settings_gamepad_vibration,Vibration,Gamepad Vibration intensity settings
+settings_pause_game_unfocused,Pause game when unfocused,Game settings
+settings_pause_game_idle,Pause game when idle,Game settings
+settings_language_tooltip,"Change the display and locale (numbers, dates) language",Game settings
+settings_game_speed_tooltip,"Changes the speed of the game.
+Higher speed might make the game have lower FPS.",Game settings
+settings_display_fps_tooltip,Show FPS counter,Game settings
+settings_display_play_time_tooltip,Show current play time,Game settings
+settings_display_damage_tooltip,Show damage as a floating number on the screen,Game settings
+settings_display_enemy_hp_tooltip,Show a small health bar above injured enemies,Game settings
+settings_display_floating_vo_tooltip,Show voice lines as floating texts,Game settings
+settings_pause_game_unfocused_tooltip,Pauses the game when the game loses focus,Game settings
+settings_pause_game_idle_tooltip,Pauses the game when the user is idle for a certain amount of minutes,Game settings
+settings_fullscreen,Fullscreen,Display settings
+settings_windowed,Windowed,Display settings
+settings_borderless,Borderless,Display settings
+settings_unknown,Unknown,Display settings
+settings_ratio_4_3,4:3,Display settings Aspect Ratio
+settings_ratio_16_10,16:10,Display settings Aspect Ratio
+settings_ratio_16_9,16:9,Display settings Aspect Ratio
+settings_quality_low,Low,Display settings quality
+settings_quality_medium,Medium,Display settings quality
+settings_quality_high,High,Display settings quality
+settings_quality_epic,Epic,Display settings quality
+settings_display_mode,Display Mode,Display settings
+settings_aspect_ratio,Aspect Ratio,Display settings
+settings_resolution,Resolution,Display settings
+settings_resolution_scale,Resolution Scale,Display settings
+settings_vsync,Vertical Sync,Display settings
+settings_frame_limit,Frame Limit (FPS),Display settings
+settings_shadows,Shadow Quality,Display settings
+settings_textures,Texture Quality,Display settings
+settings_effects,Effect Quality,Display settings
+settings_post_effects,Post-Effects,Display settings
+settings_antialising,Anti-Aliasing,Display settings
+settings_volumetric_fog,Volumetric Fog,Display settings
+settings_force_weak_hardware_opt,Additional Optimizations,Display settings
+settings_display_mode_tooltip,In Windowed mode you can interact with other windows easier. In Borderless mode you can quickly switch between applications.,Display settings
+settings_aspect_ratio_tooltip,Defines what aspect ratios are available for your resolution.,Display settings
+settings_resolution_tooltip,Allows changing the Screen Resolution.,Display settings
+settings_resolution_scale_tooltip,"The desired resolution to use when rendering the game. It does not affect the UI.
+Lowering it improves performance on lower end machines.",Display settings
+settings_vsync_tooltip,"Synchronize the game refresh rate with the monitor refresh rate. Disable it for higher framerate and better input response.
+When enabled it prevents screen tearing.",Display settings
+settings_frame_limit_tooltip,Limit the maximum frame rate for a consistent experience.,Display settings
+settings_shadows_tooltip,The higher the quality the finer the shadow.,Display settings
+settings_textures_tooltip,Surfaces of the game world will increase in fidelity if the setting is higher.,Display settings
+settings_effects_tooltip,"Affects the quality of particles in the world, a lower quality might make some projectiles in the world harder to see.",Display settings
+settings_post_effects_tooltip,Affects the quality of the post process effects after the scene is rendered.,Display settings
+settings_antialising_tooltip,Smooths out the edges by blending the colors of the pixels around the object to create the illusion of smoothness.,Display settings
+settings_volumetric_fog_tooltip,"Realistic looking fog. Has a high performance impact, disable it to improve performance.",Display settings
+settings_force_weak_hardware_opt_tooltip,In certain areas background traps are deactivated or background visuals look cheaper to gain more performance.,Display settings
+settings_reset,Reset,Settings
+settings_apply,Apply,Settings
+settings_cancel,Cancel,Settings
+settings_fps_unlimited,Unlimited,Display settings frame limit
+settings_resolution_entry,{0}x{1},"Display settings. {0} - x, {1} - Y"
+console_xbox_one,XBox One,
+console_ps4,PlayStation 4,
+console_switch,Switch,
+settings_auto_detect_controller,Auto detect Gamepad Layout,Gamepad settings
+settings_controller_platform,Layout,Gamepad Layout settings
+settings_controller_remap_single,Remap Controls,Gamepad settings
+settings_controller_remap,Remap Controls,Gamepad settings
+settings_controller_remap_noedit,Please use a gamepad in order to remap,Gamepad settings
+settings_move_left_right,Move left/right,Input
+select_spells,Select spells,Input right  thumbstick
+empty_line,-,
+empty,Empty,
+line_three_dots,...,
+settings_brightness,Brightness,Brightness settings
+settings_brightness_description,Please adjust the brightness of the game to your display,Brightness settings
+settings_brightness_default_value,Default Value is 100%,Brightness settings
+settings_collect_analytics,Collect Usage Statistics,Game Settings
+settings_collect_analytics_tooltip,"These are not used to identify individuals, but help us to understand players needs to improve our game.",Game Settings
+settings_mute_audio,Mute audio,Audio settings
+settings_mute_audio_unfocused,Mute audio when in background,Audio settings
+settings_mute_voice,Mute voices outside of dialogues,Audio settings
+settings_mute_dialogue_voice,Mute voices in dialogues,Audio settings
+settings_master_volume,Master volume,Audio settings
+settings_effects_volume,Sound Effects volume,Audio settings
+settings_music_volume,Music volume,Audio settings
+settings_mute_audio_tooltip,Mute all audio,Audio settings
+settings_mute_audio_unfocused_tooltip,Mute the audio when the game window is not in focus,Audio settings
+settings_mute_voice_tooltip,Mute the gibberish voices outside the dialogues,Audio settings
+settings_mute_dialogue_voice_tooltip,Mute the gibberish voices inside the dialogues,Audio settings
+settings_master_volume_tooltip,Adjust the master volume,Audio settings
+settings_effects_volume_tooltip,Adjust the sound effects volume,Audio settings
+settings_music_volume_tooltip,Adjust the music volume,Audio settings
+settings_select_another,Select another,Settings input
+settings_audio,Audio,Settings panels
+settings_game,Game,Settings panels
+settings_keyboard,Keyboard,Settings panels
+settings_keyboard_remap_noedit,Please use a keyboard in order to change the keyboard input,Keyboard Settings
+settings_controller,Gamepad,Settings panels
+settings_controller_switch,Controls,Settings panels
+settings_brightness,Brightness,Settings panels
+settings_display,Display,Settings panels
+input_left,Move Left,Input Action Name
+input_right,Move Right,Input Action Name
+input_strike_primary,Primary Strike,Input Action Name
+input_strike_special,Special Strike,Input Action Name
+input_roll,Roll,Input Action Name
+input_float,Floating,Input Action Name
+input_take_weapon,Take Weapon Away,Input Action Name
+input_jump,Jump,Input Action Name
+input_use_item,Use Item,Input Action Name
+input_interact,Interact,Input Action Name
+input_alt_interact,Interact Alternative,Input Action Name
+input_change_spell,Change Spell,Input Action Name
+input_change_item,Change Item,Input Action Name
+input_change_weapon,Change Weapon,Input Action Name
+input_open_inventory,Open Inventory,Input Action Name
+input_menu_back,Open Menu/Escape/Back,UI Input Action Name
+input_up,UI Move Up,UI Input Action Name
+input_down,UI Move Down,UI Input Action Name
+input_action_first,UI Action First,UI Input Action Name
+input_action_second,UI Action Second,UI Input Action Name
+input_action_third,UI Action Third,UI Input Action Name
+input_top_left,UI Top Left,UI Input Action Name
+input_top_right,UI Top Right,UI Input Action Name
+input_action_back,UI Action Back,UI Input Action Name
+input_spell_left,UI Spell Left,UI Input Action Name
+input_spell_right,UI Spell Right,UI Input Action Name
+input_spell_up,UI Spell Up,UI Input Action Name
+input_spell_down,UI Spell Down,UI Input Action Name
+input_spell_select,UI Spell Select,UI Input Action Name
+input_spell_select_and_cast,UI Spell Select & Cast,UI Input Action Name
+progress_saved_automatically,Your progress is saved automatically whenever this icon is displayed,Before Main Menu
+encourage_line1,The path ahead is challenging. Do not despise failure. Every wrong attempt discarded is another step forward.,Before Main Menu
+acknowledge,Acknowledge,Button
+controller_recommended,Note: Playing with a controller is recommended,Main Menu
+game_is_wip,Game currently under development,Main Menu
+feedback,Feedback,Discord external button
+select,Select,Button
+back,Back,Button
+stats_usage_title,Usage Statistics,Analytics popup
+stats_usage_description,"Not Yet would like to collect usage statistics from your game automatically.
+These are not used to identify individuals, but help us to understand players needs to improve our game.
+
+Select ""Send Automatically"" to allow collection of usage statistics,
+or ""Do Not Send"" to prevent the game from sending information to Not Yet.
+
+You can change this setting at any time via the Settings Game tab.",Analytics popup
+description,Description,Of something
+settings_confirm_display_title,Confirm Display Settings in,Display settings confirm
+seconds,seconds,
+play_time,Play Time,Stats for saves
+total_deaths,Total Deaths,Stats for saves
+difficulty,Difficulty,Stats for saves
+chapter,Chapter,Stats for saves
+checkpoint,Checkpoint,Stats for saves
+disabled,Disabled,Widget is disabled
+status,Status,Status of a save/custom map
+panel_inventory,Inventory,Character Panel
+panel_character_sheet,Character Sheet,Character Panel
+panel_spells,Spells,Character Panel
+panel_notes,Sidenotes,Character Panel
+paneL_resistances,Resistances,Character Sheet Panel
+item_rarity_0,"Better than nothing, right?",item rarity text on the bottom of tooltips
+item_rarity_1,Better than nothing,item rarity text on the bottom of tooltips
+item_rarity_2,Good stuff,item rarity text on the bottom of tooltips
+item_rarity_3,Pretty good stuff,item rarity text on the bottom of tooltips
+item_rarity_4,Amazing stuff,item rarity text on the bottom of tooltips
+item_not_For_sale,Not for sale,Item Tooltip
+item_equipped,---Equipped---,Item Tooltip
+panel_spell_selection_denied,You can only change the equipped spells near ancient statues.,Spell Selection panel
+panel_equipped_spells,Equipped Spells,Spell Selection panel
+panel_spell_capacity,Capacity: {0}/{1},Spell Selection panel
+panel_command_inv_equip,Equip,control key tip in inventory
+panel_command_inv_compare,Compare,
+panel_command_inv_back,Back,
+panel_command_inv_equip_item,Equip Item,
+panel_command_inv_change_item,Change Item,
+panel_command_inv_equip_next,Equip Next,
+panel_command_inv_unequip,Unequip,
+panel_command_inv_read,Read,
+panel_command_inv_drink,Drink,
+panel_command_spell_add,Add,add spell to equipped spells
+panel_command_spell_remove,Remove,remove spell from equipped spells
+game_over_retry,Retry,control tip which is always visible on game over
+game_over_retreat,Retreat,control tip which is only visible in boss areas where the player can either restart the fight or retreat from the place
+chest_loot,Loot,hotkey tip on chest
+chest_examine,Examine,
+chest_leave,Leave,
+panel_rest_option_sleep,Sleep,
+panel_rest_option_change_spells,Change Spells,
+panel_rest_option_listen_to_music,Listen to Music,
+panel_rest_option_wake_up,Wake Up,
+panel_rest_no_item,You don't have the necessary item to use spells!,
+spell_cast_switch_select_cast,Select & Cast,
+spell_cast_switch_select,Select,
+spell_cast_switch_controls,Quick select spells up/down/left/right,
+inventory_item_amount,Amount: {0},the item amount displayed in inventory/trade panel/etc.
+inventory_item_tooltip_cooldown,Cooldown,
+inventory_item_tooltip_sec,{0} sec,duration of something (e.g. cooldown)
+inventory_item_tooltip_damage,Damage,damage text on item descriptions
+group_defeated_title,Group Defeated,title of the group defeated panel
+group_defeated_ack,Acknowledge,the hotkey to close the group defeated panel
+loading_screen_press_key,Press any key to continue...,
+loading_screen_press_key_switch,Press any button to continue...,
+loading_screen_text_1,This is a loading screen. We wait a few seconds here to look more professional.,
+warriorb,WarriOrb,
+restart,Restart,Restart the game
+discord,Discord,
+twitter,Twitter,
+mailing_list,Mailing List,
+steam_main_game,Wishlist,
+steam_main_game_buy,Buy Full Game,
+thank_you_prologue,"THANK YOU FOR PLAYING WARRIORB DEMO PROLOGUE, WE HOPE YOU HAD A GREAT TIME!",
+buy_on_steam_and_follow,Buy WarriOrb in Steam and follow us on social media:,
+difficulty_title,Difficulty,title of difficulty selection
+difficulty_sane,Just an adventure,name of easy difficulty
+difficulty_intended,A true challenge,name of normal difficulty
+difficulty_insane,As hard as it can get,name of hard difficulty
+difficulty_desc_sane,"- Infinite <Blue>SoulKeeper</> (Checkpoint) spell charges
+- No health penalty when respawning near the <Blue>SoulKeeper</>
+- Decreased incoming damage
+- Decreased Enemy Health",description of easy difficulty
+difficulty_desc_intended,The way the game is meant to be played,description of normal difficulty
+difficulty_desc_insane,"- The <Blue>SoulKeeper</> (Portable Checkpoint) spell is removed from the game
+- Increased incoming damage
+- Increased Enemy Health",description of hard difficulty
+difficulty_confirm_question,Are you sure?,Confirm difficulty selected popup
+difficulty_confirm_subtext,This choice is permanent,Confirm difficulty selected popup subtext
+save_slots_playtime,{0} H {1} M,"playtime displayed, {0} is the hours, {1} is the minutes"
+save_slots_playtime_short,{0} M,"playtime displayed if it did not reach an hour, {0} is the time in minutes"
+save_slots_select,Select,loads the game or creates a new one using the active slot
+save_slots_clear,Clear,clears the save slot
+save_slots_new_game,New Game,text on empty save slot
+save_slots_remove_confirm,Are you sure?,remove save slot confirm dialogue
+save_slots_remove_confirm_subtext,Progress will be lost,remove save slot confirm dialogue
+save_slots_loaded,- Loaded -,text on currently loaded save slot if there is any
+dwarf_language,Dwarf,Dwarf language
+gold_x,+{x} GOLD,{x} is the gold amount
+trade_buy_back,Are you sure you want to buy back {ItemName} for {Gold} gold?,trade confirmation UI
+trade_sell,Are you sure you want to sell {ItemName} for {Gold} gold?,trade confirmation UI
+trade_buy,Are you sure you want to buy {ItemName} for {Gold} gold?,trade confirmation UI
+trade_nope,Nope!,trade confirmation UI
+trade_okay,Okay...,trade confirmation UI
+trade_no_intrested,The trader is not interested in buying that item from you!,trade confirmation UI
+trade_amount_x_x,{0} for {1} gold,trade confirmation UI. {0} is the current amount and {1} is the current amount times price per item
+buy,Buy,buy item
+sell,Sell,sell item
+buy_back,Buy Back,buy back item
+spell_only_in_air,Can not be used in air,Spell
+spell_restricted,Can not be used in restricted areas,Spell
+spell_cooldown_stops_in_air,Cooldown only starts on ground,Spell
+close,Close,close book
+essence,Essence,essence represents the Health of the character
+bubble_float,Float,bubble tip for the char to float
+bubble_jump,Jump,bubble tip for the char to jump
+game_defeated,Game Defeated!,end screen
+go_back_to_menu,Go back to main menu,
+black_fade_teleport_text_1,Now I remember the night when it started...,
+xp,XP,Experience Points
+skip,Skip,text near the press and hold to skip confirmation button
+character_skin_title,Character Skin,option to change character skin
+character_skin_classic,Classic,name of the original character skin
+character_skin_mummy,Mummy,name of the alternative character skin
+character_skin_pumpkin,Pumpkin,name of the alternative character skin
+character_skin_desc,Changes the visuals of the player character,description for the character skin option
+settings_merciful_bounce_never,Never,defines when (in which difficulty mode) is the easier bounce mode active
+settings_merciful_bounce_on_easy,On Easy,defines when (in which difficulty mode) is the easier bounce mode active
+settings_merciful_bounce_always,Always,defines when (in which difficulty mode) is the easier bounce mode active
+settings_merciful_bounce,Merciful Bounce Mode,game settings
+settings_merciful_bounce_tooltip,Allows Higher Bounce even if the Jump button is pressed after the character hits the ground,tooltip for Merciful Bounce Mode option
+drm_defeatead_description,"We suspect that you play a pirated copy of the game.
+It's fine. We hope you will enjoy it!
+
+If you like the game, please tell your friends about it, and maybe even consider buying it.
+
+We would love to keep making games!","check only in pirated copies "
+drm_defeatead_title,WarriOrb DRM,"check only in pirated copies "
+gamepad_special_right_xbox,Menu button,xbox Menu button
+gamepad_special_left_xbox,View button,xbox view button
+Switch_FaceButton_Top,X Button,switch gamepad button name
+Switch_FaceButton_Bottom,B Button,switch gamepad button name
+Switch_FaceButton_Left,Y Button,switch gamepad button name
+Switch_FaceButton_Right,A Button,switch gamepad button name
+Switch_Trigger_Left,ZL Button,switch gamepad button name
+Switch_Shoulder_Left,L Button,switch gamepad button name
+Switch_Trigger_Right,ZR Button,switch gamepad button name
+Switch_Shoulder_Right,R Button,switch gamepad button name
+Switch_special_right,+ Button,switch gamepad button name
+Switch_special_left,- Button,switch gamepad button name
+Switch_special_dpad_up,Up Button, Switch gamepad button name
+Switch_special_dpad_down,Down Button, Switch gamepad button name
+Switch_special_dpad_left,Left Button, Switch gamepad button name
+Switch_special_dpad_right,Right Button, Switch gamepad button name
+Switch_LeftThumbstick,Left Stick, Switch gamepad button name
+Switch_RightThumbstick,Right Stick, Switch gamepad button name
+Switch_Gamepad_LeftStick_Up,Left Stick Up, Switch gamepad button name
+Switch_Gamepad_LeftStick_Down,Left Stick Down, Switch gamepad button name
+Switch_Gamepad_LeftStick_Right,Left Stick Right, Switch gamepad button name
+Switch_Gamepad_LeftStick_Left,Left Stick Left, Switch gamepad button name
+Switch_Gamepad_RightStick_Up,Right Stick Up, Switch gamepad button name
+Switch_Gamepad_RightStick_Down,Right Stick Down, Switch gamepad button name
+Switch_Gamepad_RightStick_Right,Right Stick Right, Switch gamepad button name
+Switch_Gamepad_RightStick_Left,Right Stick Left, Switch gamepad button name

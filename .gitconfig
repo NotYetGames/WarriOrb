@@ -1,0 +1,14 @@
+[core]
+	symlinks = true
+	autocrlf = false
+	eol = lf
+[color "diff"]
+	whitespace = red reverse
+[status]
+	submodulesummary = true
+[submodule]
+	recurse = true
+[diff]
+	submodule = log
+[credential]
+	helper = cache --timeout=14400

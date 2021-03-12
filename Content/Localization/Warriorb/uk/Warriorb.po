@@ -1,0 +1,4020 @@
+﻿# Warriorb Ukrainian translation.
+# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Warriorb\n"
+"POT-Creation-Date: 2020-10-07 08:12\n"
+"PO-Revision-Date: 2020-10-07 08:12\n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key:	78A72CB345FCC7ECDCFD8181471D78D8
+#. SourceLocation:	/Game/SO/GUI/UI_Credits.UI_Credits_C:WidgetTree.CreditsText.Text
+#: /Game/SO/GUI/UI_Credits.UI_Credits_C:WidgetTree.CreditsText.Text
+msgid "<T>-- Not Yet Team --</>\r\n\r\n\r\nAnna Molnár\r\n<R>2D art, Environment Design</>\r\n\r\n\r\nCsaba Molnár\r\n<R>Code, Design</>\r\n\r\n\r\nDaniel Butum\r\n<R>Code</>\r\n\r\n\r\nGéza Molnár\r\n<R>3D art, Design</>\r\n\r\n\r\nRichárd Ráski\r\n<R>Sound Design</>\r\n\r\n\r\n\r\n<T>-- Music --</>\r\n\r\nBenjámin Kuli\r\n\r\n\r\nGisula\r\n\r\n\r\n\r\n<T>-- Voice Over --</>\r\n\r\n\r\nPeter Luzsi - @peterluzsi\r\n<R>WarriOrb, Gatekeeper, Ghost Armor, Principal</>\r\n\r\n\r\nBrent Miller\r\n<R>WarriOrb - Trailer</>\r\n\r\n\r\nPierce Riola\r\n<R>Wizard, Gnory</>\r\n\r\n\r\nEir Causey\r\n<R>Raven, Teachy, Ghost Dwarf, Unknown Wizard, Fishy</>\r\n\r\n\r\nJack Broadbent\r\n<R>Monk, Flybug</>\r\n\r\n\r\nEmil Hagg\r\n<R>Supper Dwarf, Kobold Chef, Fallen Druid, Dwarven Statue</>\r\n\r\n\r\nErick Nita\r\n<R>Golem Maker, Armour Wrath</>\r\n\r\n\r\nAlain Vega\r\n<R>Merch Ant</>\r\n\r\n\r\nAngela Tran\r\n<R>Lillian, Pipe Walker</>\r\n\r\n\r\nBrittany Ann Phillips\r\n<R>Lory</>\r\n\r\n\r\nAurore Gautheur\r\n<R>Fountain, Shade</>\r\n\r\n\r\nAlexander Blairlex\r\n<R>Primitive Fishy, Ghost Helmet</>\r\n\r\n\r\nSophie Ryder\r\n<R>Shadesphere</>\r\n\r\n\r\n\r\n\r\n<T>-- Partners --</>\r\n\r\n\r\nMaple Whispering\r\n<R>Chineese localization</>\r\n<R>Publisher - China, PC</>\r\n\r\n\r\nNovy Unlimited\r\n<R>PR and Marketing</>\r\n\r\n\r\n\r\n\r\n<T>-- Localization --</>\r\n\r\n\r\nVera Liscovschi\r\n<R>Russian</>\r\n\r\n\r\nJay Johnstone\r\n<R>Spanish</>\r\n\r\n\r\nBertin William\r\n<R>French</>\r\n\r\n\r\n\r\n\r\n<T>-- Testers --</>\r\n\r\n\r\nSaleymander\r\n\r\n\r\nHitch\r\n\r\n\r\nMrCalculated\r\n\r\n\r\n<img id=\"Rainbow\"/>Scorpion253<img id=\"Rainbow\"/>\r\n\r\n\r\nmoses\r\n\r\n\r\nNinjin42\r\n\r\n\r\nKonstantinos Xenitidis\r\n\r\n\r\nPhyronnaz\r\n\r\n\r\nArthur\r\n\r\n\r\nMaster1G\r\n\r\n\r\nDávid Bartók\r\n\r\n\r\nLiDuGaming\r\n\r\n\r\nClaudiu Coman\r\n\r\n\r\nÁron Ürögdi\r\n\r\n\r\nDukenukemboi\r\n\r\n\r\nBart Cools\r\n\r\n\r\nGlenn De Jonghe\r\n\r\n\r\nDomonkos Péter Madarász\r\n\r\n\r\nGergő Gyarmati\r\n\r\n\r\nRéka Gyarmati\r\n\r\n\r\nKincső Petraskó\r\n\r\n\r\nGergő Petraskó\r\n\r\n\r\nDániel Garamvölgyi\r\n\r\n\r\nDanny \"GHelmet\" Cloutier\r\n\r\n\r\nAnna Boglárka Tóth\r\n\r\n\r\nBíborka Roxána Kubik\r\n\r\n\r\nVirág Miklós\r\n\r\n\r\nBenedek Marozsák\r\n\r\n\r\nDániel Marozsák\r\n\r\n\r\nGereon Bartel\r\n\r\n\r\n\r\n\r\n<T>-- Prologue Speedrun Competition Winner --</>\r\n\r\n-7\r\n\r\n\r\n\r\n\r\n<T>-- Special Thanks --</>\r\n\r\n\r\nMalazan Discord Server Community\r\n\r\n\r\n/r/metroidvenia Discord Server Community\r\n\r\n\r\nUnreal Slackers Discord Server Community\r\n\r\n\r\nIMGUR\r\n\r\n\r\nBíborka Roxána Kubik\r\n\r\n\r\nSergiu Crăiţoiu\r\n\r\n\r\nJuhász Ernő\r\n\r\n\r\nRacheal Smith\r\n\r\n\r\nRuxandra Seniuc\r\n\r\n\r\nthottee\r\n\r\n\r\nAndrew Pappas\r\n\r\n\r\nJonathan Lampel\r\n\r\n\r\nRichárd Németh\r\n\r\n\r\nAlex Gorcea\r\n\r\n\r\nNotRealVitor\r\n\r\n\r\nKinga Surján\r\n\r\n\r\nAnna Boglárka Tóth\r\n\r\n\r\nÉvi Fekete\r\n\r\n\r\nGergő Sielaf\r\n\r\n\r\n<img id=\"Rainbow\"/>Scorpion253<img id=\"Rainbow\"/>\r\n\r\n\r\nMainiac\r\n\r\n\r\n\r\n\r\n<T>-- Technology --</>\r\n\r\n\r\n<R>WarriOrb uses the Unreal® Engine.</>\r\n<R>Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere</>\r\n\r\n<R>Unreal® Engine, Copyright 1998 – 2020, Epic Games, Inc. All rights reserved.</>\r\n\r\n\r\n\r\n<R>Made with FMOD Studio by Firelight Technologies Pty Ltd.</>"
+msgstr ""
+
+#. Key:	AxeSpecial_name
+#. SourceLocation:	/Game/SO/CharacterStrikes/AxeSpecial.AxeSpecial.StrikeName
+#: /Game/SO/CharacterStrikes/AxeSpecial.AxeSpecial.StrikeName
+msgctxt "CharacterStrike"
+msgid "Throw"
+msgstr ""
+
+#. Key:	DemonSwordSpecial_name
+#. SourceLocation:	/Game/SO/CharacterStrikes/DemonSwordSpecial.DemonSwordSpecial.StrikeName
+#: /Game/SO/CharacterStrikes/DemonSwordSpecial.DemonSwordSpecial.StrikeName
+msgctxt "CharacterStrike"
+msgid "Downstrike"
+msgstr ""
+
+#. Key:	DualBladeSpecial_name
+#. SourceLocation:	/Game/SO/CharacterStrikes/DualBladeSpecial.DualBladeSpecial.StrikeName
+#: /Game/SO/CharacterStrikes/DualBladeSpecial.DualBladeSpecial.StrikeName
+msgctxt "CharacterStrike"
+msgid "Backslash"
+msgstr ""
+
+#. Key:	LeafMaceSpecial_name
+#. SourceLocation:	/Game/SO/CharacterStrikes/LeafMaceSpecial.LeafMaceSpecial.StrikeName
+#: /Game/SO/CharacterStrikes/LeafMaceSpecial.LeafMaceSpecial.StrikeName
+msgctxt "CharacterStrike"
+msgid "Crushing Blow"
+msgstr ""
+
+#. Key:	SabreSpecial_name
+#. SourceLocation:	/Game/SO/CharacterStrikes/SabreSpecial.SabreSpecial.StrikeName
+#: /Game/SO/CharacterStrikes/SabreSpecial.SabreSpecial.StrikeName
+msgctxt "CharacterStrike"
+msgid "Floating Strikes"
+msgstr ""
+
+#. Key:	SwordSpecialAirStrike_name
+#. SourceLocation:	/Game/SO/CharacterStrikes/SwordSpecialAirStrike.SwordSpecialAirStrike.StrikeName
+#: /Game/SO/CharacterStrikes/SwordSpecialAirStrike.SwordSpecialAirStrike.StrikeName
+msgctxt "CharacterStrike"
+msgid "Air Strike"
+msgstr ""
+
+#. Key:	BPEftAttackSpeedMultiplier_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/BPEftAttackSpeedMultiplier.Default__BPEftAttackSpeedMultiplier_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/BPEftAttackSpeedMultiplier.Default__BPEftAttackSpeedMultiplier_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Quick Hands"
+msgstr ""
+
+#. Key:	BPEftBootTransmutation_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/BPEftBootTransmutation.Default__BPEftBootTransmutation_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/BPEftBootTransmutation.Default__BPEftBootTransmutation_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Protective Transmutation"
+msgstr ""
+
+#. Key:	BPEftBounce_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftBounce.Default__BPEftBounce_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftBounce.Default__BPEftBounce_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Charged Bounce"
+msgstr ""
+
+#. Key:	BPEftCooldownReducePassive02_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/BPEftCooldownReducePassive02.Default__BPEftCooldownReducePassive02_C.DisplayName
+#. Key:	BPEftCooldownReduce_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/BPEftCooldownReduce.Default__BPEftCooldownReduce_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/BPEftCooldownReduce.Default__BPEftCooldownReduce_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/BPEftCooldownReducePassive02.Default__BPEftCooldownReducePassive02_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Restlessness"
+msgstr ""
+
+#. Key:	BPEftCriticalChanceBoost10_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/BPEftCriticalChanceBoost10.Default__BPEftCriticalChanceBoost10_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/BPEftCriticalChanceBoost10.Default__BPEftCriticalChanceBoost10_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Critical Chance"
+msgstr ""
+
+#. Key:	BPEftDamageReflection_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/BPEftDamageReflection.Default__BPEftDamageReflection_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/BPEftDamageReflection.Default__BPEftDamageReflection_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Sparks of Vengeance"
+msgstr ""
+
+#. Key:	BPEftDmgModifier_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftDmgModifier.Default__BPEftDmgModifier_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftDmgModifier.Default__BPEftDmgModifier_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Perfect Hands"
+msgstr ""
+
+#. Key:	BPEftHeal3_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/BPEftHeal3.Default__BPEftHeal3_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/BPEftHeal3.Default__BPEftHeal3_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Heal"
+msgstr ""
+
+#. Key:	BPEftLifeLeech5_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/BPEftLifeLeech5.Default__BPEftLifeLeech5_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/BPEftLifeLeech5.Default__BPEftLifeLeech5_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Life Leech"
+msgstr ""
+
+#. Key:	BPEftMagicMissle_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftMagicMissle.Default__BPEftMagicMissle_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftMagicMissle.Default__BPEftMagicMissle_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Magic Missile"
+msgstr ""
+
+#. Key:	BPEftMassMagicMissle_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftMassMagicMissle.Default__BPEftMassMagicMissle_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftMassMagicMissle.Default__BPEftMassMagicMissle_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Magic Missiles"
+msgstr ""
+
+#. Key:	BPEftMassSlow_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftMassSlow.Default__BPEftMassSlow_C.DisplayName
+#. Key:	BPEftSlow_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/BPEftSlow.Default__BPEftSlow_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/BPEftSlow.Default__BPEftSlow_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftMassSlow.Default__BPEftMassSlow_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Slow"
+msgstr ""
+
+#. Key:	BPEftMeteorShower_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftMeteorShower.Default__BPEftMeteorShower_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftMeteorShower.Default__BPEftMeteorShower_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Meteor Shower"
+msgstr ""
+
+#. Key:	BPEftRegainSpellPassive25_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/BPEftRegainSpellPassive25.Default__BPEftRegainSpellPassive25_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/BPEftRegainSpellPassive25.Default__BPEftRegainSpellPassive25_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Arcane Luck"
+msgstr ""
+
+#. Key:	BPEftRegainSpells_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/BPEftRegainSpells.Default__BPEftRegainSpells_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/BPEftRegainSpells.Default__BPEftRegainSpells_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Restoration"
+msgstr ""
+
+#. Key:	BPEftResModifierMagicalStrong_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftResModifierMagicalStrong.Default__BPEftResModifierMagicalStrong_C.DisplayName
+#. Key:	BPEftResModifierMagical_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftResModifierMagical.Default__BPEftResModifierMagical_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftResModifierMagical.Default__BPEftResModifierMagical_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftResModifierMagicalStrong.Default__BPEftResModifierMagicalStrong_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Wardskin"
+msgstr ""
+
+#. Key:	BPEftResModifierPhysical_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftResModifierPhysical.Default__BPEftResModifierPhysical_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftResModifierPhysical.Default__BPEftResModifierPhysical_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Stoneskin"
+msgstr ""
+
+#. Key:	BPEftSecondChance_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/BPEftSecondChance.Default__BPEftSecondChance_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/BPEftSecondChance.Default__BPEftSecondChance_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Second Chance"
+msgstr ""
+
+#. Key:	BPEftSpellFire0_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftSpellFire0.Default__BPEftSpellFire0_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftSpellFire0.Default__BPEftSpellFire0_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Firestrike"
+msgstr ""
+
+#. Key:	BPEftSpellLightningWalk_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftSpellLightningWalk.Default__BPEftSpellLightningWalk_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftSpellLightningWalk.Default__BPEftSpellLightningWalk_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Shockwalk"
+msgstr ""
+
+#. Key:	BPEftSpellShadowWalk_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftSpellShadowWalk.Default__BPEftSpellShadowWalk_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftSpellShadowWalk.Default__BPEftSpellShadowWalk_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Shadewalk"
+msgstr ""
+
+#. Key:	BPEftSpellShield_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftSpellShield.Default__BPEftSpellShield_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftSpellShield.Default__BPEftSpellShield_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Shield"
+msgstr ""
+
+#. Key:	BPEftSpellSoulKeeper_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftSpellSoulKeeper.Default__BPEftSpellSoulKeeper_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftSpellSoulKeeper.Default__BPEftSpellSoulKeeper_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Soulbind"
+msgstr ""
+
+#. Key:	BPEftStun_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/BPEftStun.Default__BPEftStun_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/BPEftStun.Default__BPEftStun_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Stun"
+msgstr ""
+
+#. Key:	BPEftStunPassive10_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/BPEftStunPassive10.Default__BPEftStunPassive10_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/BPEftStunPassive10.Default__BPEftStunPassive10_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Stun Chance"
+msgstr ""
+
+#. Key:	BPEftSwap_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftSwap.Default__BPEftSwap_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftSwap.Default__BPEftSwap_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Swap"
+msgstr ""
+
+#. Key:	BPEftTempHPMagical_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftTempHPMagical.Default__BPEftTempHPMagical_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftTempHPMagical.Default__BPEftTempHPMagical_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Magical Protection"
+msgstr ""
+
+#. Key:	BPEftTempHPPhysical_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftTempHPPhysical.Default__BPEftTempHPPhysical_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/CharacterSpells/BPEftTempHPPhysical.Default__BPEftTempHPPhysical_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Physical Protection"
+msgstr ""
+
+#. Key:	BPEftWeaponFlamesTimeBased_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/BPEftWeaponFlamesTimeBased.Default__BPEftWeaponFlamesTimeBased_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/BPEftWeaponFlamesTimeBased.Default__BPEftWeaponFlamesTimeBased_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Greenflame"
+msgstr ""
+
+#. Key:	BPEftWorthy_name
+#. SourceLocation:	/Game/SO/Blueprints/EffectInstances/BPEftWorthy.Default__BPEftWorthy_C.DisplayName
+#: /Game/SO/Blueprints/EffectInstances/BPEftWorthy.Default__BPEftWorthy_C.DisplayName
+msgctxt "EffectInstance"
+msgid "Worthy"
+msgstr ""
+
+#. Key:	1E42901841F4C7CEF39536A762076EDF
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBC1.Text
+#. Key:	5D04206A499A8B42AF77BAA8BC9B4B8B
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBC0.Text
+#. Key:	B0EEBB754110D2821640BE990002AC36
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBC2.Text
+#. Key:	D75DCE214B56BA6FD9A58F9EEA9291A5
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.UI_EndScreen_C:WidgetTree.TBC0.Text
+#: /Game/SO/GUI/InGame/UI_EndScreen.UI_EndScreen_C:WidgetTree.TBC0.Text
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBC0.Text
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBC1.Text
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBC2.Text
+msgctxt "EndScreen"
+msgid "With his quest completed Monk decided to look for another activity. He thought: <Quote>‘If I could resist madness, others should be able to do the same.’</> And so he opened a monastery to share his mental training techniques with anyone willing to save its sanity."
+msgstr ""
+
+#. Key:	7279EA4741D3DAC5AE92EB99AB851ED9
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBD0.Text
+#. Key:	77E809914A65796364FE94B8C2361FD7
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBD2.Text
+#. Key:	9C1B477D4582ABAEDC90FCB3AC6737E7
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.UI_EndScreen_C:WidgetTree.TBD0.Text
+#. Key:	E98C3FDD453FF80CA8EBBE94459A5CAF
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBD1.Text
+#: /Game/SO/GUI/InGame/UI_EndScreen.UI_EndScreen_C:WidgetTree.TBD0.Text
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBD0.Text
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBD1.Text
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBD2.Text
+msgctxt "EndScreen"
+msgid "<Size42>Separating the World also changed something in the Ruined Realm. The wind turned and even Ruin stopped for a moment.</>"
+msgstr ""
+
+#. Key:	9B476D3D4A603658683498B09968F8AA
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.UI_EndScreen_C:WidgetTree.TBB0.Text
+#: /Game/SO/GUI/InGame/UI_EndScreen.UI_EndScreen_C:WidgetTree.TBB0.Text
+msgctxt "EndScreen"
+msgid "When he heard about the lost Kobold tribe he got a bit excited.<Quote>‘Kobolds reserved the ancient knowledge in their rituals’</> he said. <Quote>‘If there is something we can do with Ruin it must be connected to the rituals. I’ll go with you.’</>"
+msgstr ""
+
+#. Key:	DF7F9F754F4FC9CB19DF92AFCE96C5C1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBA2.Text
+#. Key:	E8401550448E14DD70717EB7EED0582B
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBA1.Text
+#. Key:	UI_EndScreen_entry_0_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(0).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(0).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBA1.Text
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.UI_EndScreen_SaveCreatures_C:WidgetTree.TBA2.Text
+msgctxt "EndScreen"
+msgid "The people soon forgot about the threat, some of them argued that Ruin ever existed."
+msgstr ""
+
+#. Key:	E9F6E1064D5B2046DF1DEDA386012E2D
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.UI_EndScreen_C:WidgetTree.TBB2.Text
+#. Key:	UI_EndScreen_entry_6_text_2
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(6).EndingLogic.Texts(2).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(6).EndingLogic.Texts(2).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.UI_EndScreen_C:WidgetTree.TBB2.Text
+msgctxt "EndScreen"
+msgid "He opened a monastery to share his mental training techniques with anyone willing to save its sanity."
+msgstr ""
+
+#. Key:	F0EAD93B44D8D7AEF306EAB75D83FB37
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.UI_EndScreen_C:WidgetTree.TBB1.Text
+#: /Game/SO/GUI/InGame/UI_EndScreen.UI_EndScreen_C:WidgetTree.TBB1.Text
+msgctxt "EndScreen"
+msgid "<Quote>‘If I could resist madness, others should be able to do the same’</> - he thought."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_0_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(0).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(0).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "Once the Boundaries of Worlds were sealed, Ruin could do no harm to the Human Realm again."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_10_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(10).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(10).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "Hearing these news made the Chef really excited."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_10_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(10).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(10).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "<Quote>'Could there be other survivors of my tribe?'</>"
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_10_text_2
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(10).EndingLogic.Texts(2).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(10).EndingLogic.Texts(2).Texts
+msgctxt "EndScreen"
+msgid "He decided to leave his kitchen and search for his lost relatives."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_11_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(11).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(11).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "No one knows how he could possibly know about the soup, but Supper Dwarf also appeared to taste the food."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_11_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(11).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(11).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "When he heard that the chef is leaving he offered his help with the trains."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_11_text_2
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(11).EndingLogic.Texts(2).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(11).EndingLogic.Texts(2).Texts
+msgctxt "EndScreen"
+msgid "<Quote>‘And I would also like to check what do they eat for supper.’</> he said. <Quote>‘I’m going with you.’</>"
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_12_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(12).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(12).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "On their way they stopped by the Golem Maker."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_12_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(12).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(12).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "He was just sitting and staring at nothing."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_12_text_2
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(12).EndingLogic.Texts(2).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(12).EndingLogic.Texts(2).Texts
+msgctxt "EndScreen"
+msgid "It was still hard for the Maker to accept that all his work was for nothing."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_12_text_3
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(12).EndingLogic.Texts(3).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(12).EndingLogic.Texts(3).Texts
+msgctxt "EndScreen"
+msgid "At least he stopped creating mindless stone golems."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_13_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(13).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(13).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "When he heard about the lost Kobold tribe he got a bit excited."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_13_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(13).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(13).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "<Quote>‘Kobolds reserved the ancient knowledge in their rituals’</> he said."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_13_text_2
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(13).EndingLogic.Texts(2).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(13).EndingLogic.Texts(2).Texts
+msgctxt "EndScreen"
+msgid "<Quote>‘If there is something we can do with Ruin it must be connected to the rituals. I’ll go with you.’</>"
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_14_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(14).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(14).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "However there are things which never change."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_14_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(14).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(14).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "After days of arguing on who undermined whose business Lory and Gnory separated once again."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_15_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(15).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(15).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "While they were arguing Fishy decided to leave Gnory and set out on his own."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_15_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(15).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(15).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "He had no idea where he was going."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_16_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(16).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(16).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "After weeks of walking alone, he heard a faint excited voice:"
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_1_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(1).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(1).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "The Mage Council didn’t believe a single word Lillian or Scholar told them about the events."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_1_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(1).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(1).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "They claimed that Wizard died in an unfortunate accident and his device could never actually work anyway."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_2_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(2).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(2).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "Although Lillian inherited her father’s castle she was sent to an Orphanage until she came into age to live on her own."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_2_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(2).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(2).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "Scholar was upset by Lillian’s decision on letting the Ruined Realm fall but he promised Lillian that he will make the Wizard’s Council let Lillian live in his estate."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_3_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(3).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(3).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "Lillian didn't let the unfortunate events to overcome her. She stopped Ruin even if no one believed her."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_3_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(3).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(3).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "She also knew that the Ruined Realm still had at least a half century before it was totally destroyed so she decided to keep on looking for a way to save it."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_3_text_2
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(3).EndingLogic.Texts(2).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(3).EndingLogic.Texts(2).Texts
+msgctxt "EndScreen"
+msgid "Now that her own Realm was safe she could focus on the other Realms."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_4_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(4).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(4).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "<Size42>Separating the World also changed something in the Ruined Realm.</>"
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_4_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(4).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(4).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "<Size42>The wind turned and even Ruin stopped for a moment.</>"
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_5_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(5).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(5).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "When it was certain that no one will be saved from Ruin, as a last desperate act Gate Keeper tried to open a Gate to the Human Realm himself."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_5_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(5).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(5).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "A portal opened and swallowed the Keeper."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_5_text_2
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(5).EndingLogic.Texts(2).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(5).EndingLogic.Texts(2).Texts
+msgctxt "EndScreen"
+msgid "Some believed he survived but no one ever met him again."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_6_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(6).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(6).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "With his quest completed Monk decided to look for another activity."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_6_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(6).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(6).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "<Quote>‘If I could resist madness, shouldn't others be able to do the same?’</>- he wondered."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_7_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(7).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(7).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "To the surprise of many Teachy also joined Monk and soon he became his best student."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_7_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(7).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(7).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "<Quote>‘To be honest I never actually wanted to be a teacher‘</> - said Teachy."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_7_text_2
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(7).EndingLogic.Texts(2).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(7).EndingLogic.Texts(2).Texts
+msgctxt "EndScreen"
+msgid "<Quote>'I also knew that I was a bit mad and since for my insane mind training in a monastery looked like a crazy idea I immediately knew that in fact that's the most sane thing to do.’</>"
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_8_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(8).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(8).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "Losing his connection to his master, Raven had to think again about his purpose."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_8_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(8).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(8).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "<Quote>‘I think therefore I am not a bird’</> - he said."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_8_text_2
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(8).EndingLogic.Texts(2).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(8).EndingLogic.Texts(2).Texts
+msgctxt "EndScreen"
+msgid "With his vast experience he couldn’t become the same thoughtless bird he once was."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_8_text_3
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(8).EndingLogic.Texts(3).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(8).EndingLogic.Texts(3).Texts
+msgctxt "EndScreen"
+msgid "He joined Monk’s monastery to teach philosophy."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_8_text_4
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(8).EndingLogic.Texts(4).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(8).EndingLogic.Texts(4).Texts
+msgctxt "EndScreen"
+msgid "In his free hours he kept on studying the Ancient’s technology hoping that one day he will find a way back to Lillian."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_9_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(9).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(9).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "When the soup was almost ready the Pipe Walkers smelled the flavour and they all gathered for a last dinner."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_9_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(9).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(9).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "After lunch they started to talk."
+msgstr ""
+
+#. Key:	UI_EndScreen_entry_9_text_2
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(9).EndingLogic.Texts(2).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(9).EndingLogic.Texts(2).Texts
+msgctxt "EndScreen"
+msgid "One of the Pipe Walkers, who had been in many cages mentioned that she actually met some kobolds far away."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_0_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(0).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(0).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "By the time the furious crowd broke into the Wizard’s Castle the Device was completely destroyed."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_0_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(0).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(0).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "Some left, others started to investigate the building hoping to find something which might stop Ruin."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_10_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(10).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(10).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "<Quote>‘Kobolds reserved the ancient knowledge in their rituals’</> Golem Maker said. <Quote>‘If there is something we can do with Ruin it must be connected to the rituals. I’ll go with you.’</>"
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_10_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(10).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(10).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "Golem Maker was a huge help to Lillian with his knowledge on Golemology and it was not easy for Lillian to let him go."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_10_text_2
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(10).EndingLogic.Texts(2).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(10).EndingLogic.Texts(2).Texts
+msgctxt "EndScreen"
+msgid "<Quote>‘Have no fear!’</> Golem Maker said. <Quote>‘I will return with even more knowledge and we’ll stop Ruin once and for all.’</>"
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_11_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(11).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(11).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "After Kobold Chef left, Supper Dwarf had to take care of the kitchen."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_11_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(11).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(11).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "It turned out that he is also really talented at making food."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_11_text_2
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(11).EndingLogic.Texts(2).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(11).EndingLogic.Texts(2).Texts
+msgctxt "EndScreen"
+msgid "<Quote> ‘That is because I know exactly what the final result should be’</> he explained."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_11_text_3
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(11).EndingLogic.Texts(3).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(11).EndingLogic.Texts(3).Texts
+msgctxt "EndScreen"
+msgid "Later he opened a restaurant which soon became really popular."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_11_text_4
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(11).EndingLogic.Texts(4).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(11).EndingLogic.Texts(4).Texts
+msgctxt "EndScreen"
+msgid "Some say mostly because he hired Pipe Walkers to serve the meal and for marketing purposes."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_12_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(12).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(12).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "Monk decided to stay in the Ruined Realm."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_12_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(12).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(12).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "<Quote>‘Even if it was not enough I did all I could. I’m done.’</> he said."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_12_text_2
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(12).EndingLogic.Texts(2).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(12).EndingLogic.Texts(2).Texts
+msgctxt "EndScreen"
+msgid "He sat down on a mountaintop and started meditating."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_13_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(13).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(13).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "A few weeks later he realized that even though he failed his quest he still should do something."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_13_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(13).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(13).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "<Quote>‘Due to my training I can resist Ruin’</> he thought. <Quote>‘No one has ever seen what’s there where Ruin destroyed the lands. If I train harder I might be able to get closer to Ruin to see what it really is.’</>"
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_13_text_2
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(13).EndingLogic.Texts(2).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(13).EndingLogic.Texts(2).Texts
+msgctxt "EndScreen"
+msgid "He kept on practising and soon set out on a journey into the heart of Ruin to find answers to questions even he didn’t know."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_14_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(14).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(14).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "Lory and Gnory suddenly found themselves in a world full of possible customers."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_14_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(14).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(14).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "Of course it didn’t mean they stopped arguing on who undermined whose business but finally they both had the chance to run a successful trading company."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_15_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(15).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(15).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "Gnory specialized himself in selling medicine which were said to heal the sickness which was spreading as Ruin reached closer."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_15_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(15).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(15).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "Lory specialized in medicine which were said to heal the sickness which was caused by the medicine of Gnory."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_16_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(16).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(16).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "Lory’s herbaria worked out."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_16_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(16).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(16).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "Soon she started to sell other medicine and healing devices as well."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_17_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(17).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(17).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "As for Gnory, he decided to sell lots of different things in the City Prison which turned out to be his new home for a while."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_18_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(18).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(18).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "Fishy didn’t like the medicine business so he left Gnory."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_18_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(18).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(18).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "He joined Monk for a while to learn the mental training techniques which reserved Monk’s sanity."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_18_text_2
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(18).EndingLogic.Texts(2).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(18).EndingLogic.Texts(2).Texts
+msgctxt "EndScreen"
+msgid "<Quote>‘Fishy think it is important’ </>he said.<Quote> ‘If Monk go to see Ruin, Fishy need to learn it.’</>"
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_18_text_3
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(18).EndingLogic.Texts(3).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(18).EndingLogic.Texts(3).Texts
+msgctxt "EndScreen"
+msgid "Monk accepted Fishy as his apprentice and taught him all that was possible."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_18_text_4
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(18).EndingLogic.Texts(4).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(18).EndingLogic.Texts(4).Texts
+msgctxt "EndScreen"
+msgid "<Quote>‘Now is the time’</> Monk said one day. <Quote>’Go to the Human Realm and prepare the people.’</>"
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_19_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(19).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(19).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "On his way to the Human Realm Fishy heard a faint excited voice:"
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_19_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(19).EndingLogic.Texts(1).Texts
+#. Key:	UI_EndScreen_entry_16_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(16).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(16).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(19).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "<Quote>‘Hey there! I’m fed up with microtransactions. Can I go with ya man?’</>"
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_19_text_2
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(19).EndingLogic.Texts(2).Texts
+#. Key:	UI_EndScreen_entry_16_text_2
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(16).EndingLogic.Texts(2).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(16).EndingLogic.Texts(2).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(19).EndingLogic.Texts(2).Texts
+msgctxt "EndScreen"
+msgid "Merch Ant and Fishy soon became best friends and ventured on together."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_1_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(1).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(1).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "A few hours later members of the Mage Council arrived along with the city guards."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_1_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(1).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(1).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "The Council claimed that Wizard died in an unfortunate accident, his device could never actually work anyway and Ruin is nothing to fear of."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_1_text_2
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(1).EndingLogic.Texts(2).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(1).EndingLogic.Texts(2).Texts
+msgctxt "EndScreen"
+msgid "Although it was total nonsense Lillian and Scholar was happy that the crowd were taken away from the Castle."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_20_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(20).EndingLogic.Texts(0).Texts
+#. Key:	UI_EndScreen_entry_17_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(17).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(17).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(20).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "The World was still about to end, but as one Pipe Walker wisely said:"
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_21_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(21).EndingLogic.Texts(0).Texts
+#. Key:	UI_EndScreen_entry_18_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(18).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen.Default__UI_EndScreen_C.EndingLogic(18).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(21).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "As some stories ended some new ones begun. Though what happened afterwards is not yet known."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_2_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(2).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(2).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "When they were left alone they quickly started the evacuation of the Ruined Realm."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_3_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(3).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(3).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "Even though she lost her father Lillian couldn’t afford to let sadness overcome her."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_3_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(3).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(3).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "Ruin was more of a threat now than ever before, and since the Mage Council didn’t believe in Ruin it was the task of Lillian and Scholar to repair the device."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_4_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(4).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(4).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "Scholar was really proud of Lillian because she managed to save time for the evacuation."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_4_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(4).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(4).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "<Quote>‘I know Wizard would have disagreed but you did the right thing. We still have time to face Ruin. We couldn’t let everyone die there.’</>"
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_5_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(5).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(5).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "As time passed Scholar started to behave a bit odd which made Lillian really anxious."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_5_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(5).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(5).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "Ruin was close and the solution was still far away."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_5_text_2
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(5).EndingLogic.Texts(2).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(5).EndingLogic.Texts(2).Texts
+msgctxt "EndScreen"
+msgid "When she talked about her concerns to Raven, the bird said:"
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_5_text_3
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(5).EndingLogic.Texts(3).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(5).EndingLogic.Texts(3).Texts
+msgctxt "EndScreen"
+msgid "<Quote>‘Focus on what you are doing Lillian. He was a bit odd anyway.’</>"
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_6_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(6).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(6).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "To the surprise of many Teachy turned out to be an excellent researcher."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_6_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(6).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(6).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "<Quote>‘To be honest I never wanted to be a teacher’ </>he said. <Quote>‘I only stayed at University so that I can do some more research work. But my students never let me research during lectures.’</>"
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_6_text_2
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(6).EndingLogic.Texts(2).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(6).EndingLogic.Texts(2).Texts
+msgctxt "EndScreen"
+msgid "He joined Lillian and dug into every book he could possibly find on the Ancient’s technology."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_7_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(7).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(7).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "The new environment and being a bit further from Ruin made good to the Gate Keeper."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_7_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(7).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(7).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "He organized some of the cleaners to repair the Castle so that Lillian can keep on with her work."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_7_text_2
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(7).EndingLogic.Texts(2).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(7).EndingLogic.Texts(2).Texts
+msgctxt "EndScreen"
+msgid "Later he started to remember things from the Runic Realm which helped Lillian a lot."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_8_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(8).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(8).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "One day a Pipe Walker, who had been in many cages mentioned that she met some kobolds far away who might be other survivors of the Kobold Chef’s tribe."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_9_text_0
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(9).EndingLogic.Texts(0).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(9).EndingLogic.Texts(0).Texts
+msgctxt "EndScreen"
+msgid "Hearing this news made Kobold Chef really excited."
+msgstr ""
+
+#. Key:	UI_EndScreen_SaveCreatures_entry_9_text_1
+#. SourceLocation:	/Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(9).EndingLogic.Texts(1).Texts
+#: /Game/SO/GUI/InGame/UI_EndScreen_SaveCreatures.Default__UI_EndScreen_SaveCreatures_C.EndingLogic(9).EndingLogic.Texts(1).Texts
+msgctxt "EndScreen"
+msgid "He decided to return to the Ruined Realm and search for his lost relatives."
+msgstr ""
+
+#. Key:	SoAct1_EG_AAFirstDroneTrio_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Drones were even more intelligent than Maintainers. They not only memorized texts, they helped correct grammar, changed the message if it was too insulting or even made up poems if they were asked to do so."
+msgstr ""
+
+#. Key:	SoAct1_EG_AAFirstDroneTrio_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "The Flying Three"
+msgstr ""
+
+#. Key:	SoAct1_EG_AfterGateCleaners_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Citizens of Cerulean requested to have their own unique Golems, but it was always rejected. This situation was very good for the Black Golem Market, because this way it was always easy to find customers."
+msgstr ""
+
+#. Key:	SoAct1_EG_AfterGateCleaners_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Cleaners of Cerulean"
+msgstr ""
+
+#. Key:	SoAct1_EG_AfterGateElits_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "The Runic Realm's Government didn't allow the Golems to become the privilege of the rich. Even though the elite were not allowed to have different Golems they always found a way to make their servants different than the ones owned by the poor."
+msgstr ""
+
+#. Key:	SoAct1_EG_AfterGateElits_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Capetainers"
+msgstr ""
+
+#. Key:	SoAct1_EG_AGRightFromPortal_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "'Just keep cleaning! Cleaning, cleaning...'"
+msgstr ""
+
+#. Key:	SoAct1_EG_AGRightFromPortal_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Cleaner Invasion"
+msgstr ""
+
+#. Key:	SoAct1_EG_AGTestStoneCircle_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "The Black Golem Market was funded by a Golem Maker apprentice who failed his master exam and was banished from school. No wonder his golems were... unique."
+msgstr ""
+
+#. Key:	SoAct1_EG_AGTestStoneCircle_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Weird Golems"
+msgstr ""
+
+#. Key:	SoAct1_EG_AGWallJumpTeam_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "The cleaning plan for this area fell apart with the participants."
+msgstr ""
+
+#. Key:	SoAct1_EG_AGWallJumpTeam_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "The North Team"
+msgstr ""
+
+#. Key:	SoAct1_EG_ArcadeDungeonCleaners_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "The Golem's behaviour was specified by the Golem Makers. Only very simple personalities were made at the beginning. The Cleaners, for example, only desired to keep the place tidy and make sure they don't harm the people."
+msgstr ""
+
+#. Key:	SoAct1_EG_ArcadeDungeonCleaners_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Arcade Cleaners"
+msgstr ""
+
+#. Key:	SoAct1_EG_ArcadeDungeonExit_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "After creating intelligence Golem Makers wanted even more. They wanted complex personality. They wanted Golems that can not only think but also feel. That was the idea behind designing the Gatekeepers."
+msgstr ""
+
+#. Key:	SoAct1_EG_ArcadeDungeonExit_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Arcade Servants"
+msgstr ""
+
+#. Key:	SoAct1_EG_ArcadeDungeonOptional_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "You might wonder if a Vacuum Cleaner is designed to clean dust away why does it need a laser caster?"
+msgstr ""
+
+#. Key:	SoAct1_EG_ArcadeDungeonOptional_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Vacuum Cleaners group"
+msgstr ""
+
+#. Key:	SoAct1_EG_ArcadeMaintainers_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "The very first Golems were made to do the most monotonic work so that people have more time to think and to create. Once they were friendly but as Ruin came their behaviour changed."
+msgstr ""
+
+#. Key:	SoAct1_EG_ArcadeMaintainers_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Arcade Cleaner Golems"
+msgstr ""
+
+#. Key:	SoAct1_EG_Chest_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "The poor chest was minding his own business before you started to insult him."
+msgstr ""
+
+#. Key:	SoAct1_EG_Chest_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Chest"
+msgstr ""
+
+#. Key:	SoAct1_EG_GGMiniBoss_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Maybe it only depends on the creation process, but some Golems had stronger personality. In general, Golems with more intelligence resisted Ruin longer and Golems with strong personality were more vulnerable to the infection."
+msgstr ""
+
+#. Key:	SoAct1_EG_GGMiniBoss_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Wickeds"
+msgstr ""
+
+#. Key:	SoAct1_EG_LoneDrone_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Drones delivered messages and gifts before Ruin. People were happy when they heard them approaching back then."
+msgstr ""
+
+#. Key:	SoAct1_EG_LoneDrone_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Lone Drone"
+msgstr ""
+
+#. Key:	SoAct1_EG_LoneSewerDrone_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "After Ruin most Golems liked to group together. Only a few chose to stay alone."
+msgstr ""
+
+#. Key:	SoAct1_EG_LoneSewerDrone_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Another Lone Drone"
+msgstr ""
+
+#. Key:	SoAct1_EG_MaceGroup_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "'Attention: our enemies greatest weapon, the holy Mace is stolen. We truly should have destroyed it as the Council suggested.'"
+msgstr ""
+
+#. Key:	SoAct1_EG_MaceGroup_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Mace Defenders"
+msgstr ""
+
+#. Key:	SoAct1_EG_MaintainerInvestigatorInvestigators_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "After Ruin, Golems started to have strange behavior. There were a group of them who used the pipes to flood a part of the City. Later these places were called the Sewer."
+msgstr ""
+
+#. Key:	SoAct1_EG_MaintainerInvestigatorInvestigators_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Pipe Golems"
+msgstr ""
+
+#. Key:	SoAct1_EG_MaintainerInvestigators_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Not only the Golems were created by using the Spirits of the Unknown World before Ruin. People found other ways of using this new technology. They created pipes to convey hot water to heat the city and cold water to drink."
+msgstr ""
+
+#. Key:	SoAct1_EG_MaintainerInvestigators_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Maintainers of the Pipes"
+msgstr ""
+
+#. Key:	SoAct1_EG_SABeforeWallJump_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Some believed cold can resist Ruin longer than magic. They created places where they kept the temperature beneath the freezing point. As it turned out, not even coldness can resist Ruin forever."
+msgstr ""
+
+#. Key:	SoAct1_EG_SABeforeWallJump_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Cleaners of the Refrigerator."
+msgstr ""
+
+#. Key:	SoAct1_EG_SAFightMustHave_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "'We won't clear anymore!' said the rebel Maintainer.\r\n'Let's declear War!'"
+msgstr ""
+
+#. Key:	SoAct1_EG_SAFightMustHave_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Underground Cleaner Band"
+msgstr ""
+
+#. Key:	SoAct1_EG_SAFightOptional_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "'Let's make something clear. Maybe this room?'"
+msgstr ""
+
+#. Key:	SoAct1_EG_SAFightOptional_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Underground Cleaner Band B"
+msgstr ""
+
+#. Key:	SoAct1_EG_SewerCircleVacuumCleaners_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "People realised that Golem's Spirits have a power beyond imagination. They called it the Ancient Magic. Vacuum Cleaners could use this magic to do their job even better."
+msgstr ""
+
+#. Key:	SoAct1_EG_SewerCircleVacuumCleaners_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Vacuum Cleaners"
+msgstr ""
+
+#. Key:	SoAct1_EG_SewerTeam_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Golem Makers wanted to create something more intelligent as they learned more. They shaped the Maintainers, the first golems capable of talking. Sadly their intelligence vanished as Ruin came."
+msgstr ""
+
+#. Key:	SoAct1_EG_SewerTeam_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Sewer Golems"
+msgstr ""
+
+#. Key:	SoAct1_EG_TL_VacuumTwins_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Libraries were important in the life of the former Realm's citizens. No wonder that many of the golems were created only to dust and organize the books."
+msgstr ""
+
+#. Key:	SoAct1_EG_TL_VacuumTwins_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Library Cleaners"
+msgstr ""
+
+#. Key:	SoAct1_EG_TLSewerCreatureWatch_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Golems never ever attacked the Pipe Walkers. The reason is only known by the wisest Pipe Walker himself. It is because, as he explained: 'Nun dara bum, tuk la.'"
+msgstr ""
+
+#. Key:	SoAct1_EG_TLSewerCreatureWatch_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Sewer Team B"
+msgstr ""
+
+#. Key:	SoAct1_EG_TowerTrio_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "They spent most of their time on the top of those towers - it was clear to me that they would die there as well."
+msgstr ""
+
+#. Key:	SoAct1_EG_TowerTrio_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "The Tower Trio"
+msgstr ""
+
+#. Key:	SoAct2_EG_BounceTrio_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Lava Jumpers are former Golems who fell into the lava. Some of them return to join their former Golem companions."
+msgstr ""
+
+#. Key:	SoAct2_EG_BounceTrio_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Bounce Trio"
+msgstr ""
+
+#. Key:	SoAct2_EG_C_BeforeKey_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "It's still unclear what makes some creatures touched by Ruin to group together. Some believes those who had similar emotions when Ruin came were likely to form a group."
+msgstr ""
+
+#. Key:	SoAct2_EG_C_BeforeKey_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Anxious Armours"
+msgstr ""
+
+#. Key:	SoAct2_EG_C_Bridge_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Crafting was always the obsession of Dwarves. In their workshops they forged mighty weapons and wondrous armours. Their love for their craft was so strong that instead of their body, Ruin preserved their iron works."
+msgstr ""
+
+#. Key:	SoAct2_EG_C_Bridge_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Bridge Brigade"
+msgstr ""
+
+#. Key:	SoAct2_EG_C_LoneShadeSphere_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Before Ruin there was no other humanoid race but human. New races are created by Ruin's Shades. They roam the lands looking for any living being which they can possess. Once they become part of a creature its body will start to change."
+msgstr ""
+
+#. Key:	SoAct2_EG_C_LoneShadeSphere_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Weird Floating Thing"
+msgstr ""
+
+#. Key:	SoAct2_EG_C_OfficeGuards_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Watching the only way to the Office did not bring enough protection. If any intruder managed to pass the Patrols he still had to face the Guardians to proceed."
+msgstr ""
+
+#. Key:	SoAct2_EG_C_OfficeGuards_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Guardians of the Law"
+msgstr ""
+
+#. Key:	SoAct2_EG_C_OfficePatrols_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Going into the Law's High Office was forbidden even for most of the Dwarves. Only one path lead to the Office and that was guarded by the Patrols."
+msgstr ""
+
+#. Key:	SoAct2_EG_C_OfficePatrols_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Patrols of the Law"
+msgstr ""
+
+#. Key:	SoAct2_EG_DG_Left_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Deep beneath the Catacombs there is a secret place called the Dwarven Gate. Elite dwarves who worked here were placed above the Law. They were seeking a way to fight Ruin with Ruin's magic."
+msgstr ""
+
+#. Key:	SoAct2_EG_DG_Left_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Glorious Group"
+msgstr ""
+
+#. Key:	SoAct2_EG_DG_RightFloor_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Even though most of the common Dwarves never even heard about Dwarven Gate some were needed to do the hard work. Now that Ruin won, Dwarves are finally equal."
+msgstr ""
+
+#. Key:	SoAct2_EG_DG_RightFloor_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Not so Elite Dwarves"
+msgstr ""
+
+#. Key:	SoAct2_EG_DG_RightUpOptional_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "One idea of the Elite Dwarves was to create giant statues which are able to trap Ruin's essence. Even if they were right they never managed to make enough sculptures."
+msgstr ""
+
+#. Key:	SoAct2_EG_DG_RightUpOptional_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Sculptors"
+msgstr ""
+
+#. Key:	SoAct2_EG_DwarfBoss_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Dwarven Statues were meant to imprison the essence of Ruin. However there were some Dwarven scientists who feared that the statues were not safe and in the long run they wouldn't be able to resist the power of Ruin..."
+msgstr ""
+
+#. Key:	SoAct2_EG_DwarfBoss_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Dwarven Statue"
+msgstr ""
+
+#. Key:	SoAct2_EG_GolemFirst_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Stone Golems are the cheap copies of the Runic Realm Golems. If Ruin twists the creatures mind then it will definitely have no effect on these ones."
+msgstr ""
+
+#. Key:	SoAct2_EG_GolemFirst_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Sphere Golem"
+msgstr ""
+
+#. Key:	SoAct2_EG_GolemSecond_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Looks like the second try is just as bad as the first one."
+msgstr ""
+
+#. Key:	SoAct2_EG_GolemSecond_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Second Sphere Golem"
+msgstr ""
+
+#. Key:	SoAct2_EG_GolemThird_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Whoever made this Golem, he should have stopped after the second try."
+msgstr ""
+
+#. Key:	SoAct2_EG_GolemThird_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Third Sphere Golem"
+msgstr ""
+
+#. Key:	SoAct2_EG_HutFishies_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Now that the Fishys are gone, the Lake's piranhas can live in peace and eat whoever comes close."
+msgstr ""
+
+#. Key:	SoAct2_EG_HutFishies_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Abandoned Fishy Slaves"
+msgstr ""
+
+#. Key:	SoAct2_EG_HutFlyArmy_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "No one knows where the Flies came from. Although you have a very clear idea on where they should go..."
+msgstr ""
+
+#. Key:	SoAct2_EG_HutFlyArmy_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Annoying Flies"
+msgstr ""
+
+#. Key:	SoAct2_EG_LavaBoss_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Armour Wrath was the most ambitious and majestic work of the Golem Maker. He used all his remaining strength to create this mighty Golem. It's a pity that all his efforts were in vain."
+msgstr ""
+
+#. Key:	SoAct2_EG_LavaBoss_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Armour Wrath"
+msgstr ""
+
+#. Key:	SoAct2_EG_LavaDeepTeam_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "A fourth Sphere Golem? Someone never gives up..."
+msgstr ""
+
+#. Key:	SoAct2_EG_LavaDeepTeam_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Fourth Sphere Golem"
+msgstr ""
+
+#. Key:	SoAct2_EG_LavaJumpers_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "When a Golem falls into the lava its stone body will melt away. The spirit however resists the heat and will be looking for another body..."
+msgstr ""
+
+#. Key:	SoAct2_EG_LavaJumpers_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Lava Jumpers"
+msgstr ""
+
+#. Key:	SoAct2_EG_LavaTeamX_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Divided they fall, united they divide..."
+msgstr ""
+
+#. Key:	SoAct2_EG_LavaTeamX_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Golem Group"
+msgstr ""
+
+#. Key:	SoAct2_EG_LavaTrio_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Wherever Golems go after death these three will go there together."
+msgstr ""
+
+#. Key:	SoAct2_EG_LavaTrio_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Golem Trio"
+msgstr ""
+
+#. Key:	SoAct2_EG_OutpostLeft_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "To keep Ruin away dwarves forbade everything related to Ruin's magic. This might have worked in theory but they failed to notice that their mechanical devices were also powered by Ruin."
+msgstr ""
+
+#. Key:	SoAct2_EG_OutpostLeft_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Guardians of the West Wall"
+msgstr ""
+
+#. Key:	SoAct2_EG_OutpostRight_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Ruin was not only meant for destruction, it could also preserve. Ruin gave endless life for those who survived at the cost of twisting their minds."
+msgstr ""
+
+#. Key:	SoAct2_EG_OutpostRight_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Guardians of the East Wall"
+msgstr ""
+
+#. Key:	SoAct2_EG_OutpostWallFirst_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Dwarves fought Ruin with Rules. These soldiers were ordered here to guard the Outpost. Their will to obey the order was so strong that even death couldn't break it."
+msgstr ""
+
+#. Key:	SoAct2_EG_OutpostWallFirst_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Patrols of the Outpost Wall"
+msgstr ""
+
+#. Key:	SoAct2_EG_Shore_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "After Ruin turned them into Monsters some creatures gathered together. Whether it's the effect of Ruin or something from their former life is unclear."
+msgstr ""
+
+#. Key:	SoAct2_EG_Shore_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Shore Monsters"
+msgstr ""
+
+#. Key:	SoAct2_EG_SlideFishyTeam_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Fishys were produced by the Great Kobold tribe for slaves. Some of them managed to escape, but they couldn't go far from the Lake."
+msgstr ""
+
+#. Key:	SoAct2_EG_SlideFishyTeam_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Deserter Fishys"
+msgstr ""
+
+#. Key:	SoAct2_EG_SlidePathEnd_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Deserter Fishys always kept a Fishy group close to the exit of their secret hideout. They protected the others and watched the kobolds to find the right time to venture back to the Lake."
+msgstr ""
+
+#. Key:	SoAct2_EG_SlidePathEnd_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Patrol Fishys"
+msgstr ""
+
+#. Key:	SoAct2_EG_WormHole_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Worms kept distance from each other before Ruin. It's strange how a force which tears everything apart can also unite."
+msgstr ""
+
+#. Key:	SoAct2_EG_WormHole_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Worms"
+msgstr ""
+
+#. Key:	SoAct2_EG_Wormy_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "There was a time when Worms only made damage to fields and gardens. Now they are a bit more ambitious..."
+msgstr ""
+
+#. Key:	SoAct2_EG_Wormy_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Worm"
+msgstr ""
+
+#. Key:	SoAct2_EG_WWBoss_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "When Ruin appeared some decided to abandon civilization and return to nature. Their leader, the Fallen Druid cast an ancient spell to protect his plants from Ruin. His spell partly worked but at a terrible cost."
+msgstr ""
+
+#. Key:	SoAct2_EG_WWBoss_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Fallen Druid"
+msgstr ""
+
+#. Key:	SoAct3_EG_Act3BubbleGroundMain_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Ruin's power is not only in destruction. When it can't change something it will preserve those attributes which can prepare the possibility to change again. Ruin's power is in change."
+msgstr ""
+
+#. Key:	SoAct3_EG_Act3BubbleGroundMain_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Maintainer Spellcasters"
+msgstr ""
+
+#. Key:	SoAct3_EG_Act3FinalBattle_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Even though Ruin doesn't have consciousness nor the ability to think it somehow reacts to your presence. As if it knew the threat you present, Ruin tries all it can to stop you from leaving the Ruined Realm."
+msgstr ""
+
+#. Key:	SoAct3_EG_Act3FinalBattle_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Ruined Convention"
+msgstr ""
+
+#. Key:	SoAct3_EG_Act3PipeGroupFirst_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "There is a difference between how Humans and Golems are transformed by Ruin. Human bodies reach their final form in a few decades but Golems never stop changing. There is always a new, more vicious type."
+msgstr ""
+
+#. Key:	SoAct3_EG_Act3PipeGroupFirst_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Red Drones"
+msgstr ""
+
+#. Key:	SoAct3_EG_Act3PipeGroupSecond_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Transformation is relative to intelligence. Creatures with consciousness have a strong desire to reserve their ego. Ruin can fool them a few times but later they become invulnerable to Ruin's changing power."
+msgstr ""
+
+#. Key:	SoAct3_EG_Act3PipeGroupSecond_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "More Drones"
+msgstr ""
+
+#. Key:	SoAct3_EG_Act3RangedCleanerTwins_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Ruin's nature is confusing for the human mind. It can build, it can destroy, it can use, it can be used. These actions have the same priority for Ruin. All that matters is that it can do something. And with time it wants more and more."
+msgstr ""
+
+#. Key:	SoAct3_EG_Act3RangedCleanerTwins_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Cleaner Twins"
+msgstr ""
+
+#. Key:	SoAct3_EG_Act3VacuumTwins_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Ruin's logic is predictable when you understand its nature. When it's not possible to create more the creation process can be restarted by destroying everything first."
+msgstr ""
+
+#. Key:	SoAct3_EG_Act3VacuumTwins_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Elite Twins"
+msgstr ""
+
+#. Key:	WhiteWall_EG_AfterKobold_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Creating intelligence was not enough for the Golem Makers. They wanted to get even further. They wanted to create Golems with emotions."
+msgstr ""
+
+#. Key:	WhiteWall_EG_AfterKobold_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Flying Maintainer"
+msgstr ""
+
+#. Key:	WhiteWall_EG_BeforeKobold_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "When the Cataclysm happened and Ruin came the Golems started to change. Instead of doing their daily work some of them turned against their masters."
+msgstr ""
+
+#. Key:	WhiteWall_EG_BeforeKobold_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Infected Golems"
+msgstr ""
+
+#. Key:	WhiteWall_EG_FirstCombat_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Cleaners were the first Golems ever made. Before the Cataclysm they did all the monoton work so that the people had more time to think and to create."
+msgstr ""
+
+#. Key:	WhiteWall_EG_FirstCombat_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Whitewall Cleaners"
+msgstr ""
+
+#. Key:	WhiteWall_EG_FirstOptionalCombat_desc
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "After the different types of Cleaners, Golem Makers wanted to create something greater than working robots. They started to design creatures with intelligence."
+msgstr ""
+
+#. Key:	WhiteWall_EG_FirstOptionalCombat_name
+#. SourceLocation:	Config/DefaultSoGameSingleton.ini:23
+#: Config/DefaultSoGameSingleton.ini:23
+msgctxt "EnemyGroupData"
+msgid "Whitewall Maintainers"
+msgstr ""
+
+#. Key:	Abacus_desc
+#. SourceLocation:	/Game/SO/Items/QuestItems/Abacus.Abacus.Description
+#: /Game/SO/Items/QuestItems/Abacus.Abacus.Description
+msgctxt "ItemData"
+msgid "When you don't have enough fingers to count something you need this abacus."
+msgstr ""
+
+#. Key:	Abacus_name
+#. SourceLocation:	/Game/SO/Items/QuestItems/Abacus.Abacus.Name
+#: /Game/SO/Items/QuestItems/Abacus.Abacus.Name
+msgctxt "ItemData"
+msgid "Abacus"
+msgstr ""
+
+#. Key:	AbacusGhost_desc
+#. SourceLocation:	/Game/SO/Items/QuestItems/AbacusGhost.AbacusGhost.Description
+#: /Game/SO/Items/QuestItems/AbacusGhost.AbacusGhost.Description
+msgctxt "ItemData"
+msgid "When the Abacus is killed its spirit might return to get even with its murderer."
+msgstr ""
+
+#. Key:	AbacusGhost_name
+#. SourceLocation:	/Game/SO/Items/QuestItems/AbacusGhost.AbacusGhost.Name
+#: /Game/SO/Items/QuestItems/AbacusGhost.AbacusGhost.Name
+msgctxt "ItemData"
+msgid "Ghost Abacus"
+msgstr ""
+
+#. Key:	AbacusGhostFlower_desc
+#. SourceLocation:	/Game/SO/Items/QuestItems/AbacusGhostFlower.AbacusGhostFlower.Description
+#: /Game/SO/Items/QuestItems/AbacusGhostFlower.AbacusGhostFlower.Description
+msgctxt "ItemData"
+msgid "Petals of a ghost flower."
+msgstr ""
+
+#. Key:	AbacusGhostFlower_name
+#. SourceLocation:	/Game/SO/Items/QuestItems/AbacusGhostFlower.AbacusGhostFlower.Name
+#: /Game/SO/Items/QuestItems/AbacusGhostFlower.AbacusGhostFlower.Name
+msgctxt "ItemData"
+msgid "Ghost Petals"
+msgstr ""
+
+#. Key:	AbacusSpellBook_desc
+#. SourceLocation:	/Game/SO/Items/QuestItems/AbacusSpellBook.AbacusSpellBook.Description
+#: /Game/SO/Items/QuestItems/AbacusSpellBook.AbacusSpellBook.Description
+msgctxt "ItemData"
+msgid "An ancient paper"
+msgstr ""
+
+#. Key:	AbacusSpellBook_name
+#. SourceLocation:	/Game/SO/Items/QuestItems/AbacusSpellBook.AbacusSpellBook.Name
+#: /Game/SO/Items/QuestItems/AbacusSpellBook.AbacusSpellBook.Name
+msgctxt "ItemData"
+msgid "Scroll of Surrection"
+msgstr ""
+
+#. Key:	AbacusSpellBook_page_0
+#. SourceLocation:	/Game/SO/Items/QuestItems/AbacusSpellBook.AbacusSpellBook.Pages(0).Pages
+#: /Game/SO/Items/QuestItems/AbacusSpellBook.AbacusSpellBook.Pages(0).Pages
+msgctxt "ItemData"
+msgid "Wisy et al. [3152] point out that any entity can be banished by throwing the proper object into his/her/its face a few times, making him/her/it annoyed thus unconcerned, as long as the target entity has a face.\r\n\r\nThe proper object in case of ghosts is something Surrected [Inti and Clevi 3153], as only Surrected substance can interact with ghosts.\r\n\r\nAny object covered with petals of Ghost Flower can be Surrected using the following method:\r\n\r\n- Say \"Sorry my <object name>!\"\r\n- Break the object into pieces with a heated hammer\r\n- Say your favourite color\r\n- Croon \"La La LaLaLa LaLaLa\" until the object is coagulated into a single Surrected object"
+msgstr ""
+
+#. Key:	AbacusSpellBook_page_1
+#. SourceLocation:	/Game/SO/Items/QuestItems/AbacusSpellBook.AbacusSpellBook.Pages(1).Pages
+#: /Game/SO/Items/QuestItems/AbacusSpellBook.AbacusSpellBook.Pages(1).Pages
+msgctxt "ItemData"
+msgid "WARNING: not following the instructions exactly leads to failure and also increases the probability of injury and or death [Carfy 3154].\r\n\r\nREFERENCES:\r\n\r\nWISY, W., BUSY, B., WEIRDY, Y., AND LUCKY, L. 3152. The best ways to get rid of anyone potentially distracting us with questions like \"What do you read?\"\r\n\r\nInti, I., AND Clevi, C. 3153. Insulting dead ancestors using Surrected objects\r\n\r\nCarfy C. 3154. What happened to Clevi, C. and Inti, I."
+msgstr ""
+
+#. Key:	All_desc
+#. SourceLocation:	/Game/SO/Items/QuestItems/All.All.Description
+#: /Game/SO/Items/QuestItems/All.All.Description
+msgctxt "ItemData"
+msgid "Maybe it was a bit too much?"
+msgstr ""
+
+#. Key:	All_name
+#. SourceLocation:	/Game/SO/Items/QuestItems/All.All.Name
+#: /Game/SO/Items/QuestItems/All.All.Name
+msgctxt "ItemData"
+msgid "Everything, except an Abacus"
+msgstr ""
+
+#. Key:	Artifact_desc
+#. SourceLocation:	/Game/SO/Items/QuestItems/Artifact.Artifact.Description
+#: /Game/SO/Items/QuestItems/Artifact.Artifact.Description
+msgctxt "ItemData"
+msgid "A very rare and powerful item which is used for opening a portal into the Unknown Realm. If you gather three and give them to the Wizard he shall set you free."
+msgstr ""
+
+#. Key:	Artifact_name
+#. SourceLocation:	/Game/SO/Items/QuestItems/Artifact.Artifact.Name
+#: /Game/SO/Items/QuestItems/Artifact.Artifact.Name
+msgctxt "ItemData"
+msgid "Artifact"
+msgstr ""
+
+#. Key:	AxeMainGame_desc
+#. SourceLocation:	/Game/SO/Items/Weapons/AxeMainGame.AxeMainGame.Description
+#. Key:	Axe_desc
+#. SourceLocation:	/Game/SO/Items/Weapons/Axe.Axe.Description
+#: /Game/SO/Items/Weapons/Axe.Axe.Description
+#: /Game/SO/Items/Weapons/AxeMainGame.AxeMainGame.Description
+msgctxt "ItemData"
+msgid "Axes are usefull, but if you don't need them you can just throw them away."
+msgstr ""
+
+#. Key:	AxeMainGame_name
+#. SourceLocation:	/Game/SO/Items/Weapons/AxeMainGame.AxeMainGame.Name
+#. Key:	Axe_name
+#. SourceLocation:	/Game/SO/Items/Weapons/Axe.Axe.Name
+#: /Game/SO/Items/Weapons/Axe.Axe.Name
+#: /Game/SO/Items/Weapons/AxeMainGame.AxeMainGame.Name
+msgctxt "ItemData"
+msgid "Axes"
+msgstr ""
+
+#. Key:	BlueCrystal_desc
+#. SourceLocation:	/Game/SO/Items/Valuable/BlueCrystal.BlueCrystal.Description
+#: /Game/SO/Items/Valuable/BlueCrystal.BlueCrystal.Description
+msgctxt "ItemData"
+msgid "An ancient crystal people like to buy."
+msgstr ""
+
+#. Key:	BlueCrystal_name
+#. SourceLocation:	/Game/SO/Items/Valuable/BlueCrystal.BlueCrystal.Name
+#: /Game/SO/Items/Valuable/BlueCrystal.BlueCrystal.Name
+msgctxt "ItemData"
+msgid "Blue Crystal"
+msgstr ""
+
+#. Key:	BlueGem_desc
+#. SourceLocation:	/Game/SO/Items/QuestItems/BlueGem.BlueGem.Description
+#: /Game/SO/Items/QuestItems/BlueGem.BlueGem.Description
+msgctxt "ItemData"
+msgid "A small precious blue stone."
+msgstr ""
+
+#. Key:	BlueGem_name
+#. SourceLocation:	/Game/SO/Items/QuestItems/BlueGem.BlueGem.Name
+#: /Game/SO/Items/QuestItems/BlueGem.BlueGem.Name
+msgctxt "ItemData"
+msgid "Blue Gem"
+msgstr ""
+
+#. Key:	DemonSword_desc
+#. SourceLocation:	/Game/SO/Items/Weapons/DemonSword.DemonSword.Description
+#: /Game/SO/Items/Weapons/DemonSword.DemonSword.Description
+msgctxt "ItemData"
+msgid "The mighty sword of Kharutar the Demon Ruler. Legend says he once cut one of his fingers with it and in his rage he broke the sword into two. Later it was reforged but some say it would still need some more fixes."
+msgstr ""
+
+#. Key:	DemonSword_name
+#. SourceLocation:	/Game/SO/Items/Weapons/DemonSword.DemonSword.Name
+#: /Game/SO/Items/Weapons/DemonSword.DemonSword.Name
+msgctxt "ItemData"
+msgid "Demon Sword"
+msgstr ""
+
+#. Key:	DOKitchenKey_desc
+#. SourceLocation:	/Game/SO/Items/Keys/DOKitchenKey.DOKitchenKey.Description
+#: /Game/SO/Items/Keys/DOKitchenKey.DOKitchenKey.Description
+msgctxt "ItemData"
+msgid "This is one of the many spare keys of the Dwarven Outpost Kitchen. Being able to get into the kitchen was always very important for dwarves."
+msgstr ""
+
+#. Key:	DOKitchenKey_name
+#. SourceLocation:	/Game/SO/Items/Keys/DOKitchenKey.DOKitchenKey.Name
+#: /Game/SO/Items/Keys/DOKitchenKey.DOKitchenKey.Name
+msgctxt "ItemData"
+msgid "Kitchen Key"
+msgstr ""
+
+#. Key:	DualBlade_desc
+#. SourceLocation:	/Game/SO/Items/Weapons/DualBlade.DualBlade.Description
+#: /Game/SO/Items/Weapons/DualBlade.DualBlade.Description
+msgctxt "ItemData"
+msgid "In case of trouble, it's better to have double."
+msgstr ""
+
+#. Key:	DualBlade_name
+#. SourceLocation:	/Game/SO/Items/Weapons/DualBlade.DualBlade.Name
+#: /Game/SO/Items/Weapons/DualBlade.DualBlade.Name
+msgctxt "ItemData"
+msgid "Double Sword"
+msgstr ""
+
+#. Key:	ElevatorGem_desc
+#. SourceLocation:	/Game/SO/Items/QuestItems/ElevatorGem.ElevatorGem.Description
+#: /Game/SO/Items/QuestItems/ElevatorGem.ElevatorGem.Description
+msgctxt "ItemData"
+msgid "A shiny green crystal which activates a weight lifting mechanism. At least by the look of it."
+msgstr ""
+
+#. Key:	ElevatorGem_name
+#. SourceLocation:	/Game/SO/Items/QuestItems/ElevatorGem.ElevatorGem.Name
+#: /Game/SO/Items/QuestItems/ElevatorGem.ElevatorGem.Name
+msgctxt "ItemData"
+msgid "Elevator Gem"
+msgstr ""
+
+#. Key:	ElevatorLeverCrystal_desc
+#. SourceLocation:	/Game/SO/Items/QuestItems/ElevatorLeverCrystal.ElevatorLeverCrystal.Description
+#: /Game/SO/Items/QuestItems/ElevatorLeverCrystal.ElevatorLeverCrystal.Description
+msgctxt "ItemData"
+msgid "You got this item for free from a Merchant so you hardly believe it has any value. It might be used as some sort of a mechanism activator though. Hopefully not for a trap."
+msgstr ""
+
+#. Key:	ElevatorLeverCrystal_name
+#. SourceLocation:	/Game/SO/Items/QuestItems/ElevatorLeverCrystal.ElevatorLeverCrystal.Name
+#: /Game/SO/Items/QuestItems/ElevatorLeverCrystal.ElevatorLeverCrystal.Name
+msgctxt "ItemData"
+msgid "Elevator Crystal"
+msgstr ""
+
+#. Key:	FountainFlower_desc
+#. SourceLocation:	/Game/SO/Items/QuestItems/FountainFlower.FountainFlower.Description
+#: /Game/SO/Items/QuestItems/FountainFlower.FountainFlower.Description
+msgctxt "ItemData"
+msgid "Flower acquired from a fountain."
+msgstr ""
+
+#. Key:	FountainFlower_name
+#. SourceLocation:	/Game/SO/Items/QuestItems/FountainFlower.FountainFlower.Name
+#: /Game/SO/Items/QuestItems/FountainFlower.FountainFlower.Name
+msgctxt "ItemData"
+msgid "Fountain Flower"
+msgstr ""
+
+#. Key:	GateKeeperSeat_desc
+#. SourceLocation:	/Game/SO/Items/QuestItems/GateKeeperSeat.GateKeeperSeat.Description
+#: /Game/SO/Items/QuestItems/GateKeeperSeat.GateKeeperSeat.Description
+msgctxt "ItemData"
+msgid "A simple seat of size XXXXXXXXXL"
+msgstr ""
+
+#. Key:	GateKeeperSeat_name
+#. SourceLocation:	/Game/SO/Items/QuestItems/GateKeeperSeat.GateKeeperSeat.Name
+#: /Game/SO/Items/QuestItems/GateKeeperSeat.GateKeeperSeat.Name
+msgctxt "ItemData"
+msgid "Giant Seat"
+msgstr ""
+
+#. Key:	KeyAADoorNearDungeonExit_desc
+#. SourceLocation:	/Game/SO/Items/Keys/KeyAADoorNearDungeonExit.KeyAADoorNearDungeonExit.Description
+#: /Game/SO/Items/Keys/KeyAADoorNearDungeonExit.KeyAADoorNearDungeonExit.Description
+msgctxt "ItemData"
+msgid "A key without a proper item description"
+msgstr ""
+
+#. Key:	KeyAADoorNearDungeonExit_name
+#. SourceLocation:	/Game/SO/Items/Keys/KeyAADoorNearDungeonExit.KeyAADoorNearDungeonExit.Name
+#: /Game/SO/Items/Keys/KeyAADoorNearDungeonExit.KeyAADoorNearDungeonExit.Name
+msgctxt "ItemData"
+msgid "Arcade Key"
+msgstr ""
+
+#. Key:	KeyAAFirstFight_desc
+#. SourceLocation:	/Game/SO/Items/Keys/KeyAAFirstFight.KeyAAFirstFight.Description
+#: /Game/SO/Items/Keys/KeyAAFirstFight.KeyAAFirstFight.Description
+msgctxt "ItemData"
+msgid "Weird"
+msgstr ""
+
+#. Key:	KeyAAFirstFight_name
+#. SourceLocation:	/Game/SO/Items/Keys/KeyAAFirstFight.KeyAAFirstFight.Name
+#: /Game/SO/Items/Keys/KeyAAFirstFight.KeyAAFirstFight.Name
+msgctxt "ItemData"
+msgid "Weird Key"
+msgstr ""
+
+#. Key:	KeyAAMainFirstDoor_desc
+#. SourceLocation:	/Game/SO/Items/Keys/KeyAAMainFirstDoor.KeyAAMainFirstDoor.Description
+#: /Game/SO/Items/Keys/KeyAAMainFirstDoor.KeyAAMainFirstDoor.Description
+msgctxt "ItemData"
+msgid "Sometimes the lock is harder to find than the key."
+msgstr ""
+
+#. Key:	KeyAAMainFirstDoor_name
+#. SourceLocation:	/Game/SO/Items/Keys/KeyAAMainFirstDoor.KeyAAMainFirstDoor.Name
+#: /Game/SO/Items/Keys/KeyAAMainFirstDoor.KeyAAMainFirstDoor.Name
+msgctxt "ItemData"
+msgid "Key of Something"
+msgstr ""
+
+#. Key:	KeyAGPortalFight_desc
+#. SourceLocation:	/Game/SO/Items/Keys/KeyAGPortalFight.KeyAGPortalFight.Description
+#: /Game/SO/Items/Keys/KeyAGPortalFight.KeyAGPortalFight.Description
+msgctxt "ItemData"
+msgid "Just another key."
+msgstr ""
+
+#. Key:	KeyAGPortalFight_name
+#. SourceLocation:	/Game/SO/Items/Keys/KeyAGPortalFight.KeyAGPortalFight.Name
+#: /Game/SO/Items/Keys/KeyAGPortalFight.KeyAGPortalFight.Name
+msgctxt "ItemData"
+msgid "Eastern Key"
+msgstr ""
+
+#. Key:	KeyBronze_desc
+#. SourceLocation:	/Game/SO/Items/Keys/KeyBronze.KeyBronze.Description
+#: /Game/SO/Items/Keys/KeyBronze.KeyBronze.Description
+msgctxt "ItemData"
+msgid "A reforged Bronze Key."
+msgstr ""
+
+#. Key:	KeyBronze_name
+#. SourceLocation:	/Game/SO/Items/Keys/KeyBronze.KeyBronze.Name
+#: /Game/SO/Items/Keys/KeyBronze.KeyBronze.Name
+msgctxt "ItemData"
+msgid "Bronze Key"
+msgstr ""
+
+#. Key:	KeyCatacombs0_desc
+#. SourceLocation:	/Game/SO/Items/Keys/KeyCatacombs0.KeyCatacombs0.Description
+#: /Game/SO/Items/Keys/KeyCatacombs0.KeyCatacombs0.Description
+msgctxt "ItemData"
+msgid "There are a ridiculous amount of keys in this world, right?"
+msgstr ""
+
+#. Key:	KeyCatacombs0_name
+#. SourceLocation:	/Game/SO/Items/Keys/KeyCatacombs0.KeyCatacombs0.Name
+#: /Game/SO/Items/Keys/KeyCatacombs0.KeyCatacombs0.Name
+msgctxt "ItemData"
+msgid "Key Of The Room Below"
+msgstr ""
+
+#. Key:	KeyCopper_desc
+#. SourceLocation:	/Game/SO/Items/Keys/KeyCopper.KeyCopper.Description
+#: /Game/SO/Items/Keys/KeyCopper.KeyCopper.Description
+msgctxt "ItemData"
+msgid "A reforged Copper Key."
+msgstr ""
+
+#. Key:	KeyCopper_name
+#. SourceLocation:	/Game/SO/Items/Keys/KeyCopper.KeyCopper.Name
+#: /Game/SO/Items/Keys/KeyCopper.KeyCopper.Name
+msgctxt "ItemData"
+msgid "Copper Key"
+msgstr ""
+
+#. Key:	KeyDCMainOut_desc
+#. SourceLocation:	/Game/SO/Items/Keys/KeyDCMainOut.KeyDCMainOut.Description
+#: /Game/SO/Items/Keys/KeyDCMainOut.KeyDCMainOut.Description
+msgctxt "ItemData"
+msgid "Just an old, rusty iron key without a proper item description"
+msgstr ""
+
+#. Key:	KeyDCMainOut_name
+#. SourceLocation:	/Game/SO/Items/Keys/KeyDCMainOut.KeyDCMainOut.Name
+#: /Game/SO/Items/Keys/KeyDCMainOut.KeyDCMainOut.Name
+msgctxt "ItemData"
+msgid "Catacomb Key"
+msgstr ""
+
+#. Key:	KeyIron_desc
+#. SourceLocation:	/Game/SO/Items/Keys/KeyIron.KeyIron.Description
+#: /Game/SO/Items/Keys/KeyIron.KeyIron.Description
+msgctxt "ItemData"
+msgid "A reforged Iron Key."
+msgstr ""
+
+#. Key:	KeyIron_name
+#. SourceLocation:	/Game/SO/Items/Keys/KeyIron.KeyIron.Name
+#: /Game/SO/Items/Keys/KeyIron.KeyIron.Name
+msgctxt "ItemData"
+msgid "Iron Key"
+msgstr ""
+
+#. Key:	KeyMaster_desc
+#. SourceLocation:	/Game/SO/Items/Keys/KeyMaster.KeyMaster.Description
+#: /Game/SO/Items/Keys/KeyMaster.KeyMaster.Description
+msgctxt "ItemData"
+msgid "This key can be used to open any door equipped with a special kind of lock, but breaks during the process."
+msgstr ""
+
+#. Key:	KeyMaster_name
+#. SourceLocation:	/Game/SO/Items/Keys/KeyMaster.KeyMaster.Name
+#: /Game/SO/Items/Keys/KeyMaster.KeyMaster.Name
+msgctxt "ItemData"
+msgid "Master Key"
+msgstr ""
+
+#. Key:	KeyMerchant_desc
+#. SourceLocation:	/Game/SO/Items/Keys/KeyMerchant.KeyMerchant.Description
+#: /Game/SO/Items/Keys/KeyMerchant.KeyMerchant.Description
+msgctxt "ItemData"
+msgid "Does it really work? You will find out soon..."
+msgstr ""
+
+#. Key:	KeyMerchant_name
+#. SourceLocation:	/Game/SO/Items/Keys/KeyMerchant.KeyMerchant.Name
+#: /Game/SO/Items/Keys/KeyMerchant.KeyMerchant.Name
+msgctxt "ItemData"
+msgid "A very small key"
+msgstr ""
+
+#. Key:	KeyOutpostWall_desc
+#. SourceLocation:	/Game/SO/Items/Keys/KeyOutpostWall.KeyOutpostWall.Description
+#: /Game/SO/Items/Keys/KeyOutpostWall.KeyOutpostWall.Description
+msgctxt "ItemData"
+msgid "Do you really read the key descriptions?"
+msgstr ""
+
+#. Key:	KeyOutpostWall_name
+#. SourceLocation:	/Game/SO/Items/Keys/KeyOutpostWall.KeyOutpostWall.Name
+#: /Game/SO/Items/Keys/KeyOutpostWall.KeyOutpostWall.Name
+msgctxt "ItemData"
+msgid "Key Of The Outpost Wall"
+msgstr ""
+
+#. Key:	KeyOutpostWallOptional_desc
+#. SourceLocation:	/Game/SO/Items/Keys/KeyOutpostWallOptional.KeyOutpostWallOptional.Description
+#: /Game/SO/Items/Keys/KeyOutpostWallOptional.KeyOutpostWallOptional.Description
+msgctxt "ItemData"
+msgid "I would rather sleep, but the item descriptions won't write themselves."
+msgstr ""
+
+#. Key:	KeyOutpostWallOptional_name
+#. SourceLocation:	/Game/SO/Items/Keys/KeyOutpostWallOptional.KeyOutpostWallOptional.Name
+#: /Game/SO/Items/Keys/KeyOutpostWallOptional.KeyOutpostWallOptional.Name
+msgctxt "ItemData"
+msgid "Second Key Of The Outpost Wall"
+msgstr ""
+
+#. Key:	KeyPiecesBronze0_desc
+#. SourceLocation:	/Game/SO/Items/Keys/KeyPiecesBronze0.KeyPiecesBronze0.Description
+#: /Game/SO/Items/Keys/KeyPiecesBronze0.KeyPiecesBronze0.Description
+msgctxt "ItemData"
+msgid "Half of a broken Bronze Key"
+msgstr ""
+
+#. Key:	KeyPiecesBronze0_name
+#. SourceLocation:	/Game/SO/Items/Keys/KeyPiecesBronze0.KeyPiecesBronze0.Name
+#: /Game/SO/Items/Keys/KeyPiecesBronze0.KeyPiecesBronze0.Name
+msgctxt "ItemData"
+msgid "Half Bronze Key"
+msgstr ""
+
+#. Key:	KeyPiecesCopper0_desc
+#. SourceLocation:	/Game/SO/Items/Keys/KeyPiecesCopper0.KeyPiecesCopper0.Description
+#: /Game/SO/Items/Keys/KeyPiecesCopper0.KeyPiecesCopper0.Description
+msgctxt "ItemData"
+msgid "Half of a broken Copper Key"
+msgstr ""
+
+#. Key:	KeyPiecesCopper0_name
+#. SourceLocation:	/Game/SO/Items/Keys/KeyPiecesCopper0.KeyPiecesCopper0.Name
+#: /Game/SO/Items/Keys/KeyPiecesCopper0.KeyPiecesCopper0.Name
+msgctxt "ItemData"
+msgid "Half Copper Key"
+msgstr ""
+
+#. Key:	KeyPiecesIron0_desc
+#. SourceLocation:	/Game/SO/Items/Keys/KeyPiecesIron0.KeyPiecesIron0.Description
+#: /Game/SO/Items/Keys/KeyPiecesIron0.KeyPiecesIron0.Description
+msgctxt "ItemData"
+msgid "Half of a broken Iron Key"
+msgstr ""
+
+#. Key:	KeyPiecesIron0_name
+#. SourceLocation:	/Game/SO/Items/Keys/KeyPiecesIron0.KeyPiecesIron0.Name
+#: /Game/SO/Items/Keys/KeyPiecesIron0.KeyPiecesIron0.Name
+msgctxt "ItemData"
+msgid "Half Iron Key"
+msgstr ""
+
+#. Key:	KeySA_desc
+#. SourceLocation:	/Game/SO/Items/Keys/KeySA.KeySA.Description
+#: /Game/SO/Items/Keys/KeySA.KeySA.Description
+msgctxt "ItemData"
+msgid "Looks like there are tons of these"
+msgstr ""
+
+#. Key:	KeySA_name
+#. SourceLocation:	/Game/SO/Items/Keys/KeySA.KeySA.Name
+#: /Game/SO/Items/Keys/KeySA.KeySA.Name
+msgctxt "ItemData"
+msgid "Another Key"
+msgstr ""
+
+#. Key:	KeySASewerCreatureCell_desc
+#. SourceLocation:	/Game/SO/Items/Keys/KeySASewerCreatureCell.KeySASewerCreatureCell.Description
+#: /Game/SO/Items/Keys/KeySASewerCreatureCell.KeySASewerCreatureCell.Description
+msgctxt "ItemData"
+msgid "A small key you got from the Pipe Walkers."
+msgstr ""
+
+#. Key:	KeyTLElevatorRoom_desc
+#. SourceLocation:	/Game/SO/Items/Keys/KeyTLElevatorRoom.KeyTLElevatorRoom.Description
+#: /Game/SO/Items/Keys/KeyTLElevatorRoom.KeyTLElevatorRoom.Description
+msgctxt "ItemData"
+msgid "A key without any sign of interest."
+msgstr ""
+
+#. Key:	KeyTLElevatorRoom_name
+#. SourceLocation:	/Game/SO/Items/Keys/KeyTLElevatorRoom.KeyTLElevatorRoom.Name
+#: /Game/SO/Items/Keys/KeyTLElevatorRoom.KeyTLElevatorRoom.Name
+msgctxt "ItemData"
+msgid "Unconcerned Key"
+msgstr ""
+
+#. Key:	KeyWWFirstGate_desc
+#. SourceLocation:	/Game/SO/Items/Keys/KeyWWFirstGate.KeyWWFirstGate.Description
+#: /Game/SO/Items/Keys/KeyWWFirstGate.KeyWWFirstGate.Description
+msgctxt "ItemData"
+msgid "It will open a gate somewhere. Probably."
+msgstr ""
+
+#. Key:	KeyWWFirstGate_name
+#. SourceLocation:	/Game/SO/Items/Keys/KeyWWFirstGate.KeyWWFirstGate.Name
+#: /Game/SO/Items/Keys/KeyWWFirstGate.KeyWWFirstGate.Name
+msgctxt "ItemData"
+msgid "Railway Gate Key"
+msgstr ""
+
+#. Key:	KeyWWPortal_desc
+#. SourceLocation:	/Game/SO/Items/WhiteWallItems/KeyWWPortal.KeyWWPortal.Description
+#: /Game/SO/Items/WhiteWallItems/KeyWWPortal.KeyWWPortal.Description
+msgctxt "ItemData"
+msgid "A fancy iron key with a shiny gem in its grip. It must be really precious."
+msgstr ""
+
+#. Key:	KeyWWPortal_name
+#. SourceLocation:	/Game/SO/Items/WhiteWallItems/KeyWWPortal.KeyWWPortal.Name
+#: /Game/SO/Items/WhiteWallItems/KeyWWPortal.KeyWWPortal.Name
+msgctxt "ItemData"
+msgid "Portal Key"
+msgstr ""
+
+#. Key:	KEYWWSewerCreatureCell_desc
+#. SourceLocation:	/Game/SO/Items/Keys/KEYWWSewerCreatureCell.KEYWWSewerCreatureCell.Description
+#: /Game/SO/Items/Keys/KEYWWSewerCreatureCell.KEYWWSewerCreatureCell.Description
+msgctxt "ItemData"
+msgid "A small key you got from a chest in the middle of nowhere."
+msgstr ""
+
+#. Key:	KEYWWSewerCreatureCell_name
+#. SourceLocation:	/Game/SO/Items/Keys/KEYWWSewerCreatureCell.KEYWWSewerCreatureCell.Name
+#. Key:	KeySASewerCreatureCell_name
+#. SourceLocation:	/Game/SO/Items/Keys/KeySASewerCreatureCell.KeySASewerCreatureCell.Name
+#: /Game/SO/Items/Keys/KeySASewerCreatureCell.KeySASewerCreatureCell.Name
+#: /Game/SO/Items/Keys/KEYWWSewerCreatureCell.KEYWWSewerCreatureCell.Name
+msgctxt "ItemData"
+msgid "Small Cell Key"
+msgstr ""
+
+#. Key:	KeyWWWhiteWall_desc
+#. SourceLocation:	/Game/SO/Items/WhiteWallItems/KeyWWWhiteWall.KeyWWWhiteWall.Description
+#: /Game/SO/Items/WhiteWallItems/KeyWWWhiteWall.KeyWWWhiteWall.Description
+msgctxt "ItemData"
+msgid "A robust iron key with a carved script: <Bold>'Outer Wall Tower'</>."
+msgstr ""
+
+#. Key:	KeyWWWhiteWall_name
+#. SourceLocation:	/Game/SO/Items/WhiteWallItems/KeyWWWhiteWall.KeyWWWhiteWall.Name
+#: /Game/SO/Items/WhiteWallItems/KeyWWWhiteWall.KeyWWWhiteWall.Name
+msgctxt "ItemData"
+msgid "White Wall Key"
+msgstr ""
+
+#. Key:	KoboldCoin_desc
+#. SourceLocation:	/Game/SO/Items/QuestItems/KoboldCoin.KoboldCoin.Description
+#: /Game/SO/Items/QuestItems/KoboldCoin.KoboldCoin.Description
+msgctxt "ItemData"
+msgid "Some Coins you found in a chest."
+msgstr ""
+
+#. Key:	KoboldCoin_name
+#. SourceLocation:	/Game/SO/Items/QuestItems/KoboldCoin.KoboldCoin.Name
+#: /Game/SO/Items/QuestItems/KoboldCoin.KoboldCoin.Name
+msgctxt "ItemData"
+msgid "Kobold Coins"
+msgstr ""
+
+#. Key:	KoboldPotion_desc
+#. SourceLocation:	/Game/SO/Items/QuestItems/KoboldPotion.KoboldPotion.Description
+#: /Game/SO/Items/QuestItems/KoboldPotion.KoboldPotion.Description
+msgctxt "ItemData"
+msgid "Weird liquid in a bottle. The kobold calls it Soup."
+msgstr ""
+
+#. Key:	KoboldPotion_name
+#. SourceLocation:	/Game/SO/Items/QuestItems/KoboldPotion.KoboldPotion.Name
+#: /Game/SO/Items/QuestItems/KoboldPotion.KoboldPotion.Name
+msgctxt "ItemData"
+msgid "Kobold Soup"
+msgstr ""
+
+#. Key:	LavaGolemToken_desc
+#. SourceLocation:	/Game/SO/Items/QuestItems/LavaGolemToken.LavaGolemToken.Description
+#: /Game/SO/Items/QuestItems/LavaGolemToken.LavaGolemToken.Description
+msgctxt "ItemData"
+msgid "A unique stone you can use to prove that you have eliminated a golem."
+msgstr ""
+
+#. Key:	LavaGolemToken_name
+#. SourceLocation:	/Game/SO/Items/QuestItems/LavaGolemToken.LavaGolemToken.Name
+#: /Game/SO/Items/QuestItems/LavaGolemToken.LavaGolemToken.Name
+msgctxt "ItemData"
+msgid "Stone Token"
+msgstr ""
+
+#. Key:	LeafMace_desc
+#. SourceLocation:	/Game/SO/Items/Weapons/LeafMace.LeafMace.Description
+#: /Game/SO/Items/Weapons/LeafMace.LeafMace.Description
+msgctxt "ItemData"
+msgid "If someone would fail in cutting his/her/its way out of a hard situation, crushing your way through can still work out pretty well - it is said to be more effective if golems or certain mechanical devices / creatures are involved in the conflict."
+msgstr ""
+
+#. Key:	LeafMace_name
+#. SourceLocation:	/Game/SO/Items/Weapons/LeafMace.LeafMace.Name
+#: /Game/SO/Items/Weapons/LeafMace.LeafMace.Name
+msgctxt "ItemData"
+msgid "Leaf Mace"
+msgstr ""
+
+#. Key:	LEKeyCage_desc
+#. SourceLocation:	/Game/SO/Items/Keys/LEKeyCage.LEKeyCage.Description
+#: /Game/SO/Items/Keys/LEKeyCage.LEKeyCage.Description
+msgctxt "ItemData"
+msgid "You won't believe it but it is a key for a cage."
+msgstr ""
+
+#. Key:	LEKeyCage_name
+#. SourceLocation:	/Game/SO/Items/Keys/LEKeyCage.LEKeyCage.Name
+#: /Game/SO/Items/Keys/LEKeyCage.LEKeyCage.Name
+msgctxt "ItemData"
+msgid "Cage Key"
+msgstr ""
+
+#. Key:	LETempleKey_desc
+#. SourceLocation:	/Game/SO/Items/Keys/LETempleKey.LETempleKey.Description
+#: /Game/SO/Items/Keys/LETempleKey.LETempleKey.Description
+msgctxt "ItemData"
+msgid "This is one of the spare keys of the Ancient Temple. Just in case the original would be dropped into the lava accidentally."
+msgstr ""
+
+#. Key:	LETempleKey_name
+#. SourceLocation:	/Game/SO/Items/Keys/LETempleKey.LETempleKey.Name
+#: /Game/SO/Items/Keys/LETempleKey.LETempleKey.Name
+msgctxt "ItemData"
+msgid "Ancient Temple Key"
+msgstr ""
+
+#. Key:	LoryBooks_desc
+#. SourceLocation:	/Game/SO/Items/QuestItems/LoryBooks.LoryBooks.Description
+#: /Game/SO/Items/QuestItems/LoryBooks.LoryBooks.Description
+msgctxt "ItemData"
+msgid "Two ancient books with the titles \"True value of your family\" and \"How much does a brother cost?\". They look boring so you decide not to open them."
+msgstr ""
+
+#. Key:	LoryBooks_name
+#. SourceLocation:	/Game/SO/Items/QuestItems/LoryBooks.LoryBooks.Name
+#: /Game/SO/Items/QuestItems/LoryBooks.LoryBooks.Name
+msgctxt "ItemData"
+msgid "Old books"
+msgstr ""
+
+#. Key:	MemoryCrystal1_desc
+#. SourceLocation:	/Game/SO/Items/MemoryStone/MemoryCrystal1.MemoryCrystal1.Description
+#: /Game/SO/Items/MemoryStone/MemoryCrystal1.MemoryCrystal1.Description
+msgctxt "ItemData"
+msgid "'According to the very few survivors, White Tower, our capital was completely destroyed by a magical phenomena called Ruin. At that time I was at Grey Gate so I can't tell anything for sure.'\r\n\r\nThe Last Sane Golem Maker, A.C. 16. September 4."
+msgstr ""
+
+#. Key:	MemoryCrystal1_name
+#. SourceLocation:	/Game/SO/Items/MemoryStone/MemoryCrystal1.MemoryCrystal1.Name
+#: /Game/SO/Items/MemoryStone/MemoryCrystal1.MemoryCrystal1.Name
+msgctxt "ItemData"
+msgid "Magical Phenomena"
+msgstr ""
+
+#. Key:	MemoryCrystal2_desc
+#. SourceLocation:	/Game/SO/Items/MemoryStone/MemoryCrystal2.MemoryCrystal2.Description
+#: /Game/SO/Items/MemoryStone/MemoryCrystal2.MemoryCrystal2.Description
+msgctxt "ItemData"
+msgid "'Those who escaped Ruin have... changed.'\r\n'I've met a scientist who noticed how madness takes control over him. Perhaps he can find a solution.'\r\n\r\nThe Last Sane Golem Maker, A.C. 17. January 1."
+msgstr ""
+
+#. Key:	MemoryCrystal2_name
+#. SourceLocation:	/Game/SO/Items/MemoryStone/MemoryCrystal2.MemoryCrystal2.Name
+#: /Game/SO/Items/MemoryStone/MemoryCrystal2.MemoryCrystal2.Name
+msgctxt "ItemData"
+msgid "Degeneration and mutation"
+msgstr ""
+
+#. Key:	MemoryCrystal3_desc
+#. SourceLocation:	/Game/SO/Items/MemoryStone/MemoryCrystal3.MemoryCrystal3.Description
+#: /Game/SO/Items/MemoryStone/MemoryCrystal3.MemoryCrystal3.Description
+msgctxt "ItemData"
+msgid "'It's hard to tell but I think colours are fading away. The World was brighter before.'\r\n'The Monk won't help me. He stubbornly believes we are doomed.'\r\n\r\nThe Last Sane Golem Maker, A.C. 17. March 11."
+msgstr ""
+
+#. Key:	MemoryCrystal3_name
+#. SourceLocation:	/Game/SO/Items/MemoryStone/MemoryCrystal3.MemoryCrystal3.Name
+#: /Game/SO/Items/MemoryStone/MemoryCrystal3.MemoryCrystal3.Name
+msgctxt "ItemData"
+msgid "Fading Colours"
+msgstr ""
+
+#. Key:	MemoryCrystal4_desc
+#. SourceLocation:	/Game/SO/Items/MemoryStone/MemoryCrystal4.MemoryCrystal4.Description
+#: /Game/SO/Items/MemoryStone/MemoryCrystal4.MemoryCrystal4.Description
+msgctxt "ItemData"
+msgid "'Madness takes control over those who get too close to Ruin.'\r\n'Maintainers forgot to speak. I understand some of the phrases they try to say: \"Dinner is served\", \"At your service\", \"Your order\" - a mockery of their former intelligence!'\r\n\r\nThe Last Sane Golem Maker, A.C. 21. January 26."
+msgstr ""
+
+#. Key:	MemoryCrystal4_name
+#. SourceLocation:	/Game/SO/Items/MemoryStone/MemoryCrystal4.MemoryCrystal4.Name
+#: /Game/SO/Items/MemoryStone/MemoryCrystal4.MemoryCrystal4.Name
+msgctxt "ItemData"
+msgid "Madness"
+msgstr ""
+
+#. Key:	MemoryCrystal5_desc
+#. SourceLocation:	/Game/SO/Items/MemoryStone/MemoryCrystal5.MemoryCrystal5.Description
+#: /Game/SO/Items/MemoryStone/MemoryCrystal5.MemoryCrystal5.Description
+msgctxt "ItemData"
+msgid "'Now I have seen it with my own eyes: the touch of the Ruin makes the World literally fall apart.'\r\n\r\nThe Last Sane Golem Maker, A.C. 25. September 4."
+msgstr ""
+
+#. Key:	MemoryCrystal5_name
+#. SourceLocation:	/Game/SO/Items/MemoryStone/MemoryCrystal5.MemoryCrystal5.Name
+#: /Game/SO/Items/MemoryStone/MemoryCrystal5.MemoryCrystal5.Name
+msgctxt "ItemData"
+msgid "Falling Apart"
+msgstr ""
+
+#. Key:	MemoryCrystal6_desc
+#. SourceLocation:	/Game/SO/Items/MemoryStone/MemoryCrystal6.MemoryCrystal6.Description
+#: /Game/SO/Items/MemoryStone/MemoryCrystal6.MemoryCrystal6.Description
+msgctxt "ItemData"
+msgid "'This is my 87 birthday. It's obvious that my body doesn't get older with time. How long can I preserve my sanity?'\r\n'Drones can no longer be trusted. They resisted Ruin for the longest.'\r\n\r\nThe Last Sane Golem Maker, A.C. 52. July 9."
+msgstr ""
+
+#. Key:	MemoryCrystal6_name
+#. SourceLocation:	/Game/SO/Items/MemoryStone/MemoryCrystal6.MemoryCrystal6.Name
+#: /Game/SO/Items/MemoryStone/MemoryCrystal6.MemoryCrystal6.Name
+msgctxt "ItemData"
+msgid "Preservation of Ruin"
+msgstr ""
+
+#. Key:	MemoryCrystal7_desc
+#. SourceLocation:	/Game/SO/Items/MemoryStone/MemoryCrystal7.MemoryCrystal7.Description
+#: /Game/SO/Items/MemoryStone/MemoryCrystal7.MemoryCrystal7.Description
+msgctxt "ItemData"
+msgid "'Ruin will soon reach Grey Gate, our very last city. I need to move deeper into the Realm, further away from Ruin.'\r\n'I decided to create some new golems. Golems that resist Ruin.'\r\n\r\nThe Last Sane Golem Maker, A.C. 315. April 8."
+msgstr ""
+
+#. Key:	MemoryCrystal7_name
+#. SourceLocation:	/Game/SO/Items/MemoryStone/MemoryCrystal7.MemoryCrystal7.Name
+#: /Game/SO/Items/MemoryStone/MemoryCrystal7.MemoryCrystal7.Name
+msgctxt "ItemData"
+msgid "New Hope"
+msgstr ""
+
+#. Key:	MemoryCrystal8_desc
+#. SourceLocation:	/Game/SO/Items/MemoryStone/MemoryCrystal8.MemoryCrystal8.Description
+#: /Game/SO/Items/MemoryStone/MemoryCrystal8.MemoryCrystal8.Description
+msgctxt "ItemData"
+msgid "'I don't think I can keep up. There are times when I no longer know what I'm doing. I still have clear moments but they become more and more rare. I've recorded my memories to keep them safe.'\r\n\r\nThe Last Sane Golem Maker, about A.C. 500.\r\n"
+msgstr ""
+
+#. Key:	MemoryCrystal8_name
+#. SourceLocation:	/Game/SO/Items/MemoryStone/MemoryCrystal8.MemoryCrystal8.Name
+#: /Game/SO/Items/MemoryStone/MemoryCrystal8.MemoryCrystal8.Name
+msgctxt "ItemData"
+msgid "Final Decision"
+msgstr ""
+
+#. Key:	Pergamen_desc
+#. SourceLocation:	/Game/SO/Items/QuestItems/Pergamen.Pergamen.Description
+#: /Game/SO/Items/QuestItems/Pergamen.Pergamen.Description
+msgctxt "ItemData"
+msgid "'This chest and everything inside belongs to me, the Chef.'"
+msgstr ""
+
+#. Key:	Pergamen_name
+#. SourceLocation:	/Game/SO/Items/QuestItems/Pergamen.Pergamen.Name
+#: /Game/SO/Items/QuestItems/Pergamen.Pergamen.Name
+msgctxt "ItemData"
+msgid "Parchment"
+msgstr ""
+
+#. Key:	PortalGem_desc
+#. SourceLocation:	/Game/SO/Items/QuestItems/PortalGem.PortalGem.Description
+#: /Game/SO/Items/QuestItems/PortalGem.PortalGem.Description
+msgctxt "ItemData"
+msgid "There are so many stones around. You are still not sure what's the point of picking up some of them."
+msgstr ""
+
+#. Key:	PortalGem_name
+#. SourceLocation:	/Game/SO/Items/QuestItems/PortalGem.PortalGem.Name
+#: /Game/SO/Items/QuestItems/PortalGem.PortalGem.Name
+msgctxt "ItemData"
+msgid "Lock Gem"
+msgstr ""
+
+#. Key:	PotionOfWorthiness_desc
+#. SourceLocation:	/Game/SO/Items/Useable/PotionOfWorthiness.PotionOfWorthiness.Description
+#: /Game/SO/Items/Useable/PotionOfWorthiness.PotionOfWorthiness.Description
+msgctxt "ItemData"
+msgid "This might not be the weirdest side effect one can have when drinking something suspicious but it is definitely in the top five."
+msgstr ""
+
+#. Key:	PotionOfWorthiness_name
+#. SourceLocation:	/Game/SO/Items/Useable/PotionOfWorthiness.PotionOfWorthiness.Name
+#: /Game/SO/Items/Useable/PotionOfWorthiness.PotionOfWorthiness.Name
+msgctxt "ItemData"
+msgid "Potion Of Worthiness"
+msgstr ""
+
+#. Key:	PurpleMushroom_desc
+#. SourceLocation:	/Game/SO/Items/QuestItems/PurpleMushroom.PurpleMushroom.Description
+#: /Game/SO/Items/QuestItems/PurpleMushroom.PurpleMushroom.Description
+msgctxt "ItemData"
+msgid "The most purple mushrooms you could find. You hope these will be enough."
+msgstr ""
+
+#. Key:	PurpleMushroom_name
+#. SourceLocation:	/Game/SO/Items/QuestItems/PurpleMushroom.PurpleMushroom.Name
+#: /Game/SO/Items/QuestItems/PurpleMushroom.PurpleMushroom.Name
+msgctxt "ItemData"
+msgid "Purple Mushrooms"
+msgstr ""
+
+#. Key:	RavenFeather_desc
+#. SourceLocation:	/Game/SO/Items/QuestItems/RavenFeather.RavenFeather.Description
+#: /Game/SO/Items/QuestItems/RavenFeather.RavenFeather.Description
+msgctxt "ItemData"
+msgid "A magical item which gives you the ability to fly... or something like that."
+msgstr ""
+
+#. Key:	RavenFeather_name
+#. SourceLocation:	/Game/SO/Items/QuestItems/RavenFeather.RavenFeather.Name
+#: /Game/SO/Items/QuestItems/RavenFeather.RavenFeather.Name
+msgctxt "ItemData"
+msgid "Raven Feather"
+msgstr ""
+
+#. Key:	Rope_desc
+#. SourceLocation:	/Game/SO/Items/QuestItems/Rope.Rope.Description
+#: /Game/SO/Items/QuestItems/Rope.Rope.Description
+msgctxt "ItemData"
+msgid "You do wonder when the area is full of ropes why this is the only one which can be taken..."
+msgstr ""
+
+#. Key:	Rope_name
+#. SourceLocation:	/Game/SO/Items/QuestItems/Rope.Rope.Name
+#: /Game/SO/Items/QuestItems/Rope.Rope.Name
+msgctxt "ItemData"
+msgid "Rope"
+msgstr ""
+
+#. Key:	RuneStoneBonusHPMagical_desc
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneBonusHPMagical.RuneStoneBonusHPMagical.Description
+#: /Game/SO/Items/RuneStones/RuneStoneBonusHPMagical.RuneStoneBonusHPMagical.Description
+msgctxt "ItemData"
+msgid "Absorbs <Blue>30</> magical damage."
+msgstr ""
+
+#. Key:	RuneStoneBonusHPMagical_name
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneBonusHPMagical.RuneStoneBonusHPMagical.Name
+#: /Game/SO/Items/RuneStones/RuneStoneBonusHPMagical.RuneStoneBonusHPMagical.Name
+msgctxt "ItemData"
+msgid "Bluestone"
+msgstr ""
+
+#. Key:	RuneStoneBonusHPPhysical_desc
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneBonusHPPhysical.RuneStoneBonusHPPhysical.Description
+#: /Game/SO/Items/RuneStones/RuneStoneBonusHPPhysical.RuneStoneBonusHPPhysical.Description
+msgctxt "ItemData"
+msgid "Absorbs <White>30</> physical damage."
+msgstr ""
+
+#. Key:	RuneStoneBonusHPPhysical_name
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneBonusHPPhysical.RuneStoneBonusHPPhysical.Name
+#: /Game/SO/Items/RuneStones/RuneStoneBonusHPPhysical.RuneStoneBonusHPPhysical.Name
+msgctxt "ItemData"
+msgid "Graystone"
+msgstr ""
+
+#. Key:	RuneStoneBounce_desc
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.Description
+#. Key:	RuneStoneBounce_level_desc_0
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelBasedDescOverride(0).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.Description
+#: /Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelBasedDescOverride(0).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Provides the ability to bounce from enemies for <Green>8</> seconds. Doing so causes <Blue>12</> damage to the target."
+msgstr ""
+
+#. Key:	RuneStoneBounce_level_desc_1
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelBasedDescOverride(1).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelBasedDescOverride(1).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>18</> damage to the target."
+msgstr ""
+
+#. Key:	RuneStoneBounce_level_desc_2
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelBasedDescOverride(2).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelBasedDescOverride(2).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>18</> damage and applies <Yellow>Stun</> on the target."
+msgstr ""
+
+#. Key:	RuneStoneBounce_level_desc_3
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelBasedDescOverride(3).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelBasedDescOverride(3).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>24</> damage and applies <Yellow>Stun</> on the target."
+msgstr ""
+
+#. Key:	RuneStoneBounce_level_desc_4
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelBasedDescOverride(4).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelBasedDescOverride(4).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>30</> damage and applies <Yellow>Stun</> on the target."
+msgstr ""
+
+#. Key:	RuneStoneBounce_level_up_desc_0
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Provides the ability to bounce from enemies for <Green>8</><YellowH>(→16)</> seconds. Doing so causes <Blue>12</><YellowH>(→18)</> damage to the target."
+msgstr ""
+
+#. Key:	RuneStoneBounce_level_up_desc_1
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>18</> damage <YellowH>and applies Stun on the target.</>"
+msgstr ""
+
+#. Key:	RuneStoneBounce_level_up_desc_2
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelUpBasedDescOverride(2).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelUpBasedDescOverride(2).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>18</><YellowH>(→24)</> damage and applies <Yellow>Stun</> on the target."
+msgstr ""
+
+#. Key:	RuneStoneBounce_level_up_desc_3
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelUpBasedDescOverride(3).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.LevelUpBasedDescOverride(3).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>24</><YellowH>(→30)</> damage and applies <Yellow>Stun</> on the target."
+msgstr ""
+
+#. Key:	RuneStoneBounce_name
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.Name
+#: /Game/SO/Items/RuneStones/RuneStoneBounce.RuneStoneBounce.Name
+msgctxt "ItemData"
+msgid "Bouncestone"
+msgstr ""
+
+#. Key:	RuneStoneEnergy_desc
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneEnergy.RuneStoneEnergy.Description
+#: /Game/SO/Items/RuneStones/RuneStoneEnergy.RuneStoneEnergy.Description
+msgctxt "ItemData"
+msgid "Strikes and spell cooldowns are decreased by 90% for 10 seconds."
+msgstr ""
+
+#. Key:	RuneStoneEnergy_name
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneEnergy.RuneStoneEnergy.Name
+#: /Game/SO/Items/RuneStones/RuneStoneEnergy.RuneStoneEnergy.Name
+msgctxt "ItemData"
+msgid "Energystone"
+msgstr ""
+
+#. Key:	RuneStoneFire0_desc
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.Description
+#. Key:	RuneStoneFire0_level_desc_0
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.LevelBasedDescOverride(0).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.Description
+#: /Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.LevelBasedDescOverride(0).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>16</> damage."
+msgstr ""
+
+#. Key:	RuneStoneFire0_level_desc_1
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.LevelBasedDescOverride(1).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.LevelBasedDescOverride(1).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>32</> damage."
+msgstr ""
+
+#. Key:	RuneStoneFire0_level_desc_2
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.LevelBasedDescOverride(2).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.LevelBasedDescOverride(2).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>36</> damage. The spell has <Green>50%</> chance to <Purple>Instant Recharge.</>"
+msgstr ""
+
+#. Key:	RuneStoneFire0_level_desc_3
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.LevelBasedDescOverride(3).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.LevelBasedDescOverride(3).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>52</> damage. The spell has <Green>50%</> chance to <Purple>Instant Recharge.</>"
+msgstr ""
+
+#. Key:	RuneStoneFire0_level_up_desc_0
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>16</><YellowH>(→32)</> damage."
+msgstr ""
+
+#. Key:	RuneStoneFire0_level_up_desc_1
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>32</><YellowH>(→36)</> damage. <YellowH>The spell has </><GreenH>50%</> <YellowH>chance to </><PurpleH>Instant Recharge.</>"
+msgstr ""
+
+#. Key:	RuneStoneFire0_level_up_desc_2
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.LevelUpBasedDescOverride(2).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.LevelUpBasedDescOverride(2).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>36</><YellowH>(→52)</> damage. The spell has <Green>50%</> chance to <Purple>Instant Recharge.</>"
+msgstr ""
+
+#. Key:	RuneStoneFire0_name
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.Name
+#: /Game/SO/Items/RuneStones/RuneStoneFire0.RuneStoneFire0.Name
+msgctxt "ItemData"
+msgid "Firestone"
+msgstr ""
+
+#. Key:	RuneStoneHeal_desc
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneHeal.RuneStoneHeal.Description
+#: /Game/SO/Items/RuneStones/RuneStoneHeal.RuneStoneHeal.Description
+msgctxt "ItemData"
+msgid "Restores <Green>30</> health points."
+msgstr ""
+
+#. Key:	RuneStoneHeal_name
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneHeal.RuneStoneHeal.Name
+#: /Game/SO/Items/RuneStones/RuneStoneHeal.RuneStoneHeal.Name
+msgctxt "ItemData"
+msgid "Healstone"
+msgstr ""
+
+#. Key:	RuneStoneLightningWalk_desc
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.Description
+#: /Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.Description
+msgctxt "ItemData"
+msgid "Grants the shocking ability to walk through your enemies for <Green>2</> sec. The shock causes <Blue>10</> damage."
+msgstr ""
+
+#. Key:	RuneStoneLightningWalk_level_desc_0
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.LevelBasedDescOverride(0).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.LevelBasedDescOverride(0).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Grants the shocking ability to walk through your enemies for <Green>2</> sec. The shock causes <Blue>16</> damage."
+msgstr ""
+
+#. Key:	RuneStoneLightningWalk_level_desc_1
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.LevelBasedDescOverride(1).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.LevelBasedDescOverride(1).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Grants the shocking ability to walk through your enemies for <Green>3</> sec. The shock causes <Blue>28</> damage."
+msgstr ""
+
+#. Key:	RuneStoneLightningWalk_level_desc_2
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.LevelBasedDescOverride(2).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.LevelBasedDescOverride(2).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Grants the shocking ability to walk through your enemies for <Green>4</> sec. The shock causes <Blue>32</> damage and has a <Green>30%</> chance to <Yellow>stun</> the target."
+msgstr ""
+
+#. Key:	RuneStoneLightningWalk_level_desc_3
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.LevelBasedDescOverride(3).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.LevelBasedDescOverride(3).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Grants the shocking ability to walk through your enemies for <Green>4</> sec. The shock causes <Blue>32</> damage and has a <Green>40%</> chance to <Yellow>stun</> the target."
+msgstr ""
+
+#. Key:	RuneStoneLightningWalk_level_up_desc_0
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Grants the shocking ability to walk through your enemies for <Green>2</><YellowH>(→3)</> sec. The shock causes <Blue>16</> <YellowH>(→28)</>damage."
+msgstr ""
+
+#. Key:	RuneStoneLightningWalk_level_up_desc_1
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Grants the shocking ability to walk through your enemies for <Green>3</><YellowH>(→4)</> sec. The shock causes <Blue>28</> <YellowH>(→36)</>damage <YellowH>and has a </><GreenH>30%</> <YellowH>chance to stun the target.</>"
+msgstr ""
+
+#. Key:	RuneStoneLightningWalk_level_up_desc_2
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.LevelUpBasedDescOverride(2).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.LevelUpBasedDescOverride(2).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Grants the shocking ability to walk through your enemies for <Green>4</> sec. The shock causes <Blue>32</> damage and has a <Green>30%</> <YellowH>(→40%)</> chance to <Yellow>stun</> the target."
+msgstr ""
+
+#. Key:	RuneStoneLightningWalk_name
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.Name
+#: /Game/SO/Items/RuneStones/RuneStoneLightningWalk.RuneStoneLightningWalk.Name
+msgctxt "ItemData"
+msgid "Lightningstone"
+msgstr ""
+
+#. Key:	RuneStoneMagicMissle_desc
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.Description
+#: /Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.Description
+msgctxt "ItemData"
+msgid "Summons a homing projectile targeted at a close foe - prefers flying targets."
+msgstr ""
+
+#. Key:	RuneStoneMagicMissle_level_desc_0
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.LevelBasedDescOverride(0).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.LevelBasedDescOverride(0).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons <Green>1</> homing projectile targeted at a close foe - prefers flying targets. Causes <Blue>16</> damage on impact."
+msgstr ""
+
+#. Key:	RuneStoneMagicMissle_level_desc_1
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.LevelBasedDescOverride(1).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.LevelBasedDescOverride(1).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons <Green>2</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage on impact."
+msgstr ""
+
+#. Key:	RuneStoneMagicMissle_level_desc_2
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.LevelBasedDescOverride(2).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.LevelBasedDescOverride(2).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons <Green>3</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage and applies <Orange>Slow</> on impact."
+msgstr ""
+
+#. Key:	RuneStoneMagicMissle_level_desc_3
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.LevelBasedDescOverride(3).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.LevelBasedDescOverride(3).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons <Green>4</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage and applies <Orange>Slow</> on impact."
+msgstr ""
+
+#. Key:	RuneStoneMagicMissle_level_up_desc_0
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons <Green>1</><YellowH>(→2)</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage on impact."
+msgstr ""
+
+#. Key:	RuneStoneMagicMissle_level_up_desc_1
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons <Green>2</><YellowH>(→3)</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage <YellowH>and applies</> <OrangeH>Slow</> on impact."
+msgstr ""
+
+#. Key:	RuneStoneMagicMissle_level_up_desc_2
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.LevelUpBasedDescOverride(2).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.LevelUpBasedDescOverride(2).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons <Green>3</><YellowH>(→4)</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage and applies <Orange>Slow</> on impact."
+msgstr ""
+
+#. Key:	RuneStoneMagicMissle_name
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.Name
+#: /Game/SO/Items/RuneStones/RuneStoneMagicMissle.RuneStoneMagicMissle.Name
+msgctxt "ItemData"
+msgid "Tealstone"
+msgstr ""
+
+#. Key:	RuneStoneMassMagicMissle_desc
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMassMagicMissle.RuneStoneMassMagicMissle.Description
+#. Key:	RuneStoneMassMagicMissle_level_desc_0
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMassMagicMissle.RuneStoneMassMagicMissle.LevelBasedDescOverride(0).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneMassMagicMissle.RuneStoneMassMagicMissle.Description
+#: /Game/SO/Items/RuneStones/RuneStoneMassMagicMissle.RuneStoneMassMagicMissle.LevelBasedDescOverride(0).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons a homing projectile for each nearby enemy, causing <Blue>20</> damage on impact."
+msgstr ""
+
+#. Key:	RuneStoneMassMagicMissle_level_desc_1
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMassMagicMissle.RuneStoneMassMagicMissle.LevelBasedDescOverride(1).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneMassMagicMissle.RuneStoneMassMagicMissle.LevelBasedDescOverride(1).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons a homing projectile for each nearby enemy, causing <Blue>40</> damage on impact."
+msgstr ""
+
+#. Key:	RuneStoneMassMagicMissle_level_desc_2
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMassMagicMissle.RuneStoneMassMagicMissle.LevelBasedDescOverride(2).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneMassMagicMissle.RuneStoneMassMagicMissle.LevelBasedDescOverride(2).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons a homing projectile for each nearby enemy, causing <Blue>50</> damage on impact. The target has a <Green>30%</> chance to become <Orange>Slow</>."
+msgstr ""
+
+#. Key:	RuneStoneMassMagicMissle_level_up_desc_0
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMassMagicMissle.RuneStoneMassMagicMissle.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneMassMagicMissle.RuneStoneMassMagicMissle.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons a homing projectile for each nearby enemy, causing <Blue>20</><YellowH>(→40)</> damage on impact."
+msgstr ""
+
+#. Key:	RuneStoneMassMagicMissle_level_up_desc_1
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMassMagicMissle.RuneStoneMassMagicMissle.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneMassMagicMissle.RuneStoneMassMagicMissle.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons a homing projectile for each nearby enemy, causing <Blue>20</><YellowH>(→50)</> damage on impact. <YellowH>The target has a</> <GreenH>30%</> <YellowH>chance to become</> <Orange>Slow</>."
+msgstr ""
+
+#. Key:	RuneStoneMassMagicMissle_name
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMassMagicMissle.RuneStoneMassMagicMissle.Name
+#: /Game/SO/Items/RuneStones/RuneStoneMassMagicMissle.RuneStoneMassMagicMissle.Name
+msgctxt "ItemData"
+msgid "Tealstone, but better"
+msgstr ""
+
+#. Key:	RuneStoneMassSlow_desc
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMassSlow.RuneStoneMassSlow.Description
+#: /Game/SO/Items/RuneStones/RuneStoneMassSlow.RuneStoneMassSlow.Description
+msgctxt "ItemData"
+msgid "Slows all enemy targets around the caster."
+msgstr ""
+
+#. Key:	RuneStoneMassSlow_level_desc_0
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMassSlow.RuneStoneMassSlow.LevelBasedDescOverride(0).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneMassSlow.RuneStoneMassSlow.LevelBasedDescOverride(0).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "All enemy target becomes <Orange>Slow</> for <Green>3</> seconds."
+msgstr ""
+
+#. Key:	RuneStoneMassSlow_name
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMassSlow.RuneStoneMassSlow.Name
+#: /Game/SO/Items/RuneStones/RuneStoneMassSlow.RuneStoneMassSlow.Name
+msgctxt "ItemData"
+msgid "Slowstone"
+msgstr ""
+
+#. Key:	RuneStoneMeteorShower_desc
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMeteorShower.RuneStoneMeteorShower.Description
+#: /Game/SO/Items/RuneStones/RuneStoneMeteorShower.RuneStoneMeteorShower.Description
+msgctxt "ItemData"
+msgid "Summons 12 deadly meteors around the caster, each causing 16 damage on impact."
+msgstr ""
+
+#. Key:	RuneStoneMeteorShower_level_desc_0
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMeteorShower.RuneStoneMeteorShower.LevelBasedDescOverride(0).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneMeteorShower.RuneStoneMeteorShower.LevelBasedDescOverride(0).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons <Green>12</> deadly meteors around the caster, each causing <White>16</> damage on impact."
+msgstr ""
+
+#. Key:	RuneStoneMeteorShower_level_desc_1
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMeteorShower.RuneStoneMeteorShower.LevelBasedDescOverride(1).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneMeteorShower.RuneStoneMeteorShower.LevelBasedDescOverride(1).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons <Green>16</> deadly meteors around the caster, each causing <White>24</> damage on impact."
+msgstr ""
+
+#. Key:	RuneStoneMeteorShower_level_desc_2
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMeteorShower.RuneStoneMeteorShower.LevelBasedDescOverride(2).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneMeteorShower.RuneStoneMeteorShower.LevelBasedDescOverride(2).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons <Green>20</> deadly meteors around the caster, each causing <White>32</> damage on impact. Each meteor has a <Green>30%</> chance to <Yellow>Stun</> the target."
+msgstr ""
+
+#. Key:	RuneStoneMeteorShower_level_up_desc_0
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMeteorShower.RuneStoneMeteorShower.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneMeteorShower.RuneStoneMeteorShower.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons <Green>12</><YellowH>(→16)</> deadly meteors around the caster, each causing <White>16</><YellowH>(→24)</> damage on impact."
+msgstr ""
+
+#. Key:	RuneStoneMeteorShower_level_up_desc_1
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMeteorShower.RuneStoneMeteorShower.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneMeteorShower.RuneStoneMeteorShower.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Summons <Green>16</><YellowH>(→20)</> deadly meteors around the caster, each causing <White>24</><YellowH>(→32)</> damage on impact. <YellowH>Each meteor has a</> <GreenH>30%</> <YellowH>chance to Stun the target.</>"
+msgstr ""
+
+#. Key:	RuneStoneMeteorShower_name
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneMeteorShower.RuneStoneMeteorShower.Name
+#: /Game/SO/Items/RuneStones/RuneStoneMeteorShower.RuneStoneMeteorShower.Name
+msgctxt "ItemData"
+msgid "Meteorstone"
+msgstr ""
+
+#. Key:	RuneStoneShadowWalk_desc
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.Description
+#. Key:	RuneStoneShadowWalk_level_desc_0
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.LevelBasedDescOverride(0).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.Description
+#: /Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.LevelBasedDescOverride(0).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Grants the ability to walk through your enemies for <Green>2</> seconds."
+msgstr ""
+
+#. Key:	RuneStoneShadowWalk_level_desc_1
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.LevelBasedDescOverride(1).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.LevelBasedDescOverride(1).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Grants the ability to walk through your enemies for <Green>4</> seconds."
+msgstr ""
+
+#. Key:	RuneStoneShadowWalk_level_desc_2
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.LevelBasedDescOverride(2).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.LevelBasedDescOverride(2).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Grants the ability to walk through your enemies for <Green>4</> seconds. Your magical resistance is increased by <Green>0.2.</>"
+msgstr ""
+
+#. Key:	RuneStoneShadowWalk_level_desc_3
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.LevelBasedDescOverride(3).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.LevelBasedDescOverride(3).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Grants the ability to walk through your enemies for <Green>5</> seconds. Your magical resistance is increased by <Green>0.3.</>"
+msgstr ""
+
+#. Key:	RuneStoneShadowWalk_level_up_desc_0
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Grants the ability to walk through your enemies for <Green>2</> <YellowH>(→4)</> seconds."
+msgstr ""
+
+#. Key:	RuneStoneShadowWalk_level_up_desc_1
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Grants the ability to walk through your enemies for <Green>4</> seconds. <YellowH>Your magical resistance is increased by</> <GreenH>0.2.</>"
+msgstr ""
+
+#. Key:	RuneStoneShadowWalk_level_up_desc_2
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.LevelUpBasedDescOverride(2).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.LevelUpBasedDescOverride(2).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Grants the ability to walk through your enemies for <Green>4</> <YellowH>(→5)</> seconds. Your magical resistance is increased by <Green>0.2</> <YellowH>(→0.3).</>"
+msgstr ""
+
+#. Key:	RuneStoneShadowWalk_name
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.Name
+#: /Game/SO/Items/RuneStones/RuneStoneShadowWalk.RuneStoneShadowWalk.Name
+msgctxt "ItemData"
+msgid "Shadestone"
+msgstr ""
+
+#. Key:	RuneStoneSoulkeeper_desc
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneSoulkeeper.RuneStoneSoulkeeper.Description
+#: /Game/SO/Items/RuneStones/RuneStoneSoulkeeper.RuneStoneSoulkeeper.Description
+msgctxt "ItemData"
+msgid "Summons the Soulkeeper, a powerful spirit capable of gathering your essence should something bad happen to you.\r\n\r\nReleasing the spirit recharges the stone."
+msgstr ""
+
+#. Key:	RuneStoneSoulkeeper_name
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneSoulkeeper.RuneStoneSoulkeeper.Name
+#: /Game/SO/Items/RuneStones/RuneStoneSoulkeeper.RuneStoneSoulkeeper.Name
+msgctxt "ItemData"
+msgid "Soulstone"
+msgstr ""
+
+#. Key:	RuneStoneSoulkeeperInfinite_desc
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneSoulkeeperInfinite.RuneStoneSoulkeeperInfinite.Description
+#: /Game/SO/Items/RuneStones/RuneStoneSoulkeeperInfinite.RuneStoneSoulkeeperInfinite.Description
+msgctxt "ItemData"
+msgid "Summons the Soulkeeper, a powerful spirit capable of gathering your essence should something bad happen to you."
+msgstr ""
+
+#. Key:	RuneStoneSoulkeeperInfinite_name
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneSoulkeeperInfinite.RuneStoneSoulkeeperInfinite.Name
+#: /Game/SO/Items/RuneStones/RuneStoneSoulkeeperInfinite.RuneStoneSoulkeeperInfinite.Name
+msgctxt "ItemData"
+msgid "Elite Soulstone"
+msgstr ""
+
+#. Key:	RuneStoneSpellRegain_desc
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneSpellRegain.RuneStoneSpellRegain.Description
+#: /Game/SO/Items/RuneStones/RuneStoneSpellRegain.RuneStoneSpellRegain.Description
+msgctxt "ItemData"
+msgid "Regenerates all other spell charges."
+msgstr ""
+
+#. Key:	RuneStoneSpellRegain_name
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneSpellRegain.RuneStoneSpellRegain.Name
+#: /Game/SO/Items/RuneStones/RuneStoneSpellRegain.RuneStoneSpellRegain.Name
+msgctxt "ItemData"
+msgid "Spiritstone"
+msgstr ""
+
+#. Key:	RuneStoneSwap_desc
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.Description
+#. Key:	RuneStoneSwap_level_desc_0
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelBasedDescOverride(0).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.Description
+#: /Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelBasedDescOverride(0).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Swaps the position of the caster with the closest target in front of him/her/it."
+msgstr ""
+
+#. Key:	RuneStoneSwap_level_desc_1
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelBasedDescOverride(1).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelBasedDescOverride(1).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>20</> damage."
+msgstr ""
+
+#. Key:	RuneStoneSwap_level_desc_2
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelBasedDescOverride(2).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelBasedDescOverride(2).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>30</> damage and becomes <Orange>Slow</>."
+msgstr ""
+
+#. Key:	RuneStoneSwap_level_desc_3
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelBasedDescOverride(3).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelBasedDescOverride(3).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>40</> damage and becomes <Orange>Slow</>."
+msgstr ""
+
+#. Key:	RuneStoneSwap_level_desc_4
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelBasedDescOverride(4).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelBasedDescOverride(4).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>50</> damage and becomes <Orange>Slow</>."
+msgstr ""
+
+#. Key:	RuneStoneSwap_level_up_desc_0
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Swaps the position of the caster with the closest target in front of him/her/it. <YellowH>The selected target suffers</> <BlueH>20</> <YellowH>damage.</>"
+msgstr ""
+
+#. Key:	RuneStoneSwap_level_up_desc_1
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>20</><YellowH>(→30)</> damage <YellowH>and becomes </><Orange>Slow.</>"
+msgstr ""
+
+#. Key:	RuneStoneSwap_level_up_desc_2
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelUpBasedDescOverride(2).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelUpBasedDescOverride(2).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>30</><YellowH>(→40)</> damage and becomes <Orange>Slow.</>"
+msgstr ""
+
+#. Key:	RuneStoneSwap_level_up_desc_3
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelUpBasedDescOverride(3).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.LevelUpBasedDescOverride(3).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>40</><YellowH>(→50)</> damage and becomes <Orange>Slow.</>"
+msgstr ""
+
+#. Key:	RuneStoneSwap_name
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.Name
+#: /Game/SO/Items/RuneStones/RuneStoneSwap.RuneStoneSwap.Name
+msgctxt "ItemData"
+msgid "Swapstone"
+msgstr ""
+
+#. Key:	RuneStoneWeaponFlame_desc
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.Description
+#: /Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.Description
+msgctxt "ItemData"
+msgid "Enchants your active weapon with green flames - it causes an additional 0.3x damage for 4 seconds."
+msgstr ""
+
+#. Key:	RuneStoneWeaponFlame_level_desc_0
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelBasedDescOverride(0).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelBasedDescOverride(0).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Enchants your active weapon - it causes an additional <Green>0.5x</> damage for <Green>5</> seconds."
+msgstr ""
+
+#. Key:	RuneStoneWeaponFlame_level_desc_1
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelBasedDescOverride(1).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelBasedDescOverride(1).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Enchants your active weapon - it causes an additional <Green>0.6x</> damage for <Green>5</> seconds. Each strike has a <Green>15%</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>18</> damage over <Green>6</> seconds."
+msgstr ""
+
+#. Key:	RuneStoneWeaponFlame_level_desc_2
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelBasedDescOverride(2).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelBasedDescOverride(2).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Enchants your active weapon - it causes an additional <Green>0.7x</> damage for <Green>6</> seconds. Each strike has a <Green>20%</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>24</> damage over <Green>6</> seconds."
+msgstr ""
+
+#. Key:	RuneStoneWeaponFlame_level_desc_3
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelBasedDescOverride(3).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelBasedDescOverride(3).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Enchants your active weapon - it causes an additional <Green>0.8x</> damage for <Green>6</> seconds. Each strike has a <Green>25%</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>30</> damage over <Green>6</> seconds."
+msgstr ""
+
+#. Key:	RuneStoneWeaponFlame_level_desc_4
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelBasedDescOverride(4).LevelBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelBasedDescOverride(4).LevelBasedDescOverride
+msgctxt "ItemData"
+msgid "Enchants your active weapon - it causes an additional <Green>0.9x</> damage for <Green>6</> seconds. Each strike has a <Green>30%</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>36</> damage over <Green>6</> seconds."
+msgstr ""
+
+#. Key:	RuneStoneWeaponFlame_level_up_desc_0
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelUpBasedDescOverride(0).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Enchants your active weapon - it causes an additional <Green>0.5x</><YellowH>(→0.6x)</> damage for <Green>5</> seconds. <YellowH>Each strike has a</> <GreenH>15%</> <YellowH>chance to apply </><DarkGreenH>Poison</><YellowH>, causing an additional</> <BlueH>18</> <YellowH>damage over</> <GreenH>6</> <YellowH>seconds.</>"
+msgstr ""
+
+#. Key:	RuneStoneWeaponFlame_level_up_desc_1
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelUpBasedDescOverride(1).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Enchants your active weapon - it causes an additional <Green>0.6x</><YellowH>(→0.7x)</> damage for <Green>5</><YellowH>(→6)</> seconds. Each strike has a <Green>15%</><YellowH>(→20%)</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>18</><YellowH>(→24)</> damage over <Green>6</> seconds."
+msgstr ""
+
+#. Key:	RuneStoneWeaponFlame_level_up_desc_2
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelUpBasedDescOverride(2).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelUpBasedDescOverride(2).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Enchants your active weapon - it causes an additional <Green>0.7x</><YellowH>(→0.8x)</> damage for <Green>6</> seconds. Each strike has a <Green>20%</><YellowH>(→25%)</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>24</><YellowH>(→30)</> damage over <Green>6</> seconds."
+msgstr ""
+
+#. Key:	RuneStoneWeaponFlame_level_up_desc_3
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelUpBasedDescOverride(3).LevelUpBasedDescOverride
+#: /Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.LevelUpBasedDescOverride(3).LevelUpBasedDescOverride
+msgctxt "ItemData"
+msgid "Enchants your active weapon - it causes an additional <Green>0.8x</><YellowH>(→0.9x)</> damage for <Green>6</> seconds. Each strike has a <Green>25%</><YellowH>(→30%)</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>30</><YellowH>(→36)</> damage over <Green>6</> seconds."
+msgstr ""
+
+#. Key:	RuneStoneWeaponFlame_name
+#. SourceLocation:	/Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.Name
+#: /Game/SO/Items/RuneStones/RuneStoneWeaponFlame.RuneStoneWeaponFlame.Name
+msgctxt "ItemData"
+msgid "Green Flamestone"
+msgstr ""
+
+#. Key:	Sabre_desc
+#. SourceLocation:	/Game/SO/Items/Weapons/Sabre.Sabre.Description
+#: /Game/SO/Items/Weapons/Sabre.Sabre.Description
+msgctxt "ItemData"
+msgid "Rangol was a legendary blacksmith who practiced his crafting art for a hundred years. This sabre was made on day one."
+msgstr ""
+
+#. Key:	Sabre_name
+#. SourceLocation:	/Game/SO/Items/Weapons/Sabre.Sabre.Name
+#: /Game/SO/Items/Weapons/Sabre.Sabre.Name
+msgctxt "ItemData"
+msgid "First Sabre of Rangol"
+msgstr ""
+
+#. Key:	SecondChance_desc
+#. SourceLocation:	/Game/SO/Items/RuneStones/SecondChance.SecondChance.Description
+#: /Game/SO/Items/RuneStones/SecondChance.SecondChance.Description
+msgctxt "ItemData"
+msgid "Prevents death."
+msgstr ""
+
+#. Key:	SecondChance_name
+#. SourceLocation:	/Game/SO/Items/RuneStones/SecondChance.SecondChance.Name
+#: /Game/SO/Items/RuneStones/SecondChance.SecondChance.Name
+msgctxt "ItemData"
+msgid "Chancestone"
+msgstr ""
+
+#. Key:	SecretWeirdDevice_desc
+#. SourceLocation:	/Game/SO/Items/QuestItems/SecretWeirdDevice.SecretWeirdDevice.Description
+#: /Game/SO/Items/QuestItems/SecretWeirdDevice.SecretWeirdDevice.Description
+msgctxt "ItemData"
+msgid "A weird device, most likely one of the inventions of the Secret Science Society."
+msgstr ""
+
+#. Key:	SecretWeirdDevice_name
+#. SourceLocation:	/Game/SO/Items/QuestItems/SecretWeirdDevice.SecretWeirdDevice.Name
+#: /Game/SO/Items/QuestItems/SecretWeirdDevice.SecretWeirdDevice.Name
+msgctxt "ItemData"
+msgid "Weird Device"
+msgstr ""
+
+#. Key:	ShardAmber_desc
+#. SourceLocation:	/Game/SO/Items/Shards/ShardAmber.ShardAmber.Description
+#: /Game/SO/Items/Shards/ShardAmber.ShardAmber.Description
+msgctxt "ItemData"
+msgid "Each melee strike has an additional <Yellow>10%</> chance to cause a critical hit, causing <Green>200%</> of your normal weapon damage."
+msgstr ""
+
+#. Key:	ShardAmber_name
+#. SourceLocation:	/Game/SO/Items/Shards/ShardAmber.ShardAmber.Name
+#: /Game/SO/Items/Shards/ShardAmber.ShardAmber.Name
+msgctxt "ItemData"
+msgid "Amber Shard"
+msgstr ""
+
+#. Key:	ShardAmberBright_desc
+#. SourceLocation:	/Game/SO/Items/Shards/ShardAmberBright.ShardAmberBright.Description
+#: /Game/SO/Items/Shards/ShardAmberBright.ShardAmberBright.Description
+msgctxt "ItemData"
+msgid "Each melee strike has an additional <Yellow>20%</> chance to cause a critical hit, causing <Green>200%</> of your normal weapon damage."
+msgstr ""
+
+#. Key:	ShardAmberBright_name
+#. SourceLocation:	/Game/SO/Items/Shards/ShardAmberBright.ShardAmberBright.Name
+#: /Game/SO/Items/Shards/ShardAmberBright.ShardAmberBright.Name
+msgctxt "ItemData"
+msgid "Bright Amber Shard"
+msgstr ""
+
+#. Key:	ShardAqua_desc
+#. SourceLocation:	/Game/SO/Items/Shards/ShardAqua.ShardAqua.Description
+#: /Game/SO/Items/Shards/ShardAqua.ShardAqua.Description
+msgctxt "ItemData"
+msgid "Cooldown recharge speed is increased by <Blue>20%</>."
+msgstr ""
+
+#. Key:	ShardAqua_name
+#. SourceLocation:	/Game/SO/Items/Shards/ShardAqua.ShardAqua.Name
+#: /Game/SO/Items/Shards/ShardAqua.ShardAqua.Name
+msgctxt "ItemData"
+msgid "Aqua Shard"
+msgstr ""
+
+#. Key:	ShardAquaBright_desc
+#. SourceLocation:	/Game/SO/Items/Shards/ShardAquaBright.ShardAquaBright.Description
+#: /Game/SO/Items/Shards/ShardAquaBright.ShardAquaBright.Description
+msgctxt "ItemData"
+msgid "Cooldown recharge speed is increased by <Blue>40%</>."
+msgstr ""
+
+#. Key:	ShardAquaBright_name
+#. SourceLocation:	/Game/SO/Items/Shards/ShardAquaBright.ShardAquaBright.Name
+#: /Game/SO/Items/Shards/ShardAquaBright.ShardAquaBright.Name
+msgctxt "ItemData"
+msgid "Bright Aqua Shard"
+msgstr ""
+
+#. Key:	ShardBlack_desc
+#. SourceLocation:	/Game/SO/Items/Shards/ShardBlack.ShardBlack.Description
+#: /Game/SO/Items/Shards/ShardBlack.ShardBlack.Description
+msgctxt "ItemData"
+msgid "Every time an enemy hits you with a melee strike or overlaps you it is turned into a boot for a short time."
+msgstr ""
+
+#. Key:	ShardBlack_name
+#. SourceLocation:	/Game/SO/Items/Shards/ShardBlack.ShardBlack.Name
+#: /Game/SO/Items/Shards/ShardBlack.ShardBlack.Name
+msgctxt "ItemData"
+msgid "Black Shard"
+msgstr ""
+
+#. Key:	ShardBlue_desc
+#. SourceLocation:	/Game/SO/Items/Shards/ShardBlue.ShardBlue.Description
+#: /Game/SO/Items/Shards/ShardBlue.ShardBlue.Description
+msgctxt "ItemData"
+msgid "Decreases the incoming <Blue>Magical Damage</> by <Blue>20%.</>"
+msgstr ""
+
+#. Key:	ShardBlue_name
+#. SourceLocation:	/Game/SO/Items/Shards/ShardBlue.ShardBlue.Name
+#: /Game/SO/Items/Shards/ShardBlue.ShardBlue.Name
+msgctxt "ItemData"
+msgid "Blue Shard"
+msgstr ""
+
+#. Key:	ShardBlueBright_desc
+#. SourceLocation:	/Game/SO/Items/Shards/ShardBlueBright.ShardBlueBright.Description
+#: /Game/SO/Items/Shards/ShardBlueBright.ShardBlueBright.Description
+msgctxt "ItemData"
+msgid "Decreases the incoming <Blue>Magical Damage</> by <Blue>30%.</>"
+msgstr ""
+
+#. Key:	ShardBlueBright_name
+#. SourceLocation:	/Game/SO/Items/Shards/ShardBlueBright.ShardBlueBright.Name
+#: /Game/SO/Items/Shards/ShardBlueBright.ShardBlueBright.Name
+msgctxt "ItemData"
+msgid "Bright Blue Shard"
+msgstr ""
+
+#. Key:	ShardGreen_desc
+#. SourceLocation:	/Game/SO/Items/Shards/ShardGreen.ShardGreen.Description
+#: /Game/SO/Items/Shards/ShardGreen.ShardGreen.Description
+msgctxt "ItemData"
+msgid "Increases the attack speed by <Green>20%</>"
+msgstr ""
+
+#. Key:	ShardGreen_name
+#. SourceLocation:	/Game/SO/Items/Shards/ShardGreen.ShardGreen.Name
+#: /Game/SO/Items/Shards/ShardGreen.ShardGreen.Name
+msgctxt "ItemData"
+msgid "Green Shard"
+msgstr ""
+
+#. Key:	ShardGreenBright_desc
+#. SourceLocation:	/Game/SO/Items/Shards/ShardGreenBright.ShardGreenBright.Description
+#: /Game/SO/Items/Shards/ShardGreenBright.ShardGreenBright.Description
+msgctxt "ItemData"
+msgid "Increases the attack speed by <Green>30%</>"
+msgstr ""
+
+#. Key:	ShardGreenBright_name
+#. SourceLocation:	/Game/SO/Items/Shards/ShardGreenBright.ShardGreenBright.Name
+#: /Game/SO/Items/Shards/ShardGreenBright.ShardGreenBright.Name
+msgctxt "ItemData"
+msgid "Bright Green Shard"
+msgstr ""
+
+#. Key:	ShardPurple_desc
+#. SourceLocation:	/Game/SO/Items/Shards/ShardPurple.ShardPurple.Description
+#: /Game/SO/Items/Shards/ShardPurple.ShardPurple.Description
+msgctxt "ItemData"
+msgid "Each time you cast a charge based spell you have a <Purple>25%</> chance to regain the charge."
+msgstr ""
+
+#. Key:	ShardPurple_name
+#. SourceLocation:	/Game/SO/Items/Shards/ShardPurple.ShardPurple.Name
+#: /Game/SO/Items/Shards/ShardPurple.ShardPurple.Name
+msgctxt "ItemData"
+msgid "Purple Shard"
+msgstr ""
+
+#. Key:	ShardPurpleBright_desc
+#. SourceLocation:	/Game/SO/Items/Shards/ShardPurpleBright.ShardPurpleBright.Description
+#: /Game/SO/Items/Shards/ShardPurpleBright.ShardPurpleBright.Description
+msgctxt "ItemData"
+msgid "Each time you cast a charge based spell you have a <Purple>50%</> chance to regain the charge."
+msgstr ""
+
+#. Key:	ShardPurpleBright_name
+#. SourceLocation:	/Game/SO/Items/Shards/ShardPurpleBright.ShardPurpleBright.Name
+#: /Game/SO/Items/Shards/ShardPurpleBright.ShardPurpleBright.Name
+msgctxt "ItemData"
+msgid "Bright Purple Shard"
+msgstr ""
+
+#. Key:	ShardRed_desc
+#. SourceLocation:	/Game/SO/Items/Shards/ShardRed.ShardRed.Description
+#: /Game/SO/Items/Shards/ShardRed.ShardRed.Description
+msgctxt "ItemData"
+msgid "You heal <Red>5%</> of the melee damage you inflict on your enemies."
+msgstr ""
+
+#. Key:	ShardRed_name
+#. SourceLocation:	/Game/SO/Items/Shards/ShardRed.ShardRed.Name
+#: /Game/SO/Items/Shards/ShardRed.ShardRed.Name
+msgctxt "ItemData"
+msgid "Red Shard"
+msgstr ""
+
+#. Key:	ShardRedBright_desc
+#. SourceLocation:	/Game/SO/Items/Shards/ShardRedBright.ShardRedBright.Description
+#: /Game/SO/Items/Shards/ShardRedBright.ShardRedBright.Description
+msgctxt "ItemData"
+msgid "You heal <Red>10%</> of the melee damage you inflict on your enemies."
+msgstr ""
+
+#. Key:	ShardRedBright_name
+#. SourceLocation:	/Game/SO/Items/Shards/ShardRedBright.ShardRedBright.Name
+#: /Game/SO/Items/Shards/ShardRedBright.ShardRedBright.Name
+msgctxt "ItemData"
+msgid "Bright Red Shard"
+msgstr ""
+
+#. Key:	ShardSilver_desc
+#. SourceLocation:	/Game/SO/Items/Shards/ShardSilver.ShardSilver.Description
+#: /Game/SO/Items/Shards/ShardSilver.ShardSilver.Description
+msgctxt "ItemData"
+msgid "Decreases the incoming <White>Physical Damage</> by <White>20%.</>"
+msgstr ""
+
+#. Key:	ShardSilver_name
+#. SourceLocation:	/Game/SO/Items/Shards/ShardSilver.ShardSilver.Name
+#: /Game/SO/Items/Shards/ShardSilver.ShardSilver.Name
+msgctxt "ItemData"
+msgid "Silver Shard"
+msgstr ""
+
+#. Key:	ShardSilverBright_desc
+#. SourceLocation:	/Game/SO/Items/Shards/ShardSilverBright.ShardSilverBright.Description
+#: /Game/SO/Items/Shards/ShardSilverBright.ShardSilverBright.Description
+msgctxt "ItemData"
+msgid "Decreases the incoming <White>Physical Damage</> by <White>30%.</>"
+msgstr ""
+
+#. Key:	ShardSilverBright_name
+#. SourceLocation:	/Game/SO/Items/Shards/ShardSilverBright.ShardSilverBright.Name
+#: /Game/SO/Items/Shards/ShardSilverBright.ShardSilverBright.Name
+msgctxt "ItemData"
+msgid "Bright Silver Shard"
+msgstr ""
+
+#. Key:	ShardTeal_desc
+#. SourceLocation:	/Game/SO/Items/Shards/ShardTeal.ShardTeal.Description
+#: /Game/SO/Items/Shards/ShardTeal.ShardTeal.Description
+msgctxt "ItemData"
+msgid "Each time an enemy hits you with a melee strike it suffers the same damage."
+msgstr ""
+
+#. Key:	ShardTeal_name
+#. SourceLocation:	/Game/SO/Items/Shards/ShardTeal.ShardTeal.Name
+#: /Game/SO/Items/Shards/ShardTeal.ShardTeal.Name
+msgctxt "ItemData"
+msgid "Teal Shard"
+msgstr ""
+
+#. Key:	ShardTealBright_desc
+#. SourceLocation:	/Game/SO/Items/Shards/ShardTealBright.ShardTealBright.Description
+#: /Game/SO/Items/Shards/ShardTealBright.ShardTealBright.Description
+msgctxt "ItemData"
+msgid "Each time an enemy hits you, it suffers <Green>200%</> of the damage."
+msgstr ""
+
+#. Key:	ShardTealBright_name
+#. SourceLocation:	/Game/SO/Items/Shards/ShardTealBright.ShardTealBright.Name
+#: /Game/SO/Items/Shards/ShardTealBright.ShardTealBright.Name
+msgctxt "ItemData"
+msgid "Bright Teal Shard"
+msgstr ""
+
+#. Key:	ShardWhite_desc
+#. SourceLocation:	/Game/SO/Items/Shards/ShardWhite.ShardWhite.Description
+#: /Game/SO/Items/Shards/ShardWhite.ShardWhite.Description
+msgctxt "ItemData"
+msgid "Increases your damage by <Green>20%</>"
+msgstr ""
+
+#. Key:	ShardWhite_name
+#. SourceLocation:	/Game/SO/Items/Shards/ShardWhite.ShardWhite.Name
+#: /Game/SO/Items/Shards/ShardWhite.ShardWhite.Name
+msgctxt "ItemData"
+msgid "White Shard"
+msgstr ""
+
+#. Key:	ShardWhiteBright_desc
+#. SourceLocation:	/Game/SO/Items/Shards/ShardWhiteBright.ShardWhiteBright.Description
+#: /Game/SO/Items/Shards/ShardWhiteBright.ShardWhiteBright.Description
+msgctxt "ItemData"
+msgid "Increases your damage by <Green>30%</>."
+msgstr ""
+
+#. Key:	ShardWhiteBright_name
+#. SourceLocation:	/Game/SO/Items/Shards/ShardWhiteBright.ShardWhiteBright.Name
+#: /Game/SO/Items/Shards/ShardWhiteBright.ShardWhiteBright.Name
+msgctxt "ItemData"
+msgid "Bright White Shard"
+msgstr ""
+
+#. Key:	ShardYellow_desc
+#. SourceLocation:	/Game/SO/Items/Shards/ShardYellow.ShardYellow.Description
+#: /Game/SO/Items/Shards/ShardYellow.ShardYellow.Description
+msgctxt "ItemData"
+msgid "Each melee strike has a <Yellow>10%</> chance to <Yellow>Stun</> the target."
+msgstr ""
+
+#. Key:	ShardYellow_name
+#. SourceLocation:	/Game/SO/Items/Shards/ShardYellow.ShardYellow.Name
+#: /Game/SO/Items/Shards/ShardYellow.ShardYellow.Name
+msgctxt "ItemData"
+msgid "Yellow Shard"
+msgstr ""
+
+#. Key:	ShardYellowBright_desc
+#. SourceLocation:	/Game/SO/Items/Shards/ShardYellowBright.ShardYellowBright.Description
+#: /Game/SO/Items/Shards/ShardYellowBright.ShardYellowBright.Description
+msgctxt "ItemData"
+msgid "Each melee strike has a <Yellow>20%</> chance to <Yellow>Stun</> the target."
+msgstr ""
+
+#. Key:	ShardYellowBright_name
+#. SourceLocation:	/Game/SO/Items/Shards/ShardYellowBright.ShardYellowBright.Name
+#: /Game/SO/Items/Shards/ShardYellowBright.ShardYellowBright.Name
+msgctxt "ItemData"
+msgid "Bright Yellow Shard"
+msgstr ""
+
+#. Key:	SpellCaster_desc
+#. SourceLocation:	/Game/SO/Items/Useable/SpellCaster.SpellCaster.Description
+#: /Game/SO/Items/Useable/SpellCaster.SpellCaster.Description
+msgctxt "ItemData"
+msgid "A magical artefact with the following worn text engraved on the back:\r\n\r\nInsert Runestones to ... spells\r\nKeep .... .... children\r\nMade in ....."
+msgstr ""
+
+#. Key:	SpellCaster_name
+#. SourceLocation:	/Game/SO/Items/Useable/SpellCaster.SpellCaster.Name
+#: /Game/SO/Items/Useable/SpellCaster.SpellCaster.Name
+msgctxt "ItemData"
+msgid "Spellcaster"
+msgstr ""
+
+#. Key:	StraightSword_desc
+#. SourceLocation:	/Game/SO/Items/Weapons/StraightSword.StraightSword.Description
+#: /Game/SO/Items/Weapons/StraightSword.StraightSword.Description
+msgctxt "ItemData"
+msgid "A simple yet effective weapon. Not too rusty, not too sharp. If someone looks close enough it looks a bit low budget, but the ones looking close enough won't talk about anything anymore, will they?"
+msgstr ""
+
+#. Key:	StraightSword_name
+#. SourceLocation:	/Game/SO/Items/Weapons/StraightSword.StraightSword.Name
+#: /Game/SO/Items/Weapons/StraightSword.StraightSword.Name
+msgctxt "ItemData"
+msgid "Straight Sword"
+msgstr ""
+
+#. Key:	TestStoneBag_desc
+#. SourceLocation:	/Game/SO/Items/Useable/TestStoneBag.TestStoneBag.Description
+#: /Game/SO/Items/Useable/TestStoneBag.TestStoneBag.Description
+msgctxt "ItemData"
+msgid "When you are the one in the team who has the job to enter every dungeon first, you will become a careful one too... if you live long enough for that."
+msgstr ""
+
+#. Key:	TestStoneBag_name
+#. SourceLocation:	/Game/SO/Items/Useable/TestStoneBag.TestStoneBag.Name
+#: /Game/SO/Items/Useable/TestStoneBag.TestStoneBag.Name
+msgctxt "ItemData"
+msgid "Bag of the Careful One"
+msgstr ""
+
+#. Key:	Wheel_desc
+#. SourceLocation:	/Game/SO/Items/QuestItems/Wheel.Wheel.Description
+#: /Game/SO/Items/QuestItems/Wheel.Wheel.Description
+msgctxt "ItemData"
+msgid "One of the first greatest inventions of humans. Because they envied balls for their rolling skill."
+msgstr ""
+
+#. Key:	Wheel_name
+#. SourceLocation:	/Game/SO/Items/QuestItems/Wheel.Wheel.Name
+#: /Game/SO/Items/QuestItems/Wheel.Wheel.Name
+msgctxt "ItemData"
+msgid "Wheel"
+msgstr ""
+
+#. Key:	WWBossShipLock_desc
+#. SourceLocation:	/Game/SO/Items/Keys/WWBossShipLock.WWBossShipLock.Description
+#: /Game/SO/Items/Keys/WWBossShipLock.WWBossShipLock.Description
+msgctxt "ItemData"
+msgid "Rusty key of a rusty lock."
+msgstr ""
+
+#. Key:	WWBossShipLock_name
+#. SourceLocation:	/Game/SO/Items/Keys/WWBossShipLock.WWBossShipLock.Name
+#: /Game/SO/Items/Keys/WWBossShipLock.WWBossShipLock.Name
+msgctxt "ItemData"
+msgid "Rusty Key"
+msgstr ""
+
+#. Key:	0BFD568E4989A20D66B91DA476C0E6B4
+#. SourceLocation:	/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_6.Text
+#: /Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_6.Text
+msgctxt "Notes"
+msgid "I promised Fountain to give its flower to the Magic Mirror."
+msgstr ""
+
+#. Key:	1ABD11A64A7649801A6AB6A8BBDC686C
+#. SourceLocation:	/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_9.Text
+#: /Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_9.Text
+msgctxt "Notes"
+msgid "The Ghost Dwarf needs a ghost abacus"
+msgstr ""
+
+#. Key:	57CBE1274A1B4EC7FD68EA9288161AAD
+#. SourceLocation:	/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_7.Text
+#: /Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_7.Text
+msgctxt "Notes"
+msgid "The Chef wants me to clear the shore"
+msgstr ""
+
+#. Key:	77693D6C43702786250364932BD34BCD
+#. SourceLocation:	/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note.Text
+#: /Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note.Text
+msgctxt "Notes"
+msgid "The GateKeeper could use a chair"
+msgstr ""
+
+#. Key:	9C3FB78C4598A48BC187B580CBB070F6
+#. SourceLocation:	/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_8.Text
+#: /Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_8.Text
+msgctxt "Notes"
+msgid "The Dwarf wants me to clear the Dwarven Fortress"
+msgstr ""
+
+#. Key:	AA94EB6E4B0A505D730971932A3DE0CC
+#. SourceLocation:	/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_5.Text
+#: /Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_5.Text
+msgctxt "Notes"
+msgid "The Golem Maker wants me to hunt some Golems"
+msgstr ""
+
+#. Key:	AE371E564EC1D75947ECF98AAA896A2C
+#. SourceLocation:	/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_11.Text
+#: /Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_11.Text
+msgctxt "Notes"
+msgid "A Pipe Walker is trapped in a cage"
+msgstr ""
+
+#. Key:	B12481ED4CFF0182EDB7ACAA416B55FC
+#. SourceLocation:	/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_4.Text
+#: /Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_4.Text
+msgctxt "Notes"
+msgid "Gnory needs a wheel"
+msgstr ""
+
+#. Key:	D3B6D81E433CBE8461E2B1AFE06E9741
+#. SourceLocation:	/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_13.Text
+#: /Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_13.Text
+msgctxt "Notes"
+msgid "The Chef asked me to bring him some Purple Mushroom"
+msgstr ""
+
+#. Key:	D8C4FFC7435C6A2E7C88BBA7109A1907
+#. SourceLocation:	/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_12.Text
+#: /Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_12.Text
+msgctxt "Notes"
+msgid "I need to learn Dwarven to open a gate"
+msgstr ""
+
+#. Key:	E3857F07468C2A0B34A98887E3BBB1DA
+#. SourceLocation:	/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_10.Text
+#: /Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_10.Text
+msgctxt "Notes"
+msgid "I feel the Tomb of Tabby is important somehow"
+msgstr ""
+
+#. Key:	E9DA40684B9375A5F78D18A138C75174
+#. SourceLocation:	/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_2.Text
+#: /Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_2.Text
+msgctxt "Notes"
+msgid "Teachy asked for a strangely unique device"
+msgstr ""
+
+#. Key:	F109A1614B16565CC1846C8D0A46672E
+#. SourceLocation:	/Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_1.Text
+#: /Game/SO/GUI/InGame/CharacterPanels/Notes/UI_Notes.UI_Notes_C:WidgetTree.UI_Note_C_1.Text
+msgctxt "Notes"
+msgid "I promised Lory to bring her some books"
+msgstr ""
+
+#. Key:	away
+#. SourceLocation:	Source/SOrb/UI/InGame/SoUIStationPanel.cpp:98
+#: Source/SOrb/UI/InGame/SoUIStationPanel.cpp:98
+msgctxt "StationNames"
+msgid "World's End"
+msgstr ""
+
+#. Key:	crossroadcave
+#. SourceLocation:	Source/SOrb/UI/InGame/SoUIStationPanel.cpp:94
+#: Source/SOrb/UI/InGame/SoUIStationPanel.cpp:94
+msgctxt "StationNames"
+msgid "Crossroad Cave"
+msgstr ""
+
+#. Key:	lavatemple
+#. SourceLocation:	Source/SOrb/UI/InGame/SoUIStationPanel.cpp:96
+#: Source/SOrb/UI/InGame/SoUIStationPanel.cpp:96
+msgctxt "StationNames"
+msgid "Remnant Road"
+msgstr ""
+
+#. Key:	outpost
+#. SourceLocation:	Source/SOrb/UI/InGame/SoUIStationPanel.cpp:95
+#: Source/SOrb/UI/InGame/SoUIStationPanel.cpp:95
+msgctxt "StationNames"
+msgid "Obedient Outpost"
+msgstr ""
+
+#. Key:	stay
+#. SourceLocation:	Source/SOrb/UI/InGame/SoUIStationPanel.cpp:99
+#: Source/SOrb/UI/InGame/SoUIStationPanel.cpp:99
+msgctxt "StationNames"
+msgid "Stay"
+msgstr ""
+
+#. Key:	wrackedWaters
+#. SourceLocation:	Source/SOrb/UI/InGame/SoUIStationPanel.cpp:97
+#: Source/SOrb/UI/InGame/SoUIStationPanel.cpp:97
+msgctxt "StationNames"
+msgid "Wracked Waters"
+msgstr ""
+

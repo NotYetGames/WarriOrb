@@ -1,0 +1,127 @@
+// Copyright 1998-2014 Epic Games, Inc. All Rights Reserved.
+
+//
+// Original file is at Engine/Build/Windows/Resources/Default.rc2
+//
+#include "Runtime/Launch/Resources/Windows/resource.h"
+#include "Runtime/Core/Public/Misc/CoreMiscDefines.h"
+#include "Runtime/Launch/Resources/Version.h"
+#include "../WarriorbVersion.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+#include <windows.h>
+#undef APSTUDIO_READONLY_SYMBOLS
+
+// Various strings used for project resources
+#ifdef PROJECT_COMPANY_NAME
+	#define BUILD_PROJECT_COMPANY_NAME PREPROCESSOR_TO_STRING(PROJECT_COMPANY_NAME)
+#else
+	#define BUILD_PROJECT_COMPANY_NAME EPIC_COMPANY_NAME
+#endif
+
+#ifdef PROJECT_COPYRIGHT_STRING
+	#define BUILD_PROJECT_COPYRIGHT_STRING PREPROCESSOR_TO_STRING(PROJECT_COPYRIGHT_STRING)
+#else
+	#define BUILD_PROJECT_COPYRIGHT_STRING EPIC_COPYRIGHT_STRING
+#endif
+
+#ifdef PROJECT_PRODUCT_NAME
+	#define BUILD_PROJECT_PRODUCT_NAME PREPROCESSOR_TO_STRING(PROJECT_PRODUCT_NAME)
+#else
+	#define BUILD_PROJECT_PRODUCT_NAME PREPROCESSOR_TO_STRING(UE_APP_NAME)
+#endif
+
+#ifdef PROJECT_PRODUCT_IDENTIFIER
+	#define BUILD_PROJECT_PRODUCT_IDENTIFIER PREPROCESSOR_TO_STRING(PROJECT_PRODUCT_IDENTIFIER)
+#else
+	#define BUILD_PROJECT_PRODUCT_IDENTIFIER EPIC_PRODUCT_IDENTIFIER
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United States) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION ENGINE_MAJOR_VERSION,ENGINE_MINOR_VERSION,ENGINE_PATCH_VERSION,0
+ PRODUCTVERSION ENGINE_MAJOR_VERSION,ENGINE_MINOR_VERSION,ENGINE_PATCH_VERSION,0
+ FILEFLAGSMASK 0x17L
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x2L
+ FILESUBTYPE 0x0L
+BEGIN
+	BLOCK "StringFileInfo"
+	BEGIN
+		BLOCK "040904b0"
+		BEGIN
+			VALUE "CompanyName", BUILD_PROJECT_COMPANY_NAME
+			VALUE "LegalCopyright", BUILD_PROJECT_COPYRIGHT_STRING
+			VALUE "ProductName", BUILD_PROJECT_PRODUCT_NAME
+#ifdef WARRIORB_BUILD_ALL
+			VALUE "ProductVersion", PREPROCESSOR_TO_STRING(WARRIORB_BUILD_ALL)
+#endif
+			VALUE "FileDescription", BUILD_PROJECT_PRODUCT_NAME
+			VALUE "InternalName", BUILD_PROJECT_PRODUCT_IDENTIFIER
+#ifdef ORIGINAL_FILE_NAME
+			VALUE "OriginalFilename", PREPROCESSOR_TO_STRING(ORIGINAL_FILE_NAME)
+#endif
+		END
+	END
+	BLOCK "VarFileInfo"
+	BEGIN
+		VALUE "Translation", 0x409, 1200
+	END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+
+#ifdef BUILD_ICON_FILE_NAME
+IDICON_UE4Game          ICON                    BUILD_ICON_FILE_NAME
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Application Manifest
+//
+
+#if _DEBUG
+
+// Debug manifest
+#if _WIN64
+1						RT_MANIFEST				"Default-Win64-Debug.manifest"
+#else
+1						RT_MANIFEST				"Default-Win32-Debug.manifest"
+#endif
+
+#else
+
+// Release manifest
+#if _WIN64
+1						RT_MANIFEST				"Default-Win64.manifest"
+#else
+1						RT_MANIFEST				"Default-Win32.manifest"
+#endif
+
+#endif
+
+#endif    // English (United States) resources
+/////////////////////////////////////////////////////////////////////////////

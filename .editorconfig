@@ -1,0 +1,57 @@
+root=true
+# http://EditorConfig.org
+# See Plugin for VS: https://github.com/editorconfig/editorconfig-visualstudio
+# Other editors: http://editorconfig.org/#download
+
+# top-most EditorConfig file
+
+[*]
+# Unix-style newlines with a newline ending every file
+end_of_line=lf
+trim_trailing_whitespace=true
+
+# Tab with 4 spaces.
+indent_style=tab
+indent_size=4
+tab_width=4
+charset=utf-8
+
+# ReSharper properties
+resharper_alignment_tab_fill_style=optimal_fill
+resharper_align_multiline_parameter=true
+resharper_autodetect_indent_settings=true
+resharper_blank_lines_around_class_definition=2
+resharper_case_block_braces=next_line
+resharper_indent_switch_labels=true
+resharper_int_align_comments=true
+resharper_int_align_eq=true
+resharper_keep_blank_lines_in_code=1
+resharper_keep_blank_lines_in_declarations=1
+resharper_outdent_commas=true
+resharper_simple_embedded_statement_style=line_break
+
+# MSBuild
+[*.{csproj,proj,projitems,shproj,fsproj,target,props}]
+indent_style=space
+indent_size=2
+
+# Bash/Python files
+[*.{sh, vdf}]
+indent_style=space
+indent_size=4
+
+[*.py]
+indent_style=space
+indent_size=4
+end_of_line=lf
+charset=utf-8
+
+[*.{c,c++,cc,cp,cpp,cu,cuh,cxx,h,hh,hpp,hxx,inc,inl,ino,ipp,mpp,proto,tpp}]
+indent_style=tab
+indent_size=tab
+tab_width=4
+
+[*.{appxmanifest,build,config,csproj,dbml,discomap,dtd,jsproj,lsproj,njsproj,nuspec,proj,props,resw,resx,StyleCop,targets,tasks,vbproj,xaml,xamlx,xml,xoml,xsd}]
+indent_style=space
+indent_size=2
+tab_width=2

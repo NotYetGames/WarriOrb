@@ -1,0 +1,6489 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Children": [
+		{
+			"Source":
+			{
+				"Text": "<T>-- Not Yet Team --</>\r\n\r\n\r\nAnna Molnár\r\n<R>2D art, Environment Design</>\r\n\r\n\r\nCsaba Molnár\r\n<R>Code, Design</>\r\n\r\n\r\nDaniel Butum\r\n<R>Code</>\r\n\r\n\r\nGéza Molnár\r\n<R>3D art, Design</>\r\n\r\n\r\nRichárd Ráski\r\n<R>Sound Design</>\r\n\r\n\r\n\r\n<T>-- Music --</>\r\n\r\nBenjámin Kuli\r\n\r\n\r\nGisula\r\n\r\n\r\n\r\n<T>-- Voice Over --</>\r\n\r\n\r\nPeter Luzsi - @peterluzsi\r\n<R>WarriOrb, Gatekeeper, Ghost Armor, Principal</>\r\n\r\n\r\nBrent Miller\r\n<R>WarriOrb - Trailer</>\r\n\r\n\r\nPierce Riola\r\n<R>Wizard, Gnory</>\r\n\r\n\r\nEir Causey\r\n<R>Raven, Teachy, Ghost Dwarf, Unknown Wizard, Fishy</>\r\n\r\n\r\nJack Broadbent\r\n<R>Monk, Flybug</>\r\n\r\n\r\nEmil Hagg\r\n<R>Supper Dwarf, Kobold Chef, Fallen Druid, Dwarven Statue, Intro narrator</>\r\n\r\n\r\nErick Nita\r\n<R>Golem Maker, Armour Wrath</>\r\n\r\n\r\nAlain Vega\r\n<R>Merch Ant</>\r\n\r\n\r\nAngela Tran\r\n<R>Lillian, Pipe Walker</>\r\n\r\n\r\nBrittany Ann Phillips\r\n<R>Lory</>\r\n\r\n\r\nAurore Gautheur\r\n<R>Fountain, Shade</>\r\n\r\n\r\nAlexander Blairlex\r\n<R>Primitive Fishy, Ghost Helmet</>\r\n\r\n\r\nSophie Ryder\r\n<R>Shadesphere</>\r\n\r\n\r\n\r\n\r\n<T>-- Partners --</>\r\n\r\n\r\nMaple Whispering\r\n<R>Chineese localization</>\r\n<R>Publisher - China, PC</>\r\n\r\n\r\nNovy Unlimited\r\n<R>PR and Marketing</>\r\n\r\n\r\n\r\n\r\n<T>-- Localization --</>\r\n\r\n\r\nVera Liscovschi\r\n<R>Russian</>\r\n\r\n\r\nJay Johnstone\r\n<R>Spanish</>\r\n\r\n\r\nBertin William\r\n<R>French</>\r\n\r\n\r\n\r\n\r\n<T>-- Testers --</>\r\n\r\n\r\nSaleymander\r\n\r\n\r\nHitch\r\n\r\n\r\nMrCalculated\r\n\r\n\r\n<img id=\"Rainbow\"/>Scorpion253<img id=\"Rainbow\"/>\r\n\r\n\r\nmoses\r\n\r\n\r\nNinjin42\r\n\r\n\r\nKonstantinos Xenitidis\r\n\r\n\r\nPhyronnaz\r\n\r\n\r\nArthur\r\n\r\n\r\nMaster1G\r\n\r\n\r\nDávid Bartók\r\n\r\n\r\nLiDuGaming\r\n\r\n\r\nClaudiu Coman\r\n\r\n\r\nÁron Ürögdi\r\n\r\n\r\nDukenukemboi\r\n\r\n\r\nBart Cools\r\n\r\n\r\nGlenn De Jonghe\r\n\r\n\r\nDomonkos Péter Madarász\r\n\r\n\r\nGergő Gyarmati\r\n\r\n\r\nRéka Gyarmati\r\n\r\n\r\nKincső Petraskó\r\n\r\n\r\nGergő Petraskó\r\n\r\n\r\nDániel Garamvölgyi\r\n\r\n\r\nDanny \"GHelmet\" Cloutier\r\n\r\n\r\nAnna Boglárka Tóth\r\n\r\n\r\nBíborka Roxána Kubik\r\n\r\n\r\nVirág Miklós\r\n\r\n\r\nBenedek Marozsák\r\n\r\n\r\nDániel Marozsák\r\n\r\n\r\nGereon Bartel\r\n\r\n\r\n\r\n\r\n<T>-- Prologue Speedrun Competition Winner --</>\r\n\r\n-7\r\n\r\n\r\n\r\n\r\n<T>-- Special Thanks --</>\r\n\r\n\r\nMalazan Discord Server Community\r\n\r\n\r\n/r/metroidvenia Discord Server Community\r\n\r\n\r\nUnreal Slackers Discord Server Community\r\n\r\n\r\nIMGUR\r\n\r\n\r\nBíborka Roxána Kubik\r\n\r\n\r\nJuhász Ernő\r\n\r\n\r\nRacheal Smith\r\n\r\n\r\nRuxandra Seniuc\r\n\r\n\r\nthottee\r\n\r\n\r\nAndrew Pappas\r\n\r\n\r\nJonathan Lampel\r\n\r\n\r\nRichárd Németh\r\n\r\n\r\nAlex Gorcea\r\n\r\n\r\nNotRealVitor\r\n\r\n\r\nKinga Surján\r\n\r\n\r\nAnna Boglárka Tóth\r\n\r\n\r\nÉvi Fekete\r\n\r\n\r\nGergő Sielaf\r\n\r\n\r\n<img id=\"Rainbow\"/>Scorpion253<img id=\"Rainbow\"/>\r\n\r\n\r\nMainiac\r\n\r\n\r\n\r\n\r\n<T>-- Technology --</>\r\n\r\n\r\n<R>WarriOrb uses the Unreal® Engine.</>\r\n<R>Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere</>\r\n\r\n<R>Unreal® Engine, Copyright 1998 – 2020, Epic Games, Inc. All rights reserved.</>\r\n\r\n\r\n\r\n<R>Made with FMOD Studio by Firelight Technologies Pty Ltd.</>"
+			},
+			"Translation":
+			{
+				"Text": ""
+			},
+			"Key": "78A72CB345FCC7ECDCFD8181471D78D8"
+		}
+	],
+	"Subnamespaces": [
+		{
+			"Namespace": "CharacterStrike",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Air Strike"
+					},
+					"Translation":
+					{
+						"Text": "Atac Aerian"
+					},
+					"Key": "SwordSpecialAirStrike_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Backslash"
+					},
+					"Translation":
+					{
+						"Text": "Tăietura de spate"
+					},
+					"Key": "DualBladeSpecial_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Crushing Blow"
+					},
+					"Translation":
+					{
+						"Text": "Lovitura zdrobitoare"
+					},
+					"Key": "LeafMaceSpecial_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Downstrike"
+					},
+					"Translation":
+					{
+						"Text": "Lovitura de jos"
+					},
+					"Key": "DemonSwordSpecial_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Floating Strikes"
+					},
+					"Translation":
+					{
+						"Text": "Lovituri Plutitoare"
+					},
+					"Key": "SabreSpecial_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Throw"
+					},
+					"Translation":
+					{
+						"Text": "Aruncă"
+					},
+					"Key": "AxeSpecial_name"
+				}
+			]
+		},
+		{
+			"Namespace": "EffectInstance",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Arcane Luck"
+					},
+					"Translation":
+					{
+						"Text": "Noroc Arcane"
+					},
+					"Key": "BPEftRegainSpellPassive25_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Charged Bounce"
+					},
+					"Translation":
+					{
+						"Text": "Săritură Încărcată"
+					},
+					"Key": "BPEftBounce_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Critical Chance"
+					},
+					"Translation":
+					{
+						"Text": "Șansă Critică"
+					},
+					"Key": "BPEftCriticalChanceBoost10_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Firestrike"
+					},
+					"Translation":
+					{
+						"Text": "Atac de Foc"
+					},
+					"Key": "BPEftSpellFire0_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Greenflame"
+					},
+					"Translation":
+					{
+						"Text": "Flacăra verde"
+					},
+					"Key": "BPEftWeaponFlamesTimeBased_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Heal"
+					},
+					"Translation":
+					{
+						"Text": "Vindecă"
+					},
+					"Key": "BPEftHeal3_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Life Leech"
+					},
+					"Translation":
+					{
+						"Text": "Lipitoare de Viață"
+					},
+					"Key": "BPEftLifeLeech5_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Magic Missile"
+					},
+					"Translation":
+					{
+						"Text": "Racheta magică"
+					},
+					"Key": "BPEftMagicMissle_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Magic Missiles"
+					},
+					"Translation":
+					{
+						"Text": "Rachete magice"
+					},
+					"Key": "BPEftMassMagicMissle_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Magical Protection"
+					},
+					"Translation":
+					{
+						"Text": "Protecție Magică"
+					},
+					"Key": "BPEftTempHPMagical_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Meteor Shower"
+					},
+					"Translation":
+					{
+						"Text": "Ploaia de Meteoriți"
+					},
+					"Key": "BPEftMeteorShower_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Perfect Hands"
+					},
+					"Translation":
+					{
+						"Text": "Mâini Perfecte"
+					},
+					"Key": "BPEftDmgModifier_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Physical Protection"
+					},
+					"Translation":
+					{
+						"Text": "Protecție Fizică"
+					},
+					"Key": "BPEftTempHPPhysical_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Protective Transmutation"
+					},
+					"Translation":
+					{
+						"Text": "Transmutarea Protectoare"
+					},
+					"Key": "BPEftBootTransmutation_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quick Hands"
+					},
+					"Translation":
+					{
+						"Text": "Mâini Rapide"
+					},
+					"Key": "BPEftAttackSpeedMultiplier_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Restlessness"
+					},
+					"Translation":
+					{
+						"Text": "Neliniște"
+					},
+					"Key": "BPEftCooldownReducePassive02_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Restlessness"
+					},
+					"Translation":
+					{
+						"Text": "Neliniște"
+					},
+					"Key": "BPEftCooldownReduce_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Restoration"
+					},
+					"Translation":
+					{
+						"Text": "Restaurare"
+					},
+					"Key": "BPEftRegainSpells_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Second Chance"
+					},
+					"Translation":
+					{
+						"Text": "A doua șansă"
+					},
+					"Key": "BPEftSecondChance_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shadewalk"
+					},
+					"Translation":
+					{
+						"Text": "Mersul Umbrei"
+					},
+					"Key": "BPEftSpellShadowWalk_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shield"
+					},
+					"Translation":
+					{
+						"Text": "Scut"
+					},
+					"Key": "BPEftSpellShield_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shockwalk"
+					},
+					"Translation":
+					{
+						"Text": "Plimbarea de Șoc"
+					},
+					"Key": "BPEftSpellLightningWalk_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Slow"
+					},
+					"Translation":
+					{
+						"Text": "Încet"
+					},
+					"Key": "BPEftSlow_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Slow"
+					},
+					"Translation":
+					{
+						"Text": "Încet"
+					},
+					"Key": "BPEftMassSlow_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Soulbind"
+					},
+					"Translation":
+					{
+						"Text": "Legătura Sufletului"
+					},
+					"Key": "BPEftSpellSoulKeeper_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sparks of Vengeance"
+					},
+					"Translation":
+					{
+						"Text": "Scântei de Răzbunare"
+					},
+					"Key": "BPEftDamageReflection_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Stoneskin"
+					},
+					"Translation":
+					{
+						"Text": "Pielea de Piatră"
+					},
+					"Key": "BPEftResModifierPhysical_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Stun"
+					},
+					"Translation":
+					{
+						"Text": "Amețește"
+					},
+					"Key": "BPEftStun_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Stun Chance"
+					},
+					"Translation":
+					{
+						"Text": "Șansa de Amețire"
+					},
+					"Key": "BPEftStunPassive10_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swap"
+					},
+					"Translation":
+					{
+						"Text": "Schimbă"
+					},
+					"Key": "BPEftSwap_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wardskin"
+					},
+					"Translation":
+					{
+						"Text": "Pielea de Gard"
+					},
+					"Key": "BPEftResModifierMagical_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wardskin"
+					},
+					"Translation":
+					{
+						"Text": "Pielea de Gard"
+					},
+					"Key": "BPEftResModifierMagicalStrong_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Worthy"
+					},
+					"Translation":
+					{
+						"Text": "Vrednic"
+					},
+					"Key": "BPEftWorthy_name"
+				}
+			]
+		},
+		{
+			"Namespace": "EndScreen",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "<Quote> ‘That is because I know exactly what the final result should be’</> he explained."
+					},
+					"Translation":
+					{
+						"Text": "<Quote> „Asta pentru că știu exact care ar trebui să fie rezultatul final” </> a explicat el."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_11_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>'Could there be other survivors of my tribe?'</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>'Ar putea exista și alți supraviețuitori ai tribului meu?'</>"
+					},
+					"Key": "UI_EndScreen_entry_10_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>'I also knew that I was a bit mad and since for my insane mind training in a monastery looked like a crazy idea I immediately knew that in fact that's the most sane thing to do.’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>„Știam, de asemenea, că sunt un pic înnebunit și pentru o vreme pregătirea mea nebunească într-o mănăstire părea o idee nebună, am știut imediat că, de fapt, acesta este cel mai înțelept lucru.”</>"
+					},
+					"Key": "UI_EndScreen_entry_7_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘And I would also like to check what do they eat for supper.’</> he said. <Quote>‘I’m going with you.’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote> „Și aș dori, de asemenea, să verific ce mănâncă pentru cină”. </ema spus el. <Quote> „Mă duc cu tine.” </>"
+					},
+					"Key": "UI_EndScreen_entry_11_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Due to my training I can resist Ruin’</> he thought. <Quote>‘No one has ever seen what’s there where Ruin destroyed the lands. If I train harder I might be able to get closer to Ruin to see what it really is.’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote> „Datorită antrenamentului meu pot rezista ruinei” </> a gândit el. <Quote> „Nimeni nu a văzut ce este acolo unde Ruina a distrus țările. Dacă mă antrenez mai greu, aș putea să mă apropii de Ruin pentru a vedea care este cu adevărat. ”</>"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_13_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Even if it was not enough I did all I could. I’m done.’</> he said."
+					},
+					"Translation":
+					{
+						"Text": "<Quote> „Chiar dacă nu a fost suficient am făcut tot ce am putut. Am terminat. ”</> A spus el."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_12_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Fishy think it is important’ </>he said.<Quote> ‘If Monk go to see Ruin, Fishy need to learn it.’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote> „Pește crede că este important” </> a spus el. <Quote> „Dacă călugărul va vedea Ruina, Peșțele trebuie să învețe.” </u>"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_18_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Focus on what you are doing Lillian. He was a bit odd anyway.’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>\"Concentrează-te pe ceea ce faci Lillian. Era oricum un pic ciudat. \"</>"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_5_text_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Have no fear!’</> Golem Maker said. <Quote>‘I will return with even more knowledge and we’ll stop Ruin once and for all.’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>'Nu te teme!'</> Creatorul de Golemi a spus. <Quote>‘Voi reveni cu și mai multe cunoștințe și vom opri Ruina o dată pentru totdeauna.’</>"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_10_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Hey there! I’m fed up with microtransactions. Can I go with ya man?’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>'Buna! Sunt enervat de microtranzacții. Pot să merg cu tine?</>"
+					},
+					"Key": "UI_EndScreen_entry_16_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Hey there! I’m fed up with microtransactions. Can I go with ya man?’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>'Buna! Sunt enervat de microtranzacții. Pot să merg cu tine?</>"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_19_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘I know Wizard would have disagreed but you did the right thing. We still have time to face Ruin. We couldn’t let everyone die there.’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>'Știu că vrăjitorul nu ar fi fost de acord, dar ai făcut ceea ce trebuie. Mai avem timp să ne confruntăm Ruina. Nu am putut lăsa pe toți să moară acolo. '</>"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_4_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘I think therefore I am not a bird’</> - he said."
+					},
+					"Translation":
+					{
+						"Text": "<Quote> „Cred că, prin urmare, nu sunt o pasăre \"</> - a spus el."
+					},
+					"Key": "UI_EndScreen_entry_8_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘If I could resist madness, others should be able to do the same’</> - he thought."
+					},
+					"Translation":
+					{
+						"Text": "<Quote> „Dacă eu am putut rezista nebuniei, alții ar trebui să poată face același lucru </> - a crezut el."
+					},
+					"Key": "F0EAD93B44D8D7AEF306EAB75D83FB37"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘If I could resist madness, shouldn't others be able to do the same?’</>- he wondered."
+					},
+					"Translation":
+					{
+						"Text": "<Quote> „Dacă eu am putut rezista nebuniei, alții ar trebui să poată face același lucru </>> - se întreba el."
+					},
+					"Key": "UI_EndScreen_entry_6_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘If there is something we can do with Ruin it must be connected to the rituals. I’ll go with you.’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote> „Dacă există ceva ce putem face cu Ruin, acesta trebuie conectat la ritualuri. Voi merge cu tine. ”</>"
+					},
+					"Key": "UI_EndScreen_entry_13_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Kobolds reserved the ancient knowledge in their rituals’</> Golem Maker said. <Quote>‘If there is something we can do with Ruin it must be connected to the rituals. I’ll go with you.’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>„Kobolds și-a rezervat cunoștințele străvechi în ritualurile lor\"</> Creatorul de Golemi a spus. <Quote>„Dacă există ceva ce putem face cu Ruin, acesta trebuie să fie conectat la ritualuri. Voi merge cu tine.\"</>"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_10_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Kobolds reserved the ancient knowledge in their rituals’</> he said."
+					},
+					"Translation":
+					{
+						"Text": "<Quote> „Kobolds și-a rezervat cunoștințele antice în ritualurile lor </> a spus el."
+					},
+					"Key": "UI_EndScreen_entry_13_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Now is the time’</> Monk said one day. <Quote>’Go to the Human Realm and prepare the people.’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>‘Acuma este timpul’</> a spus Călugărul într-o zi. <Quote>„Mergi pe Tărâmul Uman și pregătiți oamenii.\"</>"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_18_text_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘To be honest I never actually wanted to be a teacher‘</> - said Teachy."
+					},
+					"Translation":
+					{
+						"Text": "<Quote> „Să fiu sincer, nu am vrut niciodată să fiu profesor” </i> - a spus Teachy."
+					},
+					"Key": "UI_EndScreen_entry_7_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘To be honest I never wanted to be a teacher’ </>he said. <Quote>‘I only stayed at University so that I can do some more research work. But my students never let me research during lectures.’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote> „Ca să fiu sincer nu am vrut niciodată să fiu profesor” </> a spus el. <Quote> „Am rămas doar la Universitate, pentru a putea face și alte lucrări de cercetare. Dar studenții mei nu m-au lăsat niciodată să cercetez în timpul lecturilor. ”</>"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_6_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Size42>Separating the World also changed something in the Ruined Realm. The wind turned and even Ruin stopped for a moment.</>"
+					},
+					"Translation":
+					{
+						"Text": "<Size42>Separarea lumii a schimbat și ceva pe Tărâmul Ruinat. Vântul sa schimbat și chiar Ruina sa oprit pentru o clipă.</>"
+					},
+					"Key": "7279EA4741D3DAC5AE92EB99AB851ED9"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Size42>Separating the World also changed something in the Ruined Realm. The wind turned and even Ruin stopped for a moment.</>"
+					},
+					"Translation":
+					{
+						"Text": "<Size42>Separarea lumii a schimbat și ceva pe Tărâmul Ruinat. Vântul sa schimbat și chiar Ruina sa oprit pentru o clipă.</>"
+					},
+					"Key": "77E809914A65796364FE94B8C2361FD7"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Size42>Separating the World also changed something in the Ruined Realm. The wind turned and even Ruin stopped for a moment.</>"
+					},
+					"Translation":
+					{
+						"Text": "<Size42>Separarea lumii a schimbat și ceva pe Tărâmul Ruinat. Vântul sa schimbat și chiar Ruina sa oprit pentru o clipă.</>"
+					},
+					"Key": "9C1B477D4582ABAEDC90FCB3AC6737E7"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Size42>Separating the World also changed something in the Ruined Realm. The wind turned and even Ruin stopped for a moment.</>"
+					},
+					"Translation":
+					{
+						"Text": "<Size42>Separarea lumii a schimbat și ceva pe Tărâmul Ruinat. Vântul sa schimbat și chiar Ruina sa oprit pentru o clipă.</>"
+					},
+					"Key": "E98C3FDD453FF80CA8EBBE94459A5CAF"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Size42>Separating the World also changed something in the Ruined Realm.</>"
+					},
+					"Translation":
+					{
+						"Text": "<Size42>Separarea lumii a schimbat și ceva pe Tărâmul Ruinat.</>"
+					},
+					"Key": "UI_EndScreen_entry_4_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Size42>The wind turned and even Ruin stopped for a moment.</>"
+					},
+					"Translation":
+					{
+						"Text": "<Size42>Vântul se întoarse și chiar Ruina se opri o clipă.</>"
+					},
+					"Key": "UI_EndScreen_entry_4_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "A few hours later members of the Mage Council arrived along with the city guards."
+					},
+					"Translation":
+					{
+						"Text": "Câteva ore mai târziu, membrii Consiliului Vrăjitorilor au sosit împreună cu paznicii orașului."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_1_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "A few weeks later he realized that even though he failed his quest he still should do something."
+					},
+					"Translation":
+					{
+						"Text": "Câteva săptămâni mai târziu și-a dat seama că, deși a eșuat în căutarea lui, tot ar trebui să facă ceva."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_13_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "A portal opened and swallowed the Keeper."
+					},
+					"Translation":
+					{
+						"Text": "Un portal -sa deschis și a înghițit Îngrijitorul."
+					},
+					"Key": "UI_EndScreen_entry_5_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "After Kobold Chef left, Supper Dwarf had to take care of the kitchen."
+					},
+					"Translation":
+					{
+						"Text": "După ce Bucătarul Kobold plecat, Piticul Supă a trebuit să aibă grijă de bucătărie."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_11_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "After days of arguing on who undermined whose business Lory and Gnory separated once again."
+					},
+					"Translation":
+					{
+						"Text": "După câteva zile de ceartă cu privire la cine a subminat afacerea Lory și Gnory s-au separat din nou."
+					},
+					"Key": "UI_EndScreen_entry_14_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "After lunch they started to talk."
+					},
+					"Translation":
+					{
+						"Text": "După prânz au început să vorbească."
+					},
+					"Key": "UI_EndScreen_entry_9_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "After weeks of walking alone, he heard a faint excited voice:"
+					},
+					"Translation":
+					{
+						"Text": "După câteva săptămâni de mers singur, a auzit o voce slabă încântată:"
+					},
+					"Key": "UI_EndScreen_entry_16_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Although Lillian inherited her father’s castle she was sent to an Orphanage until she came into age to live on her own."
+					},
+					"Translation":
+					{
+						"Text": "Deși Lillian a moștenit castelul tatălui ei, ea a fost trimisă la un Orfelinat până când a împlinit vârsta pentru a trăi de una singură."
+					},
+					"Key": "UI_EndScreen_entry_2_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Although it was total nonsense Lillian and Scholar was happy that the crowd were taken away from the Castle."
+					},
+					"Translation":
+					{
+						"Text": "Deși era o prostie totală, Lillian și Savantul erau fericiți că mulțimea a fost luată departe de Castel."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_1_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "As for Gnory, he decided to sell lots of different things in the City Prison which turned out to be his new home for a while."
+					},
+					"Translation":
+					{
+						"Text": "În ceea ce privește Gnory, a decis să vândă multe lucruri diferite în închisoarea din oraș, care s-a dovedit a fi noua lui casă pentru o perioadă."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_17_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "As some stories ended some new ones begun. Though what happened afterwards is not yet known."
+					},
+					"Translation":
+					{
+						"Text": "Pe măsură ce unele povești s-au încheiat, au început unele noi. Deși ceea ce s-a întâmplat ulterior nu se știe încă."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_21_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "As some stories ended some new ones begun. Though what happened afterwards is not yet known."
+					},
+					"Translation":
+					{
+						"Text": "Pe măsură ce unele povești s-au încheiat, au început unele noi. Deși ceea ce s-a întâmplat ulterior nu se știe încă."
+					},
+					"Key": "UI_EndScreen_entry_18_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "As time passed Scholar started to behave a bit odd which made Lillian really anxious."
+					},
+					"Translation":
+					{
+						"Text": "Odată cu trecerea timpului, savantul a început să se comporte un pic ciudat, ceea ce a făcut-o pe Lillian să fie într-adevăr neliniștită."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_5_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "At least he stopped creating mindless stone golems."
+					},
+					"Translation":
+					{
+						"Text": "Cel puțin a încetat să creeze Golemi de piatră fără minte."
+					},
+					"Key": "UI_EndScreen_entry_12_text_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "By the time the furious crowd broke into the Wizard’s Castle the Device was completely destroyed."
+					},
+					"Translation":
+					{
+						"Text": "Când mulțimea furioasă a intrat în Castelul Vrăjitorului, Dispozitivul a fost complet distrus."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_0_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Even though she lost her father Lillian couldn’t afford to let sadness overcome her."
+					},
+					"Translation":
+					{
+						"Text": "Chiar dacă și-a pierdut tatăl, Lillian nu și-a permis să lase tristețea să o învingă."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_3_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fishy didn’t like the medicine business so he left Gnory."
+					},
+					"Translation":
+					{
+						"Text": "Lui Pește nu i-a plăcut afacerea cu medicamente, așa că a părăsit Gnory."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_18_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gnory specialized himself in selling medicine which were said to heal the sickness which was spreading as Ruin reached closer."
+					},
+					"Translation":
+					{
+						"Text": "Gnory s-a specializat în vânzarea de medicamente despre care se spune că vindecă boala care se răspândea pe măsură ce Ruina se apropia."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_15_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Golem Maker was a huge help to Lillian with his knowledge on Golemology and it was not easy for Lillian to let him go."
+					},
+					"Translation":
+					{
+						"Text": "Creatorul de Golemi a fost un ajutor uriaș pentru Lillian cu cunoștințele sale despre Golemi și nu a fost ușor pentru Lillian să-l lase să plece."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_10_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "He decided to leave his kitchen and search for his lost relatives."
+					},
+					"Translation":
+					{
+						"Text": "A decis să părăsească bucătăria și să-și caute rudele pierdute."
+					},
+					"Key": "UI_EndScreen_entry_10_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "He decided to return to the Ruined Realm and search for his lost relatives."
+					},
+					"Translation":
+					{
+						"Text": "A decis să se întoarcă pe Tărâmul Ruinat și să-și caute rudele pierdute."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_9_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "He had no idea where he was going."
+					},
+					"Translation":
+					{
+						"Text": "Nu avea habar unde se ducea."
+					},
+					"Key": "UI_EndScreen_entry_15_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "He joined Lillian and dug into every book he could possibly find on the Ancient’s technology."
+					},
+					"Translation":
+					{
+						"Text": "S-a alăturat lui Lillian și a căutat în fiecare carte pe care ar putea să o găsească despre Tehnologia Anticilor."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_6_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "He joined Monk for a while to learn the mental training techniques which reserved Monk’s sanity."
+					},
+					"Translation":
+					{
+						"Text": "El s-a alăturat Călugărului pentru o vreme pentru a învăța tehnicile de antrenament mental care au păstrat sănătatea Călugărului."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_18_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "He joined Monk’s monastery to teach philosophy."
+					},
+					"Translation":
+					{
+						"Text": "S-a alăturat mănăstirii Călugărului pentru a preda filozofia."
+					},
+					"Key": "UI_EndScreen_entry_8_text_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "He kept on practising and soon set out on a journey into the heart of Ruin to find answers to questions even he didn’t know."
+					},
+					"Translation":
+					{
+						"Text": "El a continuat să practice și a pornit curând într-o călătorie în inima Ruinei pentru a găsi răspunsuri la întrebări pe care nici el nu le știa."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_13_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "He opened a monastery to share his mental training techniques with anyone willing to save its sanity."
+					},
+					"Translation":
+					{
+						"Text": "El a deschis o mănăstire pentru a împărtăși tehnicile sale de pregătire mentală cu oricine dorește să își salveze sănătatea."
+					},
+					"Key": "UI_EndScreen_entry_6_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "He opened a monastery to share his mental training techniques with anyone willing to save its sanity."
+					},
+					"Translation":
+					{
+						"Text": "El a deschis o mănăstire pentru a împărtăși tehnicile sale de pregătire mentală cu oricine dorește să își salveze sănătatea."
+					},
+					"Key": "E9F6E1064D5B2046DF1DEDA386012E2D"
+				},
+				{
+					"Source":
+					{
+						"Text": "He organized some of the cleaners to repair the Castle so that Lillian can keep on with her work."
+					},
+					"Translation":
+					{
+						"Text": "El a organizat câțiva dintre curățătorii pentru a repara Castelul, pentru ca Lillian să poată continua munca ei."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_7_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "He sat down on a mountaintop and started meditating."
+					},
+					"Translation":
+					{
+						"Text": "S-a așezat pe un munte și a început să mediteze."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_12_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "He was just sitting and staring at nothing."
+					},
+					"Translation":
+					{
+						"Text": "Doar stătea și nu privea nimic."
+					},
+					"Key": "UI_EndScreen_entry_12_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hearing these news made the Chef really excited."
+					},
+					"Translation":
+					{
+						"Text": "Auzind aceste vești l-a făcut pe bucătar foarte bucuros."
+					},
+					"Key": "UI_EndScreen_entry_10_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hearing this news made Kobold Chef really excited."
+					},
+					"Translation":
+					{
+						"Text": "Auzind această veste l-a făcut pe Bucătarul Kobold cu adevărat încântat."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_9_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "However there are things which never change."
+					},
+					"Translation":
+					{
+						"Text": "Cu toate acestea, există lucruri care nu se schimbă niciodată."
+					},
+					"Key": "UI_EndScreen_entry_14_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "In his free hours he kept on studying the Ancient’s technology hoping that one day he will find a way back to Lillian."
+					},
+					"Translation":
+					{
+						"Text": "În orele sale libere, a continuat să studieze tehnologia Antică, în speranța că într-o bună zi va găsi o cale de a se întoarcere către Lillian."
+					},
+					"Key": "UI_EndScreen_entry_8_text_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "It turned out that he is also really talented at making food."
+					},
+					"Translation":
+					{
+						"Text": "S-a dovedit că este, de asemenea, cu adevărat talentat în a face mâncare."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_11_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "It was still hard for the Maker to accept that all his work was for nothing."
+					},
+					"Translation":
+					{
+						"Text": "Încă a fost greu pentru Creator să accepte că toată munca lui a fost degeaba."
+					},
+					"Key": "UI_EndScreen_entry_12_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Later he opened a restaurant which soon became really popular."
+					},
+					"Translation":
+					{
+						"Text": "Mai târziu a deschis un restaurant care a devenit în curând foarte popular."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_11_text_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Later he started to remember things from the Runic Realm which helped Lillian a lot."
+					},
+					"Translation":
+					{
+						"Text": "Mai târziu a început să-și amintească lucruri de pe tărâmul Runic, care l-au ajutat foarte mult pe Lillian."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_7_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lillian didn't let the unfortunate events to overcome her. She stopped Ruin even if no one believed her."
+					},
+					"Translation":
+					{
+						"Text": "Lillian nu a lăsat întâmplările nefericite să o depășească. O oprit Ruina, chiar dacă nimeni nu o credea."
+					},
+					"Key": "UI_EndScreen_entry_3_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lory and Gnory suddenly found themselves in a world full of possible customers."
+					},
+					"Translation":
+					{
+						"Text": "Lory și Gnory s-au trezit brusc într-o lume plină de clienți posibili."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_14_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lory specialized in medicine which were said to heal the sickness which was caused by the medicine of Gnory."
+					},
+					"Translation":
+					{
+						"Text": "Lory s-a specializat în medicină despre care se spune că vindecă boala care a fost cauzată de medicamentele lui Gnory."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_15_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lory’s herbaria worked out."
+					},
+					"Translation":
+					{
+						"Text": "Herbarium lui Lory a funcționat."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_16_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Losing his connection to his master, Raven had to think again about his purpose."
+					},
+					"Translation":
+					{
+						"Text": "Pierzându-și legătura cu stăpânul său, Corbul a trebuit să se gândească din nou la scopul său."
+					},
+					"Key": "UI_EndScreen_entry_8_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Merch Ant and Fishy soon became best friends and ventured on together."
+					},
+					"Translation":
+					{
+						"Text": "Furnica Comerciant și Pește au devenit curând cei mai buni prieteni și s-au aventurat împreună."
+					},
+					"Key": "UI_EndScreen_entry_16_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Merch Ant and Fishy soon became best friends and ventured on together."
+					},
+					"Translation":
+					{
+						"Text": "Furnica Comerciant și Pește au devenit curând cei mai buni prieteni și s-au aventurat împreună."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_19_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Monk accepted Fishy as his apprentice and taught him all that was possible."
+					},
+					"Translation":
+					{
+						"Text": "Călugărul l-a acceptat pe Pește ca ucenic și i-a învățat tot ce era posibil."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_18_text_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Monk decided to stay in the Ruined Realm."
+					},
+					"Translation":
+					{
+						"Text": "Călugărul a decis să rămână pe Tărâmul Ruinat."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_12_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "No one knows how he could possibly know about the soup, but Supper Dwarf also appeared to taste the food."
+					},
+					"Translation":
+					{
+						"Text": "Nimeni nu știe cum ar fi posibil să știe despre ciorbă, dar Piticul Ciorbă a apărut și el pentru a gusta mâncarea."
+					},
+					"Key": "UI_EndScreen_entry_11_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Now that her own Realm was safe she could focus on the other Realms."
+					},
+					"Translation":
+					{
+						"Text": "Acum, când propriul ei tărâm era în siguranță, se putea concentra pe celelalte tărâmuri."
+					},
+					"Key": "UI_EndScreen_entry_3_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Of course it didn’t mean they stopped arguing on who undermined whose business but finally they both had the chance to run a successful trading company."
+					},
+					"Translation":
+					{
+						"Text": "Desigur, aceasta nu a însemnat că au încetat să se certe pe cine a subminat afacerea, dar în cele din urmă au avut șansa de a conduce o societate comercială de succes."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_14_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "On his way to the Human Realm Fishy heard a faint excited voice:"
+					},
+					"Translation":
+					{
+						"Text": "În drum spre Tărâmul Uman, Fishy a auzit o voce slab încântată:"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_19_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "On their way they stopped by the Golem Maker."
+					},
+					"Translation":
+					{
+						"Text": "În drum, s-au oprit lângă Creatorul Golemilor."
+					},
+					"Key": "UI_EndScreen_entry_12_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Once the Boundaries of Worlds were sealed, Ruin could do no harm to the Human Realm again."
+					},
+					"Translation":
+					{
+						"Text": "După ce granițele lumilor au fost sigilate, Ruina nu mai poate face din nou niciun rău Tărâmului uman."
+					},
+					"Key": "UI_EndScreen_entry_0_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "One day a Pipe Walker, who had been in many cages mentioned that she met some kobolds far away who might be other survivors of the Kobold Chef’s tribe."
+					},
+					"Translation":
+					{
+						"Text": "Într-o zi, un Mergător pe Țeavă, care fusese în multe cuști, a menționat că a întâlnit niște Kobolds departe, care ar putea fi alți supraviețuitori ai tribului Bucătarului Kobold."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_8_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "One of the Pipe Walkers, who had been in many cages mentioned that she actually met some kobolds far away."
+					},
+					"Translation":
+					{
+						"Text": "Unul dintre Mergătorii pe Țev , care fusese în multe cuști, a menționat că a întâlnit de fapt niște Kobolds departe."
+					},
+					"Key": "UI_EndScreen_entry_9_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruin was close and the solution was still far away."
+					},
+					"Translation":
+					{
+						"Text": "Ruina era aproape și soluția era încă departe."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_5_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruin was more of a threat now than ever before, and since the Mage Council didn’t believe in Ruin it was the task of Lillian and Scholar to repair the device."
+					},
+					"Translation":
+					{
+						"Text": "Ruina era o amenințare mai mare ca niciodată și din momentul ce Consiliul Mage nu credea în Ruină, a fost sarcina lui Lillian și a Savantului să repare dispozitivul."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_3_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Scholar was really proud of Lillian because she managed to save time for the evacuation."
+					},
+					"Translation":
+					{
+						"Text": "Savantul era cu adevărat mândru de Lillian pentru că a reușit să economisească timp pentru evacuare."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_4_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Scholar was upset by Lillian’s decision on letting the Ruined Realm fall but he promised Lillian that he will make the Wizard’s Council let Lillian live in his estate."
+					},
+					"Translation":
+					{
+						"Text": "Savantul a fost supărat de decizia lui Lillian de a lăsa tărâmul ruinat, dar i-a promis lui Lillian că va face Consiliul Vrăjitorului s-o lase pe Lillian să locuiască în moșia sa."
+					},
+					"Key": "UI_EndScreen_entry_2_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "She also knew that the Ruined Realm still had at least a half century before it was totally destroyed so she decided to keep on looking for a way to save it."
+					},
+					"Translation":
+					{
+						"Text": "Știa, de asemenea, că tărâmul ruinat mai avea cel puțin o jumătate de secol înainte de a fi distrus în totalitate, așa că a decis să continue să caute o modalitate de a-l salva."
+					},
+					"Key": "UI_EndScreen_entry_3_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Some believed he survived but no one ever met him again."
+					},
+					"Translation":
+					{
+						"Text": "Unii au crezut că a supraviețuit, dar nimeni nu l-a mai întâlnit."
+					},
+					"Key": "UI_EndScreen_entry_5_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Some left, others started to investigate the building hoping to find something which might stop Ruin."
+					},
+					"Translation":
+					{
+						"Text": "Unii au plecat, alții au început să cerceteze clădirea în speranța de a găsi ceva care ar putea opri Ruina."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_0_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Some say mostly because he hired Pipe Walkers to serve the meal and for marketing purposes."
+					},
+					"Translation":
+					{
+						"Text": "Unii spun mai ales pentru că a angajat Mergătorii pe Țevi pentru a servi masa și în scopuri de marketing."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_11_text_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Soon she started to sell other medicine and healing devices as well."
+					},
+					"Translation":
+					{
+						"Text": "Curând a început să vândă și alte medicamente și dispozitive de vindecare."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_16_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Council claimed that Wizard died in an unfortunate accident, his device could never actually work anyway and Ruin is nothing to fear of."
+					},
+					"Translation":
+					{
+						"Text": "Consiliul a afirmat că vrăjitorul a murit într-un accident nefericit, dispozitivul său niciodată nu ar putea funcționa oricum și Ruin nu este ceva de care să îți fie teamă."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_1_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Mage Council didn’t believe a single word Lillian or Scholar told them about the events."
+					},
+					"Translation":
+					{
+						"Text": "Consiliul Magilor nu a crezut nici un singur cuvânt Lillian sau Savantul le-a spus despre evenimente."
+					},
+					"Key": "UI_EndScreen_entry_1_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "The World was still about to end, but as one Pipe Walker wisely said:"
+					},
+					"Translation":
+					{
+						"Text": "Lumea era încă pe punctul de a se sfârși, dar așa cum a spus un înțelept Mergător pe Țevi:"
+					},
+					"Key": "UI_EndScreen_entry_17_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "The World was still about to end, but as one Pipe Walker wisely said:"
+					},
+					"Translation":
+					{
+						"Text": "Lumea era încă pe punctul de a se sfârși, dar așa cum a spus un înțelept Mergător pe Țevi:"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_20_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "The new environment and being a bit further from Ruin made good to the Gate Keeper."
+					},
+					"Translation":
+					{
+						"Text": "Noul mediu și fiind un pic mai departe de Ruin i-au făcut bine Portarilor."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_7_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "The people soon forgot about the threat, some of them argued that Ruin ever existed."
+					},
+					"Translation":
+					{
+						"Text": "Oamenii au uitat curând de amenințare, unii dintre ei au susținut că Ruina nu a existat vreodată."
+					},
+					"Key": "E8401550448E14DD70717EB7EED0582B"
+				},
+				{
+					"Source":
+					{
+						"Text": "The people soon forgot about the threat, some of them argued that Ruin ever existed."
+					},
+					"Translation":
+					{
+						"Text": "Oamenii au uitat curând de amenințare, unii dintre ei au susținut că Ruina nu a existat vreodată."
+					},
+					"Key": "UI_EndScreen_entry_0_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "The people soon forgot about the threat, some of them argued that Ruin ever existed."
+					},
+					"Translation":
+					{
+						"Text": "Oamenii au uitat curând de amenințare, unii dintre ei au susținut că Ruina nu a existat vreodată."
+					},
+					"Key": "DF7F9F754F4FC9CB19DF92AFCE96C5C1"
+				},
+				{
+					"Source":
+					{
+						"Text": "They claimed that Wizard died in an unfortunate accident and his device could never actually work anyway."
+					},
+					"Translation":
+					{
+						"Text": "Aceștia au afirmat că vrăjitorul a murit într-un accident nefericit și dispozitivul său nu ar putea funcționa oricum."
+					},
+					"Key": "UI_EndScreen_entry_1_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "To the surprise of many Teachy also joined Monk and soon he became his best student."
+					},
+					"Translation":
+					{
+						"Text": "Spre surprinderea multor Teachy s-a alăturat Călugărului și în curând a devenit cel mai bun student al său."
+					},
+					"Key": "UI_EndScreen_entry_7_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "To the surprise of many Teachy turned out to be an excellent researcher."
+					},
+					"Translation":
+					{
+						"Text": "Spre surprinderea multor Teachy s-a dovedit a fi un cercetător excelent."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_6_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "When he heard about the lost Kobold tribe he got a bit excited."
+					},
+					"Translation":
+					{
+						"Text": "Când a auzit despre tribul pierdut Kobold, a fost un pic entuziasmat."
+					},
+					"Key": "UI_EndScreen_entry_13_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "When he heard about the lost Kobold tribe he got a bit excited.<Quote>‘Kobolds reserved the ancient knowledge in their rituals’</> he said. <Quote>‘If there is something we can do with Ruin it must be connected to the rituals. I’ll go with you.’</>"
+					},
+					"Translation":
+					{
+						"Text": "Când a auzit despre tribul pierdut Kobold, el a fost un pic entuziasmat. <Quote> „Kobolds au rezervat cunoștințele antice în ritualurile lor </> a spus el. <Quote> „Dacă există ceva ce putem face cu Ruin, acesta trebuie conectat la ritualuri. Voi merge cu tine. ”</>"
+					},
+					"Key": "9B476D3D4A603658683498B09968F8AA"
+				},
+				{
+					"Source":
+					{
+						"Text": "When he heard that the chef is leaving he offered his help with the trains."
+					},
+					"Translation":
+					{
+						"Text": "Când a auzit că pleacă bucătarul, i-a oferit ajutorul cu trenurile."
+					},
+					"Key": "UI_EndScreen_entry_11_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "When it was certain that no one will be saved from Ruin, as a last desperate act Gate Keeper tried to open a Gate to the Human Realm himself."
+					},
+					"Translation":
+					{
+						"Text": "Când era sigur că nimeni nu va fi salvat de la Ruină, ca ultim act disperat, Portarul a încercat să deschidă el însuși o Poartă către Regatul Uman."
+					},
+					"Key": "UI_EndScreen_entry_5_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "When she talked about her concerns to Raven, the bird said:"
+					},
+					"Translation":
+					{
+						"Text": "Când a vorbit despre preocupările sale cu Corbul, pasărea a spus:"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_5_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "When the soup was almost ready the Pipe Walkers smelled the flavour and they all gathered for a last dinner."
+					},
+					"Translation":
+					{
+						"Text": "Când ciorba era aproape gata, Mergătorii pe Țevi au miroset aroma și toți s-au adunat pentru o ultimă cină."
+					},
+					"Key": "UI_EndScreen_entry_9_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "When they were left alone they quickly started the evacuation of the Ruined Realm."
+					},
+					"Translation":
+					{
+						"Text": "Când au fost lăsați singuri, au început rapid evacuarea Tărâmului Ruinat."
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_2_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "While they were arguing Fishy decided to leave Gnory and set out on his own."
+					},
+					"Translation":
+					{
+						"Text": "În timp ce se certau, Fishy a decis să o părăsească pe Gnory și a pornit singur."
+					},
+					"Key": "UI_EndScreen_entry_15_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "With his quest completed Monk decided to look for another activity."
+					},
+					"Translation":
+					{
+						"Text": "Odată cu căutarea finalizată, Călugărul a decis să caute o altă activitate."
+					},
+					"Key": "UI_EndScreen_entry_6_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "With his quest completed Monk decided to look for another activity. He thought: <Quote>‘If I could resist madness, others should be able to do the same.’</> And so he opened a monastery to share his mental training techniques with anyone willing to save its sanity."
+					},
+					"Translation":
+					{
+						"Text": "Odată cu căutarea finalizată, Călugărul a decis să caute o altă activitate. El a gândit: <Quote> „Dacă aș putea rezista nebuniei, alții ar trebui să poată face același lucru.” </> Și, astfel, a deschis o mănăstire pentru a împărtăși tehnicile sale de pregătire mentală cu oricine dorește să-și salveze sănătatea."
+					},
+					"Key": "5D04206A499A8B42AF77BAA8BC9B4B8B"
+				},
+				{
+					"Source":
+					{
+						"Text": "With his quest completed Monk decided to look for another activity. He thought: <Quote>‘If I could resist madness, others should be able to do the same.’</> And so he opened a monastery to share his mental training techniques with anyone willing to save its sanity."
+					},
+					"Translation":
+					{
+						"Text": "Odată cu căutarea finalizată, Călugărul a decis să caute o altă activitate. El a gândit: <Quote> „Dacă aș putea rezista nebuniei, alții ar trebui să poată face același lucru.” </> Și, astfel, a deschis o mănăstire pentru a împărtăși tehnicile sale de pregătire mentală cu oricine dorește să-și salveze sănătatea."
+					},
+					"Key": "B0EEBB754110D2821640BE990002AC36"
+				},
+				{
+					"Source":
+					{
+						"Text": "With his quest completed Monk decided to look for another activity. He thought: <Quote>‘If I could resist madness, others should be able to do the same.’</> And so he opened a monastery to share his mental training techniques with anyone willing to save its sanity."
+					},
+					"Translation":
+					{
+						"Text": "Odată cu căutarea finalizată, Călugărul a decis să caute o altă activitate. El a gândit: <Quote> „Dacă aș putea rezista nebuniei, alții ar trebui să poată face același lucru.” </> Și, astfel, a deschis o mănăstire pentru a împărtăși tehnicile sale de pregătire mentală cu oricine dorește să-și salveze sănătatea."
+					},
+					"Key": "D75DCE214B56BA6FD9A58F9EEA9291A5"
+				},
+				{
+					"Source":
+					{
+						"Text": "With his quest completed Monk decided to look for another activity. He thought: <Quote>‘If I could resist madness, others should be able to do the same.’</> And so he opened a monastery to share his mental training techniques with anyone willing to save its sanity."
+					},
+					"Translation":
+					{
+						"Text": "Odată cu căutarea finalizată, Călugărul a decis să caute o altă activitate. El a gândit: <Quote> „Dacă aș putea rezista nebuniei, alții ar trebui să poată face același lucru.” </> Și, astfel, a deschis o mănăstire pentru a împărtăși tehnicile sale de pregătire mentală cu oricine dorește să-și salveze sănătatea."
+					},
+					"Key": "1E42901841F4C7CEF39536A762076EDF"
+				},
+				{
+					"Source":
+					{
+						"Text": "With his vast experience he couldn’t become the same thoughtless bird he once was."
+					},
+					"Translation":
+					{
+						"Text": "Cu vasta sa experiență, el nu a putut deveni aceeași pasăre fără gânduri așa cum a fost odată."
+					},
+					"Key": "UI_EndScreen_entry_8_text_2"
+				}
+			]
+		},
+		{
+			"Namespace": "EnemyGroupData",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "'Attention: our enemies greatest weapon, the holy Mace is stolen. We truly should have destroyed it as the Council suggested.'"
+					},
+					"Translation":
+					{
+						"Text": "'Atenție: cea mai mare armă a dușmanilor noștri, sfântul Buzdugan este furat. Ar fi trebuit să o distrugem așa cum a sugerat Consiliul. ”"
+					},
+					"Key": "SoAct1_EG_MaceGroup_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "'Just keep cleaning! Cleaning, cleaning...'"
+					},
+					"Translation":
+					{
+						"Text": "„Continuați curățarea! Curățare, curățare ... '"
+					},
+					"Key": "SoAct1_EG_AGRightFromPortal_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "'Let's make something clear. Maybe this room?'"
+					},
+					"Translation":
+					{
+						"Text": "„Să curățăm ceva. Poate această cameră.\""
+					},
+					"Key": "SoAct1_EG_SAFightOptional_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "'We won't clean anymore!' said the rebel Maintainer.\r\n'Let's declear War!'"
+					},
+					"Translation":
+					{
+						"Text": "\"Nu ne mai ștergem!\" spuse rebelul menținător.\n'Hai să declanșăm Războiul!'"
+					},
+					"Key": "SoAct1_EG_SAFightMustHave_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A fourth Sphere Golem? Someone never gives up..."
+					},
+					"Translation":
+					{
+						"Text": "A Patra Sferă Golem? Cineva nu se dă bătut..."
+					},
+					"Key": "SoAct2_EG_LavaDeepTeam_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Abandoned Fishy Slaves"
+					},
+					"Translation":
+					{
+						"Text": "Sclavi Pești Abandonți"
+					},
+					"Key": "SoAct2_EG_HutFishies_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "After Ruin most Golems liked to group together. Only a few chose to stay alone."
+					},
+					"Translation":
+					{
+						"Text": "După Ruină celor mai mulți Golemi le plăcea să stea in grupuri. Numai câțiva au decis să stea singuri."
+					},
+					"Key": "SoAct1_EG_LoneSewerDrone_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "After Ruin turned them into Monsters some creatures gathered together. Whether it's the effect of Ruin or something from their former life is unclear."
+					},
+					"Translation":
+					{
+						"Text": "După ce Ruinul i-a transformat în Monștri, niște creaturi s-au adunat împreuna. Nu este clar dacă este efectul Ruinelor sau ceva din viața lor anterioară."
+					},
+					"Key": "SoAct2_EG_Shore_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "After Ruin, Golems started to have strange behavior. There were a group of them who used the pipes to flood a part of the City. Later these places were called the Sewer."
+					},
+					"Translation":
+					{
+						"Text": "După Ruin, Golemii au început să aibă un comportament ciudat. Au fost un grup dintre ei care au folosit conductele pentru a inunda o parte a orașului. Mai târziu aceste locuri au fost numite Canalizare."
+					},
+					"Key": "SoAct1_EG_MaintainerInvestigatorInvestigators_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "After creating intelligence Golem Makers wanted even more. They wanted complex personality. They wanted Golems that can not only think but also feel. That was the idea behind designing the Gatekeepers."
+					},
+					"Translation":
+					{
+						"Text": "După crearea inteligenței, Creatorii de Golemi și-au dorit și mai mult. Își doreau personalitate complexă. Au dorit Golemi care nu numai că pot gândi, dar și simți. Aceasta a fost ideea din spatele proiectării Portarilor."
+					},
+					"Key": "SoAct1_EG_ArcadeDungeonExit_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "After the different types of Cleaners, Golem Makers wanted to create something greater than working robots. They started to design creatures with intelligence."
+					},
+					"Translation":
+					{
+						"Text": "După diferitele tipuri de Curățători, Creatorii de Golemi au dorit să creeze ceva mai mare decât roboții care funcționează. Au început să proiecteze creaturi cu inteligență."
+					},
+					"Key": "WhiteWall_EG_FirstOptionalCombat_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Annoying Flies"
+					},
+					"Translation":
+					{
+						"Text": "Muște Enervante"
+					},
+					"Key": "SoAct2_EG_HutFlyArmy_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Another Lone Drone"
+					},
+					"Translation":
+					{
+						"Text": "Înca o Dronă Singuratică"
+					},
+					"Key": "SoAct1_EG_LoneSewerDrone_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Anxious Armours"
+					},
+					"Translation":
+					{
+						"Text": "Armuri Anxioase"
+					},
+					"Key": "SoAct2_EG_C_BeforeKey_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Arcade Cleaner Golems"
+					},
+					"Translation":
+					{
+						"Text": "Golemi pentru curățarea arcadelor"
+					},
+					"Key": "SoAct1_EG_ArcadeMaintainers_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Arcade Cleaners"
+					},
+					"Translation":
+					{
+						"Text": "Curățătorii Arcadei"
+					},
+					"Key": "SoAct1_EG_ArcadeDungeonCleaners_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Arcade Servants"
+					},
+					"Translation":
+					{
+						"Text": "Slujitori Arcadei"
+					},
+					"Key": "SoAct1_EG_ArcadeDungeonExit_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Armour Wrath"
+					},
+					"Translation":
+					{
+						"Text": "Armura Mâniei"
+					},
+					"Key": "SoAct2_EG_LavaBoss_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Armour Wrath was the most ambitious and majestic work of the Golem Maker. He used all his remaining strength to create this mighty Golem. It's a pity that all his efforts were in vain."
+					},
+					"Translation":
+					{
+						"Text": "Armura Mâniei a fost cea mai ambițioasă și maiestuoasă lucrare a Creatorului Golem. El și-a folosit toată puterea rămasă pentru a crea acest Golem puternic. Păcat că toate eforturile sale au fost în zadar."
+					},
+					"Key": "SoAct2_EG_LavaBoss_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Before Ruin there was no other humanoid race but human. New races are created by Ruin's Shades. They roam the lands looking for any living being which they can possess. Once they become part of a creature its body will start to change."
+					},
+					"Translation":
+					{
+						"Text": "Înainte de Ruin nu exista o altă rasă umanoidă decât oamenii. Noi rase sunt create de Umbrele Ruinei. Ei cutreieră pământurile căutând orice ființă vie pe care o pot avea. Odată ce vor face parte dintr-o creatură corpul său va începe să se schimbe."
+					},
+					"Key": "SoAct2_EG_C_LoneShadeSphere_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bounce Trio"
+					},
+					"Translation":
+					{
+						"Text": "Săritura Trio"
+					},
+					"Key": "SoAct2_EG_BounceTrio_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bridge Brigade"
+					},
+					"Translation":
+					{
+						"Text": "Brigada Podului"
+					},
+					"Key": "SoAct2_EG_C_Bridge_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Capetainers"
+					},
+					"Translation":
+					{
+						"Text": "Curățătorii Căpitani"
+					},
+					"Key": "SoAct1_EG_AfterGateElits_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chest"
+					},
+					"Translation":
+					{
+						"Text": "Cufăr"
+					},
+					"Key": "SoAct1_EG_Chest_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Citizens of Cerulean requested to have their own unique Golems, but it was always rejected. This situation was very good for the Black Golem Market, because this way it was always easy to find customers."
+					},
+					"Translation":
+					{
+						"Text": "Cetățenii din Cerulean au cerut să aibă propriile lor Gooemi, dar a fost întotdeauna respins. Această situație a fost foarte bună pentru piața Neagră de Golemi, deoarece în acest fel a fost întotdeauna ușor să găsești clienți."
+					},
+					"Key": "SoAct1_EG_AfterGateCleaners_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cleaner Invasion"
+					},
+					"Translation":
+					{
+						"Text": "Invazie Curățătorilor"
+					},
+					"Key": "SoAct1_EG_AGRightFromPortal_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cleaner Twins"
+					},
+					"Translation":
+					{
+						"Text": "Gemeni mai Curați"
+					},
+					"Key": "SoAct3_EG_Act3RangedCleanerTwins_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cleaners of Cerulean"
+					},
+					"Translation":
+					{
+						"Text": "Curățătorii Ceruleanului"
+					},
+					"Key": "SoAct1_EG_AfterGateCleaners_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cleaners of the Refrigerator."
+					},
+					"Translation":
+					{
+						"Text": "Curățătorii Frigiderului."
+					},
+					"Key": "SoAct1_EG_SABeforeWallJump_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cleaners were the first Golems ever made. Before the Cataclysm they did all the monoton work so that the people had more time to think and to create."
+					},
+					"Translation":
+					{
+						"Text": "Curățătorii au fost primii Golemi făcuți vreodată. Înainte de cataclism au făcut toate lucrările monotone, astfel încât oamenii au avut mai mult timp să gândească și să creeze."
+					},
+					"Key": "WhiteWall_EG_FirstCombat_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Crafting was always the obsession of Dwarves. In their workshops they forged mighty weapons and wondrous armours. Their love for their craft was so strong that instead of their body, Ruin preserved their iron works."
+					},
+					"Translation":
+					{
+						"Text": "Meșteșugul a fost întotdeauna obsesia piticilor. În atelierele lor au creat arme puternice și armuri minunate. Dragostea lor pentru meseria lor a fost atât de puternică încât în loc de corpul lor, Ruina a păstrat lucrările de fier."
+					},
+					"Key": "SoAct2_EG_C_Bridge_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Creating intelligence was not enough for the Golem Makers. They wanted to get even further. They wanted to create Golems with emotions."
+					},
+					"Translation":
+					{
+						"Text": "Crearea inteligenței nu a fost suficientă pentru producătorii de Golemi. Au vrut să ajungă și mai departe. Au vrut să creeze Golemi cu emoții."
+					},
+					"Key": "WhiteWall_EG_AfterKobold_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Deep beneath the Catacombs there is a secret place called the Dwarven Gate. Elite dwarves who worked here were placed above the Law. They were seeking a way to fight Ruin with Ruin's magic."
+					},
+					"Translation":
+					{
+						"Text": "Adânc sub Catacombe există un loc secret numit Poarta Pitică. Piticii de elită care au lucrat aici au fost puși deasupra Legii. Căutau o modalitate de a combate Ruina cu magia Ruinei."
+					},
+					"Key": "SoAct2_EG_DG_Left_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Deserter Fishys"
+					},
+					"Translation":
+					{
+						"Text": "Peștii Dezertori"
+					},
+					"Key": "SoAct2_EG_SlideFishyTeam_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Deserter Fishys always kept a Fishy group close to the exit of their secret hideout. They protected the others and watched the kobolds to find the right time to venture back to the Lake."
+					},
+					"Translation":
+					{
+						"Text": "Peștii Dezertori au ținut întotdeauna un grup de Pești aproape de ieșirea din ascunzătoarea lor secretă. I-au protejat pe ceilalți și i-au urmărit pe kobolds să găsească momentul potrivit pentru a se aventura înapoi în lac."
+					},
+					"Key": "SoAct2_EG_SlidePathEnd_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Divided they fall, united they divide..."
+					},
+					"Translation":
+					{
+						"Text": "Împărțiți cad, uniți se împart ..."
+					},
+					"Key": "SoAct2_EG_LavaTeamX_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Drones delivered messages and gifts before Ruin. People were happy when they heard them approaching back then."
+					},
+					"Translation":
+					{
+						"Text": "Înainte de Ruină Dronele au livrat mesaje și cadouri. Înainte erau multe zboruri în aerul orașului. Pe atunci oamenii erau fericiți când au auzit o dronă apropiindu-se."
+					},
+					"Key": "SoAct1_EG_LoneDrone_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Drones were even more intelligent than Maintainers. They not only memorized texts, they helped correct grammar, changed the message if it was too insulting or even made up poems if they were asked to do so."
+					},
+					"Translation":
+					{
+						"Text": "Dronele erau chiar mai inteligente decât întreținătorii. Nu numai că au memorat textele, ci au ajutat la corectarea gramaticii, au schimbat mesajul dacă a fost prea insultător sau chiar au alcătuit poezii dacă li s-a cerut acest lucru."
+					},
+					"Key": "SoAct1_EG_AAFirstDroneTrio_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarven Statue"
+					},
+					"Translation":
+					{
+						"Text": "Statuia Piticilor"
+					},
+					"Key": "SoAct2_EG_DwarfBoss_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarven Statues were meant to imprison the essence of Ruin. However there were some Dwarven scientists who feared that the statues were not safe and in the long run they wouldn't be able to resist the power of Ruin..."
+					},
+					"Translation":
+					{
+						"Text": "Statuile pitice aveau menirea de a întemnița esența Ruinei. Cu toate acestea, au existat unii oameni de știință pitici care s-au temut că statuile nu sunt în siguranță și, pe termen lung, nu vor putea rezista puterii Ruinei ..."
+					},
+					"Key": "SoAct2_EG_DwarfBoss_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarves fought Ruin with Rules. These soldiers were ordered here to guard the Outpost. Their will to obey the order was so strong that even death couldn't break it."
+					},
+					"Translation":
+					{
+						"Text": "Piticii s-au luptat cu Ruina cu Regulile. Acești soldați au primit ordin să păzească Avanpostul. Voința lor de a se supune ordinului a fost atât de puternică încât nici măcar moartea nu a putut-o rupe."
+					},
+					"Key": "SoAct2_EG_OutpostWallFirst_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Elite Twins"
+					},
+					"Translation":
+					{
+						"Text": "Gemeni de Elită"
+					},
+					"Key": "SoAct3_EG_Act3VacuumTwins_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Even though Ruin doesn't have consciousness nor the ability to think it somehow reacts to your presence. As if it knew the threat you present, Ruin tries all it can to stop you from leaving the Ruined Realm."
+					},
+					"Translation":
+					{
+						"Text": "Chiar dacă Ruina nu are conștiință și nici capacitatea de a gândi, reacționează cumva la prezența ta. Ca și cum ar ști amenințarea pe care o prezinți, Ruina încearcă tot ce poate pentru a te opri să părăsiți Tărâmul Ruinat."
+					},
+					"Key": "SoAct3_EG_Act3FinalBattle_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Even though most of the common Dwarves never even heard about Dwarven Gate some were needed to do the hard work. Now that Ruin won, Dwarves are finally equal."
+					},
+					"Translation":
+					{
+						"Text": "Chiar dacă majoritatea piticilor obișnuiți nu au auzit niciodată despre Poarta Piticilor, unii au fost nevoiți să facă munca grea. Acum că Ruina a câștigat, piticii sunt în sfârșit egali."
+					},
+					"Key": "SoAct2_EG_DG_RightFloor_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fallen Druid"
+					},
+					"Translation":
+					{
+						"Text": "Druidul Căzut"
+					},
+					"Key": "SoAct2_EG_WWBoss_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fishys were produced by the Great Kobold tribe for slaves. Some of them managed to escape, but they couldn't go far from the Lake."
+					},
+					"Translation":
+					{
+						"Text": "Peștele a fost produs de tribul Mare Kobold pentru sclavi. Unii dintre ei au reușit să scape, dar nu au putut pleca departe de Lac."
+					},
+					"Key": "SoAct2_EG_SlideFishyTeam_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Flying Maintainer"
+					},
+					"Translation":
+					{
+						"Text": "Curățătorii zburători"
+					},
+					"Key": "WhiteWall_EG_AfterKobold_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fourth Sphere Golem"
+					},
+					"Translation":
+					{
+						"Text": "A Patra Sferă Golem"
+					},
+					"Key": "SoAct2_EG_LavaDeepTeam_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Glorious Group"
+					},
+					"Translation":
+					{
+						"Text": "Grupul Glorios"
+					},
+					"Key": "SoAct2_EG_DG_Left_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Going into the Law's High Office was forbidden even for most of the Dwarves. Only one path lead to the Office and that was guarded by the Patrols."
+					},
+					"Translation":
+					{
+						"Text": "Chiar și pentru majoritatea piticilor intrarea în Înaltul Birou al Legii era interzis. Doar o singură cale duce la Birou și care o fost păzită de patrule."
+					},
+					"Key": "SoAct2_EG_C_OfficePatrols_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Golem Group"
+					},
+					"Translation":
+					{
+						"Text": "Grupul Golemilor"
+					},
+					"Key": "SoAct2_EG_LavaTeamX_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Golem Makers wanted to create something more intelligent as they learned more. They shaped the Maintainers, the first golems capable of talking. Sadly their intelligence vanished as Ruin came."
+					},
+					"Translation":
+					{
+						"Text": "Pe măsură ce au aflat mai multe, Creatorii Golemilor au dorit să creeze ceva mai inteligent. Așa că i-au modelat pe menținerii care puteau să vorbească și să facă orice fel de muncă. Din păcate, inteligența lor a dispărut pe măsură ce Ruina a venit."
+					},
+					"Key": "SoAct1_EG_SewerTeam_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Golem Trio"
+					},
+					"Translation":
+					{
+						"Text": "Golem Trio"
+					},
+					"Key": "SoAct2_EG_LavaTrio_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Golems never ever attacked the Pipe Walkers. The reason is only known by the wisest Pipe Walker himself. It is because, as he explained: 'Nun dara bum, tuk la.'"
+					},
+					"Translation":
+					{
+						"Text": "Golemii nu a atacat niciodată pe Mergătorii pe Țevi. Motivul este cunoscut doar de înțeleptul Mergător pe Țevi însuși. Se datorează faptului că, după cum a explicat: „Nun dara bum, tuk la.”"
+					},
+					"Key": "SoAct1_EG_TLSewerCreatureWatch_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Guardians of the East Wall"
+					},
+					"Translation":
+					{
+						"Text": "Păzitorii Zidului de Est"
+					},
+					"Key": "SoAct2_EG_OutpostRight_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Guardians of the Law"
+					},
+					"Translation":
+					{
+						"Text": "Păzitorii Legii"
+					},
+					"Key": "SoAct2_EG_C_OfficeGuards_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Guardians of the West Wall"
+					},
+					"Translation":
+					{
+						"Text": "Păzitorii Zidului de Vest"
+					},
+					"Key": "SoAct2_EG_OutpostLeft_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Infected Golems"
+					},
+					"Translation":
+					{
+						"Text": "Golemii Infectați"
+					},
+					"Key": "WhiteWall_EG_BeforeKobold_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "It's still unclear what makes some creatures touched by Ruin to group together. Some believes those who had similar emotions when Ruin came were likely to form a group."
+					},
+					"Translation":
+					{
+						"Text": "Încă nu este clar ce face ca unele creaturi să fie atinse de Ruin să se grupeze. Unii consideră că cei care au avut emoții similare atunci când a venit Ruina au avut șansa mai mare să formeze un grup."
+					},
+					"Key": "SoAct2_EG_C_BeforeKey_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lava Jumpers"
+					},
+					"Translation":
+					{
+						"Text": "Săritorii de Lavă"
+					},
+					"Key": "SoAct2_EG_LavaJumpers_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lava Jumpers are former Golems who fell into the lava. Some of them return to join their former Golem companions."
+					},
+					"Translation":
+					{
+						"Text": "Săritorii de Lavs sunt foști Golemi care au căzut în lavă. Unii dintre ei se întorc să se alăture foștilor lor tovarăși Golemi."
+					},
+					"Key": "SoAct2_EG_BounceTrio_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Libraries were important in the life of the former Realm's citizens. No wonder that many of the golems were created only to dust and organize the books."
+					},
+					"Translation":
+					{
+						"Text": "Bibliotecile au fost importante în viața cetățenilor fostului tărâm. Nu este de mirare că mulți dintre Golemi au fost creați doar pentru a curăța praful și a organiza cărțile."
+					},
+					"Key": "SoAct1_EG_TL_VacuumTwins_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Library Cleaners"
+					},
+					"Translation":
+					{
+						"Text": "Curățătorii de la Bibliotecă"
+					},
+					"Key": "SoAct1_EG_TL_VacuumTwins_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lone Drone"
+					},
+					"Translation":
+					{
+						"Text": "Dronă Singuratică"
+					},
+					"Key": "SoAct1_EG_LoneDrone_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Looks like the second try is just as bad as the first one."
+					},
+					"Translation":
+					{
+						"Text": "Se pare că a doua încercare este la fel de rea ca și prima."
+					},
+					"Key": "SoAct2_EG_GolemSecond_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mace Defenders"
+					},
+					"Translation":
+					{
+						"Text": "Apărătorii Buzduganului"
+					},
+					"Key": "SoAct1_EG_MaceGroup_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Maintainer Spellcasters"
+					},
+					"Translation":
+					{
+						"Text": "Întreținătorii Vrăjitori"
+					},
+					"Key": "SoAct3_EG_Act3BubbleGroundMain_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Maintainers of the Pipes"
+					},
+					"Translation":
+					{
+						"Text": "Întreținătorii Țevilor"
+					},
+					"Key": "SoAct1_EG_MaintainerInvestigators_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Maybe it only depends on the creation process, but some Golems had stronger personality. In general, Golems with more intelligence resisted Ruin longer and Golems with strong personality were more vulnerable to the infection."
+					},
+					"Translation":
+					{
+						"Text": "Poate că depinde doar de procesul de creație, dar unii Golemi aveau o personalitate mai puternică. În general, Golemii cu mai multă inteligență au rezistat mai mult Ruinei și Golemii cu personalitate puternică au fost mai vulnerabili la infecție."
+					},
+					"Key": "SoAct1_EG_GGMiniBoss_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "More Drones"
+					},
+					"Translation":
+					{
+						"Text": "Mai multe Drone"
+					},
+					"Key": "SoAct3_EG_Act3PipeGroupSecond_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "No one knows where the Flies came from. Although you have a very clear idea on where they should go..."
+					},
+					"Translation":
+					{
+						"Text": "Nimeni nu știe de unde au venit muștele. Deși ai o idee foarte clară despre unde ar trebui să meargă ..."
+					},
+					"Key": "SoAct2_EG_HutFlyArmy_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not only the Golems were created by using the Spirits of the Unknown World before Ruin. People found other ways of using this new technology. They created pipes to convey hot water to heat the city and cold water to drink."
+					},
+					"Translation":
+					{
+						"Text": "Înainte de ruina nu numai Golemii au fost creați prin utilizarea spiritelor lumii necunoscute, oamenii au găsit curând alte modalități de utilizare a noilor tehnologii. Au creat țevi pentru a transmite apă caldă pentru a încălzi orașul și apă rece pentru a o bea."
+					},
+					"Key": "SoAct1_EG_MaintainerInvestigators_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not so Elite Dwarves"
+					},
+					"Translation":
+					{
+						"Text": "Nu chiar Piticii de Elită"
+					},
+					"Key": "SoAct2_EG_DG_RightFloor_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Now that the Fishys are gone, the Lake's piranhas can live in peace and eat whoever comes close."
+					},
+					"Translation":
+					{
+						"Text": "Acum că Peștii a dispărut, piranhale lacului pot trăi în pace și mânca pe oricine se apropie."
+					},
+					"Key": "SoAct2_EG_HutFishies_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "One idea of the Elite Dwarves was to create giant statues which are able to trap Ruin's essence. Even if they were right they never managed to make enough sculptures."
+					},
+					"Translation":
+					{
+						"Text": "O idee a piticilor de elită a fost crearea de statui uriașe care să poată captura esența Ruinei. Chiar dacă aveau dreptate, nu au reușit niciodată să facă suficiente statui."
+					},
+					"Key": "SoAct2_EG_DG_RightUpOptional_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Patrol Fishys"
+					},
+					"Translation":
+					{
+						"Text": "Peștii Patrulând"
+					},
+					"Key": "SoAct2_EG_SlidePathEnd_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Patrols of the Law"
+					},
+					"Translation":
+					{
+						"Text": "Patrulele Legii"
+					},
+					"Key": "SoAct2_EG_C_OfficePatrols_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Patrols of the Outpost Wall"
+					},
+					"Translation":
+					{
+						"Text": "Patrulele zidului din Avanpost"
+					},
+					"Key": "SoAct2_EG_OutpostWallFirst_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "People realised that Golem's Spirits have a power beyond imagination. They called it the Ancient Magic. Vacuum Cleaners could use this magic to do their job even better."
+					},
+					"Translation":
+					{
+						"Text": "Oamenii și-au dat seama că spiritele Golemilor au o putere dincolo de imaginație. Ei au numit-o Magia Antică. Aspiratoarele ar putea folosi această magie pentru a-și face treaba și mai bine."
+					},
+					"Key": "SoAct1_EG_SewerCircleVacuumCleaners_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pipe Golems"
+					},
+					"Translation":
+					{
+						"Text": "Golemii de pe Țevi"
+					},
+					"Key": "SoAct1_EG_MaintainerInvestigatorInvestigators_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Red Drones"
+					},
+					"Translation":
+					{
+						"Text": "Drone Roșii"
+					},
+					"Key": "SoAct3_EG_Act3PipeGroupFirst_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruin was not only meant for destruction, it could also preserve. Ruin gave endless life for those who survived at the cost of twisting their minds."
+					},
+					"Translation":
+					{
+						"Text": "Ruina nu a fost destinată numai distrugerii, ci a putut si conserva. Ruian a dat viață nesfârșită celor care au supraviețuit cu prețul de a-și răsuci mințile."
+					},
+					"Key": "SoAct2_EG_OutpostRight_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruin's logic is predictable when you understand its nature. When it's not possible to create more the creation process can be restarted by destroying everything first."
+					},
+					"Translation":
+					{
+						"Text": "Logica ruinei este previzibilă atunci când îi înțelegi natura. Când nu este posibil să creezi mai mult, procesul de creare poate fi repornit distrugând totul mai întâi."
+					},
+					"Key": "SoAct3_EG_Act3VacuumTwins_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruin's nature is confusing for the human mind. It can build, it can destroy, it can use, it can be used. These actions have the same priority for Ruin. All that matters is that it can do something. And with time it wants more and more."
+					},
+					"Translation":
+					{
+						"Text": "Natura ruinei este confuză pentru mintea umană. Poate construi, poate distruge, poate folosi, poate fi folosit. Aceste acțiuni au aceeași prioritate pentru Ruină. Tot ce contează este că poate face ceva. Și cu timpul vrea din ce în ce mai mult."
+					},
+					"Key": "SoAct3_EG_Act3RangedCleanerTwins_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruin's power is not only in destruction. When it can't change something it will preserve those attributes which can prepare the possibility to change again. Ruin's power is in change."
+					},
+					"Translation":
+					{
+						"Text": "Puterea ruinei nu este doar în distrugere. Când nu poate schimba ceva, va păstra acele atribute care pot pregăti posibilitatea de a schimba din nou. Puterea Ruinei este în schimbare."
+					},
+					"Key": "SoAct3_EG_Act3BubbleGroundMain_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruined Convention"
+					},
+					"Translation":
+					{
+						"Text": "Convenția în Ruină"
+					},
+					"Key": "SoAct3_EG_Act3FinalBattle_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sculptors"
+					},
+					"Translation":
+					{
+						"Text": "Sculptori"
+					},
+					"Key": "SoAct2_EG_DG_RightUpOptional_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Second Sphere Golem"
+					},
+					"Translation":
+					{
+						"Text": "A Doua Sferă Golem"
+					},
+					"Key": "SoAct2_EG_GolemSecond_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sewer Golems"
+					},
+					"Translation":
+					{
+						"Text": "Golemii de Canal"
+					},
+					"Key": "SoAct1_EG_SewerTeam_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sewer Team B"
+					},
+					"Translation":
+					{
+						"Text": "Echipa de Canalizare B"
+					},
+					"Key": "SoAct1_EG_TLSewerCreatureWatch_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shore Monsters"
+					},
+					"Translation":
+					{
+						"Text": "Monșțrii Malului"
+					},
+					"Key": "SoAct2_EG_Shore_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Some believed cold can resist Ruin longer than magic. They created places where they kept the temperature beneath the freezing point. As it turned out, not even coldness can resist Ruin forever."
+					},
+					"Translation":
+					{
+						"Text": "Unii credeau că frigul poate rezista Ruinei mai mult decât magia. Au creat locuri unde au menținut temperatura sub punctul de îngheț. Așa cum s-a dovedit, nici măcar răceala nu poate rezista Ruina pentru totdeauna."
+					},
+					"Key": "SoAct1_EG_SABeforeWallJump_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sphere Golem"
+					},
+					"Translation":
+					{
+						"Text": "Sfera Golem"
+					},
+					"Key": "SoAct2_EG_GolemFirst_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Stone Golems are the cheap copies of the Runic Realm Golems. If Ruin twists the creatures mind then it will definitely have no effect on these ones."
+					},
+					"Translation":
+					{
+						"Text": "Golemurile de piatră sunt exemplarele ieftine ale Golemelor din Tărâmul Runic. Dacă Ruin răsucește mintea creaturilor, cu siguranță nu va avea niciun efect asupra acestora."
+					},
+					"Key": "SoAct2_EG_GolemFirst_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Black Golem Market was funded by a Golem Maker apprentice who failed his master exam and was banished from school. No wonder his golems were... unique."
+					},
+					"Translation":
+					{
+						"Text": "Piața Neagră a Golemilor a fost finanțată de un Creator ucenic de Golemi care nu a reușit examenul de master și a fost alungat de la școală. Nu e de mirare că golemurile lui erau... unice."
+					},
+					"Key": "SoAct1_EG_AGTestStoneCircle_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Flying Three"
+					},
+					"Translation":
+					{
+						"Text": "Cei Trei Zburători"
+					},
+					"Key": "SoAct1_EG_AAFirstDroneTrio_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Golem's behaviour was specified by the Golem Makers. Only very simple personalities were made at the beginning. The Cleaners, for example, only desired to keep the place tidy and make sure they don't harm the people."
+					},
+					"Translation":
+					{
+						"Text": "Comportamentul Golemilor a fost specificat de Creatorii de Golemi. La început, au fost făcute doar personalități foarte simple. De exemplu, Golemii de curățare au dorit doar să păstreze locul ordonat și să se asigure că nu fac rău oamenilor."
+					},
+					"Key": "SoAct1_EG_ArcadeDungeonCleaners_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "The North Team"
+					},
+					"Translation":
+					{
+						"Text": "Echipa de Nord"
+					},
+					"Key": "SoAct1_EG_AGWallJumpTeam_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Runic Realm's Government didn't allow the Golems to become the privilege of the rich. Even though the elite were not allowed to have different Golems they always found a way to make their servants different than the ones owned by the poor."
+					},
+					"Translation":
+					{
+						"Text": "Guvernul Regatului Runic nu a permis Golemii să devină privilegiul celor bogați. Chiar dacă elitei nu li s-a permis să aibă Golemi diferiți, au găsit întotdeauna o modalitate de a-i face pe slujitorii lor diferiți de cei deținuți de săraci."
+					},
+					"Key": "SoAct1_EG_AfterGateElits_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Tower Trio"
+					},
+					"Translation":
+					{
+						"Text": "Turnul Trio"
+					},
+					"Key": "SoAct1_EG_TowerTrio_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "The cleaning plan for this area fell apart with the participants."
+					},
+					"Translation":
+					{
+						"Text": "Planul de curățenie pentru această zonă s-a destrămat cu participanții."
+					},
+					"Key": "SoAct1_EG_AGWallJumpTeam_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "The poor chest was minding his own business before you started to insult him."
+					},
+					"Translation":
+					{
+						"Text": "Bietul cufăr își vedea de propria treabă înainte să îl jignești."
+					},
+					"Key": "SoAct1_EG_Chest_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "The very first Golems were made to do the most monotonic work so that people have more time to think and to create. Once they were friendly but as Ruin came their behaviour changed."
+					},
+					"Translation":
+					{
+						"Text": "Primii Golemi au fost făcuți să facă cea mai monotonă muncă, astfel încât oamenii să aibă mai mult timp să gândească și să creeze. Odată au fost prietenoși, dar pe măsură ce Ruina a venit comportamentul lor s-a schimbat."
+					},
+					"Key": "SoAct1_EG_ArcadeMaintainers_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "There is a difference between how Humans and Golems are transformed by Ruin. Human bodies reach their final form in a few decades but Golems never stop changing. There is always a new, more vicious type."
+					},
+					"Translation":
+					{
+						"Text": "Există o diferență între modul în care Oamenii și Golemii sunt transformate de Ruină. Corpurile umane își ating forma finală în câteva decenii, dar Golemii nu încetează niciodată să se schimbe. Există întotdeauna un tip nou, mai vicios."
+					},
+					"Key": "SoAct3_EG_Act3PipeGroupFirst_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "There was a time when Worms only made damage to fields and gardens. Now they are a bit more ambitious..."
+					},
+					"Translation":
+					{
+						"Text": "A fost o perioadă în care Viermii au făcut pagube doar câmpurilor și grădinilor. Acum sunt un pic mai ambițioși ..."
+					},
+					"Key": "SoAct2_EG_Wormy_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "They spent most of their time on the top of those towers - it was clear to me that they would die there as well."
+					},
+					"Translation":
+					{
+						"Text": "Și-au petrecut cea mai mare parte a timpului în acelor turnuri - mi-a fost clar că vor muri acolo."
+					},
+					"Key": "SoAct1_EG_TowerTrio_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Third Sphere Golem"
+					},
+					"Translation":
+					{
+						"Text": "A Treia Sferă Golem"
+					},
+					"Key": "SoAct2_EG_GolemThird_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "To keep Ruin away dwarves forbade everything related to Ruin's magic. This might have worked in theory but they failed to notice that their mechanical devices were also powered by Ruin."
+					},
+					"Translation":
+					{
+						"Text": "Pentru a ține ruina departe piticii interzis tot ceea ce ține de magia Ruinei. Poate că acest lucru a funcționat în teorie, însă nu au reușit să observe că dispozitivele lor mecanice au fost alimentate și de Ruin."
+					},
+					"Key": "SoAct2_EG_OutpostLeft_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Transformation is relative to intelligence. Creatures with consciousness have a strong desire to reserve their ego. Ruin can fool them a few times but later they become invulnerable to Ruin's changing power."
+					},
+					"Translation":
+					{
+						"Text": "Transformarea este relativă la inteligență. Creaturile cu conștiință au o dorință puternică de a-și rezerva ego-ul. Ruina îi poate păcăli de câteva ori, dar mai târziu devin invulnerabili puterii de schimbare a ruinei."
+					},
+					"Key": "SoAct3_EG_Act3PipeGroupSecond_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Underground Cleaner Band"
+					},
+					"Translation":
+					{
+						"Text": "Banda de Curățare Subterană"
+					},
+					"Key": "SoAct1_EG_SAFightMustHave_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Underground Cleaner Band B"
+					},
+					"Translation":
+					{
+						"Text": "Banda de curățare subterană B"
+					},
+					"Key": "SoAct1_EG_SAFightOptional_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Vacuum Cleaners"
+					},
+					"Translation":
+					{
+						"Text": "Aspiratoare"
+					},
+					"Key": "SoAct1_EG_SewerCircleVacuumCleaners_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Vacuum Cleaners group"
+					},
+					"Translation":
+					{
+						"Text": "Grupul Aspiratoarelor"
+					},
+					"Key": "SoAct1_EG_ArcadeDungeonOptional_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Watching the only way to the Office did not bring enough protection. If any intruder managed to pass the Patrols he still had to face the Guardians to proceed."
+					},
+					"Translation":
+					{
+						"Text": "Urmărirea singurului drum către Birou nu a adus suficientă protecție. Dacă vreun intrus reușea să treacă de Patrule, tot trebuia să se înfrunte cu Gardienii pentru a continua."
+					},
+					"Key": "SoAct2_EG_C_OfficeGuards_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Weird Floating Thing"
+					},
+					"Translation":
+					{
+						"Text": "Ciudat Cucru Plutitor"
+					},
+					"Key": "SoAct2_EG_C_LoneShadeSphere_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Weird Golems"
+					},
+					"Translation":
+					{
+						"Text": "Golemi ciudați"
+					},
+					"Key": "SoAct1_EG_AGTestStoneCircle_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "When Ruin appeared some decided to abandon civilization and return to nature. Their leader, the Fallen Druid cast an ancient spell to protect his plants from Ruin. His spell partly worked but at a terrible cost."
+					},
+					"Translation":
+					{
+						"Text": "Când a apărut Ruin, unii au decis să abandoneze civilizația și să se întoarcă la natură. Liderul lor, Druidul Căzut a aruncat o vrajă străveche pentru a-și proteja plantele de ruină. Vraja lui a funcționat parțial, dar cu un cost teribil."
+					},
+					"Key": "SoAct2_EG_WWBoss_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "When a Golem falls into the lava its stone body will melt away. The spirit however resists the heat and will be looking for another body..."
+					},
+					"Translation":
+					{
+						"Text": "Când un Golem cade în lavă, corpul său de piatră se va topi. Totuși, spiritul rezistă la căldură și va căuta un alt corp ..."
+					},
+					"Key": "SoAct2_EG_LavaJumpers_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "When the Cataclysm happened and Ruin came the Golems started to change. Instead of doing their daily work some of them turned against their masters."
+					},
+					"Translation":
+					{
+						"Text": "Când s-a întâmplat cataclismul și a venit Ruina, Golemii au început să se schimbe. În loc să își facă munca zilnică, unii dintre ei s-au întors împotriva stăpânilor lor."
+					},
+					"Key": "WhiteWall_EG_BeforeKobold_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wherever Golems go after death these three will go there together."
+					},
+					"Translation":
+					{
+						"Text": "Oriunde merg Golemii după moarte, acești trei vor merge acolo împreună."
+					},
+					"Key": "SoAct2_EG_LavaTrio_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Whitewall Cleaners"
+					},
+					"Translation":
+					{
+						"Text": "Curățătorii de la Zidul Alb"
+					},
+					"Key": "WhiteWall_EG_FirstCombat_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Whitewall Maintainers"
+					},
+					"Translation":
+					{
+						"Text": "Întreținătorii de la Zidul Alb"
+					},
+					"Key": "WhiteWall_EG_FirstOptionalCombat_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Whoever made this Golem, he should have stopped after the second try."
+					},
+					"Translation":
+					{
+						"Text": "Cine a făcut acest Golem, ar fi trebuit să se oprească după a doua încercare."
+					},
+					"Key": "SoAct2_EG_GolemThird_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wickeds"
+					},
+					"Translation":
+					{
+						"Text": "Rău"
+					},
+					"Key": "SoAct1_EG_GGMiniBoss_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Worm"
+					},
+					"Translation":
+					{
+						"Text": "Vierme"
+					},
+					"Key": "SoAct2_EG_Wormy_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Worms"
+					},
+					"Translation":
+					{
+						"Text": "Viermi"
+					},
+					"Key": "SoAct2_EG_WormHole_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Worms kept distance from each other before Ruin. It's strange how a force which tears everything apart can also unite."
+					},
+					"Translation":
+					{
+						"Text": "Înainte de Ruinei Viermii țineau distanța unul de altul. Este ciudat cum o forța care distruge totul poate și uni."
+					},
+					"Key": "SoAct2_EG_WormHole_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "You might wonder if a Vacuum Cleaner is designed to clean dust away why does it need a laser caster?"
+					},
+					"Translation":
+					{
+						"Text": "Te-ai putea întreba dacă un aspirator este conceput pentru a curăța praful de ce are nevoie de un laser?"
+					},
+					"Key": "SoAct1_EG_ArcadeDungeonOptional_desc"
+				}
+			]
+		},
+		{
+			"Namespace": "ItemData",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "'According to the very few survivors, White Tower, our capital was completely destroyed by a magical phenomena called Ruin. At that time I was at Grey Gate so I can't tell anything for sure.'\r\n\r\nThe Last Sane Golem Maker, A.C. 16. September 4."
+					},
+					"Translation":
+					{
+						"Text": "„După poveștile a foarte puțini supraviețuitori, Turnul Alb, capitala noastră a fost complet distrusă de un fenomen magic numit Ruin. Pe atunci eram la Poarta Gri, deci nu pot spune nimic sigur.\"\n\nUltimul Creator de Golemi Normal, A.C. 16. 4 Septembrie."
+					},
+					"Key": "MemoryCrystal1_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "'I don't think I can keep up. There are times when I no longer know what I'm doing. I still have clear moments but they become more and more rare. I've recorded my memories to keep them safe.'\r\n\r\nThe Last Sane Golem Maker, about A.C. 500.\r\n"
+					},
+					"Translation":
+					{
+						"Text": "„Nu cred că pot ține pasul. Sunt momente în care nu mai știu ce fac. Încă am momente clare, dar devin din ce în ce mai rare. Mi-am înregistrat amintirile pentru a le păstra în siguranță.\"\n\nUltimul Creator de Golemi Normal, în jur de A.C. 500.\n"
+					},
+					"Key": "MemoryCrystal8_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "'It's hard to tell but I think colours are fading away. The World was brighter before.'\r\n'The Monk won't help me. He stubbornly believes we are doomed.'\r\n\r\nThe Last Sane Golem Maker, A.C. 17. March 11."
+					},
+					"Translation":
+					{
+						"Text": "„Este greu de spus, dar cred că culorile se estompează. Lumea era mai strălucitoare înainte. \"\n„Călugărul nu mă va ajuta. Se încăpățânează să creadă că suntem condamnați.\"\n\nUltimul Creator de Golemi Normal, A.C. 17. 11 Martie."
+					},
+					"Key": "MemoryCrystal3_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "'Madness takes control over those who get too close to Ruin.'\r\n'Maintainers forgot to speak. I understand some of the phrases they try to say: \"Dinner is served\", \"At your service\", \"Your order\" - a mockery of their former intelligence!'\r\n\r\nThe Last Sane Golem Maker, A.C. 21. January 26."
+					},
+					"Translation":
+					{
+						"Text": "„Nebunia preia controlul asupra celor care se apropie prea mult de Ruin.\"\n„Curățătorii au uitat să vorbească. Înțeleg unele dintre frazele pe care încearcă să le spună: „Cina este servită”, „La slujba ta”, „Comanda ta” - o batjocură a fostei lor inteligențe!\"\n\nUltimul Creator de Golemi Normal, A.C. 21. 26 Ianuarie."
+					},
+					"Key": "MemoryCrystal4_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "'Now I have seen it with my own eyes: the touch of the Ruin makes the World literally fall apart.'\r\n\r\nThe Last Sane Golem Maker, A.C. 25. September 4."
+					},
+					"Translation":
+					{
+						"Text": "„Acum am văzut-o cu proprii mei ochi: atingerea Ruinei face ca lumea să cadă literalmente.”\n\nUltimul Creator de Golemi Normal, A.C. 25. 4 Septembrie."
+					},
+					"Key": "MemoryCrystal5_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "'Ruin will soon reach Grey Gate, our very last city. I need to move deeper into the Realm, further away from Ruin.'\r\n'I decided to create some new golems. Golems that resist Ruin.'\r\n\r\nThe Last Sane Golem Maker, A.C. 315. April 8."
+					},
+					"Translation":
+					{
+						"Text": "„Ruina va ajunge în curând la Poarta Gri, chiar ultimul nostru oraș. Trebuie să mă aventurez mai adânc pe tărâm, mai departe de Ruină.\"\n„Am decis să creez câțiva golemi noi. Golemi care rezistă ruinei.\"\n\nUltimul Creator de Golemi Normal, A.C. 315. 8 Aprilie."
+					},
+					"Key": "MemoryCrystal7_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "'This chest and everything inside belongs to me, the Chef.'"
+					},
+					"Translation":
+					{
+						"Text": "„Cufărul acesta și tot ceea ce este înăuntru îmi aparțin mie, Bucătarul.”"
+					},
+					"Key": "Pergamen_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "'This is my 87 birthday. It's obvious that my body doesn't get older with time. How long can I preserve my sanity?'\r\n'Drones can no longer be trusted. They resisted Ruin for the longest.'\r\n\r\nThe Last Sane Golem Maker, A.C. 52. July 9."
+					},
+					"Translation":
+					{
+						"Text": "„Aceasta este ziua mea de 87 de ani. Este evident că corpul meu nu îmbătrânește cu timpul. Cât timp îmi pot păstra sănătatea?\"\n„Dronele nu mai pot fi de încredere. Au rezistat Ruina cel mai mult timp. \"\n\nUltimul Creator de Golemi Normal, A.C. 52. 9 Iulie."
+					},
+					"Key": "MemoryCrystal6_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "'Those who escaped Ruin have... changed.'\r\n'I've met a scientist who noticed how madness takes control over him. Perhaps he can find a solution.'\r\n\r\nThe Last Sane Golem Maker, A.C. 17. January 1."
+					},
+					"Translation":
+					{
+						"Text": "„Cei care au scăpat de Ruina s-au schimbat”.\n„Am întâlnit un om de știință care a observat cum nebunia preia controlul asupra lui. Poate că poate găsi o soluție.\"\n\nUltimul Creator de Golemi Normal, A.C. 17. 1 Ianuarie."
+					},
+					"Key": "MemoryCrystal2_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A fancy iron key with a shiny gem in its grip. It must be really precious."
+					},
+					"Translation":
+					{
+						"Text": "O cheie extravagantă de fier, cu o bijuterie strălucitoare. Trebuie să fie cu adevărat prețioasă."
+					},
+					"Key": "KeyWWPortal_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A key without a proper item description"
+					},
+					"Translation":
+					{
+						"Text": "O cheie fără o descriere corespunzătoare"
+					},
+					"Key": "KeyAADoorNearDungeonExit_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A key without any sign of interest."
+					},
+					"Translation":
+					{
+						"Text": "O cheie fără niciun semn de interes."
+					},
+					"Key": "KeyTLElevatorRoom_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A magical artefact with the following worn text engraved on the back:\r\n\r\nInsert Runestones to ... spells\r\nKeep .... .... children\r\nMade in ....."
+					},
+					"Translation":
+					{
+						"Text": "Un artefact magic cu următorul text gravat pe partea din spate:\n\nIntroduceți Pietrele Rună în ... vrăji\nPăstrați .... .... copii\nFăcut in ....."
+					},
+					"Key": "SpellCaster_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A magical item which gives you the ability to fly... or something like that."
+					},
+					"Translation":
+					{
+						"Text": "Un articol magic care îțî oferă capacitatea de a zbura ... sau ceva de genul."
+					},
+					"Key": "RavenFeather_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A reforged Bronze Key."
+					},
+					"Translation":
+					{
+						"Text": "O cheie de bronz transformată."
+					},
+					"Key": "KeyBronze_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A reforged Copper Key."
+					},
+					"Translation":
+					{
+						"Text": "O cheie de cupru armată."
+					},
+					"Key": "KeyCopper_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A reforged Iron Key."
+					},
+					"Translation":
+					{
+						"Text": "O cheie de fier transformată."
+					},
+					"Key": "KeyIron_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A robust iron key with a carved script: <Bold>'Outer Wall Tower'</>."
+					},
+					"Translation":
+					{
+						"Text": "O cheie robustă de fier cu un text cioplit: <Bold>'Turnul de la zidul exterior'</>."
+					},
+					"Key": "KeyWWWhiteWall_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A shiny green crystal which activates a weight lifting mechanism. At least by the look of it."
+					},
+					"Translation":
+					{
+						"Text": "Un cristal verde strălucitor care activează un mecanism de ridicare a greutății. Cel puțin prin aspectul acesteia."
+					},
+					"Key": "ElevatorGem_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A simple seat of size XXXXXXXXXL"
+					},
+					"Translation":
+					{
+						"Text": "Un scaun simplu de dimensiuni XXXXXXXXXL"
+					},
+					"Key": "GateKeeperSeat_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A simple yet effective weapon. Not too rusty, not too sharp. If someone looks close enough it looks a bit low budget, but the ones looking close enough won't talk about anything anymore, will they?"
+					},
+					"Translation":
+					{
+						"Text": "O armă simplă, dar eficientă. Nu prea ruginită, nu prea ascuțita. Dacă cineva se uit de aproape pare a fi de proastă calitate dar cei care se uită de aproape nu vor mai vorbi mult, nu-i așa?"
+					},
+					"Key": "StraightSword_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A small key you got from a chest in the middle of nowhere."
+					},
+					"Translation":
+					{
+						"Text": "O mică cheie pe care ai primit-o dintr-un cufăr din mijlocul nicăieri."
+					},
+					"Key": "KEYWWSewerCreatureCell_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A small key you got from the Pipe Walkers."
+					},
+					"Translation":
+					{
+						"Text": "O mică cheie pe care ai primit-o de la Mergătorii pe Țevi."
+					},
+					"Key": "KeySASewerCreatureCell_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A small precious blue stone."
+					},
+					"Translation":
+					{
+						"Text": "O mică piatră prețioasă albastră."
+					},
+					"Key": "BlueGem_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A unique stone you can use to prove that you have eliminated a golem."
+					},
+					"Translation":
+					{
+						"Text": "O piatră unică pe care o poți folosi pentru a demonstra că ai eliminat un golem."
+					},
+					"Key": "LavaGolemToken_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A very rare and powerful item which is used for opening a portal into the Unknown Realm. If you gather three and give them to the Wizard he shall set you free."
+					},
+					"Translation":
+					{
+						"Text": "Un articol foarte rar și puternic, care este folosit pentru deschiderea unui portal în Lumea Necunoscută Dacă aduni trei și îi dai vrăjitorului, el te va elibera."
+					},
+					"Key": "Artifact_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A very small key"
+					},
+					"Translation":
+					{
+						"Text": "O cheie foarte mică"
+					},
+					"Key": "KeyMerchant_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "A weird device, most likely one of the inventions of the Secret Science Society."
+					},
+					"Translation":
+					{
+						"Text": "Un dispozitiv ciudat, cel mai probabil una dintre invențiile Societății de Știință Secretă."
+					},
+					"Key": "SecretWeirdDevice_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Abacus"
+					},
+					"Translation":
+					{
+						"Text": "Abac"
+					},
+					"Key": "Abacus_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Absorbs <Blue>30</> magical damage."
+					},
+					"Translation":
+					{
+						"Text": "Absoarbe <Blue>30</> daune magice."
+					},
+					"Key": "RuneStoneBonusHPMagical_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Absorbs <White>30</> physical damage."
+					},
+					"Translation":
+					{
+						"Text": "Absoarbe <Blue>30</> daune fizice."
+					},
+					"Key": "RuneStoneBonusHPPhysical_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "All enemy target becomes <Orange>Slow</> for <Green>3</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "Toate țintele inamice devin <Orange>Încete</> timp de <Green>3</> secunde."
+					},
+					"Key": "RuneStoneMassSlow_level_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Amber Shard"
+					},
+					"Translation":
+					{
+						"Text": "Ciob de Chihlimbar"
+					},
+					"Key": "ShardAmber_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "An ancient crystal people like to buy."
+					},
+					"Translation":
+					{
+						"Text": "Un cristal antic care la oameni le place să îl cumpere."
+					},
+					"Key": "BlueCrystal_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "An ancient paper"
+					},
+					"Translation":
+					{
+						"Text": "O hârtie străveche"
+					},
+					"Key": "AbacusSpellBook_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ancient Temple Key"
+					},
+					"Translation":
+					{
+						"Text": "Cheia Templului Antic"
+					},
+					"Key": "LETempleKey_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Another Key"
+					},
+					"Translation":
+					{
+						"Text": "O altă Cheie"
+					},
+					"Key": "KeySA_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Aqua Shard"
+					},
+					"Translation":
+					{
+						"Text": "Ciob Acvatic"
+					},
+					"Key": "ShardAqua_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Arcade Key"
+					},
+					"Translation":
+					{
+						"Text": "Cheia Arcadei"
+					},
+					"Key": "KeyAADoorNearDungeonExit_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Artifact"
+					},
+					"Translation":
+					{
+						"Text": "Artefact"
+					},
+					"Key": "Artifact_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Axes"
+					},
+					"Translation":
+					{
+						"Text": "Topoare"
+					},
+					"Key": "Axe_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Axes"
+					},
+					"Translation":
+					{
+						"Text": "Topoare"
+					},
+					"Key": "AxeMainGame_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Axes are usefull, but if you don't need them you can just throw them away."
+					},
+					"Translation":
+					{
+						"Text": "Topoarele sunt utile, dar dacă nu îți sunt folositoare le poți arunca."
+					},
+					"Key": "Axe_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Axes are usefull, but if you don't need them you can just throw them away."
+					},
+					"Translation":
+					{
+						"Text": "Topoarele sunt utile, dar dacă nu îți sunt folositoare le poți arunca."
+					},
+					"Key": "AxeMainGame_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bag of the Careful One"
+					},
+					"Translation":
+					{
+						"Text": "Geanta celui atent"
+					},
+					"Key": "TestStoneBag_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Black Shard"
+					},
+					"Translation":
+					{
+						"Text": "Ciob Negru"
+					},
+					"Key": "ShardBlack_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Blue Crystal"
+					},
+					"Translation":
+					{
+						"Text": "Cristal albastru"
+					},
+					"Key": "BlueCrystal_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Blue Gem"
+					},
+					"Translation":
+					{
+						"Text": "Bijuterie Albastră"
+					},
+					"Key": "BlueGem_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Blue Shard"
+					},
+					"Translation":
+					{
+						"Text": "Ciob Albastru"
+					},
+					"Key": "ShardBlue_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bluestone"
+					},
+					"Translation":
+					{
+						"Text": "Piatra Albastră"
+					},
+					"Key": "RuneStoneBonusHPMagical_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bouncestone"
+					},
+					"Translation":
+					{
+						"Text": "Piatra Săriturii"
+					},
+					"Key": "RuneStoneBounce_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Amber Shard"
+					},
+					"Translation":
+					{
+						"Text": "Ciob de Chihlimbar Strălucitor"
+					},
+					"Key": "ShardAmberBright_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Aqua Shard"
+					},
+					"Translation":
+					{
+						"Text": "Ciob Acvatic Strălucitor"
+					},
+					"Key": "ShardAquaBright_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Blue Shard"
+					},
+					"Translation":
+					{
+						"Text": "Ciob Albastru Strălucitor"
+					},
+					"Key": "ShardBlueBright_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Green Shard"
+					},
+					"Translation":
+					{
+						"Text": "Ciob Verde Strălucitor"
+					},
+					"Key": "ShardGreenBright_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Purple Shard"
+					},
+					"Translation":
+					{
+						"Text": "Ciob Violet Strălucitor"
+					},
+					"Key": "ShardPurpleBright_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Red Shard"
+					},
+					"Translation":
+					{
+						"Text": "Ciob Roșu Strălucitor"
+					},
+					"Key": "ShardRedBright_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Silver Shard"
+					},
+					"Translation":
+					{
+						"Text": "Ciob de Argint Luminos"
+					},
+					"Key": "ShardSilverBright_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Teal Shard"
+					},
+					"Translation":
+					{
+						"Text": "Ciob Turcoaz Strălucitor"
+					},
+					"Key": "ShardTealBright_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright White Shard"
+					},
+					"Translation":
+					{
+						"Text": "Ciob Alb Strălucitor"
+					},
+					"Key": "ShardWhiteBright_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Yellow Shard"
+					},
+					"Translation":
+					{
+						"Text": "Ciob Galben Strălucitor"
+					},
+					"Key": "ShardYellowBright_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bronze Key"
+					},
+					"Translation":
+					{
+						"Text": "Cheia de bronz"
+					},
+					"Key": "KeyBronze_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cage Key"
+					},
+					"Translation":
+					{
+						"Text": "Cheia Coliviei"
+					},
+					"Key": "LEKeyCage_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Catacomb Key"
+					},
+					"Translation":
+					{
+						"Text": "Cheia Catacombei"
+					},
+					"Key": "KeyDCMainOut_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chancestone"
+					},
+					"Translation":
+					{
+						"Text": "Piatra de Șanse"
+					},
+					"Key": "SecondChance_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cooldown recharge speed is increased by <Blue>20%</>."
+					},
+					"Translation":
+					{
+						"Text": "Viteza de reîncărcare este crescută cu <Blue>20%</>."
+					},
+					"Key": "ShardAqua_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cooldown recharge speed is increased by <Blue>40%</>."
+					},
+					"Translation":
+					{
+						"Text": "Viteza de reîncărcare este crescută cu <Blue>40%</>."
+					},
+					"Key": "ShardAquaBright_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Copper Key"
+					},
+					"Translation":
+					{
+						"Text": "Cheie de cupru"
+					},
+					"Key": "KeyCopper_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Decreases the incoming <Blue>Magical Damage</> by <Blue>20%.</>"
+					},
+					"Translation":
+					{
+						"Text": "Scade <Blue>Daunele Magice</> primite cu <Blue>20%.</>"
+					},
+					"Key": "ShardBlue_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Decreases the incoming <Blue>Magical Damage</> by <Blue>30%.</>"
+					},
+					"Translation":
+					{
+						"Text": "Descrește <Blue>Vătămarea Magică</> primită cu <Blue>30%.</>"
+					},
+					"Key": "ShardBlueBright_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Decreases the incoming <White>Physical Damage</> by <White>20%.</>"
+					},
+					"Translation":
+					{
+						"Text": "Diminuează <White>Daunele Fizice</> cu <White>20%.</>"
+					},
+					"Key": "ShardSilver_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Decreases the incoming <White>Physical Damage</> by <White>30%.</>"
+					},
+					"Translation":
+					{
+						"Text": "Descrește <White>Vătămarea Fizică</> primită cu <White>30%.</>"
+					},
+					"Key": "ShardSilverBright_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Degeneration and mutation"
+					},
+					"Translation":
+					{
+						"Text": "Degenerare și Mutație"
+					},
+					"Key": "MemoryCrystal2_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Demon Sword"
+					},
+					"Translation":
+					{
+						"Text": "Sabia Demonului"
+					},
+					"Key": "DemonSword_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you really read the key descriptions?"
+					},
+					"Translation":
+					{
+						"Text": "Citești cu adevărat descrierile cheilor?"
+					},
+					"Key": "KeyOutpostWall_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Does it really work? You will find out soon..."
+					},
+					"Translation":
+					{
+						"Text": "Chiar funcționează? Vei afla în curând ..."
+					},
+					"Key": "KeyMerchant_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Double Sword"
+					},
+					"Translation":
+					{
+						"Text": "Sabia Dublă"
+					},
+					"Key": "DualBlade_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Each melee strike has a <Yellow>10%</> chance to <Yellow>Stun</> the target."
+					},
+					"Translation":
+					{
+						"Text": "Fiecare lovitură la corp are o șansă de <Yellow>10%</> să <Yellow>Amețească</> ținta."
+					},
+					"Key": "ShardYellow_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Each melee strike has a <Yellow>20%</> chance to <Yellow>Stun</> the target."
+					},
+					"Translation":
+					{
+						"Text": "Fiecare lovitură la corp are o șansă de <Yellow>20%</> să <Yellow>Amețească</> ținta."
+					},
+					"Key": "ShardYellowBright_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Each melee strike has an additional <Yellow>10%</> chance to cause a critical hit, causing <Green>200%</> of your normal weapon damage."
+					},
+					"Translation":
+					{
+						"Text": "Fiecare atac cu arme are o șansă în plus de <Yellow>10%</> să cauzeze un atac critic de <Green>200%</> din vătămarea normală a armei tale."
+					},
+					"Key": "ShardAmber_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Each melee strike has an additional <Yellow>20%</> chance to cause a critical hit, causing <Green>200%</> of your normal weapon damage."
+					},
+					"Translation":
+					{
+						"Text": "Fiecare lovitură la corp are o șansă suplimentară de <Yellow>20%</> de a provoca o lovitură critică, provocând <Green>200%</> din atacul normal al armei."
+					},
+					"Key": "ShardAmberBright_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Each time an enemy hits you with a melee strike it suffers the same damage."
+					},
+					"Translation":
+					{
+						"Text": "De fiecare dată când un inamic te lovește cu o lovitură la corp suferă aceeași pagubă."
+					},
+					"Key": "ShardTeal_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Each time an enemy hits you, it suffers <Green>200%</> of the damage."
+					},
+					"Translation":
+					{
+						"Text": "De fiecare dată când un inamic te lovește, suferă <Green>200%</> din pagube."
+					},
+					"Key": "ShardTealBright_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Each time you cast a charge based spell you have a <Purple>25%</> chance to regain the charge."
+					},
+					"Translation":
+					{
+						"Text": "De fiecare dată când arunci o vrajă cu încărcare ai o șansă de <Purple>25%</> să obții o reîncărcare."
+					},
+					"Key": "ShardPurple_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Each time you cast a charge based spell you have a <Purple>50%</> chance to regain the charge."
+					},
+					"Translation":
+					{
+						"Text": "De fiecare dată când arunci o vrajă cu încărcare ai o șansă de <Purple>50%</> să obții o reîncărcare."
+					},
+					"Key": "ShardPurpleBright_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Eastern Key"
+					},
+					"Translation":
+					{
+						"Text": "Cheia de Est"
+					},
+					"Key": "KeyAGPortalFight_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Elevator Crystal"
+					},
+					"Translation":
+					{
+						"Text": "Cristalul de la Lift"
+					},
+					"Key": "ElevatorLeverCrystal_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Elevator Gem"
+					},
+					"Translation":
+					{
+						"Text": "Bijuteria de la Lift"
+					},
+					"Key": "ElevatorGem_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Elite Soulstone"
+					},
+					"Translation":
+					{
+						"Text": "Piatra de Elită al Sufletului"
+					},
+					"Key": "RuneStoneSoulkeeperInfinite_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.5x</> damage for <Green>5</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "Farmecă arma activă - cauzează <Green>0.5x</> daune adiționale pentru <Green>5</> secunde."
+					},
+					"Key": "RuneStoneWeaponFlame_level_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.5x</><YellowH>(→0.6x)</> damage for <Green>5</> seconds. <YellowH>Each strike has a</> <GreenH>15%</> <YellowH>chance to apply </><DarkGreenH>Poison</><YellowH>, causing an additional</> <BlueH>18</> <YellowH>damage over</> <GreenH>6</> <YellowH>seconds.</>"
+					},
+					"Translation":
+					{
+						"Text": "Farmecă arma activă - cauzează <Green>0.5x</><YellowH>(→0.6x)</> daune adiționale pentru <Green>5</> secunde. <YellowH>Fiecare lovitură are o șansă de</> <Green>15%</> <YellowH>să aplice</> <DarkGreen>Otravă</>, <YellowH>cauzând</> <Blue>18</> <YellowH>daune adiționale timp de</> <Green>6</> <YellowH>secunde.</>"
+					},
+					"Key": "RuneStoneWeaponFlame_level_up_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.6x</> damage for <Green>5</> seconds. Each strike has a <Green>15%</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>18</> damage over <Green>6</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "Farmecă arma activă - cauzează <Green>0.6x</> daune adiționale pentru <Green>5</> secunde. Fiecare lovitură are o șansă de <Green>15%</> să aplice <DarkGreen>Otravă</>, cauzând <Blue>18</> daune adiționale timp de <Green>6</> secunde."
+					},
+					"Key": "RuneStoneWeaponFlame_level_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.6x</><YellowH>(→0.7x)</> damage for <Green>5</><YellowH>(→6)</> seconds. Each strike has a <Green>15%</><YellowH>(→20%)</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>18</><YellowH>(→24)</> damage over <Green>6</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "Farmecă arma activă - cauzează <Green>0.6x</><YellowH>(→0.7x)</> daune adiționale pentru <Green>5</><YellowH>(→6)</> secunde. Fiecare lovitură are o șansă de <Green>15%</><YellowH>(→20%)</> să aplice <DarkGreen>Otravă</>, cauzând <Blue>18</><YellowH>(→24)</> daune adiționale timp de <Green>6</> secunde."
+					},
+					"Key": "RuneStoneWeaponFlame_level_up_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.7x</> damage for <Green>6</> seconds. Each strike has a <Green>20%</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>24</> damage over <Green>6</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "Farmecă arma activă - cauzează <Green>0.7x</> daune adiționale pentru <Green>6</> secunde. Fiecare lovitură are o șansă de <Green>20%</> să aplice <DarkGreen>Otravă</>, cauzând <Blue>24</> daune adiționale timp de <Green>6</> secunde."
+					},
+					"Key": "RuneStoneWeaponFlame_level_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.7x</><YellowH>(→0.8x)</> damage for <Green>6</> seconds. Each strike has a <Green>20%</><YellowH>(→25%)</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>24</><YellowH>(→30)</> damage over <Green>6</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "Farmecă arma activă - cauzează <Green>0.7x</><YellowH>(→0.8x)</> daune adiționale pentru <Green>6</> secunde. Fiecare lovitură are o șansă de <Green>20%</><YellowH>(→25%)</> să aplice <DarkGreen>Otravă</>, cauzând <Blue>24</><YellowH>(→30)</> daune adiționale timp de <Green>6</> secunde."
+					},
+					"Key": "RuneStoneWeaponFlame_level_up_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.8x</> damage for <Green>6</> seconds. Each strike has a <Green>25%</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>30</> damage over <Green>6</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "Farmecă arma activă - cauzează <Green>0.8x</> daune adiționale pentru <Green>6</> secunde. Fiecare lovitură are o șansă de <Green>25%</> să aplice <DarkGreen>Otravă</>, cauzând <Blue>30</> daune adiționale timp de <Green>6</> secunde."
+					},
+					"Key": "RuneStoneWeaponFlame_level_desc_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.8x</><YellowH>(→0.9x)</> damage for <Green>6</> seconds. Each strike has a <Green>25%</><YellowH>(→30%)</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>30</><YellowH>(→36)</> damage over <Green>6</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "Farmecă arma activă - cauzează <Green>0.8x</><YellowH>(→0.9x)</> daune adiționale pentru <Green>6</> secunde. Fiecare lovitură are o șansă de <Green>25%</><YellowH>(→30%)</> să aplice <DarkGreen>Otravă</>, cauzând <Blue>30</><YellowH>(→36)</> daune adiționale timp de <Green>6</> secunde."
+					},
+					"Key": "RuneStoneWeaponFlame_level_up_desc_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.9x</> damage for <Green>6</> seconds. Each strike has a <Green>30%</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>36</> damage over <Green>6</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "Farmecă arma activă - cauzează <Green>0.9x</> daune adiționale pentru <Green>6</> secunde. Fiecare lovitură are o șansă de <Green>30%</> să aplice <DarkGreen>Otravă</>, cauzând <Blue>36</> daune adiționale timp de <Green>6</> secunde."
+					},
+					"Key": "RuneStoneWeaponFlame_level_desc_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon with green flames - it causes an additional 0.3x damage for 4 seconds."
+					},
+					"Translation":
+					{
+						"Text": "Farmecă arma activă cu o flacără verde - cauzează 0.3x daune adiționale pentru 4 secunde."
+					},
+					"Key": "RuneStoneWeaponFlame_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Energystone"
+					},
+					"Translation":
+					{
+						"Text": "Piatra Energiei"
+					},
+					"Key": "RuneStoneEnergy_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Every time an enemy hits you with a melee strike or overlaps you it is turned into a boot for a short time."
+					},
+					"Translation":
+					{
+						"Text": "De fiecare dată când un inamic te lovește sau te suprapune, acesta este transformat într-o gheată pentru o scurtă perioadă de timp."
+					},
+					"Key": "ShardBlack_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Everything, except an Abacus"
+					},
+					"Translation":
+					{
+						"Text": "Totul, cu excepția unui Abacus"
+					},
+					"Key": "All_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fading Colours"
+					},
+					"Translation":
+					{
+						"Text": "Culori Decolorate"
+					},
+					"Key": "MemoryCrystal3_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Falling Apart"
+					},
+					"Translation":
+					{
+						"Text": "Se destramă"
+					},
+					"Key": "MemoryCrystal5_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Final Decision"
+					},
+					"Translation":
+					{
+						"Text": "Decizia finală"
+					},
+					"Key": "MemoryCrystal8_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Firestone"
+					},
+					"Translation":
+					{
+						"Text": "Piatră de Foc"
+					},
+					"Key": "RuneStoneFire0_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "First Sabre of Rangol"
+					},
+					"Translation":
+					{
+						"Text": "Primul Paloș al lui Rangol"
+					},
+					"Key": "Sabre_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Flower acquired from a fountain."
+					},
+					"Translation":
+					{
+						"Text": "Floare dobândită dintr-o fântână."
+					},
+					"Key": "FountainFlower_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fountain Flower"
+					},
+					"Translation":
+					{
+						"Text": "Fântână cu Flori"
+					},
+					"Key": "FountainFlower_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ghost Abacus"
+					},
+					"Translation":
+					{
+						"Text": "Abacul Fantomă"
+					},
+					"Key": "AbacusGhost_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ghost Petals"
+					},
+					"Translation":
+					{
+						"Text": "Petale Fantomă"
+					},
+					"Key": "AbacusGhostFlower_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Giant Seat"
+					},
+					"Translation":
+					{
+						"Text": "Scaun Gigant"
+					},
+					"Key": "GateKeeperSeat_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>2</> <YellowH>(→4)</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "Acordă capacitatea de a merge prin inamici timp de <Green>2</> <YellowH>(→4)</> secunde."
+					},
+					"Key": "RuneStoneShadowWalk_level_up_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>2</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "Acordă capacitatea de a merge prin inamici timp de <Green>2</> secunde."
+					},
+					"Key": "RuneStoneShadowWalk_level_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>2</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "Acordă capacitatea de a merge prin inamici timp de <Green>2</> secunde."
+					},
+					"Key": "RuneStoneShadowWalk_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>4</> <YellowH>(→5)</> seconds. Your magical resistance is increased by <Green>0.2</> <YellowH>(→0.3).</>"
+					},
+					"Translation":
+					{
+						"Text": "Acordă capacitatea de a merge prin inamici timp de <Green>4</> <YellowH>(→5)</> secunde. Rezistența magică este crescută cu <Green>0.2</> <YellowH>(→0.3).</>"
+					},
+					"Key": "RuneStoneShadowWalk_level_up_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>4</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "Acordă capacitatea de a merge prin inamici timp de <Green>4</> secunde."
+					},
+					"Key": "RuneStoneShadowWalk_level_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>4</> seconds. <YellowH>Your magical resistance is increased by</> <GreenH>0.2.</>"
+					},
+					"Translation":
+					{
+						"Text": "Acordă capacitatea de a merge prin inamici timp de <Green>4</> secunde. <YellowH> Rezistența magică este crescută cu</> <Green>0.2.</>"
+					},
+					"Key": "RuneStoneShadowWalk_level_up_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>4</> seconds. Your magical resistance is increased by <Green>0.2.</>"
+					},
+					"Translation":
+					{
+						"Text": "Acordă capacitatea de a merge prin inamici timp de <Green>4</> secunde. Rezistența magică este crescută cu <Green>0.2.</>"
+					},
+					"Key": "RuneStoneShadowWalk_level_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>5</> seconds. Your magical resistance is increased by <Green>0.3.</>"
+					},
+					"Translation":
+					{
+						"Text": "Acordă capacitatea de a merge prin inamici timp de <Green>5</> secunde. Rezistența magică este crescută cu <Green>0.3.</>"
+					},
+					"Key": "RuneStoneShadowWalk_level_desc_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>2</> sec. The shock causes <Blue>10</> damage."
+					},
+					"Translation":
+					{
+						"Text": "Oferă abilitatea șocantă de a merge prin inamici pentru <Green>2</> secunde. Șocul cauzează <Blue>10</> daune."
+					},
+					"Key": "RuneStoneLightningWalk_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>2</> sec. The shock causes <Blue>16</> damage."
+					},
+					"Translation":
+					{
+						"Text": "Oferă abilitatea șocantă de a merge prin inamici pentru <Green>2</> secunde. Șocul cauzează <Blue>16</> daune."
+					},
+					"Key": "RuneStoneLightningWalk_level_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>2</><YellowH>(→3)</> sec. The shock causes <Blue>16</> <YellowH>(→28)</>damage."
+					},
+					"Translation":
+					{
+						"Text": "Oferă abilitatea șocantă de a merge prin inamici pentru <Green>2</><YellowH>(→3)</> secunde. Șocul cauzează <Blue>16</><YellowH>(→28)</> daune."
+					},
+					"Key": "RuneStoneLightningWalk_level_up_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>3</> sec. The shock causes <Blue>28</> damage."
+					},
+					"Translation":
+					{
+						"Text": "Oferă abilitatea șocantă de a merge prin inamici pentru <Green>3</> secunde. Șocul cauzează <Blue>28</> daune."
+					},
+					"Key": "RuneStoneLightningWalk_level_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>3</><YellowH>(→4)</> sec. The shock causes <Blue>28</> <YellowH>(→36)</>damage <YellowH>and has a </><GreenH>30%</> <YellowH>chance to stun the target.</>"
+					},
+					"Translation":
+					{
+						"Text": "Oferă abilitatea șocantă de a merge prin inamici pentru <Green>3</><YellowH>(→4)</> secunde. Șocul cauzează <Blue>28</><YellowH>(→36)</> daune <YellowH>și are o șansă de </><Green>30%</> <Yellow>de a Ameți ținta.</>"
+					},
+					"Key": "RuneStoneLightningWalk_level_up_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>4</> sec. The shock causes <Blue>32</> damage and has a <Green>30%</> <YellowH>(→40%)</> chance to <Yellow>stun</> the target."
+					},
+					"Translation":
+					{
+						"Text": "Oferă abilitatea șocantă de a merge prin inamici pentru <Green>4</> secunde. Șocul cauzează <Blue>32</> daune și are o șansă de <Green>30%</><YellowH>(→40%)</> de a <Yellow>Ameți</> ținta."
+					},
+					"Key": "RuneStoneLightningWalk_level_up_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>4</> sec. The shock causes <Blue>32</> damage and has a <Green>30%</> chance to <Yellow>stun</> the target."
+					},
+					"Translation":
+					{
+						"Text": "Oferă abilitatea șocantă de a merge prin inamici pentru <Green>4</> secunde. Șocul cauzează <Blue>32</> daune și are o șansă de <Green>30%</> de a <Yellow>Ameți</> ținta."
+					},
+					"Key": "RuneStoneLightningWalk_level_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>4</> sec. The shock causes <Blue>32</> damage and has a <Green>40%</> chance to <Yellow>stun</> the target."
+					},
+					"Translation":
+					{
+						"Text": "Oferă abilitatea șocantă de a merge prin inamici pentru <Green>4</> secunde. Șocul cauzează <Blue>32</> daune și are o șansă de <Green>40%</> de a <Yellow>Ameți</> ținta."
+					},
+					"Key": "RuneStoneLightningWalk_level_desc_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Graystone"
+					},
+					"Translation":
+					{
+						"Text": "Piatra Gri"
+					},
+					"Key": "RuneStoneBonusHPPhysical_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Green Flamestone"
+					},
+					"Translation":
+					{
+						"Text": "Piatra Verde de Flacără"
+					},
+					"Key": "RuneStoneWeaponFlame_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Green Shard"
+					},
+					"Translation":
+					{
+						"Text": "Ciob Verde"
+					},
+					"Key": "ShardGreen_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Half Bronze Key"
+					},
+					"Translation":
+					{
+						"Text": "Cheie pe Jumătate din Bronz"
+					},
+					"Key": "KeyPiecesBronze0_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Half Copper Key"
+					},
+					"Translation":
+					{
+						"Text": "Cheie pe jumătate din Cupru"
+					},
+					"Key": "KeyPiecesCopper0_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Half Iron Key"
+					},
+					"Translation":
+					{
+						"Text": "Cheie pe jumătate din Fier"
+					},
+					"Key": "KeyPiecesIron0_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Half of a broken Bronze Key"
+					},
+					"Translation":
+					{
+						"Text": "Jumătate dintr-o cheie de Bronz Spartă"
+					},
+					"Key": "KeyPiecesBronze0_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Half of a broken Copper Key"
+					},
+					"Translation":
+					{
+						"Text": "Jumătate dintr-o Cheie de Cupru spartă"
+					},
+					"Key": "KeyPiecesCopper0_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Half of a broken Iron Key"
+					},
+					"Translation":
+					{
+						"Text": "Jumătate dintr-o cheie de Fier spartă"
+					},
+					"Key": "KeyPiecesIron0_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Healstone"
+					},
+					"Translation":
+					{
+						"Text": "Piatra Vindecării"
+					},
+					"Key": "RuneStoneHeal_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "I would rather sleep, but the item descriptions won't write themselves."
+					},
+					"Translation":
+					{
+						"Text": "Aș prefera să dorm, dar descrierile articolelor nu se vor scrie singure."
+					},
+					"Key": "KeyOutpostWallOptional_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "If someone would fail in cutting his/her/its way out of a hard situation, crushing your way through can still work out pretty well - it is said to be more effective if golems or certain mechanical devices / creatures are involved in the conflict."
+					},
+					"Translation":
+					{
+						"Text": "Dacă cineva nu reușește să-și taie drumul dintr-o situație grea, zdrobirea drumului tău poate totuși să funcționeze destul de bine - se spune că este mai eficient dacă în conflict sunt implicați Golemi sau anumite dispozitive / creaturi mecanice."
+					},
+					"Key": "LeafMace_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "In case of trouble, it's better to have double."
+					},
+					"Translation":
+					{
+						"Text": "În caz de probleme, este mai bine să ai dublu."
+					},
+					"Key": "DualBlade_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Increases the attack speed by <Green>20%</>"
+					},
+					"Translation":
+					{
+						"Text": "Crește viteza de atac cu <Green>20%</>"
+					},
+					"Key": "ShardGreen_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Increases the attack speed by <Green>30%</>"
+					},
+					"Translation":
+					{
+						"Text": "Crește viteza de atac cu <Green>30%</>"
+					},
+					"Key": "ShardGreenBright_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Increases your damage by <Green>20%</>"
+					},
+					"Translation":
+					{
+						"Text": "Mărește-ți daunele cu <Green>20%</>"
+					},
+					"Key": "ShardWhite_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Increases your damage by <Green>30%</>."
+					},
+					"Translation":
+					{
+						"Text": "Mărește-ți daunele cu <Green>30%</>."
+					},
+					"Key": "ShardWhiteBright_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Iron Key"
+					},
+					"Translation":
+					{
+						"Text": "Cheia de fier"
+					},
+					"Key": "KeyIron_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "It will open a gate somewhere. Probably."
+					},
+					"Translation":
+					{
+						"Text": "Va deschide undeva o poartă. Probabil."
+					},
+					"Key": "KeyWWFirstGate_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Just an old, rusty iron key without a proper item description"
+					},
+					"Translation":
+					{
+						"Text": "Doar o cheie de fier vechi, ruginită, fără o descriere corespunzătoare a articolului"
+					},
+					"Key": "KeyDCMainOut_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Just another key."
+					},
+					"Translation":
+					{
+						"Text": "Doar o altă cheie."
+					},
+					"Key": "KeyAGPortalFight_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Key Of The Outpost Wall"
+					},
+					"Translation":
+					{
+						"Text": "Cheia Zidului Avanpostului"
+					},
+					"Key": "KeyOutpostWall_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Key Of The Room Below"
+					},
+					"Translation":
+					{
+						"Text": "Cheia camerei de mai jos"
+					},
+					"Key": "KeyCatacombs0_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Key of Something"
+					},
+					"Translation":
+					{
+						"Text": "Cheia a Ceva"
+					},
+					"Key": "KeyAAMainFirstDoor_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Kitchen Key"
+					},
+					"Translation":
+					{
+						"Text": "Cheia Bucătăriei"
+					},
+					"Key": "DOKitchenKey_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Kobold Coins"
+					},
+					"Translation":
+					{
+						"Text": "Monede Kobold"
+					},
+					"Key": "KoboldCoin_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Kobold Soup"
+					},
+					"Translation":
+					{
+						"Text": "Supă de Kobold"
+					},
+					"Key": "KoboldPotion_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leaf Mace"
+					},
+					"Translation":
+					{
+						"Text": "Buzduganul Frunză"
+					},
+					"Key": "LeafMace_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lightningstone"
+					},
+					"Translation":
+					{
+						"Text": "Piatra Fulgerului"
+					},
+					"Key": "RuneStoneLightningWalk_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lock Gem"
+					},
+					"Translation":
+					{
+						"Text": "Bijuteria Inchuietoarei"
+					},
+					"Key": "PortalGem_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Looks like there are tons of these"
+					},
+					"Translation":
+					{
+						"Text": "Se pare că există o gramadă de acestea"
+					},
+					"Key": "KeySA_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Madness"
+					},
+					"Translation":
+					{
+						"Text": "Nebunie"
+					},
+					"Key": "MemoryCrystal4_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Magical Phenomena"
+					},
+					"Translation":
+					{
+						"Text": "Fenomene Magice"
+					},
+					"Key": "MemoryCrystal1_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Master Key"
+					},
+					"Translation":
+					{
+						"Text": "Cheia principală"
+					},
+					"Key": "KeyMaster_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Maybe it was a bit too much?"
+					},
+					"Translation":
+					{
+						"Text": "Poate a fost un pic prea mult?"
+					},
+					"Key": "All_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Meteorstone"
+					},
+					"Translation":
+					{
+						"Text": "Piatra Meteoritului"
+					},
+					"Key": "RuneStoneMeteorShower_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "New Hope"
+					},
+					"Translation":
+					{
+						"Text": "Speranța Nouă"
+					},
+					"Key": "MemoryCrystal7_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Old books"
+					},
+					"Translation":
+					{
+						"Text": "Cărți vechi"
+					},
+					"Key": "LoryBooks_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "One of the first greatest inventions of humans. Because they envied balls for their rolling skill."
+					},
+					"Translation":
+					{
+						"Text": "Una dintre primele mari invenții ale oamenilor. Pentru că au invidiat bile pentru abilitatea lor de rostogolire."
+					},
+					"Key": "Wheel_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Parchment"
+					},
+					"Translation":
+					{
+						"Text": "Pergament"
+					},
+					"Key": "Pergamen_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Petals of a ghost flower."
+					},
+					"Translation":
+					{
+						"Text": "Petale ale unei flori fantomă."
+					},
+					"Key": "AbacusGhostFlower_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Portal Key"
+					},
+					"Translation":
+					{
+						"Text": "Cheia Portalului"
+					},
+					"Key": "KeyWWPortal_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Potion Of Worthiness"
+					},
+					"Translation":
+					{
+						"Text": "Poțiune Demnității"
+					},
+					"Key": "PotionOfWorthiness_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Preservation of Ruin"
+					},
+					"Translation":
+					{
+						"Text": "Conservarea ruinei"
+					},
+					"Key": "MemoryCrystal6_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Prevents death."
+					},
+					"Translation":
+					{
+						"Text": "Previne moartea."
+					},
+					"Key": "SecondChance_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>18</> damage <YellowH>and applies Stun on the target.</>"
+					},
+					"Translation":
+					{
+						"Text": "Oferă capacitatea de a sări de la dușmani pentru<Green>16</> secunde. A face acest lucru cauzează<Blue>18</> daune <Yellow>și Amețește ținta.</>"
+					},
+					"Key": "RuneStoneBounce_level_up_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>18</> damage and applies <Yellow>Stun</> on the target."
+					},
+					"Translation":
+					{
+						"Text": "Oferă capacitatea de a sări de la dușmani pentru<Green>16</> secunde. A face acest lucru cauzează<Blue>18</> daune și <Yellow>Amețește</> ținta."
+					},
+					"Key": "RuneStoneBounce_level_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>18</> damage to the target."
+					},
+					"Translation":
+					{
+						"Text": "Oferă capacitatea de a sări de la dușmani pentru<Green>16</> secunde. A face acest lucru cauzează<Blue>18</> daune țintei."
+					},
+					"Key": "RuneStoneBounce_level_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>18</><YellowH>(→24)</> damage and applies <Yellow>Stun</> on the target."
+					},
+					"Translation":
+					{
+						"Text": "Oferă capacitatea de a sări de la dușmani pentru<Green>16</> secunde. A face acest lucru cauzează<Blue>18</><YellowH>(→24)</> daune și <Yellow>Amețește</> ținta."
+					},
+					"Key": "RuneStoneBounce_level_up_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>24</> damage and applies <Yellow>Stun</> on the target."
+					},
+					"Translation":
+					{
+						"Text": "Oferă capacitatea de a sări de la dușmani pentru<Green>16</> secunde. A face acest lucru cauzează<Blue>24</> daune și <Yellow>Amețește</> ținta."
+					},
+					"Key": "RuneStoneBounce_level_desc_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>24</><YellowH>(→30)</> damage and applies <Yellow>Stun</> on the target."
+					},
+					"Translation":
+					{
+						"Text": "Oferă capacitatea de a sări de la dușmani pentru<Green>16</> secunde. A face acest lucru cauzează<Blue>24</><YellowH>(→30)</> daune și <Yellow>Amețește</> ținta."
+					},
+					"Key": "RuneStoneBounce_level_up_desc_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>30</> damage and applies <Yellow>Stun</> on the target."
+					},
+					"Translation":
+					{
+						"Text": "Oferă capacitatea de a sări de la dușmani pentru<Green>16</> secunde. A face acest lucru cauzează<Blue>30</> daune și <Yellow>Amețește</> ținta."
+					},
+					"Key": "RuneStoneBounce_level_desc_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>8</> seconds. Doing so causes <Blue>12</> damage to the target."
+					},
+					"Translation":
+					{
+						"Text": "Oferă capacitatea de a sări de la dușmani pentru<Green>8</> secunde. A face acest lucru cauzează<Blue>12</> daune țintei."
+					},
+					"Key": "RuneStoneBounce_level_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>8</> seconds. Doing so causes <Blue>12</> damage to the target."
+					},
+					"Translation":
+					{
+						"Text": "Oferă capacitatea de a sări de la dușmani pentru<Green>8</> secunde. A face acest lucru cauzează<Blue>12</> daune țintei."
+					},
+					"Key": "RuneStoneBounce_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>8</><YellowH>(→16)</> seconds. Doing so causes <Blue>12</><YellowH>(→18)</> damage to the target."
+					},
+					"Translation":
+					{
+						"Text": "Oferă capacitatea de a sări de la dușmani pentru<Green>8</><YellowH>(→16)</> secunde. A face acest lucru cauzează<Blue>12</><YellowH>(→18)</> daune țintei."
+					},
+					"Key": "RuneStoneBounce_level_up_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Purple Mushrooms"
+					},
+					"Translation":
+					{
+						"Text": "Ciuperci Violet"
+					},
+					"Key": "PurpleMushroom_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Purple Shard"
+					},
+					"Translation":
+					{
+						"Text": "Ciob Violet"
+					},
+					"Key": "ShardPurple_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Railway Gate Key"
+					},
+					"Translation":
+					{
+						"Text": "Cheia porții de cale ferată"
+					},
+					"Key": "KeyWWFirstGate_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rangol was a legendary blacksmith who practiced his crafting art for a hundred years. This sabre was made on day one."
+					},
+					"Translation":
+					{
+						"Text": "Rangol a fost un fierar legendar care și-a practicat arta meșteșugărească timp de o sută de ani. Această sabie a fost realizat în prima zi."
+					},
+					"Key": "Sabre_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Raven Feather"
+					},
+					"Translation":
+					{
+						"Text": "Pana de Corb"
+					},
+					"Key": "RavenFeather_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Red Shard"
+					},
+					"Translation":
+					{
+						"Text": "Ciob Roșu"
+					},
+					"Key": "ShardRed_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Regenerates all other spell charges."
+					},
+					"Translation":
+					{
+						"Text": "Regenerează toate încărcările de vrajă."
+					},
+					"Key": "RuneStoneSpellRegain_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Restores <Green>30</> health points."
+					},
+					"Translation":
+					{
+						"Text": "Restaurează <Green>30</> de punte de viață."
+					},
+					"Key": "RuneStoneHeal_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rope"
+					},
+					"Translation":
+					{
+						"Text": "Funie"
+					},
+					"Key": "Rope_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rusty Key"
+					},
+					"Translation":
+					{
+						"Text": "Cheia Ruginită"
+					},
+					"Key": "WWBossShipLock_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rusty key of a rusty lock."
+					},
+					"Translation":
+					{
+						"Text": "Cheia ruginită a unei încuietori ruginite."
+					},
+					"Key": "WWBossShipLock_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Scroll of Surrection"
+					},
+					"Translation":
+					{
+						"Text": "Sulul Învierii"
+					},
+					"Key": "AbacusSpellBook_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Second Key Of The Outpost Wall"
+					},
+					"Translation":
+					{
+						"Text": "A doua Cheie a Peretelui Avanpostului"
+					},
+					"Key": "KeyOutpostWallOptional_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shadestone"
+					},
+					"Translation":
+					{
+						"Text": "Piatră de Umbră"
+					},
+					"Key": "RuneStoneShadowWalk_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Shard"
+					},
+					"Translation":
+					{
+						"Text": "Ciob Argintiu"
+					},
+					"Key": "ShardSilver_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Slows all enemy targets around the caster."
+					},
+					"Translation":
+					{
+						"Text": "Încetinește toate țintele inamice din jurul tău."
+					},
+					"Key": "RuneStoneMassSlow_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Slowstone"
+					},
+					"Translation":
+					{
+						"Text": "Piatra Lentă"
+					},
+					"Key": "RuneStoneMassSlow_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Small Cell Key"
+					},
+					"Translation":
+					{
+						"Text": "Cheie pentru o Celulă Mică"
+					},
+					"Key": "KeySASewerCreatureCell_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Small Cell Key"
+					},
+					"Translation":
+					{
+						"Text": "Cheie pentru o Celulă Mică"
+					},
+					"Key": "KEYWWSewerCreatureCell_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Some Coins you found in a chest."
+					},
+					"Translation":
+					{
+						"Text": "Niște monede pe care le-ai găsit într-un cufăr."
+					},
+					"Key": "KoboldCoin_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sometimes the lock is harder to find than the key."
+					},
+					"Translation":
+					{
+						"Text": "Uneori, încuietoarea este mai greu de găsit decât cheia."
+					},
+					"Key": "KeyAAMainFirstDoor_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Soulstone"
+					},
+					"Translation":
+					{
+						"Text": "Piatra Sufletului"
+					},
+					"Key": "RuneStoneSoulkeeper_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spellcaster"
+					},
+					"Translation":
+					{
+						"Text": "Articol de făcut Vrăji"
+					},
+					"Key": "SpellCaster_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spiritstone"
+					},
+					"Translation":
+					{
+						"Text": "Piatra Spiritului"
+					},
+					"Key": "RuneStoneSpellRegain_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Stone Token"
+					},
+					"Translation":
+					{
+						"Text": "Jeton de Piatră"
+					},
+					"Key": "LavaGolemToken_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Straight Sword"
+					},
+					"Translation":
+					{
+						"Text": "Sabie dreaptă"
+					},
+					"Key": "StraightSword_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Strikes and spell cooldowns are decreased by 90% for 10 seconds."
+					},
+					"Translation":
+					{
+						"Text": "Viteza de reîncărcare pentru lovituri și vrăji este redusa cu 90% timp de 10 secunde."
+					},
+					"Key": "RuneStoneEnergy_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons 12 deadly meteors around the caster, each causing 16 damage on impact."
+					},
+					"Translation":
+					{
+						"Text": "Cheamă 12 meteori mortali în jurul vrăjitorului, fiecare cauzând 16 daune la impact."
+					},
+					"Key": "RuneStoneMeteorShower_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>12</> deadly meteors around the caster, each causing <White>16</> damage on impact."
+					},
+					"Translation":
+					{
+						"Text": "Cheamă <Green>12</> meteoriți mortali in jurul tău, fiecare cauzează <White>16</> daune la impact."
+					},
+					"Key": "RuneStoneMeteorShower_level_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>12</><YellowH>(→16)</> deadly meteors around the caster, each causing <White>16</><YellowH>(→24)</> damage on impact."
+					},
+					"Translation":
+					{
+						"Text": "Cheamă <Green>12</><YellowH>(→16)</> meteoriți mortali in jurul tău, fiecare cauzează <White>16</><YellowH>(→24)</> daune la impact."
+					},
+					"Key": "RuneStoneMeteorShower_level_up_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>16</> deadly meteors around the caster, each causing <White>24</> damage on impact."
+					},
+					"Translation":
+					{
+						"Text": "Cheamă <Green>16</> meteoriți mortali in jurul tău, fiecare cauzează <White>24</> daune la impact."
+					},
+					"Key": "RuneStoneMeteorShower_level_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>16</><YellowH>(→20)</> deadly meteors around the caster, each causing <White>24</><YellowH>(→32)</> damage on impact. <YellowH>Each meteor has a</> <GreenH>30%</> <YellowH>chance to Stun the target.</>"
+					},
+					"Translation":
+					{
+						"Text": "Cheamă <Green>20</><YellowH>(→20)</> meteoriți mortali in jurul tău, fiecare cauzează <White>24</><YellowH>(→32)</> daune la impact. <YellowH>Fiecare meteorit are o șansă de</> <Green>30%</> <Yellow>să Încetinească ținta.</>"
+					},
+					"Key": "RuneStoneMeteorShower_level_up_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>1</> homing projectile targeted at a close foe - prefers flying targets. Causes <Blue>16</> damage on impact."
+					},
+					"Translation":
+					{
+						"Text": "Cheamă <Green>1</> proiectil țintit la inamicul cel mai aproape - preferă țintele zburătoare. Cauzează <Blue>16</> daune la impact."
+					},
+					"Key": "RuneStoneMagicMissle_level_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>1</><YellowH>(→2)</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage on impact."
+					},
+					"Translation":
+					{
+						"Text": "Cheamă <Green>1</><YellowH>(→2)</> proiectil țintit la inamicul cel mai aproape - preferă țintele zburătoare. Fiecare proiect cauzează <Blue>16</> daune la impact."
+					},
+					"Key": "RuneStoneMagicMissle_level_up_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>20</> deadly meteors around the caster, each causing <White>32</> damage on impact. Each meteor has a <Green>30%</> chance to <Yellow>Stun</> the target."
+					},
+					"Translation":
+					{
+						"Text": "Cheamă <Green>20</> meteoriți mortali in jurul tău, fiecare cauzează <White>32</> daune la impact. Fiecare meteorit are o șansă de <Green>30%</> să <Yellow>Încetinească</> ținta."
+					},
+					"Key": "RuneStoneMeteorShower_level_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>2</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage on impact."
+					},
+					"Translation":
+					{
+						"Text": "Cheamă <Green>2</> proiectile țintite la inamicul cel mai aproape - preferă țintele zburătoare. Fiecare proiectil cauzează <Blue>16</> daune la impact."
+					},
+					"Key": "RuneStoneMagicMissle_level_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>2</><YellowH>(→3)</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage <YellowH>and applies</> <OrangeH>Slow</> on impact."
+					},
+					"Translation":
+					{
+						"Text": "Cheamă <Green>2</><YellowH>(→3)</> proiectile țintite la inamicul cel mai aproape - preferă țintele zburătoare. Fiecare proiectil cauzează <Blue>16</> daune <YellowH>și aplică</> <Orange>Încetinire</> la impact."
+					},
+					"Key": "RuneStoneMagicMissle_level_up_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>3</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage and applies <Orange>Slow</> on impact."
+					},
+					"Translation":
+					{
+						"Text": "Cheamă <Green>3</> proiectile țintite la inamicul cel mai aproape - preferă țintele zburătoare. Fiecare proiectil cauzează <Blue>16</> daune și aplică <Orange>Încetinire</> la impact."
+					},
+					"Key": "RuneStoneMagicMissle_level_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>3</><YellowH>(→4)</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage and applies <Orange>Slow</> on impact."
+					},
+					"Translation":
+					{
+						"Text": "Cheamă <Green>3</><YellowH>(→4)</> proiectile țintite la inamicul cel mai aproape - preferă țintele zburătoare. Fiecare proiectil cauzează <Blue>16</> daune și aplică <Orange>Încetinire</> la impact."
+					},
+					"Key": "RuneStoneMagicMissle_level_up_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>4</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage and applies <Orange>Slow</> on impact."
+					},
+					"Translation":
+					{
+						"Text": "Cheamă <Green>4</> proiectile țintite la inamicul cel mai aproape - preferă țintele zburătoare. Fiecare proiectil cauzează <Blue>16</> daune și aplică <Orange>Încetinire</> la impact."
+					},
+					"Key": "RuneStoneMagicMissle_level_desc_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a homing projectile for each nearby enemy, causing <Blue>20</> damage on impact."
+					},
+					"Translation":
+					{
+						"Text": "Cheamă un proiectil țintit către fiecare inamic apropiat, cauzează <Blue>20</> daune la impact."
+					},
+					"Key": "RuneStoneMassMagicMissle_level_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a homing projectile for each nearby enemy, causing <Blue>20</> damage on impact."
+					},
+					"Translation":
+					{
+						"Text": "Cheamă un proiectil țintit către fiecare inamic apropiat, cauzează <Blue>20</> daune la impact."
+					},
+					"Key": "RuneStoneMassMagicMissle_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a homing projectile for each nearby enemy, causing <Blue>20</><YellowH>(→40)</> damage on impact."
+					},
+					"Translation":
+					{
+						"Text": "Cheamă un proiectil țintit către fiecare inamic apropiat, cauzează <Blue>20</><YellowH>(→40)</> daune la impact."
+					},
+					"Key": "RuneStoneMassMagicMissle_level_up_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a homing projectile for each nearby enemy, causing <Blue>20</><YellowH>(→50)</> damage on impact. <YellowH>The target has a</> <GreenH>30%</> <YellowH>chance to become</> <Orange>Slow</>."
+					},
+					"Translation":
+					{
+						"Text": "Cheamă un proiectil țintit către fiecare inamic apropiat, cauzează <Blue>20</><YellowH>(→50)</> daune la impact. <YellowH>Ținta are o șansă de</> <Green>30%</> <YellowH>să devină</> <Orange>Încetinită</>."
+					},
+					"Key": "RuneStoneMassMagicMissle_level_up_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a homing projectile for each nearby enemy, causing <Blue>40</> damage on impact."
+					},
+					"Translation":
+					{
+						"Text": "Cheamă un proiectil țintit către fiecare inamic apropiat, cauzează <Blue>40</> daune la impact."
+					},
+					"Key": "RuneStoneMassMagicMissle_level_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a homing projectile for each nearby enemy, causing <Blue>50</> damage on impact. The target has a <Green>30%</> chance to become <Orange>Slow</>."
+					},
+					"Translation":
+					{
+						"Text": "Cheamă un proiectil țintit către fiecare inamic apropiat, cauzează <Blue>50</> daune la impact. Ținta are o șansă de <Green>30%</> să devină <Orange>Încetinită</>."
+					},
+					"Key": "RuneStoneMassMagicMissle_level_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a homing projectile targeted at a close foe - prefers flying targets."
+					},
+					"Translation":
+					{
+						"Text": "Invocă un proiectil care vizează un inamic apropiat - preferă țintele în zbor."
+					},
+					"Key": "RuneStoneMagicMissle_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>16</> damage."
+					},
+					"Translation":
+					{
+						"Text": "Invocă o explozie puternică care prăjește orice într-o linie dreaptă.\nCauzează <Blue>16</> vătămare."
+					},
+					"Key": "RuneStoneFire0_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>16</> damage."
+					},
+					"Translation":
+					{
+						"Text": "Invocă o explozie puternică care prăjește orice într-o linie dreaptă.\nCauzează <Blue>16</> vătămare."
+					},
+					"Key": "RuneStoneFire0_level_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>16</><YellowH>(→32)</> damage."
+					},
+					"Translation":
+					{
+						"Text": "Invocă o explozie puternică care prăjește orice într-o linie dreaptă.\nCauzează <Blue>16</><YellowH>(→32)</> vătămare."
+					},
+					"Key": "RuneStoneFire0_level_up_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>32</> damage."
+					},
+					"Translation":
+					{
+						"Text": "Invocă o explozie puternică care prăjește orice într-o linie dreaptă.\nCauzează <Blue>32</> vătămare."
+					},
+					"Key": "RuneStoneFire0_level_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>32</><YellowH>(→36)</> damage. <YellowH>The spell has </><GreenH>50%</> <YellowH>chance to </><PurpleH>Instant Recharge.</>"
+					},
+					"Translation":
+					{
+						"Text": "Invocă o explozie puternică care prăjește orice într-o linie dreaptă.\nCauzează <Blue>32</><YellowH>(→36)</> vătămare. <YellowH>Vraja are </><Green>50%</> <YellowH>șansă să se </><Purple>Reîncarce imediat.</>"
+					},
+					"Key": "RuneStoneFire0_level_up_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>36</> damage. The spell has <Green>50%</> chance to <Purple>Instant Recharge.</>"
+					},
+					"Translation":
+					{
+						"Text": "Invocă o explozie puternică care prăjește orice într-o linie dreaptă.\nCauzează <Blue>36</> vătămare. Vraja are <Green>50%</> șansă să se <Purple>Reîncarce imediat.</>"
+					},
+					"Key": "RuneStoneFire0_level_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>36</><YellowH>(→52)</> damage. The spell has <Green>50%</> chance to <Purple>Instant Recharge.</>"
+					},
+					"Translation":
+					{
+						"Text": "Invocă o explozie puternică care prăjește orice într-o linie dreaptă..\nCauzează <Blue>36</><YellowH>(→52)</> vătămare. Vraja are <Green>50%</> șansă să se <Purple>Reîncarce imediat.</>"
+					},
+					"Key": "RuneStoneFire0_level_up_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>52</> damage. The spell has <Green>50%</> chance to <Purple>Instant Recharge.</>"
+					},
+					"Translation":
+					{
+						"Text": "Invocă o explozie puternică care prăjește orice într-o linie dreaptă.\nCauzează <Blue>52</> vătămare. Vraja are <Green>50%</> șansă să se <Purple>Reîncarce imediat.</>"
+					},
+					"Key": "RuneStoneFire0_level_desc_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons the Soulkeeper, a powerful spirit capable of gathering your essence should something bad happen to you."
+					},
+					"Translation":
+					{
+						"Text": "Convocă Deținătorul Sufletului - un spirit puternic capabil să îți adune esența în cazul în care ți se întâmplă ceva rău - este mai puțin dureros decât să fii chemat înapoi de vrăjitor."
+					},
+					"Key": "RuneStoneSoulkeeperInfinite_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons the Soulkeeper, a powerful spirit capable of gathering your essence should something bad happen to you.\r\n\r\nReleasing the spirit recharges the stone."
+					},
+					"Translation":
+					{
+						"Text": "Convocă Deținătorul Sufletului - un spirit puternic capabil să îți adune esența în cazul în care ți se întâmplă ceva rău - este mai puțin dureros decât să fii chemat înapoi de vrăjitor.\n\nEliberarea spiritului reîncarcă piatra, reîncărcarea pietrei eliberează spiritul."
+					},
+					"Key": "RuneStoneSoulkeeper_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it."
+					},
+					"Translation":
+					{
+						"Text": "Schimbă poziția cu cea mai apropiată țintă din fața ta."
+					},
+					"Key": "RuneStoneSwap_level_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it."
+					},
+					"Translation":
+					{
+						"Text": "Schimbă poziția cu cea mai apropiată țintă din fața ta."
+					},
+					"Key": "RuneStoneSwap_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. <YellowH>The selected target suffers</> <BlueH>20</> <YellowH>damage.</>"
+					},
+					"Translation":
+					{
+						"Text": "Schimbă poziția cu cea mai apropiată țintă din fața ta. <YellowH>Ținta selectată suferă</> <Blue>20</> <YellowH>daune.</>"
+					},
+					"Key": "RuneStoneSwap_level_up_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>20</> damage."
+					},
+					"Translation":
+					{
+						"Text": "Schimbă poziția cu cea mai apropiată țintă din fața ta. Ținta selectată suferă <Blue>20</> daune."
+					},
+					"Key": "RuneStoneSwap_level_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>20</><YellowH>(→30)</> damage <YellowH>and becomes </><Orange>Slow.</>"
+					},
+					"Translation":
+					{
+						"Text": "Schimbă poziția cu cea mai apropiată țintă din fața ta. Ținta selectată suferă <Blue>20</><YellowH>(→30)</> daune <YellowH>și devine</> <Orange>Înceată.</>"
+					},
+					"Key": "RuneStoneSwap_level_up_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>30</> damage and becomes <Orange>Slow</>."
+					},
+					"Translation":
+					{
+						"Text": "Schimbă poziția cu cea mai apropiată țintă din fața ta. Ținta selectată suferă <Blue>30</> daune și devine <Orange>Înceată</>."
+					},
+					"Key": "RuneStoneSwap_level_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>30</><YellowH>(→40)</> damage and becomes <Orange>Slow.</>"
+					},
+					"Translation":
+					{
+						"Text": "Schimbă poziția cu cea mai apropiată țintă din fața ta. Ținta selectată suferă <Blue>30</><YellowH>(→40)</> daune și devine <Orange>Înceată.</>"
+					},
+					"Key": "RuneStoneSwap_level_up_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>40</> damage and becomes <Orange>Slow</>."
+					},
+					"Translation":
+					{
+						"Text": "Schimbă poziția cu cea mai apropiată țintă din fața ta. Ținta selectată suferă <Blue>40</> daune și devine <Orange>Înceată</>."
+					},
+					"Key": "RuneStoneSwap_level_desc_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>40</><YellowH>(→50)</> damage and becomes <Orange>Slow.</>"
+					},
+					"Translation":
+					{
+						"Text": "Schimbă poziția cu cea mai apropiată țintă din fața ta. Ținta selectată suferă <Blue>40</><YellowH>(→50)</> daune și devine <Orange>Înceată.</>"
+					},
+					"Key": "RuneStoneSwap_level_up_desc_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>50</> damage and becomes <Orange>Slow</>."
+					},
+					"Translation":
+					{
+						"Text": "Schimbă poziția cu cea mai apropiată țintă din fața ta. Ținta selectată suferă <Blue>50</> daune și devine <Orange>Înceată</>."
+					},
+					"Key": "RuneStoneSwap_level_desc_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swapstone"
+					},
+					"Translation":
+					{
+						"Text": "Piatra Schimbării"
+					},
+					"Key": "RuneStoneSwap_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Teal Shard"
+					},
+					"Translation":
+					{
+						"Text": "Ciob Turcoaz"
+					},
+					"Key": "ShardTeal_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tealstone"
+					},
+					"Translation":
+					{
+						"Text": "Piatra de Turcoaz"
+					},
+					"Key": "RuneStoneMagicMissle_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tealstone, but better"
+					},
+					"Translation":
+					{
+						"Text": "Piatra de turcoaz, dar mai bună"
+					},
+					"Key": "RuneStoneMassMagicMissle_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "The mighty sword of Kharutar the Demon Ruler. Legend says he once cut one of his fingers with it and in his rage he broke the sword into two. Later it was reforged but some say it would still need some more fixes."
+					},
+					"Translation":
+					{
+						"Text": "Sabia puternică a lui Kharutar, conducătorul Demonilor. Legenda spune că odată și-a tăiat unul din degete și cu furie a rupt sabia în două. Ulterior a fost reforjat, dar unii spun că ar mai avea nevoie de alte corecții."
+					},
+					"Key": "DemonSword_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "The most purple mushrooms you could find. You hope these will be enough."
+					},
+					"Translation":
+					{
+						"Text": "Ciupercile cele mai violete pe care le-ai putea găsi. Speri că acestea vor fi suficiente."
+					},
+					"Key": "PurpleMushroom_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "There are a ridiculous amount of keys in this world, right?"
+					},
+					"Translation":
+					{
+						"Text": "Există o cantitate ridicolă de chei în această lume, nu?"
+					},
+					"Key": "KeyCatacombs0_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "There are so many stones around. You are still not sure what's the point of picking up some of them."
+					},
+					"Translation":
+					{
+						"Text": "Sunt atât de multe pietre în jur. Încă nu ești sigur care este punctul de a alege unele dintre ele."
+					},
+					"Key": "PortalGem_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "This is one of the many spare keys of the Dwarven Outpost Kitchen. Being able to get into the kitchen was always very important for dwarves."
+					},
+					"Translation":
+					{
+						"Text": "Aceasta este una dintre numeroasele chei de rezervă ale Bucătăriei Piticilor din Cetate. A putea intra în bucătărie a fost întotdeauna foarte important pentru pitici."
+					},
+					"Key": "DOKitchenKey_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "This is one of the spare keys of the Ancient Temple. Just in case the original would be dropped into the lava accidentally."
+					},
+					"Translation":
+					{
+						"Text": "Aceasta este una dintre cheile de rezervă ale Templului Antic. Doar în cazul în care originalul ar fi aruncat în lavă accidental."
+					},
+					"Key": "LETempleKey_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "This key can be used to open any door equipped with a special kind of lock, but breaks during the process."
+					},
+					"Translation":
+					{
+						"Text": "Această cheie poate fi folosită pentru a deschide orice ușă echipată cu o încuietoare speciala, dar se rupe în timpul procesului."
+					},
+					"Key": "KeyMaster_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "This might not be the weirdest side effect one can have when drinking something suspicious but it is definitely in the top five."
+					},
+					"Translation":
+					{
+						"Text": "Acesta s-ar putea să nu fie cel mai ciudat efect secundar pe care îl putem avea atunci când bei ceva suspect, dar este cu siguranță în primele cinci."
+					},
+					"Key": "PotionOfWorthiness_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Two ancient books with the titles \"True value of your family\" and \"How much does a brother cost?\". They look boring so you decide not to open them."
+					},
+					"Translation":
+					{
+						"Text": "Două cărți antice cu titlurile „Valoarea adevărată a familiei tale” și „Cât costă un frate?”. Par plictisitoare, deci decizi să nu le deschizi."
+					},
+					"Key": "LoryBooks_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unconcerned Key"
+					},
+					"Translation":
+					{
+						"Text": "Cheie necunoscută"
+					},
+					"Key": "KeyTLElevatorRoom_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "WARNING: not following the instructions exactly leads to failure and also increases the probability of injury and or death [Carfy 3154].\r\n\r\nREFERENCES:\r\n\r\nWISY, W., BUSY, B., WEIRDY, Y., AND LUCKY, L. 3152. The best ways to get rid of anyone potentially distracting us with questions like \"What do you read?\"\r\n\r\nInti, I., AND Clevi, C. 3153. Insulting dead ancestors using Surrected objects\r\n\r\nCarfy C. 3154. What happened to Clevi, C. and Inti, I."
+					},
+					"Translation":
+					{
+						"Text": "AVERTIZARE: nerespectarea instrucțiunilor duce exact la eșec și crește, de asemenea, probabilitatea de rănire și deces [Carfy 3154].\n\nREFERINȚE:\n\nWISY, W., BUSY, B., WEIRDY, Y., AND LUCKY, L. 3152. Cele mai bune metode de a scăpa de oricine ne poate distrage cu întrebări de genul „Ce citești?”\n\nInti, I., AND Clevi, C. 3153. Insultând strămoșii morți folosind obiecte reînviate\n\nCarfy C. 3154. Ce s-a întâmplat cu Clevi, C. and Inti, I."
+					},
+					"Key": "AbacusSpellBook_page_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Weird"
+					},
+					"Translation":
+					{
+						"Text": "Ciudat"
+					},
+					"Key": "KeyAAFirstFight_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Weird Device"
+					},
+					"Translation":
+					{
+						"Text": "Dispozitiv Ciudat"
+					},
+					"Key": "SecretWeirdDevice_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Weird Key"
+					},
+					"Translation":
+					{
+						"Text": "Cheie ciudată"
+					},
+					"Key": "KeyAAFirstFight_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Weird liquid in a bottle. The kobold calls it Soup."
+					},
+					"Translation":
+					{
+						"Text": "Lichid ciudat într-o sticlă. Kobold-ul îl numește supă."
+					},
+					"Key": "KoboldPotion_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wheel"
+					},
+					"Translation":
+					{
+						"Text": "Roată"
+					},
+					"Key": "Wheel_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "When the Abacus is killed its spirit might return to get even with its murderer."
+					},
+					"Translation":
+					{
+						"Text": "Atunci când Abacul este ucis, spiritul său s-ar putea întoarce să fie chit cu criminalul său."
+					},
+					"Key": "AbacusGhost_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "When you are the one in the team who has the job to enter every dungeon first, you will become a careful one too... if you live long enough for that."
+					},
+					"Translation":
+					{
+						"Text": "Când vei fi cel din echipă care trebuie să intre în fiecare temniță primul, vei deveni și unul atent ... dacă trăiești suficient de mult pentru asta."
+					},
+					"Key": "TestStoneBag_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "When you don't have enough fingers to count something you need this abacus."
+					},
+					"Translation":
+					{
+						"Text": "Când nu ai suficiente degete pentru a număra ceva, ai nevoie de acest abac."
+					},
+					"Key": "Abacus_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "White Shard"
+					},
+					"Translation":
+					{
+						"Text": "Ciob Alb"
+					},
+					"Key": "ShardWhite_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "White Wall Key"
+					},
+					"Translation":
+					{
+						"Text": "Cheia de la Zidul Alb"
+					},
+					"Key": "KeyWWWhiteWall_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wisy et al. [3152] point out that any entity can be banished by throwing the proper object into his/her/its face a few times, making him/her/it annoyed thus unconcerned, as long as the target entity has a face.\r\n\r\nThe proper object in case of ghosts is something Surrected [Inti and Clevi 3153], as only Surrected substance can interact with ghosts.\r\n\r\nAny object covered with petals of Ghost Flower can be Surrected using the following method:\r\n\r\n- Say \"Sorry my <object name>!\"\r\n- Break the object into pieces with a heated hammer\r\n- Say your favourite color\r\n- Croon \"La La LaLaLa LaLaLa\" until the object is coagulated into a single Surrected object"
+					},
+					"Translation":
+					{
+						"Text": "Wisy et al. [3152] subliniază faptul că orice entitate poate fi alungată aruncând de câteva ori obiectul corespunzător pe fața sa, făcându-l să se enerveze astfel să nu fie preocupat, atât timp cât entitatea țintă are o față\n\nObiectul potrivit în cazul fantomelor este ceva reînviat [Inti and Clevi 3153], deoarece numai substanța reînviată poate interacționa cu fantomele.\n\nOrice obiect acoperit cu petalele de la Floare Fantomă poate fi reînviat folosind următoarea metodă::\n\n- Spune \"Îmi pare rău <nume obiect>!\"\n- Rupe obiectul în bucăți cu un ciocan încălzit\n- Spune culoarea preferată\n- Cântă \"La La LaLaLa LaLaLa\" până când obiectul este coagulat într-un singur obiect resuscitat"
+					},
+					"Key": "AbacusSpellBook_page_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Yellow Shard"
+					},
+					"Translation":
+					{
+						"Text": "Ciob Galben"
+					},
+					"Key": "ShardYellow_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "You do wonder when the area is full of ropes why this is the only one which can be taken..."
+					},
+					"Translation":
+					{
+						"Text": "Te întrebi când zona este plină de funii de ce acesta este singurul care poate fi luată ..."
+					},
+					"Key": "Rope_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "You got this item for free from a Merchant so you hardly believe it has any value. It might be used as some sort of a mechanism activator though. Hopefully not for a trap."
+					},
+					"Translation":
+					{
+						"Text": "Deoarece ai primit acest articol gratuit de la un comerciant, cu greu crezi că are vreo valoare. Deși ar putea fi folosit ca un fel de activator al mecanismului. Să sperăm că nu pentru o capcană ..."
+					},
+					"Key": "ElevatorLeverCrystal_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "You heal <Red>10%</> of the melee damage you inflict on your enemies."
+					},
+					"Translation":
+					{
+						"Text": "Te vindeci <Red>10%</> din daunele fizice provocate pe care le cauzezi inamicilor tăi."
+					},
+					"Key": "ShardRedBright_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "You heal <Red>5%</> of the melee damage you inflict on your enemies."
+					},
+					"Translation":
+					{
+						"Text": "Te vindeci <Red>5%</> din daunele fizice provocate pe care le cauzezi inamicilor tăi."
+					},
+					"Key": "ShardRed_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "You won't believe it but it is a key for a cage."
+					},
+					"Translation":
+					{
+						"Text": "Nu vei crede, dar este o cheie pentru o cușcă."
+					},
+					"Key": "LEKeyCage_desc"
+				}
+			]
+		},
+		{
+			"Namespace": "Notes",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "A Pipe Walker is trapped in a cage"
+					},
+					"Translation":
+					{
+						"Text": "Un Mergător pe Țevi este prins într-o cușcă"
+					},
+					"Key": "AE371E564EC1D75947ECF98AAA896A2C"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gnory needs a wheel"
+					},
+					"Translation":
+					{
+						"Text": "Gnory are nevoie de o roată"
+					},
+					"Key": "B12481ED4CFF0182EDB7ACAA416B55FC"
+				},
+				{
+					"Source":
+					{
+						"Text": "I feel the Tomb of Tabby is important somehow"
+					},
+					"Translation":
+					{
+						"Text": "Simt că Mormântul lui Tabby este important cumva"
+					},
+					"Key": "E3857F07468C2A0B34A98887E3BBB1DA"
+				},
+				{
+					"Source":
+					{
+						"Text": "I need to learn Dwarven to open a gate"
+					},
+					"Translation":
+					{
+						"Text": "Trebuie să învăț Limba Piticilor pentru a deschide o poartă"
+					},
+					"Key": "D8C4FFC7435C6A2E7C88BBA7109A1907"
+				},
+				{
+					"Source":
+					{
+						"Text": "I promised Fountain to give its flower to the Magic Mirror."
+					},
+					"Translation":
+					{
+						"Text": "I-am promis Fântânei să-i dea floarea Oglinzii Magice."
+					},
+					"Key": "0BFD568E4989A20D66B91DA476C0E6B4"
+				},
+				{
+					"Source":
+					{
+						"Text": "I promised Lory to bring her some books"
+					},
+					"Translation":
+					{
+						"Text": "I-am promis lui Lory că-i aducă niște cărți"
+					},
+					"Key": "F109A1614B16565CC1846C8D0A46672E"
+				},
+				{
+					"Source":
+					{
+						"Text": "Teachy asked for a strangely unique device"
+					},
+					"Translation":
+					{
+						"Text": "Teachy a cerut un dispozitiv unic ciudat"
+					},
+					"Key": "E9DA40684B9375A5F78D18A138C75174"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Chef asked me to bring him some Purple Mushroom"
+					},
+					"Translation":
+					{
+						"Text": "Bucătarul mi-a cerut să-i aduc o Ciupercă Purpurie"
+					},
+					"Key": "D3B6D81E433CBE8461E2B1AFE06E9741"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Chef wants me to clear the shore"
+					},
+					"Translation":
+					{
+						"Text": "Bucătarul vrea să curăț țărmul"
+					},
+					"Key": "57CBE1274A1B4EC7FD68EA9288161AAD"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Dwarf wants me to clear the Dwarven Fortress"
+					},
+					"Translation":
+					{
+						"Text": "Piticul vrea să eliberez Cetatea Piticilor"
+					},
+					"Key": "9C3FB78C4598A48BC187B580CBB070F6"
+				},
+				{
+					"Source":
+					{
+						"Text": "The GateKeeper could use a chair"
+					},
+					"Translation":
+					{
+						"Text": "Portarul ar putea folosi un scaun"
+					},
+					"Key": "77693D6C43702786250364932BD34BCD"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Ghost Dwarf needs a ghost abacus"
+					},
+					"Translation":
+					{
+						"Text": "Fantoma Piticului are nevoie de un abac fantomă"
+					},
+					"Key": "1ABD11A64A7649801A6AB6A8BBDC686C"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Golem Maker wants me to hunt some Golems"
+					},
+					"Translation":
+					{
+						"Text": "Creatorul de Golemi vrea să vânez niște Golemi"
+					},
+					"Key": "AA94EB6E4B0A505D730971932A3DE0CC"
+				}
+			]
+		},
+		{
+			"Namespace": "StationNames",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Crossroad Cave"
+					},
+					"Translation":
+					{
+						"Text": "Peștera de la Intersecție"
+					},
+					"Key": "crossroadcave"
+				},
+				{
+					"Source":
+					{
+						"Text": "Obedient Outpost"
+					},
+					"Translation":
+					{
+						"Text": "Avanpostul Ascultător"
+					},
+					"Key": "outpost"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remnant Road"
+					},
+					"Translation":
+					{
+						"Text": "Drumul Rămășiței"
+					},
+					"Key": "lavatemple"
+				},
+				{
+					"Source":
+					{
+						"Text": "Stay"
+					},
+					"Translation":
+					{
+						"Text": "Stai"
+					},
+					"Key": "stay"
+				},
+				{
+					"Source":
+					{
+						"Text": "World's End"
+					},
+					"Translation":
+					{
+						"Text": "Sfârșitul lumii"
+					},
+					"Key": "away"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wracked Waters"
+					},
+					"Translation":
+					{
+						"Text": "Apele Împrăștiate"
+					},
+					"Key": "wrackedWaters"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,6489 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Children": [
+		{
+			"Source":
+			{
+				"Text": "<T>-- Not Yet Team --</>\r\n\r\n\r\nAnna Molnár\r\n<R>2D art, Environment Design</>\r\n\r\n\r\nCsaba Molnár\r\n<R>Code, Design</>\r\n\r\n\r\nDaniel Butum\r\n<R>Code</>\r\n\r\n\r\nGéza Molnár\r\n<R>3D art, Design</>\r\n\r\n\r\nRichárd Ráski\r\n<R>Sound Design</>\r\n\r\n\r\n\r\n<T>-- Music --</>\r\n\r\nBenjámin Kuli\r\n\r\n\r\nGisula\r\n\r\n\r\n\r\n<T>-- Voice Over --</>\r\n\r\n\r\nPeter Luzsi - @peterluzsi\r\n<R>WarriOrb, Gatekeeper, Ghost Armor, Principal</>\r\n\r\n\r\nBrent Miller\r\n<R>WarriOrb - Trailer</>\r\n\r\n\r\nPierce Riola\r\n<R>Wizard, Gnory</>\r\n\r\n\r\nEir Causey\r\n<R>Raven, Teachy, Ghost Dwarf, Unknown Wizard, Fishy</>\r\n\r\n\r\nJack Broadbent\r\n<R>Monk, Flybug</>\r\n\r\n\r\nEmil Hagg\r\n<R>Supper Dwarf, Kobold Chef, Fallen Druid, Dwarven Statue, Intro narrator</>\r\n\r\n\r\nErick Nita\r\n<R>Golem Maker, Armour Wrath</>\r\n\r\n\r\nAlain Vega\r\n<R>Merch Ant</>\r\n\r\n\r\nAngela Tran\r\n<R>Lillian, Pipe Walker</>\r\n\r\n\r\nBrittany Ann Phillips\r\n<R>Lory</>\r\n\r\n\r\nAurore Gautheur\r\n<R>Fountain, Shade</>\r\n\r\n\r\nAlexander Blairlex\r\n<R>Primitive Fishy, Ghost Helmet</>\r\n\r\n\r\nSophie Ryder\r\n<R>Shadesphere</>\r\n\r\n\r\n\r\n\r\n<T>-- Partners --</>\r\n\r\n\r\nMaple Whispering\r\n<R>Chineese localization</>\r\n<R>Publisher - China, PC</>\r\n\r\n\r\nNovy Unlimited\r\n<R>PR and Marketing</>\r\n\r\n\r\n\r\n\r\n<T>-- Localization --</>\r\n\r\n\r\nVera Liscovschi\r\n<R>Russian</>\r\n\r\n\r\nJay Johnstone\r\n<R>Spanish</>\r\n\r\n\r\nBertin William\r\n<R>French</>\r\n\r\n\r\n\r\n\r\n<T>-- Testers --</>\r\n\r\n\r\nSaleymander\r\n\r\n\r\nHitch\r\n\r\n\r\nMrCalculated\r\n\r\n\r\n<img id=\"Rainbow\"/>Scorpion253<img id=\"Rainbow\"/>\r\n\r\n\r\nmoses\r\n\r\n\r\nNinjin42\r\n\r\n\r\nKonstantinos Xenitidis\r\n\r\n\r\nPhyronnaz\r\n\r\n\r\nArthur\r\n\r\n\r\nMaster1G\r\n\r\n\r\nDávid Bartók\r\n\r\n\r\nLiDuGaming\r\n\r\n\r\nClaudiu Coman\r\n\r\n\r\nÁron Ürögdi\r\n\r\n\r\nDukenukemboi\r\n\r\n\r\nBart Cools\r\n\r\n\r\nGlenn De Jonghe\r\n\r\n\r\nDomonkos Péter Madarász\r\n\r\n\r\nGergő Gyarmati\r\n\r\n\r\nRéka Gyarmati\r\n\r\n\r\nKincső Petraskó\r\n\r\n\r\nGergő Petraskó\r\n\r\n\r\nDániel Garamvölgyi\r\n\r\n\r\nDanny \"GHelmet\" Cloutier\r\n\r\n\r\nAnna Boglárka Tóth\r\n\r\n\r\nBíborka Roxána Kubik\r\n\r\n\r\nVirág Miklós\r\n\r\n\r\nBenedek Marozsák\r\n\r\n\r\nDániel Marozsák\r\n\r\n\r\nGereon Bartel\r\n\r\n\r\n\r\n\r\n<T>-- Prologue Speedrun Competition Winner --</>\r\n\r\n-7\r\n\r\n\r\n\r\n\r\n<T>-- Special Thanks --</>\r\n\r\n\r\nMalazan Discord Server Community\r\n\r\n\r\n/r/metroidvenia Discord Server Community\r\n\r\n\r\nUnreal Slackers Discord Server Community\r\n\r\n\r\nIMGUR\r\n\r\n\r\nBíborka Roxána Kubik\r\n\r\n\r\nJuhász Ernő\r\n\r\n\r\nRacheal Smith\r\n\r\n\r\nRuxandra Seniuc\r\n\r\n\r\nthottee\r\n\r\n\r\nAndrew Pappas\r\n\r\n\r\nJonathan Lampel\r\n\r\n\r\nRichárd Németh\r\n\r\n\r\nAlex Gorcea\r\n\r\n\r\nNotRealVitor\r\n\r\n\r\nKinga Surján\r\n\r\n\r\nAnna Boglárka Tóth\r\n\r\n\r\nÉvi Fekete\r\n\r\n\r\nGergő Sielaf\r\n\r\n\r\n<img id=\"Rainbow\"/>Scorpion253<img id=\"Rainbow\"/>\r\n\r\n\r\nMainiac\r\n\r\n\r\n\r\n\r\n<T>-- Technology --</>\r\n\r\n\r\n<R>WarriOrb uses the Unreal® Engine.</>\r\n<R>Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere</>\r\n\r\n<R>Unreal® Engine, Copyright 1998 – 2020, Epic Games, Inc. All rights reserved.</>\r\n\r\n\r\n\r\n<R>Made with FMOD Studio by Firelight Technologies Pty Ltd.</>"
+			},
+			"Translation":
+			{
+				"Text": ""
+			},
+			"Key": "78A72CB345FCC7ECDCFD8181471D78D8"
+		}
+	],
+	"Subnamespaces": [
+		{
+			"Namespace": "CharacterStrike",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Air Strike"
+					},
+					"Translation":
+					{
+						"Text": "空襲"
+					},
+					"Key": "SwordSpecialAirStrike_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Backslash"
+					},
+					"Translation":
+					{
+						"Text": "背砍"
+					},
+					"Key": "DualBladeSpecial_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Crushing Blow"
+					},
+					"Translation":
+					{
+						"Text": "粉碎打擊"
+					},
+					"Key": "LeafMaceSpecial_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Downstrike"
+					},
+					"Translation":
+					{
+						"Text": "下擊"
+					},
+					"Key": "DemonSwordSpecial_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Floating Strikes"
+					},
+					"Translation":
+					{
+						"Text": "浮空打擊"
+					},
+					"Key": "SabreSpecial_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Throw"
+					},
+					"Translation":
+					{
+						"Text": "扔"
+					},
+					"Key": "AxeSpecial_name"
+				}
+			]
+		},
+		{
+			"Namespace": "EffectInstance",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Arcane Luck"
+					},
+					"Translation":
+					{
+						"Text": "奧術運氣"
+					},
+					"Key": "BPEftRegainSpellPassive25_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Charged Bounce"
+					},
+					"Translation":
+					{
+						"Text": "蓄力彈跳"
+					},
+					"Key": "BPEftBounce_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Critical Chance"
+					},
+					"Translation":
+					{
+						"Text": "暴擊率"
+					},
+					"Key": "BPEftCriticalChanceBoost10_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Firestrike"
+					},
+					"Translation":
+					{
+						"Text": "火焰襲擊"
+					},
+					"Key": "BPEftSpellFire0_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Greenflame"
+					},
+					"Translation":
+					{
+						"Text": "慘綠魔焰"
+					},
+					"Key": "BPEftWeaponFlamesTimeBased_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Heal"
+					},
+					"Translation":
+					{
+						"Text": "治愈"
+					},
+					"Key": "BPEftHeal3_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Life Leech"
+					},
+					"Translation":
+					{
+						"Text": "活水蛭"
+					},
+					"Key": "BPEftLifeLeech5_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Magic Missile"
+					},
+					"Translation":
+					{
+						"Text": "魔法導彈"
+					},
+					"Key": "BPEftMagicMissle_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Magic Missiles"
+					},
+					"Translation":
+					{
+						"Text": "魔法導彈"
+					},
+					"Key": "BPEftMassMagicMissle_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Magical Protection"
+					},
+					"Translation":
+					{
+						"Text": "魔法防護"
+					},
+					"Key": "BPEftTempHPMagical_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Meteor Shower"
+					},
+					"Translation":
+					{
+						"Text": "流星雨"
+					},
+					"Key": "BPEftMeteorShower_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Perfect Hands"
+					},
+					"Translation":
+					{
+						"Text": "完美之手"
+					},
+					"Key": "BPEftDmgModifier_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Physical Protection"
+					},
+					"Translation":
+					{
+						"Text": "物理防護"
+					},
+					"Key": "BPEftTempHPPhysical_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Protective Transmutation"
+					},
+					"Translation":
+					{
+						"Text": "實體轉化"
+					},
+					"Key": "BPEftBootTransmutation_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quick Hands"
+					},
+					"Translation":
+					{
+						"Text": "快手"
+					},
+					"Key": "BPEftAttackSpeedMultiplier_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Restlessness"
+					},
+					"Translation":
+					{
+						"Text": "不安"
+					},
+					"Key": "BPEftCooldownReducePassive02_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Restlessness"
+					},
+					"Translation":
+					{
+						"Text": "不安"
+					},
+					"Key": "BPEftCooldownReduce_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Restoration"
+					},
+					"Translation":
+					{
+						"Text": "恢復"
+					},
+					"Key": "BPEftRegainSpells_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Second Chance"
+					},
+					"Translation":
+					{
+						"Text": "第二次機會"
+					},
+					"Key": "BPEftSecondChance_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shadewalk"
+					},
+					"Translation":
+					{
+						"Text": "暗影疾步"
+					},
+					"Key": "BPEftSpellShadowWalk_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shield"
+					},
+					"Translation":
+					{
+						"Text": "護盾"
+					},
+					"Key": "BPEftSpellShield_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shockwalk"
+					},
+					"Translation":
+					{
+						"Text": "沖擊步"
+					},
+					"Key": "BPEftSpellLightningWalk_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Slow"
+					},
+					"Translation":
+					{
+						"Text": "慢"
+					},
+					"Key": "BPEftSlow_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Slow"
+					},
+					"Translation":
+					{
+						"Text": "慢"
+					},
+					"Key": "BPEftMassSlow_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Soulbind"
+					},
+					"Translation":
+					{
+						"Text": "靈魂束縛"
+					},
+					"Key": "BPEftSpellSoulKeeper_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sparks of Vengeance"
+					},
+					"Translation":
+					{
+						"Text": "復仇火花"
+					},
+					"Key": "BPEftDamageReflection_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Stoneskin"
+					},
+					"Translation":
+					{
+						"Text": "石化皮膚"
+					},
+					"Key": "BPEftResModifierPhysical_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Stun"
+					},
+					"Translation":
+					{
+						"Text": "眩暈"
+					},
+					"Key": "BPEftStun_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Stun Chance"
+					},
+					"Translation":
+					{
+						"Text": "眩暈幾率"
+					},
+					"Key": "BPEftStunPassive10_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swap"
+					},
+					"Translation":
+					{
+						"Text": "交換"
+					},
+					"Key": "BPEftSwap_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wardskin"
+					},
+					"Translation":
+					{
+						"Text": "防護皮膚"
+					},
+					"Key": "BPEftResModifierMagical_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wardskin"
+					},
+					"Translation":
+					{
+						"Text": "防護皮膚"
+					},
+					"Key": "BPEftResModifierMagicalStrong_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Worthy"
+					},
+					"Translation":
+					{
+						"Text": "有價值的"
+					},
+					"Key": "BPEftWorthy_name"
+				}
+			]
+		},
+		{
+			"Namespace": "EndScreen",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "<Quote> ‘That is because I know exactly what the final result should be’</> he explained."
+					},
+					"Translation":
+					{
+						"Text": "<Quote> ‘那是因為我知道最終的結果是什麽’</> 他說道。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_11_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>'Could there be other survivors of my tribe?'</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>'我的部落裡還有其他倖存者嗎?'</>"
+					},
+					"Key": "UI_EndScreen_entry_10_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>'I also knew that I was a bit mad and since for my insane mind training in a monastery looked like a crazy idea I immediately knew that in fact that's the most sane thing to do.’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>“我也知道我有點瘋了，因為我在修道院接受的精神訓練看起來像壹個瘋狂的想法，我立刻意識到這是最理智的做法。”</>"
+					},
+					"Key": "UI_EndScreen_entry_7_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘And I would also like to check what do they eat for supper.’</> he said. <Quote>‘I’m going with you.’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>‘我還想看看他們晚飯吃什麽。’</> 他說道。 <Quote>‘我和妳壹起去。’</>"
+					},
+					"Key": "UI_EndScreen_entry_11_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Due to my training I can resist Ruin’</> he thought. <Quote>‘No one has ever seen what’s there where Ruin destroyed the lands. If I train harder I might be able to get closer to Ruin to see what it really is.’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>‘由於我接受過訓練，所以我能抵抗毀滅’</> 他如此想著。 <Quote>‘沒有人見過那裏有什麽，那裏的土地被毀滅了。如果我更努力地訓練，我可能會離毀滅更近壹些，看看它到底是什麽。’</>"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_13_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Even if it was not enough I did all I could. I’m done.’</> he said."
+					},
+					"Translation":
+					{
+						"Text": "<Quote>“即使這還不夠，但我已經做了我所能做的。我完成了。” < / >他說。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_12_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Fishy think it is important’ </>he said.<Quote> ‘If Monk go to see Ruin, Fishy need to learn it.’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>‘呆魚認為這很重要’ </>他說道。<Quote> ‘如果修道士去看廢墟，呆魚需要學它。’</>"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_18_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Focus on what you are doing Lillian. He was a bit odd anyway.’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>“專註於妳自己的事就行，莉莉安。他壹直有點古怪。”</>"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_5_text_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Have no fear!’</> Golem Maker said. <Quote>‘I will return with even more knowledge and we’ll stop Ruin once and for all.’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>‘不要恐懼!’</> 機器人制造者說。 <Quote>‘我將學到更多的知識回來，我們將壹勞永逸地停止毀滅.’</>"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_10_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Hey there! I’m fed up with microtransactions. Can I go with ya man?’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>‘嘿!我受夠了微交易。我能和妳壹起去嗎?’</>"
+					},
+					"Key": "UI_EndScreen_entry_16_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Hey there! I’m fed up with microtransactions. Can I go with ya man?’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>‘嘿!我受夠了微交易。我能和妳壹起去嗎?’</>"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_19_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘I know Wizard would have disagreed but you did the right thing. We still have time to face Ruin. We couldn’t let everyone die there.’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>‘我知道巫師會反對，但妳做了正確的事。我們還有時間面對毀滅。我們不能讓所有人都死在那裏。’</>"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_4_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘I think therefore I am not a bird’</> - he said."
+					},
+					"Translation":
+					{
+						"Text": "<Quote>‘因此，我想我不是壹只鳥。’</> - 他說道。"
+					},
+					"Key": "UI_EndScreen_entry_8_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘If I could resist madness, others should be able to do the same’</> - he thought."
+					},
+					"Translation":
+					{
+						"Text": "<Quote>‘如果我能抵抗瘋狂，其他人也應該能做到。’</> - 他如此想著。"
+					},
+					"Key": "F0EAD93B44D8D7AEF306EAB75D83FB37"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘If I could resist madness, shouldn't others be able to do the same?’</>- he wondered."
+					},
+					"Translation":
+					{
+						"Text": "<Quote>“如果我能抵抗瘋狂，其他人難道不能做同樣的事嗎?”</>- 他想知道。"
+					},
+					"Key": "UI_EndScreen_entry_6_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘If there is something we can do with Ruin it must be connected to the rituals. I’ll go with you.’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>‘如果我們能對毀滅做點什麽，那壹定是與宗教儀式有關。我要和妳壹起去.’</>"
+					},
+					"Key": "UI_EndScreen_entry_13_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Kobolds reserved the ancient knowledge in their rituals’</> Golem Maker said. <Quote>‘If there is something we can do with Ruin it must be connected to the rituals. I’ll go with you.’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>‘地精在他們的儀式中保留了古老的知識. <Quote>‘如果我們能對毀滅做點什麽，那壹定是與宗教儀式有關。我和妳壹起去。’</>"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_10_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Kobolds reserved the ancient knowledge in their rituals’</> he said."
+					},
+					"Translation":
+					{
+						"Text": "<Quote>‘地精在他們的儀式中保留了古老的知識’</> 他說道。"
+					},
+					"Key": "UI_EndScreen_entry_13_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘Now is the time’</> Monk said one day. <Quote>’Go to the Human Realm and prepare the people.’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>‘時機已到’</> 修道士某天說道. <Quote>’進入人類的王國，讓人們做好準備.’</>"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_18_text_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘To be honest I never actually wanted to be a teacher‘</> - said Teachy."
+					},
+					"Translation":
+					{
+						"Text": "<Quote>“說實話，我從來沒有真正想過要當壹名老師。”</> 呆魚說道。"
+					},
+					"Key": "UI_EndScreen_entry_7_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Quote>‘To be honest I never wanted to be a teacher’ </>he said. <Quote>‘I only stayed at University so that I can do some more research work. But my students never let me research during lectures.’</>"
+					},
+					"Translation":
+					{
+						"Text": "<Quote>“說實話，我從來就不想當老師” </>他說:<Quote>“老實說，我從來不想當老師。我留在大學只是為了能做更多的研究工作。但我的學生從來不讓我在課堂上做研究。”</>"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_6_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Size42>Separating the World also changed something in the Ruined Realm. The wind turned and even Ruin stopped for a moment.</>"
+					},
+					"Translation":
+					{
+						"Text": "<Size42>分隔世界也改變了被毀滅王國的壹些東西。風向變了，甚至廢墟也停了壹會兒。</>"
+					},
+					"Key": "7279EA4741D3DAC5AE92EB99AB851ED9"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Size42>Separating the World also changed something in the Ruined Realm. The wind turned and even Ruin stopped for a moment.</>"
+					},
+					"Translation":
+					{
+						"Text": "<Size42>分隔世界也改變了被毀滅王國的壹些東西。風向變了，甚至廢墟也停了壹會兒。</>"
+					},
+					"Key": "77E809914A65796364FE94B8C2361FD7"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Size42>Separating the World also changed something in the Ruined Realm. The wind turned and even Ruin stopped for a moment.</>"
+					},
+					"Translation":
+					{
+						"Text": "<Size42>分隔世界也改變了被毀滅王國的壹些東西。風向變了，甚至廢墟也停了壹會兒。</>"
+					},
+					"Key": "9C1B477D4582ABAEDC90FCB3AC6737E7"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Size42>Separating the World also changed something in the Ruined Realm. The wind turned and even Ruin stopped for a moment.</>"
+					},
+					"Translation":
+					{
+						"Text": "<Size42>分隔世界也改變了被毀滅王國的壹些東西。風向變了，甚至廢墟也停了壹會兒。</>"
+					},
+					"Key": "E98C3FDD453FF80CA8EBBE94459A5CAF"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Size42>Separating the World also changed something in the Ruined Realm.</>"
+					},
+					"Translation":
+					{
+						"Text": "<Size42>世界的分離也改變了這片廢墟上的壹些東西。</>"
+					},
+					"Key": "UI_EndScreen_entry_4_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "<Size42>The wind turned and even Ruin stopped for a moment.</>"
+					},
+					"Translation":
+					{
+						"Text": "<Size42>風向轉了，甚至廢墟也停了壹會兒。</>"
+					},
+					"Key": "UI_EndScreen_entry_4_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "A few hours later members of the Mage Council arrived along with the city guards."
+					},
+					"Translation":
+					{
+						"Text": "幾個小時後，法師議會的成員和城市守衛也趕到了。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_1_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "A few weeks later he realized that even though he failed his quest he still should do something."
+					},
+					"Translation":
+					{
+						"Text": "幾個星期後，他意識到，即使他所追尋的東西失敗了，他仍然應該做些什麽。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_13_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "A portal opened and swallowed the Keeper."
+					},
+					"Translation":
+					{
+						"Text": "壹個入口打開了，吞噬了守護者。"
+					},
+					"Key": "UI_EndScreen_entry_5_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "After Kobold Chef left, Supper Dwarf had to take care of the kitchen."
+					},
+					"Translation":
+					{
+						"Text": "地精廚師離開後，晚餐矮人不得不負責廚房。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_11_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "After days of arguing on who undermined whose business Lory and Gnory separated once again."
+					},
+					"Translation":
+					{
+						"Text": "在幾天關於誰攪黃了誰生意的爭論後，洛裏和格諾裏又分開了。"
+					},
+					"Key": "UI_EndScreen_entry_14_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "After lunch they started to talk."
+					},
+					"Translation":
+					{
+						"Text": "午飯後，他們開始交談。"
+					},
+					"Key": "UI_EndScreen_entry_9_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "After weeks of walking alone, he heard a faint excited voice:"
+					},
+					"Translation":
+					{
+						"Text": "獨自行走了幾個星期後，他聽到壹個微弱而興奮的聲音:"
+					},
+					"Key": "UI_EndScreen_entry_16_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Although Lillian inherited her father’s castle she was sent to an Orphanage until she came into age to live on her own."
+					},
+					"Translation":
+					{
+						"Text": "盡管莉莉安繼承了她父親的城堡，她還是被送進了孤兒院，直到她長大獨立生活。"
+					},
+					"Key": "UI_EndScreen_entry_2_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Although it was total nonsense Lillian and Scholar was happy that the crowd were taken away from the Castle."
+					},
+					"Translation":
+					{
+						"Text": "盡管這完全是胡言亂語，莉莉安和斯考拉還是很高興這群人被帶離了城堡。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_1_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "As for Gnory, he decided to sell lots of different things in the City Prison which turned out to be his new home for a while."
+					},
+					"Translation":
+					{
+						"Text": "至於格諾裏，他決定在城市監獄裏賣很多不同的東西，這地方後來成了他的新家。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_17_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "As some stories ended some new ones begun. Though what happened afterwards is not yet known."
+					},
+					"Translation":
+					{
+						"Text": "壹些故事的結束，意味著其它新故事又開始了。雖然後面發生的事目前還無所知曉。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_21_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "As some stories ended some new ones begun. Though what happened afterwards is not yet known."
+					},
+					"Translation":
+					{
+						"Text": "壹些故事的結束，意味著其它新故事又開始了。雖然後面發生的事目前還無所知曉。"
+					},
+					"Key": "UI_EndScreen_entry_18_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "As time passed Scholar started to behave a bit odd which made Lillian really anxious."
+					},
+					"Translation":
+					{
+						"Text": "隨著時間的流逝， 斯考拉表現得有點古怪，這讓莉莉安很擔心。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_5_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "At least he stopped creating mindless stone golems."
+					},
+					"Translation":
+					{
+						"Text": "至少他不再創造沒有頭腦的機器人了。"
+					},
+					"Key": "UI_EndScreen_entry_12_text_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "By the time the furious crowd broke into the Wizard’s Castle the Device was completely destroyed."
+					},
+					"Translation":
+					{
+						"Text": "當憤怒的人群沖進巫師的城堡時，那個裝置已經完全被摧毀了。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_0_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Even though she lost her father Lillian couldn’t afford to let sadness overcome her."
+					},
+					"Translation":
+					{
+						"Text": "即使她失去了父親，莉莉安也不能讓自己被悲傷打倒。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_3_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fishy didn’t like the medicine business so he left Gnory."
+					},
+					"Translation":
+					{
+						"Text": "呆魚不喜歡醫藥行業，所以他離開了格諾裏。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_18_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gnory specialized himself in selling medicine which were said to heal the sickness which was spreading as Ruin reached closer."
+					},
+					"Translation":
+					{
+						"Text": "格諾裏專門賣藥，據說這種藥可以治療隨著毀滅的臨近而擴散的疾病。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_15_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Golem Maker was a huge help to Lillian with his knowledge on Golemology and it was not easy for Lillian to let him go."
+					},
+					"Translation":
+					{
+						"Text": "機器人制造者用他的知識給了莉莉安很大的幫助，讓莉莉安離開很不容易。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_10_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "He decided to leave his kitchen and search for his lost relatives."
+					},
+					"Translation":
+					{
+						"Text": "他決定離開廚房去尋找走失的親人。"
+					},
+					"Key": "UI_EndScreen_entry_10_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "He decided to return to the Ruined Realm and search for his lost relatives."
+					},
+					"Translation":
+					{
+						"Text": "他決定回到廢墟王國去尋找他失蹤的親人。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_9_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "He had no idea where he was going."
+					},
+					"Translation":
+					{
+						"Text": "他不知道自己要去哪裏。"
+					},
+					"Key": "UI_EndScreen_entry_15_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "He joined Lillian and dug into every book he could possibly find on the Ancient’s technology."
+					},
+					"Translation":
+					{
+						"Text": "他和莉莉安一起，翻遍了所有他能找到的關於古代科技的書。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_6_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "He joined Monk for a while to learn the mental training techniques which reserved Monk’s sanity."
+					},
+					"Translation":
+					{
+						"Text": "他加入修道士壹段時間，學習心理訓練技巧，正是這保留了修道士的理智。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_18_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "He joined Monk’s monastery to teach philosophy."
+					},
+					"Translation":
+					{
+						"Text": "他到修道院去教哲學。"
+					},
+					"Key": "UI_EndScreen_entry_8_text_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "He kept on practising and soon set out on a journey into the heart of Ruin to find answers to questions even he didn’t know."
+					},
+					"Translation":
+					{
+						"Text": "他繼續著，很快就踏上了通往毀滅之心的旅程，去尋找那些連他自己都不知道的問題答案。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_13_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "He opened a monastery to share his mental training techniques with anyone willing to save its sanity."
+					},
+					"Translation":
+					{
+						"Text": "他開設了壹座修道院，與任何願意拯救它的人分享他的精神訓練技巧。"
+					},
+					"Key": "UI_EndScreen_entry_6_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "He opened a monastery to share his mental training techniques with anyone willing to save its sanity."
+					},
+					"Translation":
+					{
+						"Text": "他開設了壹座修道院，與任何願意拯救它的人分享他的精神訓練技巧。"
+					},
+					"Key": "E9F6E1064D5B2046DF1DEDA386012E2D"
+				},
+				{
+					"Source":
+					{
+						"Text": "He organized some of the cleaners to repair the Castle so that Lillian can keep on with her work."
+					},
+					"Translation":
+					{
+						"Text": "他組織了壹些清潔工來修理城堡，這樣莉莉安就可以繼續她的工作了。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_7_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "He sat down on a mountaintop and started meditating."
+					},
+					"Translation":
+					{
+						"Text": "他坐在山頂上開始冥想。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_12_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "He was just sitting and staring at nothing."
+					},
+					"Translation":
+					{
+						"Text": "他只是坐著，眼神放空。"
+					},
+					"Key": "UI_EndScreen_entry_12_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hearing these news made the Chef really excited."
+					},
+					"Translation":
+					{
+						"Text": "聽到這個消息，廚師非常興奮。"
+					},
+					"Key": "UI_EndScreen_entry_10_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hearing this news made Kobold Chef really excited."
+					},
+					"Translation":
+					{
+						"Text": "聽到這個消息，地精廚師非常興奮。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_9_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "However there are things which never change."
+					},
+					"Translation":
+					{
+						"Text": "然而，有些事情永遠不會改變。"
+					},
+					"Key": "UI_EndScreen_entry_14_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "In his free hours he kept on studying the Ancient’s technology hoping that one day he will find a way back to Lillian."
+					},
+					"Translation":
+					{
+						"Text": "在他空閑的時候，他繼續研究古人的技術，希望有壹天他會找到壹個方法回到莉莉安身邊。"
+					},
+					"Key": "UI_EndScreen_entry_8_text_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "It turned out that he is also really talented at making food."
+					},
+					"Translation":
+					{
+						"Text": "那是因為我知道最終的結果應該是什麽，他在做食物方面也很有天賦。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_11_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "It was still hard for the Maker to accept that all his work was for nothing."
+					},
+					"Translation":
+					{
+						"Text": "制作者仍然很難接受他所有的工作都是徒勞的。"
+					},
+					"Key": "UI_EndScreen_entry_12_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Later he opened a restaurant which soon became really popular."
+					},
+					"Translation":
+					{
+						"Text": "後來他開了壹家餐館，很快就大受歡迎。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_11_text_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Later he started to remember things from the Runic Realm which helped Lillian a lot."
+					},
+					"Translation":
+					{
+						"Text": "後來，他開始記起了神秘王國的事情，這對莉莉安幫助很大。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_7_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lillian didn't let the unfortunate events to overcome her. She stopped Ruin even if no one believed her."
+					},
+					"Translation":
+					{
+						"Text": "莉莉安沒有讓這些不幸的事情壓倒她。即使沒有人相信她，她也不會破產。"
+					},
+					"Key": "UI_EndScreen_entry_3_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lory and Gnory suddenly found themselves in a world full of possible customers."
+					},
+					"Translation":
+					{
+						"Text": "勞裏和格諾裏突然發現自己身處壹個到處都遍布著潛在客戶的世界。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_14_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lory specialized in medicine which were said to heal the sickness which was caused by the medicine of Gnory."
+					},
+					"Translation":
+					{
+						"Text": "勞裏專門從事醫學，據說可以治療由格諾裏藥物所引發的疾病。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_15_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lory’s herbaria worked out."
+					},
+					"Translation":
+					{
+						"Text": "勞裏的草藥成功了。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_16_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Losing his connection to his master, Raven had to think again about his purpose."
+					},
+					"Translation":
+					{
+						"Text": "烏鴉失去了與主人的聯系，不得不重新考慮他的目標。"
+					},
+					"Key": "UI_EndScreen_entry_8_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Merch Ant and Fishy soon became best friends and ventured on together."
+					},
+					"Translation":
+					{
+						"Text": "螞蟻和呆魚很快成為了最好的朋友，壹起冒險。"
+					},
+					"Key": "UI_EndScreen_entry_16_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Merch Ant and Fishy soon became best friends and ventured on together."
+					},
+					"Translation":
+					{
+						"Text": "螞蟻和呆魚很快成為了最好的朋友，壹起冒險。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_19_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Monk accepted Fishy as his apprentice and taught him all that was possible."
+					},
+					"Translation":
+					{
+						"Text": "修道士接受了呆魚做他的徒弟，並教會了他所有可能的事情。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_18_text_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Monk decided to stay in the Ruined Realm."
+					},
+					"Translation":
+					{
+						"Text": "修道士決定留在這片廢墟上。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_12_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "No one knows how he could possibly know about the soup, but Supper Dwarf also appeared to taste the food."
+					},
+					"Translation":
+					{
+						"Text": "沒人知道他怎麽可能知道湯的事，但晚餐矮人似乎也嘗到了食物的味道。"
+					},
+					"Key": "UI_EndScreen_entry_11_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Now that her own Realm was safe she could focus on the other Realms."
+					},
+					"Translation":
+					{
+						"Text": "現在她自己的領域是安全的，她可以專註於其他領域。"
+					},
+					"Key": "UI_EndScreen_entry_3_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Of course it didn’t mean they stopped arguing on who undermined whose business but finally they both had the chance to run a successful trading company."
+					},
+					"Translation":
+					{
+						"Text": "當然，這並不意味著他們不再爭論誰破壞了誰的生意，但最終他們都有機會經營壹家成功的貿易公司。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_14_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "On his way to the Human Realm Fishy heard a faint excited voice:"
+					},
+					"Translation":
+					{
+						"Text": "在去人類王國的路上，呆魚聽到壹個微弱而興奮的聲音:"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_19_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "On their way they stopped by the Golem Maker."
+					},
+					"Translation":
+					{
+						"Text": "路上，他們順道拜訪了機器人制造者。"
+					},
+					"Key": "UI_EndScreen_entry_12_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Once the Boundaries of Worlds were sealed, Ruin could do no harm to the Human Realm again."
+					},
+					"Translation":
+					{
+						"Text": "壹旦世界的邊界被封閉，毀滅就不會再對人類王國造成傷害。"
+					},
+					"Key": "UI_EndScreen_entry_0_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "One day a Pipe Walker, who had been in many cages mentioned that she met some kobolds far away who might be other survivors of the Kobold Chef’s tribe."
+					},
+					"Translation":
+					{
+						"Text": "有壹天，壹個曾經被關在許多籠子裏的吹笛子的人提到，她在很遠的地方遇到了壹些地精，它們可能是狗頭廚師部落的其他幸存者。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_8_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "One of the Pipe Walkers, who had been in many cages mentioned that she actually met some kobolds far away."
+					},
+					"Translation":
+					{
+						"Text": "其中壹個曾經被關在籠子裏的管道行走者提到，她實際上在很遠的地方遇到了壹些地精。"
+					},
+					"Key": "UI_EndScreen_entry_9_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruin was close and the solution was still far away."
+					},
+					"Translation":
+					{
+						"Text": "毀滅近在咫尺，解決之道遙遙無期。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_5_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruin was more of a threat now than ever before, and since the Mage Council didn’t believe in Ruin it was the task of Lillian and Scholar to repair the device."
+					},
+					"Translation":
+					{
+						"Text": "現在的毀滅比以往任何時候都是一個威脅，因為法師議會不相信毀滅，所以維修這個裝置變成了莉莉安和學者的任務。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_3_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Scholar was really proud of Lillian because she managed to save time for the evacuation."
+					},
+					"Translation":
+					{
+						"Text": "斯考拉真的為莉蓮感到驕傲，因為她設法並成功地節省了疏散的時間。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_4_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Scholar was upset by Lillian’s decision on letting the Ruined Realm fall but he promised Lillian that he will make the Wizard’s Council let Lillian live in his estate."
+					},
+					"Translation":
+					{
+						"Text": "斯科拉對莉莉安讓這個被摧毀的王國淪陷的決定感到沮喪，但他答應莉莉安，他會讓巫師協會讓莉莉安住在他的莊園裏。"
+					},
+					"Key": "UI_EndScreen_entry_2_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "She also knew that the Ruined Realm still had at least a half century before it was totally destroyed so she decided to keep on looking for a way to save it."
+					},
+					"Translation":
+					{
+						"Text": "她也知道，被摧毀的王國至少還有半個世紀才會完全被摧毀，所以她決定繼續尋找拯救它的方法。"
+					},
+					"Key": "UI_EndScreen_entry_3_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Some believed he survived but no one ever met him again."
+					},
+					"Translation":
+					{
+						"Text": "壹些人相信他肯定活了下來，但是沒有人再見到他。"
+					},
+					"Key": "UI_EndScreen_entry_5_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Some left, others started to investigate the building hoping to find something which might stop Ruin."
+					},
+					"Translation":
+					{
+						"Text": "壹些人離開了，另壹些人開始調查這座建築，希望能找到壹些可以阻止破壞的東西。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_0_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Some say mostly because he hired Pipe Walkers to serve the meal and for marketing purposes."
+					},
+					"Translation":
+					{
+						"Text": "有些人說，這主要是因為壹來他雇了壹些管道行走者來布置餐品，二來出於營銷的目的。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_11_text_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Soon she started to sell other medicine and healing devices as well."
+					},
+					"Translation":
+					{
+						"Text": "不久，她開始出售其他藥物和治療設備。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_16_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Council claimed that Wizard died in an unfortunate accident, his device could never actually work anyway and Ruin is nothing to fear of."
+					},
+					"Translation":
+					{
+						"Text": "協會聲稱巫師死於壹場不幸的事故，他的裝置無論如何都不可能真正起作用，另外毀滅也沒什麽可怕的。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_1_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Mage Council didn’t believe a single word Lillian or Scholar told them about the events."
+					},
+					"Translation":
+					{
+						"Text": "法師協對於莉莉安或斯考拉對於這次事件的描述壹個字也不相信。"
+					},
+					"Key": "UI_EndScreen_entry_1_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "The World was still about to end, but as one Pipe Walker wisely said:"
+					},
+					"Translation":
+					{
+						"Text": "世界即將毀滅，正如壹位明智的管道行走者所說的那樣:"
+					},
+					"Key": "UI_EndScreen_entry_17_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "The World was still about to end, but as one Pipe Walker wisely said:"
+					},
+					"Translation":
+					{
+						"Text": "世界即將毀滅，正如壹位明智的管道行走者所說的那樣:"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_20_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "The new environment and being a bit further from Ruin made good to the Gate Keeper."
+					},
+					"Translation":
+					{
+						"Text": "新環境離毀滅還有壹段距離，這對守門人來說是件好事。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_7_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "The people soon forgot about the threat, some of them argued that Ruin ever existed."
+					},
+					"Translation":
+					{
+						"Text": "人們很快就忘記了這個威脅，他們中的壹些人認為曾經有過毀滅。"
+					},
+					"Key": "E8401550448E14DD70717EB7EED0582B"
+				},
+				{
+					"Source":
+					{
+						"Text": "The people soon forgot about the threat, some of them argued that Ruin ever existed."
+					},
+					"Translation":
+					{
+						"Text": "人們很快就忘記了這個威脅，他們中的壹些人認為曾經有過毀滅。"
+					},
+					"Key": "UI_EndScreen_entry_0_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "The people soon forgot about the threat, some of them argued that Ruin ever existed."
+					},
+					"Translation":
+					{
+						"Text": "人們很快就忘記了這個威脅，他們中的壹些人認為曾經有過毀滅。"
+					},
+					"Key": "DF7F9F754F4FC9CB19DF92AFCE96C5C1"
+				},
+				{
+					"Source":
+					{
+						"Text": "They claimed that Wizard died in an unfortunate accident and his device could never actually work anyway."
+					},
+					"Translation":
+					{
+						"Text": "他們聲稱巫師死於壹場不幸的事故，他的裝置永遠也不能真正工作。"
+					},
+					"Key": "UI_EndScreen_entry_1_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "To the surprise of many Teachy also joined Monk and soon he became his best student."
+					},
+					"Translation":
+					{
+						"Text": "令許多老師驚訝的是，他也加入了修道院，並且很快成為他最好的學生。"
+					},
+					"Key": "UI_EndScreen_entry_7_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "To the surprise of many Teachy turned out to be an excellent researcher."
+					},
+					"Translation":
+					{
+						"Text": "令許多人吃驚的是，提奇原來是壹位優秀的研究員。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_6_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "When he heard about the lost Kobold tribe he got a bit excited."
+					},
+					"Translation":
+					{
+						"Text": "當他聽說流失的地精部落時，他顯得有些興奮。"
+					},
+					"Key": "UI_EndScreen_entry_13_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "When he heard about the lost Kobold tribe he got a bit excited.<Quote>‘Kobolds reserved the ancient knowledge in their rituals’</> he said. <Quote>‘If there is something we can do with Ruin it must be connected to the rituals. I’ll go with you.’</>"
+					},
+					"Translation":
+					{
+						"Text": "當他聽說失落的地精部落時，他有點興奮.<Quote>‘地精在他們的儀式中保留了古老的知識。’</> 他說道。 <Quote>‘如果我們能對毀滅做點什麽，那壹定是與宗教儀式有關。我和妳壹起去。’</>"
+					},
+					"Key": "9B476D3D4A603658683498B09968F8AA"
+				},
+				{
+					"Source":
+					{
+						"Text": "When he heard that the chef is leaving he offered his help with the trains."
+					},
+					"Translation":
+					{
+						"Text": "當他聽說廚師要走的時候，他主動提出要幫忙修火車。"
+					},
+					"Key": "UI_EndScreen_entry_11_text_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "When it was certain that no one will be saved from Ruin, as a last desperate act Gate Keeper tried to open a Gate to the Human Realm himself."
+					},
+					"Translation":
+					{
+						"Text": "當最後壹個絕望的守護者試圖自己打開通往人類王國的大門時，沒有人能從廢墟中被拯救出來。"
+					},
+					"Key": "UI_EndScreen_entry_5_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "When she talked about her concerns to Raven, the bird said:"
+					},
+					"Translation":
+					{
+						"Text": "當她向烏鴉訴說她的苦惱時，這只鳥兒說道："
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_5_text_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "When the soup was almost ready the Pipe Walkers smelled the flavour and they all gathered for a last dinner."
+					},
+					"Translation":
+					{
+						"Text": "當湯差不多準備好的時候，管道行走者聞到了味道，他們全體聚集在壹起吃最後壹頓飯。"
+					},
+					"Key": "UI_EndScreen_entry_9_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "When they were left alone they quickly started the evacuation of the Ruined Realm."
+					},
+					"Translation":
+					{
+						"Text": "當只剩下他們的時候，他們迅速開始撤離這個被毀壞的王國。"
+					},
+					"Key": "UI_EndScreen_SaveCreatures_entry_2_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "While they were arguing Fishy decided to leave Gnory and set out on his own."
+					},
+					"Translation":
+					{
+						"Text": "當他們在爭論的時候，呆魚決定離開格諾裏，獨自上路。"
+					},
+					"Key": "UI_EndScreen_entry_15_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "With his quest completed Monk decided to look for another activity."
+					},
+					"Translation":
+					{
+						"Text": "任務完成後，修道士決定尋找另壹個活動。"
+					},
+					"Key": "UI_EndScreen_entry_6_text_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "With his quest completed Monk decided to look for another activity. He thought: <Quote>‘If I could resist madness, others should be able to do the same.’</> And so he opened a monastery to share his mental training techniques with anyone willing to save its sanity."
+					},
+					"Translation":
+					{
+						"Text": "任務完成後，修道士決定尋找另壹個活動。他想著: <Quote>‘如果我能抵抗瘋狂，其他人也應該能做到。’</> 於是他開辦了壹座修道院，與任何願意拯救它的人分享他的精神訓練技巧。"
+					},
+					"Key": "5D04206A499A8B42AF77BAA8BC9B4B8B"
+				},
+				{
+					"Source":
+					{
+						"Text": "With his quest completed Monk decided to look for another activity. He thought: <Quote>‘If I could resist madness, others should be able to do the same.’</> And so he opened a monastery to share his mental training techniques with anyone willing to save its sanity."
+					},
+					"Translation":
+					{
+						"Text": "任務完成後，修道士決定尋找另壹個活動。他想著: <Quote>‘如果我能抵抗瘋狂，其他人也應該能做到。’</> 於是他開辦了壹座修道院，與任何願意拯救它的人分享他的精神訓練技巧。"
+					},
+					"Key": "B0EEBB754110D2821640BE990002AC36"
+				},
+				{
+					"Source":
+					{
+						"Text": "With his quest completed Monk decided to look for another activity. He thought: <Quote>‘If I could resist madness, others should be able to do the same.’</> And so he opened a monastery to share his mental training techniques with anyone willing to save its sanity."
+					},
+					"Translation":
+					{
+						"Text": "任務完成後，修道士決定尋找另壹個活動。他想著: <Quote>‘如果我能抵抗瘋狂，其他人也應該能做到。’</> 於是他開辦了壹座修道院，與任何願意拯救它的人分享他的精神訓練技巧。"
+					},
+					"Key": "D75DCE214B56BA6FD9A58F9EEA9291A5"
+				},
+				{
+					"Source":
+					{
+						"Text": "With his quest completed Monk decided to look for another activity. He thought: <Quote>‘If I could resist madness, others should be able to do the same.’</> And so he opened a monastery to share his mental training techniques with anyone willing to save its sanity."
+					},
+					"Translation":
+					{
+						"Text": "任務完成後，修道士決定尋找另壹個活動。他想著: <Quote>‘如果我能抵抗瘋狂，其他人也應該能做到。’</> 於是他開辦了壹座修道院，與任何願意拯救它的人分享他的精神訓練技巧。"
+					},
+					"Key": "1E42901841F4C7CEF39536A762076EDF"
+				},
+				{
+					"Source":
+					{
+						"Text": "With his vast experience he couldn’t become the same thoughtless bird he once was."
+					},
+					"Translation":
+					{
+						"Text": "有了豐富的經驗，他不可能再像以前那樣粗心大意了。"
+					},
+					"Key": "UI_EndScreen_entry_8_text_2"
+				}
+			]
+		},
+		{
+			"Namespace": "EnemyGroupData",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "'Attention: our enemies greatest weapon, the holy Mace is stolen. We truly should have destroyed it as the Council suggested.'"
+					},
+					"Translation":
+					{
+						"Text": "“註意:我們的敵人最大的武器，神聖的權杖被偷走了。我們真應該按照協會的建議把它毀掉。”"
+					},
+					"Key": "SoAct1_EG_MaceGroup_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "'Just keep cleaning! Cleaning, cleaning...'"
+					},
+					"Translation":
+					{
+						"Text": "“保持清潔！清潔、清潔……”"
+					},
+					"Key": "SoAct1_EG_AGRightFromPortal_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "'Let's make something clear. Maybe this room?'"
+					},
+					"Translation":
+					{
+						"Text": "“讓我們來弄清楚。也許是這個房間?”"
+					},
+					"Key": "SoAct1_EG_SAFightOptional_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "'We won't clean anymore!' said the rebel Maintainer.\r\n'Let's declear War!'"
+					},
+					"Translation":
+					{
+						"Text": "“‘我們不會再清理了! 反對派的維修者說。\r\n讓我們宣布戰爭開始!”"
+					},
+					"Key": "SoAct1_EG_SAFightMustHave_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A fourth Sphere Golem? Someone never gives up..."
+					},
+					"Translation":
+					{
+						"Text": "第四個球形機器人？總有人不輕言放棄..."
+					},
+					"Key": "SoAct2_EG_LavaDeepTeam_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Abandoned Fishy Slaves"
+					},
+					"Translation":
+					{
+						"Text": "被拋棄的呆魚奴隸"
+					},
+					"Key": "SoAct2_EG_HutFishies_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "After Ruin most Golems liked to group together. Only a few chose to stay alone."
+					},
+					"Translation":
+					{
+						"Text": "在毀滅之後，大多數的機器人喜歡聚集在壹起。只有少數人選擇獨自生活。"
+					},
+					"Key": "SoAct1_EG_LoneSewerDrone_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "After Ruin turned them into Monsters some creatures gathered together. Whether it's the effect of Ruin or something from their former life is unclear."
+					},
+					"Translation":
+					{
+						"Text": "在廢墟把它們變成怪物之後，壹些生物聚集在壹起。這是毀滅造成的還是他們以前生活中的某些東西導致的尚不清楚。"
+					},
+					"Key": "SoAct2_EG_Shore_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "After Ruin, Golems started to have strange behavior. There were a group of them who used the pipes to flood a part of the City. Later these places were called the Sewer."
+					},
+					"Translation":
+					{
+						"Text": "毀滅之後，機器人開始有奇怪的行為。有壹群機器人用管道將城市的壹部分淹沒。後來這些地方被稱為下水道。"
+					},
+					"Key": "SoAct1_EG_MaintainerInvestigatorInvestigators_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "After creating intelligence Golem Makers wanted even more. They wanted complex personality. They wanted Golems that can not only think but also feel. That was the idea behind designing the Gatekeepers."
+					},
+					"Translation":
+					{
+						"Text": "在創造了智能之後，機器人制造者想要更多。他們想要復雜的個性。他們想要的是既能思考又能感知的機器人。這就是設計“看門人”背後的想法。"
+					},
+					"Key": "SoAct1_EG_ArcadeDungeonExit_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "After the different types of Cleaners, Golem Makers wanted to create something greater than working robots. They started to design creatures with intelligence."
+					},
+					"Translation":
+					{
+						"Text": "在生產出不同類型的清潔型機器人後，機器人制造者想要創造出比工作機器人更偉大的東西。他們開始設計具有智力的生物。"
+					},
+					"Key": "WhiteWall_EG_FirstOptionalCombat_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Annoying Flies"
+					},
+					"Translation":
+					{
+						"Text": "討厭的蒼蠅"
+					},
+					"Key": "SoAct2_EG_HutFlyArmy_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Another Lone Drone"
+					},
+					"Translation":
+					{
+						"Text": "另壹個孤獨的無人機"
+					},
+					"Key": "SoAct1_EG_LoneSewerDrone_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Anxious Armours"
+					},
+					"Translation":
+					{
+						"Text": "焦慮的鎧甲"
+					},
+					"Key": "SoAct2_EG_C_BeforeKey_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Arcade Cleaner Golems"
+					},
+					"Translation":
+					{
+						"Text": "回廊清潔機器人"
+					},
+					"Key": "SoAct1_EG_ArcadeMaintainers_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Arcade Cleaners"
+					},
+					"Translation":
+					{
+						"Text": "回廊清潔工"
+					},
+					"Key": "SoAct1_EG_ArcadeDungeonCleaners_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Arcade Servants"
+					},
+					"Translation":
+					{
+						"Text": "回廊的侍者"
+					},
+					"Key": "SoAct1_EG_ArcadeDungeonExit_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Armour Wrath"
+					},
+					"Translation":
+					{
+						"Text": "鎧甲之怒"
+					},
+					"Key": "SoAct2_EG_LavaBoss_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Armour Wrath was the most ambitious and majestic work of the Golem Maker. He used all his remaining strength to create this mighty Golem. It's a pity that all his efforts were in vain."
+					},
+					"Translation":
+					{
+						"Text": "《鎧甲之怒》是機器人制造者最具野心、最宏偉的作品。他用所有剩余的力量創造了這個強大的機器人。真遺憾，他所有的努力都白費了。"
+					},
+					"Key": "SoAct2_EG_LavaBoss_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Before Ruin there was no other humanoid race but human. New races are created by Ruin's Shades. They roam the lands looking for any living being which they can possess. Once they become part of a creature its body will start to change."
+					},
+					"Translation":
+					{
+						"Text": "在毀滅之前沒有其他類人種族，只有人類。毀滅的陰影創造了新的種族。他們四處流浪，尋找任何他們可以擁有的生物。壹旦它們成為生物的壹部分，它的身體就會開始改變。"
+					},
+					"Key": "SoAct2_EG_C_LoneShadeSphere_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bounce Trio"
+					},
+					"Translation":
+					{
+						"Text": "彈跳三重奏"
+					},
+					"Key": "SoAct2_EG_BounceTrio_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bridge Brigade"
+					},
+					"Translation":
+					{
+						"Text": "橋的部隊"
+					},
+					"Key": "SoAct2_EG_C_Bridge_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Capetainers"
+					},
+					"Translation":
+					{
+						"Text": "披肩訓練者"
+					},
+					"Key": "SoAct1_EG_AfterGateElits_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chest"
+					},
+					"Translation":
+					{
+						"Text": "寶箱"
+					},
+					"Key": "SoAct1_EG_Chest_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Citizens of Cerulean requested to have their own unique Golems, but it was always rejected. This situation was very good for the Black Golem Market, because this way it was always easy to find customers."
+					},
+					"Translation":
+					{
+						"Text": "蔚藍之城的市民要求擁有自己獨特的機器人，但總是遭到拒絕。這種情況對地下機器人市場非常有利，因為客源總是源源不斷。"
+					},
+					"Key": "SoAct1_EG_AfterGateCleaners_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cleaner Invasion"
+					},
+					"Translation":
+					{
+						"Text": "清潔者侵入"
+					},
+					"Key": "SoAct1_EG_AGRightFromPortal_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cleaner Twins"
+					},
+					"Translation":
+					{
+						"Text": "更幹凈的雙胞胎"
+					},
+					"Key": "SoAct3_EG_Act3RangedCleanerTwins_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cleaners of Cerulean"
+					},
+					"Translation":
+					{
+						"Text": "蔚藍之城的清潔工"
+					},
+					"Key": "SoAct1_EG_AfterGateCleaners_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cleaners of the Refrigerator."
+					},
+					"Translation":
+					{
+						"Text": "冰箱清潔工。"
+					},
+					"Key": "SoAct1_EG_SABeforeWallJump_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cleaners were the first Golems ever made. Before the Cataclysm they did all the monoton work so that the people had more time to think and to create."
+					},
+					"Translation":
+					{
+						"Text": "清潔機器人是第壹批制造出來的。在大災難來臨之前，他們完成了所有單調的工作，這樣人們就有更多的時間進行思考和創造。"
+					},
+					"Key": "WhiteWall_EG_FirstCombat_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Crafting was always the obsession of Dwarves. In their workshops they forged mighty weapons and wondrous armours. Their love for their craft was so strong that instead of their body, Ruin preserved their iron works."
+					},
+					"Translation":
+					{
+						"Text": "地精壹直癡迷於手工藝。在他們的工坊裏，它們制造了強大的武器和神奇的盔甲。它們對自己手藝的熱愛是如此強烈，以至於它們的鐵制品不但沒有被毀滅，反而被保存了下來。"
+					},
+					"Key": "SoAct2_EG_C_Bridge_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Creating intelligence was not enough for the Golem Makers. They wanted to get even further. They wanted to create Golems with emotions."
+					},
+					"Translation":
+					{
+						"Text": "光給機器人創造智力對制造者來說是不夠的。他們想更進壹步，想創造有感情的機器人。"
+					},
+					"Key": "WhiteWall_EG_AfterKobold_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Deep beneath the Catacombs there is a secret place called the Dwarven Gate. Elite dwarves who worked here were placed above the Law. They were seeking a way to fight Ruin with Ruin's magic."
+					},
+					"Translation":
+					{
+						"Text": "在地下墓穴的深處有壹個秘密的地方，叫做地精之門。在這裏工作的精英地精被置於法律之上。他們在尋找壹種用毀滅魔法與毀滅作鬥爭的方法。"
+					},
+					"Key": "SoAct2_EG_DG_Left_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Deserter Fishys"
+					},
+					"Translation":
+					{
+						"Text": "逃兵魚"
+					},
+					"Key": "SoAct2_EG_SlideFishyTeam_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Deserter Fishys always kept a Fishy group close to the exit of their secret hideout. They protected the others and watched the kobolds to find the right time to venture back to the Lake."
+					},
+					"Translation":
+					{
+						"Text": "逃兵魚總是把壹群魚放在它們秘密藏身處的出口附近。它們保護著其他的地精，看著他們尋找合適的時間冒險回到湖邊。"
+					},
+					"Key": "SoAct2_EG_SlidePathEnd_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Divided they fall, united they divide..."
+					},
+					"Translation":
+					{
+						"Text": "分裂就會垮臺，團結就會分裂……"
+					},
+					"Key": "SoAct2_EG_LavaTeamX_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Drones delivered messages and gifts before Ruin. People were happy when they heard them approaching back then."
+					},
+					"Translation":
+					{
+						"Text": "無人機在廢墟前傳遞信息和禮物。當人們聽到他們回來的時候都很高興。"
+					},
+					"Key": "SoAct1_EG_LoneDrone_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Drones were even more intelligent than Maintainers. They not only memorized texts, they helped correct grammar, changed the message if it was too insulting or even made up poems if they were asked to do so."
+					},
+					"Translation":
+					{
+						"Text": "無人機甚至比維修工更聰明。它們不僅能記憶課文，還能幫助糾正語法錯誤，如果信息文字有所冒犯，它們還能修改信息，如果有所需要，他們甚至還能編詩。"
+					},
+					"Key": "SoAct1_EG_AAFirstDroneTrio_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarven Statue"
+					},
+					"Translation":
+					{
+						"Text": "地精雕像"
+					},
+					"Key": "SoAct2_EG_DwarfBoss_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarven Statues were meant to imprison the essence of Ruin. However there were some Dwarven scientists who feared that the statues were not safe and in the long run they wouldn't be able to resist the power of Ruin..."
+					},
+					"Translation":
+					{
+						"Text": "地精雕像是用來囚禁廢墟的精華的。然而，也有壹些地精科學家擔心這些雕像不安全，從長遠來看，它們將無法抵抗毀滅的力量……"
+					},
+					"Key": "SoAct2_EG_DwarfBoss_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dwarves fought Ruin with Rules. These soldiers were ordered here to guard the Outpost. Their will to obey the order was so strong that even death couldn't break it."
+					},
+					"Translation":
+					{
+						"Text": "地精們用規則來對抗毀滅。這些士兵奉命在這裏守衛前哨。他們服從命令的意誌是如此強烈，即使死亡也無法打破它。"
+					},
+					"Key": "SoAct2_EG_OutpostWallFirst_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Elite Twins"
+					},
+					"Translation":
+					{
+						"Text": "精英雙胞胎"
+					},
+					"Key": "SoAct3_EG_Act3VacuumTwins_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Even though Ruin doesn't have consciousness nor the ability to think it somehow reacts to your presence. As if it knew the threat you present, Ruin tries all it can to stop you from leaving the Ruined Realm."
+					},
+					"Translation":
+					{
+						"Text": "即使毀滅沒有意識，也沒有能力去思考它對妳的存在有什麽反應。就好像它知道妳的威脅壹樣，毀滅竭盡所能阻止妳離開這個荒廢領域。"
+					},
+					"Key": "SoAct3_EG_Act3FinalBattle_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Even though most of the common Dwarves never even heard about Dwarven Gate some were needed to do the hard work. Now that Ruin won, Dwarves are finally equal."
+					},
+					"Translation":
+					{
+						"Text": "盡管大多數普通的地精甚至從未聽說過地精之門，但還是需要壹些人來做這些艱苦的工作。現在毀滅贏了，地精們終於平等了。"
+					},
+					"Key": "SoAct2_EG_DG_RightFloor_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fallen Druid"
+					},
+					"Translation":
+					{
+						"Text": "墮落的德魯伊"
+					},
+					"Key": "SoAct2_EG_WWBoss_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fishys were produced by the Great Kobold tribe for slaves. Some of them managed to escape, but they couldn't go far from the Lake."
+					},
+					"Translation":
+					{
+						"Text": "魚是偉大的地精部落為奴隸生產的。它們中的壹些設法逃走了，但沒法離開湖太遠。"
+					},
+					"Key": "SoAct2_EG_SlideFishyTeam_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Flying Maintainer"
+					},
+					"Translation":
+					{
+						"Text": "飛行維護者"
+					},
+					"Key": "WhiteWall_EG_AfterKobold_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fourth Sphere Golem"
+					},
+					"Translation":
+					{
+						"Text": "第四個球形機器人"
+					},
+					"Key": "SoAct2_EG_LavaDeepTeam_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Glorious Group"
+					},
+					"Translation":
+					{
+						"Text": "光榮小組"
+					},
+					"Key": "SoAct2_EG_DG_Left_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Going into the Law's High Office was forbidden even for most of the Dwarves. Only one path lead to the Office and that was guarded by the Patrols."
+					},
+					"Translation":
+					{
+						"Text": "即使對大多數地精來說，進入法律界的高層辦公室也是被禁止的。只有壹條路通向辦公室，那是由巡邏隊把守的。"
+					},
+					"Key": "SoAct2_EG_C_OfficePatrols_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Golem Group"
+					},
+					"Translation":
+					{
+						"Text": "機器人小組"
+					},
+					"Key": "SoAct2_EG_LavaTeamX_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Golem Makers wanted to create something more intelligent as they learned more. They shaped the Maintainers, the first golems capable of talking. Sadly their intelligence vanished as Ruin came."
+					},
+					"Translation":
+					{
+						"Text": "當機器人制造者學到更多的時候，他們想要創造壹些更智能的東西。他們塑造了維修者，也就是第壹批會說話的機器人。不幸的是，隨著毀滅的來臨，他們的智慧消失了。"
+					},
+					"Key": "SoAct1_EG_SewerTeam_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Golem Trio"
+					},
+					"Translation":
+					{
+						"Text": "機器人三重奏"
+					},
+					"Key": "SoAct2_EG_LavaTrio_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Golems never ever attacked the Pipe Walkers. The reason is only known by the wisest Pipe Walker himself. It is because, as he explained: 'Nun dara bum, tuk la.'"
+					},
+					"Translation":
+					{
+						"Text": "機器人從來沒有攻擊過管道行走者。這個原因只有最聰明的管道行走者自己知道。正如他所解釋的那樣，這是因為:“Nun dara bum， tuk la。”"
+					},
+					"Key": "SoAct1_EG_TLSewerCreatureWatch_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Guardians of the East Wall"
+					},
+					"Translation":
+					{
+						"Text": "東墻守護者"
+					},
+					"Key": "SoAct2_EG_OutpostRight_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Guardians of the Law"
+					},
+					"Translation":
+					{
+						"Text": "法律守護者"
+					},
+					"Key": "SoAct2_EG_C_OfficeGuards_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Guardians of the West Wall"
+					},
+					"Translation":
+					{
+						"Text": "西墻守護者"
+					},
+					"Key": "SoAct2_EG_OutpostLeft_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Infected Golems"
+					},
+					"Translation":
+					{
+						"Text": "被感染的機器人"
+					},
+					"Key": "WhiteWall_EG_BeforeKobold_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "It's still unclear what makes some creatures touched by Ruin to group together. Some believes those who had similar emotions when Ruin came were likely to form a group."
+					},
+					"Translation":
+					{
+						"Text": "目前還不清楚是什麽原因使得壹些被廢墟觸碰過的生物聚集在壹起。壹些人認為，當毀滅來臨的時候，那些有類似情緒的家夥可能會形成壹個群體。"
+					},
+					"Key": "SoAct2_EG_C_BeforeKey_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lava Jumpers"
+					},
+					"Translation":
+					{
+						"Text": "熔巖跳躍者"
+					},
+					"Key": "SoAct2_EG_LavaJumpers_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lava Jumpers are former Golems who fell into the lava. Some of them return to join their former Golem companions."
+					},
+					"Translation":
+					{
+						"Text": "熔巖跳躍者是落入熔巖的前機器人。他們中的壹些回到了以前的夥伴那裏。"
+					},
+					"Key": "SoAct2_EG_BounceTrio_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Libraries were important in the life of the former Realm's citizens. No wonder that many of the golems were created only to dust and organize the books."
+					},
+					"Translation":
+					{
+						"Text": "圖書館在前王國公民的生活中很重要。難怪許多機器人被創造出來只是為了打掃和整理書籍。"
+					},
+					"Key": "SoAct1_EG_TL_VacuumTwins_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Library Cleaners"
+					},
+					"Translation":
+					{
+						"Text": "圖書館清潔工"
+					},
+					"Key": "SoAct1_EG_TL_VacuumTwins_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lone Drone"
+					},
+					"Translation":
+					{
+						"Text": "孤獨的無人機"
+					},
+					"Key": "SoAct1_EG_LoneDrone_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Looks like the second try is just as bad as the first one."
+					},
+					"Translation":
+					{
+						"Text": "看來第二次和第壹次壹樣糟糕。"
+					},
+					"Key": "SoAct2_EG_GolemSecond_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mace Defenders"
+					},
+					"Translation":
+					{
+						"Text": "拐杖防禦者"
+					},
+					"Key": "SoAct1_EG_MaceGroup_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Maintainer Spellcasters"
+					},
+					"Translation":
+					{
+						"Text": "維修工施法者"
+					},
+					"Key": "SoAct3_EG_Act3BubbleGroundMain_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Maintainers of the Pipes"
+					},
+					"Translation":
+					{
+						"Text": "管道的維修工"
+					},
+					"Key": "SoAct1_EG_MaintainerInvestigators_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Maybe it only depends on the creation process, but some Golems had stronger personality. In general, Golems with more intelligence resisted Ruin longer and Golems with strong personality were more vulnerable to the infection."
+					},
+					"Translation":
+					{
+						"Text": "也許這只取決於創造的過程，但有些機器人有更強的個性。壹般來說，高智商的機器人抵抗毀滅的時間更長，個性強的機器人更容易受到感染。"
+					},
+					"Key": "SoAct1_EG_GGMiniBoss_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "More Drones"
+					},
+					"Translation":
+					{
+						"Text": "更多的無人機"
+					},
+					"Key": "SoAct3_EG_Act3PipeGroupSecond_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "No one knows where the Flies came from. Although you have a very clear idea on where they should go..."
+					},
+					"Translation":
+					{
+						"Text": "沒有人知道蒼蠅是從哪裏來的。雖然妳很清楚它們應該去哪裏……"
+					},
+					"Key": "SoAct2_EG_HutFlyArmy_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not only the Golems were created by using the Spirits of the Unknown World before Ruin. People found other ways of using this new technology. They created pipes to convey hot water to heat the city and cold water to drink."
+					},
+					"Translation":
+					{
+						"Text": "不僅僅是機器人是在毀滅前利用未知世界的靈魂創造出來的。人們找到了使用這項新技術的其他方法。他們建造了管道，將熱水輸送給城市供暖，將冷水輸送給城市飲用。"
+					},
+					"Key": "SoAct1_EG_MaintainerInvestigators_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Not so Elite Dwarves"
+					},
+					"Translation":
+					{
+						"Text": "不是精英地精"
+					},
+					"Key": "SoAct2_EG_DG_RightFloor_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Now that the Fishys are gone, the Lake's piranhas can live in peace and eat whoever comes close."
+					},
+					"Translation":
+					{
+						"Text": "現在呆魚都走了，湖裏的食人魚可以平靜地生活，誰靠近都可以吃掉誰。"
+					},
+					"Key": "SoAct2_EG_HutFishies_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "One idea of the Elite Dwarves was to create giant statues which are able to trap Ruin's essence. Even if they were right they never managed to make enough sculptures."
+					},
+					"Translation":
+					{
+						"Text": "精英地精的壹個想法是創造出巨大的雕像，這些雕像能夠抓住毀滅的本質。即使他們是對的，他們也沒能做出足夠多的雕塑。"
+					},
+					"Key": "SoAct2_EG_DG_RightUpOptional_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Patrol Fishys"
+					},
+					"Translation":
+					{
+						"Text": "巡邏魚"
+					},
+					"Key": "SoAct2_EG_SlidePathEnd_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Patrols of the Law"
+					},
+					"Translation":
+					{
+						"Text": "執法巡邏"
+					},
+					"Key": "SoAct2_EG_C_OfficePatrols_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Patrols of the Outpost Wall"
+					},
+					"Translation":
+					{
+						"Text": "前哨墻的巡邏隊"
+					},
+					"Key": "SoAct2_EG_OutpostWallFirst_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "People realised that Golem's Spirits have a power beyond imagination. They called it the Ancient Magic. Vacuum Cleaners could use this magic to do their job even better."
+					},
+					"Translation":
+					{
+						"Text": "人們意識到機器人的精神有著超乎想象的力量。他們稱之為古代魔法。真空吸塵器可以利用這種魔法更好地工作。"
+					},
+					"Key": "SoAct1_EG_SewerCircleVacuumCleaners_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pipe Golems"
+					},
+					"Translation":
+					{
+						"Text": "管道機器人"
+					},
+					"Key": "SoAct1_EG_MaintainerInvestigatorInvestigators_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Red Drones"
+					},
+					"Translation":
+					{
+						"Text": "紅色無人機"
+					},
+					"Key": "SoAct3_EG_Act3PipeGroupFirst_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruin was not only meant for destruction, it could also preserve. Ruin gave endless life for those who survived at the cost of twisting their minds."
+					},
+					"Translation":
+					{
+						"Text": "毀滅不僅意味著摧毀，它還意味著保存。毀滅給了那些以扭曲思想為代價生存下來的人無盡的生命。"
+					},
+					"Key": "SoAct2_EG_OutpostRight_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruin's logic is predictable when you understand its nature. When it's not possible to create more the creation process can be restarted by destroying everything first."
+					},
+					"Translation":
+					{
+						"Text": "當妳了解了毀滅的實質後，它的邏輯是可預測的。當無法創建更多時，可以通過首先銷毀所有內容來重新啟動創建過程。"
+					},
+					"Key": "SoAct3_EG_Act3VacuumTwins_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruin's nature is confusing for the human mind. It can build, it can destroy, it can use, it can be used. These actions have the same priority for Ruin. All that matters is that it can do something. And with time it wants more and more."
+					},
+					"Translation":
+					{
+						"Text": "毀滅的本性使人困惑。它可以建造，可以摧毀，可以使用，可以被使用。這些行為對於毀滅具有同樣的優先級。重要的是它能有所作為。隨著時間的推移，它想要的越來越多。"
+					},
+					"Key": "SoAct3_EG_Act3RangedCleanerTwins_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruin's power is not only in destruction. When it can't change something it will preserve those attributes which can prepare the possibility to change again. Ruin's power is in change."
+					},
+					"Translation":
+					{
+						"Text": "毀滅的力量不僅在於毀滅。當它不能改變某件事時，它會保留那些可以為再次改變做好準備的屬性。毀滅的力量在變化。"
+					},
+					"Key": "SoAct3_EG_Act3BubbleGroundMain_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ruined Convention"
+					},
+					"Translation":
+					{
+						"Text": "廢墟約定"
+					},
+					"Key": "SoAct3_EG_Act3FinalBattle_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sculptors"
+					},
+					"Translation":
+					{
+						"Text": "雕刻家"
+					},
+					"Key": "SoAct2_EG_DG_RightUpOptional_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Second Sphere Golem"
+					},
+					"Translation":
+					{
+						"Text": "第二個球形機器人"
+					},
+					"Key": "SoAct2_EG_GolemSecond_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sewer Golems"
+					},
+					"Translation":
+					{
+						"Text": "下水道機器人"
+					},
+					"Key": "SoAct1_EG_SewerTeam_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sewer Team B"
+					},
+					"Translation":
+					{
+						"Text": "下水道B隊"
+					},
+					"Key": "SoAct1_EG_TLSewerCreatureWatch_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shore Monsters"
+					},
+					"Translation":
+					{
+						"Text": "海岸怪物"
+					},
+					"Key": "SoAct2_EG_Shore_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Some believed cold can resist Ruin longer than magic. They created places where they kept the temperature beneath the freezing point. As it turned out, not even coldness can resist Ruin forever."
+					},
+					"Translation":
+					{
+						"Text": "有些人相信寒冷比魔法更能抵抗毀滅。他們創造了將溫度保持在冰點以下的程度。事實證明，即使是冷漠也無法永遠抵禦毀滅。"
+					},
+					"Key": "SoAct1_EG_SABeforeWallJump_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sphere Golem"
+					},
+					"Translation":
+					{
+						"Text": "球形機器人"
+					},
+					"Key": "SoAct2_EG_GolemFirst_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Stone Golems are the cheap copies of the Runic Realm Golems. If Ruin twists the creatures mind then it will definitely have no effect on these ones."
+					},
+					"Translation":
+					{
+						"Text": "石制機器人是廉價的符文領域機器人的復制品。如果毀滅扭曲了這些生物的思想，那麽它肯定不會對這些生物產生影響。"
+					},
+					"Key": "SoAct2_EG_GolemFirst_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Black Golem Market was funded by a Golem Maker apprentice who failed his master exam and was banished from school. No wonder his golems were... unique."
+					},
+					"Translation":
+					{
+						"Text": "地下機器人市場是由壹個制造機器人的出資建造的，他沒有通過考試，被學校開除了。難怪他的機器人… 是獨壹無二的。"
+					},
+					"Key": "SoAct1_EG_AGTestStoneCircle_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Flying Three"
+					},
+					"Translation":
+					{
+						"Text": "飛行三重奏"
+					},
+					"Key": "SoAct1_EG_AAFirstDroneTrio_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Golem's behaviour was specified by the Golem Makers. Only very simple personalities were made at the beginning. The Cleaners, for example, only desired to keep the place tidy and make sure they don't harm the people."
+					},
+					"Translation":
+					{
+						"Text": "機器人的行為是由機器人制造者特定的。壹開始，只有非常簡單的人格被創造出來。例如，清潔工只被用於保持地方整潔，確保他們不會傷害人們。"
+					},
+					"Key": "SoAct1_EG_ArcadeDungeonCleaners_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "The North Team"
+					},
+					"Translation":
+					{
+						"Text": "北方團隊"
+					},
+					"Key": "SoAct1_EG_AGWallJumpTeam_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Runic Realm's Government didn't allow the Golems to become the privilege of the rich. Even though the elite were not allowed to have different Golems they always found a way to make their servants different than the ones owned by the poor."
+					},
+					"Translation":
+					{
+						"Text": "符文王國的政府不允許機器人成為富人的特權。盡管精英們不允許擁有不同的機器人，但他們總能找到壹種方法，讓他們的仆人與窮人的仆人不同。"
+					},
+					"Key": "SoAct1_EG_AfterGateElits_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Tower Trio"
+					},
+					"Translation":
+					{
+						"Text": "塔之三重奏"
+					},
+					"Key": "SoAct1_EG_TowerTrio_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "The cleaning plan for this area fell apart with the participants."
+					},
+					"Translation":
+					{
+						"Text": "這個地區的清潔計劃因參與者而失敗了。"
+					},
+					"Key": "SoAct1_EG_AGWallJumpTeam_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "The poor chest was minding his own business before you started to insult him."
+					},
+					"Translation":
+					{
+						"Text": "在妳開始侮辱那個可憐的家夥之前，它在忙自己的事。"
+					},
+					"Key": "SoAct1_EG_Chest_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "The very first Golems were made to do the most monotonic work so that people have more time to think and to create. Once they were friendly but as Ruin came their behaviour changed."
+					},
+					"Translation":
+					{
+						"Text": "最早的機器人被要求做最單調的工作，這樣人們就有更多的時間去思考和創造。他們壹度很友好，但隨著毀滅的到來，他們的行為改變了。"
+					},
+					"Key": "SoAct1_EG_ArcadeMaintainers_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "There is a difference between how Humans and Golems are transformed by Ruin. Human bodies reach their final form in a few decades but Golems never stop changing. There is always a new, more vicious type."
+					},
+					"Translation":
+					{
+						"Text": "關於人類和機器人是如何被毀滅轉化的，這是有區別的。人類的身體在幾十年後會達到最後的形態，但是機器人從來不會停止變化。總會有壹種新的、更邪惡的類型。"
+					},
+					"Key": "SoAct3_EG_Act3PipeGroupFirst_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "There was a time when Worms only made damage to fields and gardens. Now they are a bit more ambitious..."
+					},
+					"Translation":
+					{
+						"Text": "曾經有壹段時間，蠕蟲只會破壞農田和花園。現在它們的野心更大了……"
+					},
+					"Key": "SoAct2_EG_Wormy_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "They spent most of their time on the top of those towers - it was clear to me that they would die there as well."
+					},
+					"Translation":
+					{
+						"Text": "他們大部分時間都呆在那些塔的頂端——我很清楚他們也會死在那裏。"
+					},
+					"Key": "SoAct1_EG_TowerTrio_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Third Sphere Golem"
+					},
+					"Translation":
+					{
+						"Text": "第三個球形機器人"
+					},
+					"Key": "SoAct2_EG_GolemThird_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "To keep Ruin away dwarves forbade everything related to Ruin's magic. This might have worked in theory but they failed to notice that their mechanical devices were also powered by Ruin."
+					},
+					"Translation":
+					{
+						"Text": "為了避開毀滅，地精們禁止壹切與毀滅的魔法有關的東西。這在理論上可能行得通，但它們沒有註意到，它們的機械設備也是由廢墟提供動力的。"
+					},
+					"Key": "SoAct2_EG_OutpostLeft_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Transformation is relative to intelligence. Creatures with consciousness have a strong desire to reserve their ego. Ruin can fool them a few times but later they become invulnerable to Ruin's changing power."
+					},
+					"Translation":
+					{
+						"Text": "轉變與智力有關。有意識的生物有強烈的欲望去保留他們的自我。毀滅可以愚弄他們幾次，但後來他們變得堅不可摧的毀滅的變化的力量。"
+					},
+					"Key": "SoAct3_EG_Act3PipeGroupSecond_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Underground Cleaner Band"
+					},
+					"Translation":
+					{
+						"Text": "地下清潔樂隊"
+					},
+					"Key": "SoAct1_EG_SAFightMustHave_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Underground Cleaner Band B"
+					},
+					"Translation":
+					{
+						"Text": "地下清潔樂隊 B"
+					},
+					"Key": "SoAct1_EG_SAFightOptional_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Vacuum Cleaners"
+					},
+					"Translation":
+					{
+						"Text": "真空吸塵器"
+					},
+					"Key": "SoAct1_EG_SewerCircleVacuumCleaners_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Vacuum Cleaners group"
+					},
+					"Translation":
+					{
+						"Text": "真空吸塵器集團"
+					},
+					"Key": "SoAct1_EG_ArcadeDungeonOptional_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Watching the only way to the Office did not bring enough protection. If any intruder managed to pass the Patrols he still had to face the Guardians to proceed."
+					},
+					"Translation":
+					{
+						"Text": "監視通向辦公室的唯壹道路並沒有帶來足夠的保護。如果有任何入侵者設法通過巡邏隊，他仍然不得不面對守衛者繼續前進。"
+					},
+					"Key": "SoAct2_EG_C_OfficeGuards_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Weird Floating Thing"
+					},
+					"Translation":
+					{
+						"Text": "奇怪的浮動物"
+					},
+					"Key": "SoAct2_EG_C_LoneShadeSphere_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Weird Golems"
+					},
+					"Translation":
+					{
+						"Text": "奇怪的機器人"
+					},
+					"Key": "SoAct1_EG_AGTestStoneCircle_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "When Ruin appeared some decided to abandon civilization and return to nature. Their leader, the Fallen Druid cast an ancient spell to protect his plants from Ruin. His spell partly worked but at a terrible cost."
+					},
+					"Translation":
+					{
+						"Text": "當毀滅出現時，壹些人決定放棄文明，回歸自然。他們的領袖，墮落的德魯伊施放了壹個古老的咒語來保護他的植物免於毀滅。他的咒語部分奏效了，但代價慘重。"
+					},
+					"Key": "SoAct2_EG_WWBoss_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "When a Golem falls into the lava its stone body will melt away. The spirit however resists the heat and will be looking for another body..."
+					},
+					"Translation":
+					{
+						"Text": "當壹個機器人掉入熔巖中時，它的石頭身體就會融化。然而靈魂抵抗熱量，將尋找另壹個身體…"
+					},
+					"Key": "SoAct2_EG_LavaJumpers_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "When the Cataclysm happened and Ruin came the Golems started to change. Instead of doing their daily work some of them turned against their masters."
+					},
+					"Translation":
+					{
+						"Text": "當大災難發生，毀滅來臨的時候，機器人開始改變。他們中有些人不再做日常工作，轉而開始與他們的主人對著幹。"
+					},
+					"Key": "WhiteWall_EG_BeforeKobold_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wherever Golems go after death these three will go there together."
+					},
+					"Translation":
+					{
+						"Text": "不管機器人死後去哪裏，他們三個都會壹起去。"
+					},
+					"Key": "SoAct2_EG_LavaTrio_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Whitewall Cleaners"
+					},
+					"Translation":
+					{
+						"Text": "白色巨墻清潔者"
+					},
+					"Key": "WhiteWall_EG_FirstCombat_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Whitewall Maintainers"
+					},
+					"Translation":
+					{
+						"Text": "白色巨墻維護者"
+					},
+					"Key": "WhiteWall_EG_FirstOptionalCombat_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Whoever made this Golem, he should have stopped after the second try."
+					},
+					"Translation":
+					{
+						"Text": "無論誰制造了這個機器人，他應該在第二次嘗試後停止。"
+					},
+					"Key": "SoAct2_EG_GolemThird_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wickeds"
+					},
+					"Translation":
+					{
+						"Text": "惡劣"
+					},
+					"Key": "SoAct1_EG_GGMiniBoss_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Worm"
+					},
+					"Translation":
+					{
+						"Text": "蠕蟲"
+					},
+					"Key": "SoAct2_EG_Wormy_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Worms"
+					},
+					"Translation":
+					{
+						"Text": "蠕蟲"
+					},
+					"Key": "SoAct2_EG_WormHole_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Worms kept distance from each other before Ruin. It's strange how a force which tears everything apart can also unite."
+					},
+					"Translation":
+					{
+						"Text": "蠕蟲在毀滅前彼此保持距離。奇怪的是，壹股撕裂壹切的力量也能團結起來。"
+					},
+					"Key": "SoAct2_EG_WormHole_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "You might wonder if a Vacuum Cleaner is designed to clean dust away why does it need a laser caster?"
+					},
+					"Translation":
+					{
+						"Text": "妳可能會想，如果吸塵器是用來除塵的，那為什麽還需要激光施法者呢？"
+					},
+					"Key": "SoAct1_EG_ArcadeDungeonOptional_desc"
+				}
+			]
+		},
+		{
+			"Namespace": "ItemData",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "'According to the very few survivors, White Tower, our capital was completely destroyed by a magical phenomena called Ruin. At that time I was at Grey Gate so I can't tell anything for sure.'\r\n\r\nThe Last Sane Golem Maker, A.C. 16. September 4."
+					},
+					"Translation":
+					{
+						"Text": "“‘據白塔上僅有的幾個倖存者說，我們的首都被一種叫做毀滅的神奇現象完全摧毀了。那時我在格雷之門，所以我也不確定是不是真的。 ”\r\n\r\n最後一個心智健全的機器人製造者，A.C. 16。9月4日。 "
+					},
+					"Key": "MemoryCrystal1_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "'I don't think I can keep up. There are times when I no longer know what I'm doing. I still have clear moments but they become more and more rare. I've recorded my memories to keep them safe.'\r\n\r\nThe Last Sane Golem Maker, about A.C. 500.\r\n"
+					},
+					"Translation":
+					{
+						"Text": "“我想我的頭腦快不行了。有些時候我甚至不知道自己在做什麼。雖然我也不是一直糊塗，但清醒的時間已經越來越少。我已經把自己的記憶給記錄下來，以保證它們得以保存。 ”\r\n\r\n最後一個神誌清醒的假人，A.C. 500.\n"
+					},
+					"Key": "MemoryCrystal8_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "'It's hard to tell but I think colours are fading away. The World was brighter before.'\r\n'The Monk won't help me. He stubbornly believes we are doomed.'\r\n\r\nThe Last Sane Golem Maker, A.C. 17. March 11."
+					},
+					"Translation":
+					{
+						"Text": "“這很難說，但我覺得顏色正在消失。以前的世界更美好。 ”\r\n“那個修道士不肯幫我。他固執地認為我們注定要失敗。”\r\n\r\n最後一個心智健全的機器人製造者，A.C. 17。3月11日。 "
+					},
+					"Key": "MemoryCrystal3_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "'Madness takes control over those who get too close to Ruin.'\r\n'Maintainers forgot to speak. I understand some of the phrases they try to say: \"Dinner is served\", \"At your service\", \"Your order\" - a mockery of their former intelligence!'\r\n\r\nThe Last Sane Golem Maker, A.C. 21. January 26."
+					},
+					"Translation":
+					{
+						"Text": "“瘋狂會控制那些過於接近毀滅的人。 ”\r\n“維修者忘記開口。我明白他們想說的一些話，如:“飯端上來了”、“聽候您的吩咐”、“您點的菜”——這是對他們曾經智慧的嘲諷！”\r\n\r\n最後一個心智健全的機器人製造者，A.C. 17。1月26日。 "
+					},
+					"Key": "MemoryCrystal4_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "'Now I have seen it with my own eyes: the touch of the Ruin makes the World literally fall apart.'\r\n\r\nThe Last Sane Golem Maker, A.C. 25. September 4."
+					},
+					"Translation":
+					{
+						"Text": "“現在我親眼所見: 毀滅的輕輕一觸，就能讓世界分崩離析。 ”\r\n\r\n最後一個心智健全的機器人製造者，A.C. 25。9月4日。 "
+					},
+					"Key": "MemoryCrystal5_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "'Ruin will soon reach Grey Gate, our very last city. I need to move deeper into the Realm, further away from Ruin.'\r\n'I decided to create some new golems. Golems that resist Ruin.'\r\n\r\nThe Last Sane Golem Maker, A.C. 315. April 8."
+					},
+					"Translation":
+					{
+						"Text": "“毀滅將很快到達灰暗之門，我們最後的城市。我需要深入王國，遠離毀滅。 ”\r\n“我決定創造一些新的機器人。能抵抗毀滅的機器人。”\r\n\r\n最後一個神誌清醒的假人，A.C. 315。4月8日"
+					},
+					"Key": "MemoryCrystal7_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "'This chest and everything inside belongs to me, the Chef.'"
+					},
+					"Translation":
+					{
+						"Text": "“這個箱子和裏面的壹切都屬於我，廚師。”"
+					},
+					"Key": "Pergamen_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "'This is my 87 birthday. It's obvious that my body doesn't get older with time. How long can I preserve my sanity?'\r\n'Drones can no longer be trusted. They resisted Ruin for the longest.'\r\n\r\nThe Last Sane Golem Maker, A.C. 52. July 9."
+					},
+					"Translation":
+					{
+						"Text": "“今天是我87歲的生日。顯而易見的是，我的身體並沒有隨著歲月的流逝而衰老。我能一直保持清醒的頭腦嗎？ ”\r\n“無人機不再可信。他們抵抗毀滅的時間最長。”\r\n\r\n最後一個心智健全的機器人製造者，A.C. 52。7月9日。 "
+					},
+					"Key": "MemoryCrystal6_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "'Those who escaped Ruin have... changed.'\r\n'I've met a scientist who noticed how madness takes control over him. Perhaps he can find a solution.'\r\n\r\nThe Last Sane Golem Maker, A.C. 17. January 1."
+					},
+					"Translation":
+					{
+						"Text": "“那些逃離了毀滅的人已經... 改變了。 ”\r\n“我遇到一個科學家，他注意到自己是如何受瘋狂控制的。也許他能找到解決辦法。”\r\n\r\n最後一個心智健全的機器人製造者，A.C. 17。1月1日。 "
+					},
+					"Key": "MemoryCrystal2_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A fancy iron key with a shiny gem in its grip. It must be really precious."
+					},
+					"Translation":
+					{
+						"Text": "壹把別致的鐵鑰匙，鑲嵌著壹顆閃亮的寶石。它壹定很珍貴。"
+					},
+					"Key": "KeyWWPortal_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A key without a proper item description"
+					},
+					"Translation":
+					{
+						"Text": "沒有確切描述的鑰匙"
+					},
+					"Key": "KeyAADoorNearDungeonExit_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A key without any sign of interest."
+					},
+					"Translation":
+					{
+						"Text": "沒有任何興趣點的鑰匙。"
+					},
+					"Key": "KeyTLElevatorRoom_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A magical artefact with the following worn text engraved on the back:\r\n\r\nInsert Runestones to ... spells\r\nKeep .... .... children\r\nMade in ....."
+					},
+					"Translation":
+					{
+						"Text": "這是壹件神奇的人工制品，背面刻有如下文字:\n\n插入符石到…法術\n保持.... ....孩子們\n制造者為....."
+					},
+					"Key": "SpellCaster_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A magical item which gives you the ability to fly... or something like that."
+					},
+					"Translation":
+					{
+						"Text": "壹件神奇的物品，可以讓妳飛起來... 差不多這意思。"
+					},
+					"Key": "RavenFeather_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A reforged Bronze Key."
+					},
+					"Translation":
+					{
+						"Text": "壹把重新鍛造的青銅鑰匙。"
+					},
+					"Key": "KeyBronze_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A reforged Copper Key."
+					},
+					"Translation":
+					{
+						"Text": "壹把重新鍛造的銅鑰匙。"
+					},
+					"Key": "KeyCopper_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A reforged Iron Key."
+					},
+					"Translation":
+					{
+						"Text": "壹把重新鍛造的鐵鑰匙。"
+					},
+					"Key": "KeyIron_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A robust iron key with a carved script: <Bold>'Outer Wall Tower'</>."
+					},
+					"Translation":
+					{
+						"Text": "壹把粗糙的帶有刻字的鐵鑰匙:<Bold>'外墻塔'</>。"
+					},
+					"Key": "KeyWWWhiteWall_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A shiny green crystal which activates a weight lifting mechanism. At least by the look of it."
+					},
+					"Translation":
+					{
+						"Text": "壹種閃亮的綠色水晶，可以激活起重裝置。至少從表面上看是這樣。"
+					},
+					"Key": "ElevatorGem_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A simple seat of size XXXXXXXXXL"
+					},
+					"Translation":
+					{
+						"Text": "壹個簡潔的座位，尺寸是XXXXXXXXXL"
+					},
+					"Key": "GateKeeperSeat_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A simple yet effective weapon. Not too rusty, not too sharp. If someone looks close enough it looks a bit low budget, but the ones looking close enough won't talk about anything anymore, will they?"
+					},
+					"Translation":
+					{
+						"Text": "壹個簡單而有效的武器。並無多少生銹，卻也不太鋒利。"
+					},
+					"Key": "StraightSword_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A small key you got from a chest in the middle of nowhere."
+					},
+					"Translation":
+					{
+						"Text": "壹把小鑰匙，妳從壹個偏僻的地方從箱子裏拿出來的。"
+					},
+					"Key": "KEYWWSewerCreatureCell_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A small key you got from the Pipe Walkers."
+					},
+					"Translation":
+					{
+						"Text": "妳從管道行走者那裏得到的壹把小鑰匙。"
+					},
+					"Key": "KeySASewerCreatureCell_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A small precious blue stone."
+					},
+					"Translation":
+					{
+						"Text": "壹顆小而珍貴的藍色寶石。"
+					},
+					"Key": "BlueGem_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A unique stone you can use to prove that you have eliminated a golem."
+					},
+					"Translation":
+					{
+						"Text": "壹種獨特的石頭，妳可以用它來證明妳消滅了壹個機器人。"
+					},
+					"Key": "LavaGolemToken_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A very rare and powerful item which is used for opening a portal into the Unknown Realm. If you gather three and give them to the Wizard he shall set you free."
+					},
+					"Translation":
+					{
+						"Text": "壹件非常罕見且強大的物品，用於打開進入未知領域的入口。如果妳收集到三個，把它們交給巫師，他就會讓妳自由。"
+					},
+					"Key": "Artifact_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "A very small key"
+					},
+					"Translation":
+					{
+						"Text": "非常小的鑰匙"
+					},
+					"Key": "KeyMerchant_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "A weird device, most likely one of the inventions of the Secret Science Society."
+					},
+					"Translation":
+					{
+						"Text": "壹個奇怪的裝置，很可能是秘密科學協會的發明之壹。"
+					},
+					"Key": "SecretWeirdDevice_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Abacus"
+					},
+					"Translation":
+					{
+						"Text": "算盤"
+					},
+					"Key": "Abacus_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Absorbs <Blue>30</> magical damage."
+					},
+					"Translation":
+					{
+						"Text": "吸收 <Blue>30</> 魔法傷害。"
+					},
+					"Key": "RuneStoneBonusHPMagical_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Absorbs <White>30</> physical damage."
+					},
+					"Translation":
+					{
+						"Text": "吸收 <White>30</> 物理傷害。"
+					},
+					"Key": "RuneStoneBonusHPPhysical_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "All enemy target becomes <Orange>Slow</> for <Green>3</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "所有敵人目標<Orange>減速</> 持續 <Green>3</> 秒。"
+					},
+					"Key": "RuneStoneMassSlow_level_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Amber Shard"
+					},
+					"Translation":
+					{
+						"Text": "琥珀碎片"
+					},
+					"Key": "ShardAmber_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "An ancient crystal people like to buy."
+					},
+					"Translation":
+					{
+						"Text": "人們喜歡買這種古老的水晶。"
+					},
+					"Key": "BlueCrystal_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "An ancient paper"
+					},
+					"Translation":
+					{
+						"Text": "古老紙張"
+					},
+					"Key": "AbacusSpellBook_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ancient Temple Key"
+					},
+					"Translation":
+					{
+						"Text": "古廟的鑰匙"
+					},
+					"Key": "LETempleKey_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Another Key"
+					},
+					"Translation":
+					{
+						"Text": "另壹把鑰匙"
+					},
+					"Key": "KeySA_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Aqua Shard"
+					},
+					"Translation":
+					{
+						"Text": "淺綠碎片"
+					},
+					"Key": "ShardAqua_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Arcade Key"
+					},
+					"Translation":
+					{
+						"Text": "回廊鑰匙"
+					},
+					"Key": "KeyAADoorNearDungeonExit_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Artifact"
+					},
+					"Translation":
+					{
+						"Text": "手工藝品"
+					},
+					"Key": "Artifact_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Axes"
+					},
+					"Translation":
+					{
+						"Text": "斧子"
+					},
+					"Key": "Axe_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Axes"
+					},
+					"Translation":
+					{
+						"Text": "斧子"
+					},
+					"Key": "AxeMainGame_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Axes are usefull, but if you don't need them you can just throw them away."
+					},
+					"Translation":
+					{
+						"Text": "斧子是有用的，但如果妳不需要它們，可以把它們扔掉。"
+					},
+					"Key": "Axe_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Axes are usefull, but if you don't need them you can just throw them away."
+					},
+					"Translation":
+					{
+						"Text": "斧子是有用的，但如果妳不需要它們，可以把它們扔掉。"
+					},
+					"Key": "AxeMainGame_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bag of the Careful One"
+					},
+					"Translation":
+					{
+						"Text": "細心袋子"
+					},
+					"Key": "TestStoneBag_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Black Shard"
+					},
+					"Translation":
+					{
+						"Text": "黑色碎片"
+					},
+					"Key": "ShardBlack_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Blue Crystal"
+					},
+					"Translation":
+					{
+						"Text": "藍水晶"
+					},
+					"Key": "BlueCrystal_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Blue Gem"
+					},
+					"Translation":
+					{
+						"Text": "藍寶石"
+					},
+					"Key": "BlueGem_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Blue Shard"
+					},
+					"Translation":
+					{
+						"Text": "藍色碎片"
+					},
+					"Key": "ShardBlue_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bluestone"
+					},
+					"Translation":
+					{
+						"Text": "藍色石"
+					},
+					"Key": "RuneStoneBonusHPMagical_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bouncestone"
+					},
+					"Translation":
+					{
+						"Text": "彈力石"
+					},
+					"Key": "RuneStoneBounce_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Amber Shard"
+					},
+					"Translation":
+					{
+						"Text": "明亮琥珀碎片"
+					},
+					"Key": "ShardAmberBright_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Aqua Shard"
+					},
+					"Translation":
+					{
+						"Text": "明亮淺綠碎片"
+					},
+					"Key": "ShardAquaBright_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Blue Shard"
+					},
+					"Translation":
+					{
+						"Text": "明亮藍色碎片"
+					},
+					"Key": "ShardBlueBright_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Green Shard"
+					},
+					"Translation":
+					{
+						"Text": "明亮綠色碎片"
+					},
+					"Key": "ShardGreenBright_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Purple Shard"
+					},
+					"Translation":
+					{
+						"Text": "明亮紫色碎片"
+					},
+					"Key": "ShardPurpleBright_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Red Shard"
+					},
+					"Translation":
+					{
+						"Text": "明亮紅色碎片"
+					},
+					"Key": "ShardRedBright_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Silver Shard"
+					},
+					"Translation":
+					{
+						"Text": "明亮銀色碎片"
+					},
+					"Key": "ShardSilverBright_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Teal Shard"
+					},
+					"Translation":
+					{
+						"Text": "明亮青色碎片"
+					},
+					"Key": "ShardTealBright_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright White Shard"
+					},
+					"Translation":
+					{
+						"Text": "明亮白色碎片"
+					},
+					"Key": "ShardWhiteBright_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bright Yellow Shard"
+					},
+					"Translation":
+					{
+						"Text": "明亮黃色碎片"
+					},
+					"Key": "ShardYellowBright_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bronze Key"
+					},
+					"Translation":
+					{
+						"Text": "青銅鑰匙"
+					},
+					"Key": "KeyBronze_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cage Key"
+					},
+					"Translation":
+					{
+						"Text": "籠子鑰匙"
+					},
+					"Key": "LEKeyCage_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Catacomb Key"
+					},
+					"Translation":
+					{
+						"Text": "地下墓穴鑰匙"
+					},
+					"Key": "KeyDCMainOut_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chancestone"
+					},
+					"Translation":
+					{
+						"Text": "機遇石"
+					},
+					"Key": "SecondChance_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cooldown recharge speed is increased by <Blue>20%</>."
+					},
+					"Translation":
+					{
+						"Text": "冷卻充能速度提升<Blue>20%</>。"
+					},
+					"Key": "ShardAqua_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cooldown recharge speed is increased by <Blue>40%</>."
+					},
+					"Translation":
+					{
+						"Text": "冷卻充能速度提升<Blue>40%</>。"
+					},
+					"Key": "ShardAquaBright_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Copper Key"
+					},
+					"Translation":
+					{
+						"Text": "銅鑰匙"
+					},
+					"Key": "KeyCopper_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Decreases the incoming <Blue>Magical Damage</> by <Blue>20%.</>"
+					},
+					"Translation":
+					{
+						"Text": "降低受到的<Blue>魔法傷害</> <Blue>20%。"
+					},
+					"Key": "ShardBlue_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Decreases the incoming <Blue>Magical Damage</> by <Blue>30%.</>"
+					},
+					"Translation":
+					{
+						"Text": "使下壹次<Blue>魔法傷害</> 降低 <Blue>30%.</>"
+					},
+					"Key": "ShardBlueBright_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Decreases the incoming <White>Physical Damage</> by <White>20%.</>"
+					},
+					"Translation":
+					{
+						"Text": "降低遭受的 <White>物理傷害</> <White>20%。</>"
+					},
+					"Key": "ShardSilver_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Decreases the incoming <White>Physical Damage</> by <White>30%.</>"
+					},
+					"Translation":
+					{
+						"Text": "使下壹次<White>物理傷害</> 降低 <White>30%。</>"
+					},
+					"Key": "ShardSilverBright_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Degeneration and mutation"
+					},
+					"Translation":
+					{
+						"Text": "退化和變異"
+					},
+					"Key": "MemoryCrystal2_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Demon Sword"
+					},
+					"Translation":
+					{
+						"Text": "惡魔之劍"
+					},
+					"Key": "DemonSword_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you really read the key descriptions?"
+					},
+					"Translation":
+					{
+						"Text": "妳真的看過鑰匙的描述嗎?"
+					},
+					"Key": "KeyOutpostWall_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Does it really work? You will find out soon..."
+					},
+					"Translation":
+					{
+						"Text": "這真的有用嗎? 妳很快就會知道……"
+					},
+					"Key": "KeyMerchant_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Double Sword"
+					},
+					"Translation":
+					{
+						"Text": "雙劍"
+					},
+					"Key": "DualBlade_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Each melee strike has a <Yellow>10%</> chance to <Yellow>Stun</> the target."
+					},
+					"Translation":
+					{
+						"Text": "每次近戰攻擊有 <Yellow>10%</> 機率 <Yellow>擊暈</> 對方。"
+					},
+					"Key": "ShardYellow_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Each melee strike has a <Yellow>20%</> chance to <Yellow>Stun</> the target."
+					},
+					"Translation":
+					{
+						"Text": "每次近戰攻擊有 <Yellow>20%</> 機率 <Yellow>擊暈</> 對方。"
+					},
+					"Key": "ShardYellowBright_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Each melee strike has an additional <Yellow>10%</> chance to cause a critical hit, causing <Green>200%</> of your normal weapon damage."
+					},
+					"Translation":
+					{
+						"Text": "每壹次近戰攻擊都有額外的<Yellow>10%</>機率造成致命壹擊，使妳的普通武器造成<Green>200%</>傷害。"
+					},
+					"Key": "ShardAmber_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Each melee strike has an additional <Yellow>20%</> chance to cause a critical hit, causing <Green>200%</> of your normal weapon damage."
+					},
+					"Translation":
+					{
+						"Text": "每壹次近戰攻擊都有額外的<Yellow>20%</>機率造成致命壹擊，使妳的普通武器造成<Green>200%</>傷害。"
+					},
+					"Key": "ShardAmberBright_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Each time an enemy hits you with a melee strike it suffers the same damage."
+					},
+					"Translation":
+					{
+						"Text": "每次敵人用近戰攻擊攻擊妳，它都會受到相同的傷害。"
+					},
+					"Key": "ShardTeal_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Each time an enemy hits you, it suffers <Green>200%</> of the damage."
+					},
+					"Translation":
+					{
+						"Text": "每次敵人攻擊妳，它都會受到<Green>200%</>的傷害。"
+					},
+					"Key": "ShardTealBright_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Each time you cast a charge based spell you have a <Purple>25%</> chance to regain the charge."
+					},
+					"Translation":
+					{
+						"Text": "每次你施放一個需要充能的法術，你將有<Purple>25%</>機率獲得充能。"
+					},
+					"Key": "ShardPurple_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Each time you cast a charge based spell you have a <Purple>50%</> chance to regain the charge."
+					},
+					"Translation":
+					{
+						"Text": "每次你施放一個需要充能的法術，你將有<Purple>50%</>機率獲得充能。"
+					},
+					"Key": "ShardPurpleBright_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Eastern Key"
+					},
+					"Translation":
+					{
+						"Text": "東部鑰匙"
+					},
+					"Key": "KeyAGPortalFight_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Elevator Crystal"
+					},
+					"Translation":
+					{
+						"Text": "電梯水晶"
+					},
+					"Key": "ElevatorLeverCrystal_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Elevator Gem"
+					},
+					"Translation":
+					{
+						"Text": "電梯寶石"
+					},
+					"Key": "ElevatorGem_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Elite Soulstone"
+					},
+					"Translation":
+					{
+						"Text": "精英靈魂石"
+					},
+					"Key": "RuneStoneSoulkeeperInfinite_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.5x</> damage for <Green>5</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "附魔妳的激活武器 -  它會造成額外的 <Green>0.5x</> 傷害並持續 <Green>5</> 秒。"
+					},
+					"Key": "RuneStoneWeaponFlame_level_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.5x</><YellowH>(→0.6x)</> damage for <Green>5</> seconds. <YellowH>Each strike has a</> <GreenH>15%</> <YellowH>chance to apply </><DarkGreenH>Poison</><YellowH>, causing an additional</> <BlueH>18</> <YellowH>damage over</> <GreenH>6</> <YellowH>seconds.</>"
+					},
+					"Translation":
+					{
+						"Text": "附魔妳的激活武器 -  它會造成額外的 <Green>0.5x</><YellowH>(→0.6x)</> 傷害並持續<Green>5</> 秒。 <YellowH>每次攻擊有</> <GreenH>15%</> <YellowH> 機率使用 </><DarkGreenH>毒藥</><YellowH>, 造成額外的 </> <BlueH>18</> <YellowH>傷害並持續</> <GreenH>6</> <YellowH>秒。</>"
+					},
+					"Key": "RuneStoneWeaponFlame_level_up_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.6x</> damage for <Green>5</> seconds. Each strike has a <Green>15%</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>18</> damage over <Green>6</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "附魔妳的激活武器 -  它會造成額外的 <Green>0.6x</> 傷害並持續 <Green>5</> 秒。 每次攻擊有 <Green>15%</> 機率使用 <DarkGreen>毒藥</>, 造成額外的 <Blue>18</> 傷害並持續 <Green>6</> 秒。"
+					},
+					"Key": "RuneStoneWeaponFlame_level_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.6x</><YellowH>(→0.7x)</> damage for <Green>5</><YellowH>(→6)</> seconds. Each strike has a <Green>15%</><YellowH>(→20%)</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>18</><YellowH>(→24)</> damage over <Green>6</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "附魔妳的激活武器 -  它會造成額外的 <Green>0.6x</><YellowH>(→0.7x)</> 傷害並持續 <Green>5</> 秒。 每次攻擊有 <Green>15%</><YellowH>(→20%)</> 機率使用 <DarkGreen>毒藥</>, 造成額外的 <Blue>18</><YellowH>(→24)</> 傷害並持續 <Green>6</> 秒。"
+					},
+					"Key": "RuneStoneWeaponFlame_level_up_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.7x</> damage for <Green>6</> seconds. Each strike has a <Green>20%</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>24</> damage over <Green>6</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "附魔妳的激活武器 -  它會造成額外的 <Green>0.7x</> 傷害並持續 <Green>6</> 秒。 每次攻擊有 <Green>20%</> 機率使用 <DarkGreen>毒藥</>, 造成額外的 <Blue>24</> 傷害並持續 <Green>6</> 秒。"
+					},
+					"Key": "RuneStoneWeaponFlame_level_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.7x</><YellowH>(→0.8x)</> damage for <Green>6</> seconds. Each strike has a <Green>20%</><YellowH>(→25%)</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>24</><YellowH>(→30)</> damage over <Green>6</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "附魔妳的激活武器 -  它會造成額外的 <Green>0.7x</><YellowH>(→0.8x)</> 傷害並持續 <Green>6</> 秒。 每次攻擊有 <Green>20%</><YellowH>(→25%)</> 機率使用 <DarkGreen>毒藥</>, 造成額外的 <Blue>24</><YellowH>(→30)</> 傷害並持續 <Green>6</> 秒。"
+					},
+					"Key": "RuneStoneWeaponFlame_level_up_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.8x</> damage for <Green>6</> seconds. Each strike has a <Green>25%</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>30</> damage over <Green>6</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "附魔妳的激活武器 -  它會造成額外的 <Green>0.8x</> 傷害並持續 <Green>6</> 秒。 每次攻擊有 <Green>25%</> 機率使用 <DarkGreen>毒藥</>, 造成額外的 <Blue>30</> 傷害並持續 <Green>6</> 秒。"
+					},
+					"Key": "RuneStoneWeaponFlame_level_desc_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.8x</><YellowH>(→0.9x)</> damage for <Green>6</> seconds. Each strike has a <Green>25%</><YellowH>(→30%)</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>30</><YellowH>(→36)</> damage over <Green>6</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "附魔妳的激活武器 -  它會造成額外的 <Green>0.8x</><YellowH>(→0.9x)</> 傷害並持續 <Green>6</> 秒。 每次攻擊有 <Green>25%</><YellowH>(→30%)</> 機率使用 <DarkGreen>毒藥</>, 造成額外的 <Blue>30</><YellowH>(→36)</> 傷害並持續 <Green>6</> 秒。"
+					},
+					"Key": "RuneStoneWeaponFlame_level_up_desc_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon - it causes an additional <Green>0.9x</> damage for <Green>6</> seconds. Each strike has a <Green>30%</> chance to apply <DarkGreen>Poison</>, causing an additional <Blue>36</> damage over <Green>6</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "附魔妳的激活武器 -  它會造成額外的 <Green>0.9x</> 傷害並持續 <Green>6</> 秒。 每次攻擊有 <Green>30%</> 機率使用 <DarkGreen>毒藥</>, 造成額外的 <Blue>36</> 傷害並持續 <Green>6</> 秒。"
+					},
+					"Key": "RuneStoneWeaponFlame_level_desc_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enchants your active weapon with green flames - it causes an additional 0.3x damage for 4 seconds."
+					},
+					"Translation":
+					{
+						"Text": "用綠色火焰附魔妳的激活武器 - 造成額外的 0.3x 傷害並持續 4 秒。"
+					},
+					"Key": "RuneStoneWeaponFlame_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Energystone"
+					},
+					"Translation":
+					{
+						"Text": "能量石"
+					},
+					"Key": "RuneStoneEnergy_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Every time an enemy hits you with a melee strike or overlaps you it is turned into a boot for a short time."
+					},
+					"Translation":
+					{
+						"Text": "每當壹個敵人用近戰攻擊攻擊妳或與妳重疊時，它會在短時間內變成壹只靴子。"
+					},
+					"Key": "ShardBlack_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Everything, except an Abacus"
+					},
+					"Translation":
+					{
+						"Text": "除了算盤，什麽都沒有"
+					},
+					"Key": "All_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fading Colours"
+					},
+					"Translation":
+					{
+						"Text": "褪去的顏色"
+					},
+					"Key": "MemoryCrystal3_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Falling Apart"
+					},
+					"Translation":
+					{
+						"Text": "分崩離析"
+					},
+					"Key": "MemoryCrystal5_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Final Decision"
+					},
+					"Translation":
+					{
+						"Text": "最後決定"
+					},
+					"Key": "MemoryCrystal8_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Firestone"
+					},
+					"Translation":
+					{
+						"Text": "燧石"
+					},
+					"Key": "RuneStoneFire0_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "First Sabre of Rangol"
+					},
+					"Translation":
+					{
+						"Text": "拉古爾的首把軍刀"
+					},
+					"Key": "Sabre_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Flower acquired from a fountain."
+					},
+					"Translation":
+					{
+						"Text": "從噴泉中采來的花。"
+					},
+					"Key": "FountainFlower_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fountain Flower"
+					},
+					"Translation":
+					{
+						"Text": "噴泉之花"
+					},
+					"Key": "FountainFlower_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ghost Abacus"
+					},
+					"Translation":
+					{
+						"Text": "幽靈算盤"
+					},
+					"Key": "AbacusGhost_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ghost Petals"
+					},
+					"Translation":
+					{
+						"Text": "幽靈花瓣"
+					},
+					"Key": "AbacusGhostFlower_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Giant Seat"
+					},
+					"Translation":
+					{
+						"Text": "巨大座椅"
+					},
+					"Key": "GateKeeperSeat_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>2</> <YellowH>(→4)</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "賦予穿越敵人的能力，持續時間<Green>2</> <YellowH>(→4)</>秒。"
+					},
+					"Key": "RuneStoneShadowWalk_level_up_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>2</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "賦予穿越敵人的能力，持續時間<Green>2</>秒。"
+					},
+					"Key": "RuneStoneShadowWalk_level_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>2</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "賦予穿越敵人的能力，持續時間<Green>2</>秒。"
+					},
+					"Key": "RuneStoneShadowWalk_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>4</> <YellowH>(→5)</> seconds. Your magical resistance is increased by <Green>0.2</> <YellowH>(→0.3).</>"
+					},
+					"Translation":
+					{
+						"Text": "賦予穿越敵人的能力，持續時間 <Green>4</> <YellowH>(→5)</>秒。妳的魔法抗性增加<Green>0.2</> <YellowH>(→0.3).</>"
+					},
+					"Key": "RuneStoneShadowWalk_level_up_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>4</> seconds."
+					},
+					"Translation":
+					{
+						"Text": "賦予穿越敵人的能力，持續時間<Green>4</>秒。"
+					},
+					"Key": "RuneStoneShadowWalk_level_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>4</> seconds. <YellowH>Your magical resistance is increased by</> <GreenH>0.2.</>"
+					},
+					"Translation":
+					{
+						"Text": "賦予穿越敵人的能力，持續時間<Green>4</>秒。<YellowH>妳的魔法抗性增加</> <GreenH>0.2.</>"
+					},
+					"Key": "RuneStoneShadowWalk_level_up_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>4</> seconds. Your magical resistance is increased by <Green>0.2.</>"
+					},
+					"Translation":
+					{
+						"Text": "賦予穿越敵人的能力，持續時間<Green>4</>秒。妳的魔法抗性增加</> <GreenH>0.2.</>"
+					},
+					"Key": "RuneStoneShadowWalk_level_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the ability to walk through your enemies for <Green>5</> seconds. Your magical resistance is increased by <Green>0.3.</>"
+					},
+					"Translation":
+					{
+						"Text": "賦予穿越敵人的能力，持續時間 <Green>5</> 秒。妳的魔法抗性增加<Green>0.3.</>"
+					},
+					"Key": "RuneStoneShadowWalk_level_desc_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>2</> sec. The shock causes <Blue>10</> damage."
+					},
+					"Translation":
+					{
+						"Text": "賦予妳穿過敵人的驚人能力，持續 <Green>2</> 秒。可造成 <Blue>10</> 秒。"
+					},
+					"Key": "RuneStoneLightningWalk_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>2</> sec. The shock causes <Blue>16</> damage."
+					},
+					"Translation":
+					{
+						"Text": "賦予妳穿過敵人的驚人能力，持續 <Green>2</> 秒。可造成 <Blue>16</> 秒。"
+					},
+					"Key": "RuneStoneLightningWalk_level_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>2</><YellowH>(→3)</> sec. The shock causes <Blue>16</> <YellowH>(→28)</>damage."
+					},
+					"Translation":
+					{
+						"Text": "賦予妳穿過敵人的驚人能力，持續 <Green>2</><YellowH>(→3)</> 秒。可造成 <Blue>16</> <YellowH>(→28)</> 傷害。"
+					},
+					"Key": "RuneStoneLightningWalk_level_up_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>3</> sec. The shock causes <Blue>28</> damage."
+					},
+					"Translation":
+					{
+						"Text": "賦予妳穿過敵人的驚人能力，持續 <Green>3</> 秒。可造成 <Blue>28</> 秒。"
+					},
+					"Key": "RuneStoneLightningWalk_level_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>3</><YellowH>(→4)</> sec. The shock causes <Blue>28</> <YellowH>(→36)</>damage <YellowH>and has a </><GreenH>30%</> <YellowH>chance to stun the target.</>"
+					},
+					"Translation":
+					{
+						"Text": "賦予妳穿過敵人的驚人能力，持續 <Green>3</><YellowH>(→4)</> 秒。可造成<Blue>28</> <YellowH>(→36)</> 傷害 <YellowH>並有</><GreenH>30%</> <YellowH>機率對目標造成暈眩，</>"
+					},
+					"Key": "RuneStoneLightningWalk_level_up_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>4</> sec. The shock causes <Blue>32</> damage and has a <Green>30%</> <YellowH>(→40%)</> chance to <Yellow>stun</> the target."
+					},
+					"Translation":
+					{
+						"Text": "賦予妳穿過敵人的驚人能力，持續<Green>4</> 秒。可造成 <Blue>32</> 傷害並擁有 <Green>30%</> <YellowH>(→40%)</> 機率對目標造成 <Yellow>暈眩</>。"
+					},
+					"Key": "RuneStoneLightningWalk_level_up_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>4</> sec. The shock causes <Blue>32</> damage and has a <Green>30%</> chance to <Yellow>stun</> the target."
+					},
+					"Translation":
+					{
+						"Text": "賦予妳穿過敵人的驚人能力，持續 <Green>4</> 秒。可造成 <Blue>32</> 傷害並有 <Green>30%</> 機率對目標造成 <Yellow>暈眩</>。"
+					},
+					"Key": "RuneStoneLightningWalk_level_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Grants the shocking ability to walk through your enemies for <Green>4</> sec. The shock causes <Blue>32</> damage and has a <Green>40%</> chance to <Yellow>stun</> the target."
+					},
+					"Translation":
+					{
+						"Text": "賦予妳穿過敵人的驚人能力，持續 <Green>4</> 秒。可造成 <Blue>32</> 傷害並有 <Green>40%</> 機率對目標造成 <Yellow>暈眩</>。"
+					},
+					"Key": "RuneStoneLightningWalk_level_desc_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Graystone"
+					},
+					"Translation":
+					{
+						"Text": "灰色石"
+					},
+					"Key": "RuneStoneBonusHPPhysical_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Green Flamestone"
+					},
+					"Translation":
+					{
+						"Text": "綠色火焰石"
+					},
+					"Key": "RuneStoneWeaponFlame_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Green Shard"
+					},
+					"Translation":
+					{
+						"Text": "綠色碎片"
+					},
+					"Key": "ShardGreen_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Half Bronze Key"
+					},
+					"Translation":
+					{
+						"Text": "半把青銅鑰匙"
+					},
+					"Key": "KeyPiecesBronze0_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Half Copper Key"
+					},
+					"Translation":
+					{
+						"Text": "半把銅鑰匙"
+					},
+					"Key": "KeyPiecesCopper0_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Half Iron Key"
+					},
+					"Translation":
+					{
+						"Text": "半把鐵鑰匙"
+					},
+					"Key": "KeyPiecesIron0_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Half of a broken Bronze Key"
+					},
+					"Translation":
+					{
+						"Text": "半把壞了的青銅鑰匙"
+					},
+					"Key": "KeyPiecesBronze0_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Half of a broken Copper Key"
+					},
+					"Translation":
+					{
+						"Text": "半把壞了的銅鑰匙"
+					},
+					"Key": "KeyPiecesCopper0_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Half of a broken Iron Key"
+					},
+					"Translation":
+					{
+						"Text": "半把壞了的鐵鑰匙"
+					},
+					"Key": "KeyPiecesIron0_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Healstone"
+					},
+					"Translation":
+					{
+						"Text": "治愈石"
+					},
+					"Key": "RuneStoneHeal_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "I would rather sleep, but the item descriptions won't write themselves."
+					},
+					"Translation":
+					{
+						"Text": "我想睡覺，但物品描述不會自己書寫。"
+					},
+					"Key": "KeyOutpostWallOptional_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "If someone would fail in cutting his/her/its way out of a hard situation, crushing your way through can still work out pretty well - it is said to be more effective if golems or certain mechanical devices / creatures are involved in the conflict."
+					},
+					"Translation":
+					{
+						"Text": "如果有人沒能從困境中脫身，妳也可以很好地破土而出——據說如果假人或某些機械設備/生物卷入沖突中，效果會更好。"
+					},
+					"Key": "LeafMace_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "In case of trouble, it's better to have double."
+					},
+					"Translation":
+					{
+						"Text": "好事成雙"
+					},
+					"Key": "DualBlade_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Increases the attack speed by <Green>20%</>"
+					},
+					"Translation":
+					{
+						"Text": "提升妳 <Green>20%</>攻擊速度 。"
+					},
+					"Key": "ShardGreen_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Increases the attack speed by <Green>30%</>"
+					},
+					"Translation":
+					{
+						"Text": "提升妳 <Green>30%</>攻擊速度 。"
+					},
+					"Key": "ShardGreenBright_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Increases your damage by <Green>20%</>"
+					},
+					"Translation":
+					{
+						"Text": "提升妳的傷害 <Green>20%</>。"
+					},
+					"Key": "ShardWhite_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Increases your damage by <Green>30%</>."
+					},
+					"Translation":
+					{
+						"Text": "提升妳的傷害 <Green>30%</>。"
+					},
+					"Key": "ShardWhiteBright_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Iron Key"
+					},
+					"Translation":
+					{
+						"Text": "鐵鑰匙"
+					},
+					"Key": "KeyIron_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "It will open a gate somewhere. Probably."
+					},
+					"Translation":
+					{
+						"Text": "可能，它會在某個地方打開壹扇門。"
+					},
+					"Key": "KeyWWFirstGate_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Just an old, rusty iron key without a proper item description"
+					},
+					"Translation":
+					{
+						"Text": "壹把陳舊且生銹的鐵鑰匙，沒有確切描述"
+					},
+					"Key": "KeyDCMainOut_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Just another key."
+					},
+					"Translation":
+					{
+						"Text": "另壹把鑰匙"
+					},
+					"Key": "KeyAGPortalFight_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Key Of The Outpost Wall"
+					},
+					"Translation":
+					{
+						"Text": "前哨墻的鑰匙"
+					},
+					"Key": "KeyOutpostWall_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Key Of The Room Below"
+					},
+					"Translation":
+					{
+						"Text": "下面房間的鑰匙"
+					},
+					"Key": "KeyCatacombs0_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Key of Something"
+					},
+					"Translation":
+					{
+						"Text": "某處的鑰匙"
+					},
+					"Key": "KeyAAMainFirstDoor_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Kitchen Key"
+					},
+					"Translation":
+					{
+						"Text": "廚房鑰匙"
+					},
+					"Key": "DOKitchenKey_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Kobold Coins"
+					},
+					"Translation":
+					{
+						"Text": "地精硬幣"
+					},
+					"Key": "KoboldCoin_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Kobold Soup"
+					},
+					"Translation":
+					{
+						"Text": "地精湯"
+					},
+					"Key": "KoboldPotion_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Leaf Mace"
+					},
+					"Translation":
+					{
+						"Text": "葉子權杖"
+					},
+					"Key": "LeafMace_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lightningstone"
+					},
+					"Translation":
+					{
+						"Text": "閃電石"
+					},
+					"Key": "RuneStoneLightningWalk_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lock Gem"
+					},
+					"Translation":
+					{
+						"Text": "鎖寶石"
+					},
+					"Key": "PortalGem_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Looks like there are tons of these"
+					},
+					"Translation":
+					{
+						"Text": "看起來有很多"
+					},
+					"Key": "KeySA_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Madness"
+					},
+					"Translation":
+					{
+						"Text": "瘋狂"
+					},
+					"Key": "MemoryCrystal4_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Magical Phenomena"
+					},
+					"Translation":
+					{
+						"Text": "魔法現象"
+					},
+					"Key": "MemoryCrystal1_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Master Key"
+					},
+					"Translation":
+					{
+						"Text": "萬能鑰匙"
+					},
+					"Key": "KeyMaster_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Maybe it was a bit too much?"
+					},
+					"Translation":
+					{
+						"Text": "也許有點太過分了?"
+					},
+					"Key": "All_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Meteorstone"
+					},
+					"Translation":
+					{
+						"Text": "流星石"
+					},
+					"Key": "RuneStoneMeteorShower_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "New Hope"
+					},
+					"Translation":
+					{
+						"Text": "新的繩子"
+					},
+					"Key": "MemoryCrystal7_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Old books"
+					},
+					"Translation":
+					{
+						"Text": "舊書"
+					},
+					"Key": "LoryBooks_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "One of the first greatest inventions of humans. Because they envied balls for their rolling skill."
+					},
+					"Translation":
+					{
+						"Text": "人類最偉大的發明之壹。因為他們羨慕球的滾動技術。"
+					},
+					"Key": "Wheel_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Parchment"
+					},
+					"Translation":
+					{
+						"Text": "羊皮紙"
+					},
+					"Key": "Pergamen_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Petals of a ghost flower."
+					},
+					"Translation":
+					{
+						"Text": "幽靈之花的花瓣"
+					},
+					"Key": "AbacusGhostFlower_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Portal Key"
+					},
+					"Translation":
+					{
+						"Text": "入口鑰匙"
+					},
+					"Key": "KeyWWPortal_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Potion Of Worthiness"
+					},
+					"Translation":
+					{
+						"Text": "藥劑的價值"
+					},
+					"Key": "PotionOfWorthiness_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Preservation of Ruin"
+					},
+					"Translation":
+					{
+						"Text": "廢墟的保存"
+					},
+					"Key": "MemoryCrystal6_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Prevents death."
+					},
+					"Translation":
+					{
+						"Text": "避免死亡。"
+					},
+					"Key": "SecondChance_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>18</> damage <YellowH>and applies Stun on the target.</>"
+					},
+					"Translation":
+					{
+						"Text": "賦予在敵人身上反彈 <Green>16</> 秒的能力。造成 <Blue>18</> 傷害 <YellowH> 並對目標產生 <Yellow>暈眩</>。"
+					},
+					"Key": "RuneStoneBounce_level_up_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>18</> damage and applies <Yellow>Stun</> on the target."
+					},
+					"Translation":
+					{
+						"Text": "賦予在敵人身上反彈 <Green>16</> 秒的能力。造成 <Blue>18</> 傷害 <YellowH> 並對目標產生 <Yellow>暈眩</>。"
+					},
+					"Key": "RuneStoneBounce_level_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>18</> damage to the target."
+					},
+					"Translation":
+					{
+						"Text": "賦予在敵人身上反彈 <Green>16</> 秒的能力。對目標造成 <Blue>18</> 傷害。"
+					},
+					"Key": "RuneStoneBounce_level_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>18</><YellowH>(→24)</> damage and applies <Yellow>Stun</> on the target."
+					},
+					"Translation":
+					{
+						"Text": "賦予在敵人身上反彈 <Green>16</> 秒的能力。造成 <Blue>18</><YellowH>(→24)</> 傷害並對目標產生 <Yellow>暈眩</>。"
+					},
+					"Key": "RuneStoneBounce_level_up_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>24</> damage and applies <Yellow>Stun</> on the target."
+					},
+					"Translation":
+					{
+						"Text": "賦予在敵人身上反彈 <Green>16</> 秒的能力。造成 <Blue>24</> 傷害 <YellowH> 並對目標產生 <Yellow>暈眩</>。"
+					},
+					"Key": "RuneStoneBounce_level_desc_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>24</><YellowH>(→30)</> damage and applies <Yellow>Stun</> on the target."
+					},
+					"Translation":
+					{
+						"Text": "賦予在敵人身上反彈 <Green>16</> 秒的能力。造成 <Blue>24</><YellowH>(→30)</> 傷害並對目標產生 <Yellow>暈眩</>。"
+					},
+					"Key": "RuneStoneBounce_level_up_desc_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>16</> seconds. Doing so causes <Blue>30</> damage and applies <Yellow>Stun</> on the target."
+					},
+					"Translation":
+					{
+						"Text": "賦予在敵人身上反彈 <Green>16</> 秒的能力。造成 <Blue>30</> 傷害 <YellowH> 並對目標產生 <Yellow>暈眩</>。"
+					},
+					"Key": "RuneStoneBounce_level_desc_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>8</> seconds. Doing so causes <Blue>12</> damage to the target."
+					},
+					"Translation":
+					{
+						"Text": "賦予在敵人身上反彈 <Green>8</> 秒的能力。對目標造成 <Blue>12</> 傷害。"
+					},
+					"Key": "RuneStoneBounce_level_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>8</> seconds. Doing so causes <Blue>12</> damage to the target."
+					},
+					"Translation":
+					{
+						"Text": "賦予在敵人身上反彈 <Green>8</> 秒的能力。對目標造成 <Blue>12</> 傷害。"
+					},
+					"Key": "RuneStoneBounce_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Provides the ability to bounce from enemies for <Green>8</><YellowH>(→16)</> seconds. Doing so causes <Blue>12</><YellowH>(→18)</> damage to the target."
+					},
+					"Translation":
+					{
+						"Text": "賦予在敵人身上反彈 <Green>8</><YellowH>(→16)</> 秒的能力。對目標造成 <Blue>12</><YellowH>(→18)</> 傷害。"
+					},
+					"Key": "RuneStoneBounce_level_up_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Purple Mushrooms"
+					},
+					"Translation":
+					{
+						"Text": "紫色蘑菇"
+					},
+					"Key": "PurpleMushroom_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Purple Shard"
+					},
+					"Translation":
+					{
+						"Text": "紫色碎片"
+					},
+					"Key": "ShardPurple_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Railway Gate Key"
+					},
+					"Translation":
+					{
+						"Text": "鐵道門鑰匙"
+					},
+					"Key": "KeyWWFirstGate_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rangol was a legendary blacksmith who practiced his crafting art for a hundred years. This sabre was made on day one."
+					},
+					"Translation":
+					{
+						"Text": "拉古爾是一個傳奇的鐵匠，他練習手工藝已經足足有100年。這把軍刀是他第一天製造的。"
+					},
+					"Key": "Sabre_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Raven Feather"
+					},
+					"Translation":
+					{
+						"Text": "烏鴉的羽毛"
+					},
+					"Key": "RavenFeather_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Red Shard"
+					},
+					"Translation":
+					{
+						"Text": "紅色碎片"
+					},
+					"Key": "ShardRed_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Regenerates all other spell charges."
+					},
+					"Translation":
+					{
+						"Text": "重新生成所有其他法術充能。"
+					},
+					"Key": "RuneStoneSpellRegain_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Restores <Green>30</> health points."
+					},
+					"Translation":
+					{
+						"Text": "恢復 <Green>30</> 生命值。"
+					},
+					"Key": "RuneStoneHeal_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rope"
+					},
+					"Translation":
+					{
+						"Text": "繩子"
+					},
+					"Key": "Rope_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rusty Key"
+					},
+					"Translation":
+					{
+						"Text": "生銹的鑰匙"
+					},
+					"Key": "WWBossShipLock_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rusty key of a rusty lock."
+					},
+					"Translation":
+					{
+						"Text": "生銹鎖的生銹鑰匙。"
+					},
+					"Key": "WWBossShipLock_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Scroll of Surrection"
+					},
+					"Translation":
+					{
+						"Text": "復活卷軸"
+					},
+					"Key": "AbacusSpellBook_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Second Key Of The Outpost Wall"
+					},
+					"Translation":
+					{
+						"Text": "前哨墻的第二把鑰匙"
+					},
+					"Key": "KeyOutpostWallOptional_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shadestone"
+					},
+					"Translation":
+					{
+						"Text": "暗影石"
+					},
+					"Key": "RuneStoneShadowWalk_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Shard"
+					},
+					"Translation":
+					{
+						"Text": "銀色碎片"
+					},
+					"Key": "ShardSilver_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Slows all enemy targets around the caster."
+					},
+					"Translation":
+					{
+						"Text": "降低施法者周圍的所有敵人目標的速度。"
+					},
+					"Key": "RuneStoneMassSlow_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Slowstone"
+					},
+					"Translation":
+					{
+						"Text": "減速石"
+					},
+					"Key": "RuneStoneMassSlow_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Small Cell Key"
+					},
+					"Translation":
+					{
+						"Text": "小細胞鑰匙"
+					},
+					"Key": "KeySASewerCreatureCell_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Small Cell Key"
+					},
+					"Translation":
+					{
+						"Text": "小細胞鑰匙"
+					},
+					"Key": "KEYWWSewerCreatureCell_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Some Coins you found in a chest."
+					},
+					"Translation":
+					{
+						"Text": "妳在箱子裏找到的壹些硬幣。"
+					},
+					"Key": "KoboldCoin_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sometimes the lock is harder to find than the key."
+					},
+					"Translation":
+					{
+						"Text": "有時鎖比鑰匙更難找。"
+					},
+					"Key": "KeyAAMainFirstDoor_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Soulstone"
+					},
+					"Translation":
+					{
+						"Text": "靈魂石"
+					},
+					"Key": "RuneStoneSoulkeeper_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spellcaster"
+					},
+					"Translation":
+					{
+						"Text": "施法者"
+					},
+					"Key": "SpellCaster_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spiritstone"
+					},
+					"Translation":
+					{
+						"Text": "精神石"
+					},
+					"Key": "RuneStoneSpellRegain_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Stone Token"
+					},
+					"Translation":
+					{
+						"Text": "石制徽章"
+					},
+					"Key": "LavaGolemToken_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Straight Sword"
+					},
+					"Translation":
+					{
+						"Text": "直劍"
+					},
+					"Key": "StraightSword_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Strikes and spell cooldowns are decreased by 90% for 10 seconds."
+					},
+					"Translation":
+					{
+						"Text": "攻擊和法術冷卻時間減少90%，持續10秒。"
+					},
+					"Key": "RuneStoneEnergy_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons 12 deadly meteors around the caster, each causing 16 damage on impact."
+					},
+					"Translation":
+					{
+						"Text": "在施法者周圍召喚12顆致命流星，每顆造成16點傷害。"
+					},
+					"Key": "RuneStoneMeteorShower_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>12</> deadly meteors around the caster, each causing <White>16</> damage on impact."
+					},
+					"Translation":
+					{
+						"Text": "在施法者周圍召喚 <Green>12</> 顆致命流星, 每壹個可造成 <White>16</> 傷害。"
+					},
+					"Key": "RuneStoneMeteorShower_level_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>12</><YellowH>(→16)</> deadly meteors around the caster, each causing <White>16</><YellowH>(→24)</> damage on impact."
+					},
+					"Translation":
+					{
+						"Text": "在施法者周圍召喚<Green>12</><YellowH>(→16)</> 顆致命流星, 每壹個可造成 <White>16</><YellowH>(→24)</> 傷害。"
+					},
+					"Key": "RuneStoneMeteorShower_level_up_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>16</> deadly meteors around the caster, each causing <White>24</> damage on impact."
+					},
+					"Translation":
+					{
+						"Text": "在施法者周圍召喚 <Green>16</> 顆致命流星, 每壹個可造成 <White>24</> 傷害。"
+					},
+					"Key": "RuneStoneMeteorShower_level_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>16</><YellowH>(→20)</> deadly meteors around the caster, each causing <White>24</><YellowH>(→32)</> damage on impact. <YellowH>Each meteor has a</> <GreenH>30%</> <YellowH>chance to Stun the target.</>"
+					},
+					"Translation":
+					{
+						"Text": "在施法者周圍召喚<Green>16</><YellowH>(→20)</> 顆致命流星, 每壹個可造成 <White>24</><YellowH>(→32)</> 傷害。 <YellowH>每顆流星有</> <GreenH>30%</> 機率使目標 <YellowH>暈眩。</>"
+					},
+					"Key": "RuneStoneMeteorShower_level_up_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>1</> homing projectile targeted at a close foe - prefers flying targets. Causes <Blue>16</> damage on impact."
+					},
+					"Translation":
+					{
+						"Text": "對壹個近距離的敵人- 特別是飛行的目標召喚 <Green>1</> 導炮彈。每個炮彈造成  <Blue>16</> 傷害並產生<Orange>減速</> 。"
+					},
+					"Key": "RuneStoneMagicMissle_level_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>1</><YellowH>(→2)</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage on impact."
+					},
+					"Translation":
+					{
+						"Text": "對壹個近距離的敵人- 特別是飛行的目標召喚 <Green>1</><YellowH>(→2)</> 導炮彈。每個炮彈造成  <Blue>16</> 傷害。"
+					},
+					"Key": "RuneStoneMagicMissle_level_up_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>20</> deadly meteors around the caster, each causing <White>32</> damage on impact. Each meteor has a <Green>30%</> chance to <Yellow>Stun</> the target."
+					},
+					"Translation":
+					{
+						"Text": "在施法者周圍召喚<Green>20</><YellowH>(→16)</> 顆致命流星, 每壹個可造成<White>32</> 傷害。 <YellowH>每顆流星有</> <GreenH>30%</> <YellowH>機率使目標 <Yellow>眩暈</>。"
+					},
+					"Key": "RuneStoneMeteorShower_level_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>2</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage on impact."
+					},
+					"Translation":
+					{
+						"Text": "對壹個近距離的敵人- 特別是飛行的目標召喚 <Green>2</> 導炮彈。每個炮彈造成  <Blue>16</> 傷害並產生<Orange>減速</> 。"
+					},
+					"Key": "RuneStoneMagicMissle_level_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>2</><YellowH>(→3)</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage <YellowH>and applies</> <OrangeH>Slow</> on impact."
+					},
+					"Translation":
+					{
+						"Text": "對壹個近距離的敵人- 特別是飛行的目標召喚 <Green>2</><YellowH>(→3)</> 個導炮彈。每個炮彈造成 <Blue>16</> 傷害 <YellowH>並產生 <OrangeH>減速</> 效果。"
+					},
+					"Key": "RuneStoneMagicMissle_level_up_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>3</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage and applies <Orange>Slow</> on impact."
+					},
+					"Translation":
+					{
+						"Text": "對壹個近距離的敵人- 特別是飛行的目標召喚 <Green>3</> 導炮彈。每個炮彈造成  <Blue>16</> 傷害並產生<Orange>減速</> 。"
+					},
+					"Key": "RuneStoneMagicMissle_level_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>3</><YellowH>(→4)</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage and applies <Orange>Slow</> on impact."
+					},
+					"Translation":
+					{
+						"Text": "對壹個近距離的敵人- 特別是飛行的目標召喚 <Green>3</><YellowH>(→4)</> 個導炮彈。每個炮彈造成 <Blue>16</> 傷害並產生 <Orange>減速</> 效果。"
+					},
+					"Key": "RuneStoneMagicMissle_level_up_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons <Green>4</> homing projectile targeted at a close foe - prefers flying targets. Each projectile causes <Blue>16</> damage and applies <Orange>Slow</> on impact."
+					},
+					"Translation":
+					{
+						"Text": "對壹個近距離的敵人- 特別是飛行的目標召喚 <Green>4</> 導炮彈。每個炮彈造成  <Blue>16</> 傷害並產生<Orange>減速</> 。"
+					},
+					"Key": "RuneStoneMagicMissle_level_desc_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a homing projectile for each nearby enemy, causing <Blue>20</> damage on impact."
+					},
+					"Translation":
+					{
+						"Text": "給周圍每個敵人都召喚壹個導炮彈, 造成 <Blue>20</> 傷害。"
+					},
+					"Key": "RuneStoneMassMagicMissle_level_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a homing projectile for each nearby enemy, causing <Blue>20</> damage on impact."
+					},
+					"Translation":
+					{
+						"Text": "給周圍每個敵人都召喚壹個導炮彈, 造成 <Blue>20</> 傷害。"
+					},
+					"Key": "RuneStoneMassMagicMissle_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a homing projectile for each nearby enemy, causing <Blue>20</><YellowH>(→40)</> damage on impact."
+					},
+					"Translation":
+					{
+						"Text": "給周圍每個敵人都召喚壹個導炮彈, 造成 <Blue>20</><YellowH>(→40)</> 傷害。"
+					},
+					"Key": "RuneStoneMassMagicMissle_level_up_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a homing projectile for each nearby enemy, causing <Blue>20</><YellowH>(→50)</> damage on impact. <YellowH>The target has a</> <GreenH>30%</> <YellowH>chance to become</> <Orange>Slow</>."
+					},
+					"Translation":
+					{
+						"Text": "給周圍每個敵人都召喚壹個導炮彈, 造成 <Blue>20</><YellowH>(→50)</> 傷害。 <YellowH>目標有</> <GreenH>30%</> <YellowH>機率</> <Orange>減速</>。"
+					},
+					"Key": "RuneStoneMassMagicMissle_level_up_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a homing projectile for each nearby enemy, causing <Blue>40</> damage on impact."
+					},
+					"Translation":
+					{
+						"Text": "給周圍每個敵人都召喚壹個導炮彈, 造成 <Blue>40</> 傷害。"
+					},
+					"Key": "RuneStoneMassMagicMissle_level_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a homing projectile for each nearby enemy, causing <Blue>50</> damage on impact. The target has a <Green>30%</> chance to become <Orange>Slow</>."
+					},
+					"Translation":
+					{
+						"Text": "給周圍每個敵人都召喚壹個導炮彈, 造成 <Blue>50</> 傷害。 目標有 <Green>30%</> <Orange>機率</> <Orange>減速</>。"
+					},
+					"Key": "RuneStoneMassMagicMissle_level_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a homing projectile targeted at a close foe - prefers flying targets."
+					},
+					"Translation":
+					{
+						"Text": "對壹個近距離的敵人- 特別是飛行的目標召喚壹個導炮彈。"
+					},
+					"Key": "RuneStoneMagicMissle_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>16</> damage."
+					},
+					"Translation":
+					{
+						"Text": "召喚壹股強大的沖擊波，能把任何東西烤成壹條直線。\n造成 <Blue>16</> 傷害。"
+					},
+					"Key": "RuneStoneFire0_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>16</> damage."
+					},
+					"Translation":
+					{
+						"Text": "召喚壹股強大的沖擊波，能把任何東西烤成壹條直線。\n造成 <Blue>16</> 傷害。"
+					},
+					"Key": "RuneStoneFire0_level_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>16</><YellowH>(→32)</> damage."
+					},
+					"Translation":
+					{
+						"Text": "召喚壹股強大的沖擊波，能把任何東西烤成壹條直線。\n造成 <Blue>16</><YellowH>(→32)</> 傷害。"
+					},
+					"Key": "RuneStoneFire0_level_up_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>32</> damage."
+					},
+					"Translation":
+					{
+						"Text": "召喚壹股強大的沖擊波，能把任何東西烤成壹條直線。\n造成  <Blue>32</> 傷害。"
+					},
+					"Key": "RuneStoneFire0_level_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>32</><YellowH>(→36)</> damage. <YellowH>The spell has </><GreenH>50%</> <YellowH>chance to </><PurpleH>Instant Recharge.</>"
+					},
+					"Translation":
+					{
+						"Text": "召喚壹股強大的沖擊波，能把任何東西烤成壹條直線。\n造成 <Blue>32</><YellowH>(→36)</>  傷害。<YellowH>該法術有 </><GreenH>50%</> <YellowH> 機率 </><PurpleH>獲得迅速補給.</>"
+					},
+					"Key": "RuneStoneFire0_level_up_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>36</> damage. The spell has <Green>50%</> chance to <Purple>Instant Recharge.</>"
+					},
+					"Translation":
+					{
+						"Text": "召喚壹股強大的沖擊波，能把任何東西烤成壹條直線。\n造成 <Blue>36</> 傷害。該法術有 <Green>50%</> 機率 <Purple>獲得迅速補給.</>"
+					},
+					"Key": "RuneStoneFire0_level_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>36</><YellowH>(→52)</> damage. The spell has <Green>50%</> chance to <Purple>Instant Recharge.</>"
+					},
+					"Translation":
+					{
+						"Text": "召喚壹股強大的沖擊波，能把任何東西烤成壹條直線。\n造成 <Blue>36</><YellowH>(→52)</> 傷害。該法術有 <Green>50%</> 機率 <Purple>獲得迅速補給.</>"
+					},
+					"Key": "RuneStoneFire0_level_up_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons a powerful blast roasting anything in a straight line.\nCauses <Blue>52</> damage. The spell has <Green>50%</> chance to <Purple>Instant Recharge.</>"
+					},
+					"Translation":
+					{
+						"Text": "召喚壹股強大的沖擊波，能把任何東西烤成壹條直線。\n造成 <Blue>52</> 傷害。該法術有 <Green>50%</> 機率 <Purple>獲得迅速補給.</>"
+					},
+					"Key": "RuneStoneFire0_level_desc_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons the Soulkeeper, a powerful spirit capable of gathering your essence should something bad happen to you."
+					},
+					"Translation":
+					{
+						"Text": "召喚靈魂守護者，壹個強大的靈魂能夠收集妳的精華，如果有什麽不好的事情發生在妳身上。"
+					},
+					"Key": "RuneStoneSoulkeeperInfinite_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summons the Soulkeeper, a powerful spirit capable of gathering your essence should something bad happen to you.\r\n\r\nReleasing the spirit recharges the stone."
+					},
+					"Translation":
+					{
+						"Text": "召喚靈魂看守者，一個強大的靈魂，能夠收集你的精華，如果有什麼不好的事情發生在你身上。\r\n釋放靈魂會給石頭充電。 ”"
+					},
+					"Key": "RuneStoneSoulkeeper_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it."
+					},
+					"Translation":
+					{
+						"Text": "將施法者的位置與他/她/它前面最近的目標互換。"
+					},
+					"Key": "RuneStoneSwap_level_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it."
+					},
+					"Translation":
+					{
+						"Text": "將施法者的位置與他/她/它前面最近的目標互換。"
+					},
+					"Key": "RuneStoneSwap_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. <YellowH>The selected target suffers</> <BlueH>20</> <YellowH>damage.</>"
+					},
+					"Translation":
+					{
+						"Text": "將施法者的位置與他/她/它前面最近的目標互換。<YellowH>所選目標將受到</> <BlueH>20</> <YellowH>傷害。</>"
+					},
+					"Key": "RuneStoneSwap_level_up_desc_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>20</> damage."
+					},
+					"Translation":
+					{
+						"Text": "將施法者的位置與他/她/它前面最近的目標互換。所選目標將受到 <Blue>20</> 傷害並 <Orange>減速</>。"
+					},
+					"Key": "RuneStoneSwap_level_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>20</><YellowH>(→30)</> damage <YellowH>and becomes </><Orange>Slow.</>"
+					},
+					"Translation":
+					{
+						"Text": "將施法者的位置與他/她/它前面最近的目標互換。所選目標將受到<Blue>20</><YellowH>(→30)</> 傷害並<Orange>減速。</>"
+					},
+					"Key": "RuneStoneSwap_level_up_desc_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>30</> damage and becomes <Orange>Slow</>."
+					},
+					"Translation":
+					{
+						"Text": "將施法者的位置與他/她/它前面最近的目標互換。所選目標將受到 <Blue>30</> 傷害並 <Orange>減速</>。"
+					},
+					"Key": "RuneStoneSwap_level_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>30</><YellowH>(→40)</> damage and becomes <Orange>Slow.</>"
+					},
+					"Translation":
+					{
+						"Text": "將施法者的位置與他/她/它前面最近的目標互換。所選目標將受到<Blue>30</><YellowH>(→40)</> 傷害並<Orange>減速。</>"
+					},
+					"Key": "RuneStoneSwap_level_up_desc_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>40</> damage and becomes <Orange>Slow</>."
+					},
+					"Translation":
+					{
+						"Text": "將施法者的位置與他/她/它前面最近的目標互換。所選目標將受到 <Blue>40</> 傷害並 <Orange>減速</>。"
+					},
+					"Key": "RuneStoneSwap_level_desc_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>40</><YellowH>(→50)</> damage and becomes <Orange>Slow.</>"
+					},
+					"Translation":
+					{
+						"Text": "將施法者的位置與他/她/它前面最近的目標互換。所選目標將受到<Blue>40</><YellowH>(→50)</> 傷害並 <Orange>減速。</>"
+					},
+					"Key": "RuneStoneSwap_level_up_desc_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swaps the position of the caster with the closest target in front of him/her/it. The selected target suffers <Blue>50</> damage and becomes <Orange>Slow</>."
+					},
+					"Translation":
+					{
+						"Text": "將施法者的位置與他/她/它前面最近的目標互換。所選目標將受到 <Blue>50</> 傷害並 <Orange>減速</>。"
+					},
+					"Key": "RuneStoneSwap_level_desc_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swapstone"
+					},
+					"Translation":
+					{
+						"Text": "交換石"
+					},
+					"Key": "RuneStoneSwap_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Teal Shard"
+					},
+					"Translation":
+					{
+						"Text": "青色碎片"
+					},
+					"Key": "ShardTeal_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tealstone"
+					},
+					"Translation":
+					{
+						"Text": "青色石"
+					},
+					"Key": "RuneStoneMagicMissle_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tealstone, but better"
+					},
+					"Translation":
+					{
+						"Text": "青色石，更好"
+					},
+					"Key": "RuneStoneMassMagicMissle_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "The mighty sword of Kharutar the Demon Ruler. Legend says he once cut one of his fingers with it and in his rage he broke the sword into two. Later it was reforged but some say it would still need some more fixes."
+					},
+					"Translation":
+					{
+						"Text": "惡魔統治者卡魯塔的利劍。傳說他曾經用它割破了自己的壹個手指，盛怒之下，他把劍劈成了兩半。後來它被重新鑄造，但壹些人說它需要進壹步修復。"
+					},
+					"Key": "DemonSword_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "The most purple mushrooms you could find. You hope these will be enough."
+					},
+					"Translation":
+					{
+						"Text": "妳能找到的顏色最紫的蘑菇。妳希望這些數量足夠。"
+					},
+					"Key": "PurpleMushroom_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "There are a ridiculous amount of keys in this world, right?"
+					},
+					"Translation":
+					{
+						"Text": "這個世界上的鑰匙數量多得可笑，對吧?"
+					},
+					"Key": "KeyCatacombs0_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "There are so many stones around. You are still not sure what's the point of picking up some of them."
+					},
+					"Translation":
+					{
+						"Text": "周圍有很多石頭。妳仍然不確定拿起它們有什麽意義。"
+					},
+					"Key": "PortalGem_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "This is one of the many spare keys of the Dwarven Outpost Kitchen. Being able to get into the kitchen was always very important for dwarves."
+					},
+					"Translation":
+					{
+						"Text": "這是地精前哨廚房的備用鑰匙之壹。能夠進入廚房對地精來說總是非常重要的。"
+					},
+					"Key": "DOKitchenKey_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "This is one of the spare keys of the Ancient Temple. Just in case the original would be dropped into the lava accidentally."
+					},
+					"Translation":
+					{
+						"Text": "這是古廟的備用鑰匙之壹。只是為了防止原物不小心掉進熔巖裏。"
+					},
+					"Key": "LETempleKey_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "This key can be used to open any door equipped with a special kind of lock, but breaks during the process."
+					},
+					"Translation":
+					{
+						"Text": "這把鑰匙可以用來打開任何裝有特殊鎖的門，但在打開過程中會損壞。"
+					},
+					"Key": "KeyMaster_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "This might not be the weirdest side effect one can have when drinking something suspicious but it is definitely in the top five."
+					},
+					"Translation":
+					{
+						"Text": "也許喝下它所產生的副作用不是第壹名，但也足以位列前五。"
+					},
+					"Key": "PotionOfWorthiness_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Two ancient books with the titles \"True value of your family\" and \"How much does a brother cost?\". They look boring so you decide not to open them."
+					},
+					"Translation":
+					{
+						"Text": "這是兩本古書，書名分別是《妳的家庭的真正價值》心臟《壹個兄弟值多少錢?》。看起來很無聊，所以妳決定不打開它們。"
+					},
+					"Key": "LoryBooks_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unconcerned Key"
+					},
+					"Translation":
+					{
+						"Text": "不受關註的鑰匙"
+					},
+					"Key": "KeyTLElevatorRoom_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "WARNING: not following the instructions exactly leads to failure and also increases the probability of injury and or death [Carfy 3154].\r\n\r\nREFERENCES:\r\n\r\nWISY, W., BUSY, B., WEIRDY, Y., AND LUCKY, L. 3152. The best ways to get rid of anyone potentially distracting us with questions like \"What do you read?\"\r\n\r\nInti, I., AND Clevi, C. 3153. Insulting dead ancestors using Surrected objects\r\n\r\nCarfy C. 3154. What happened to Clevi, C. and Inti, I."
+					},
+					"Translation":
+					{
+						"Text": "“警告:不遵守說明將導致失敗，並增加受傷或死亡的可能性[Carfy 3154]。\r\n\r\n引用:\r\n\r\n最好的解決辦法就是不要問一些可能會分散我們注意力的問題，比如“你讀的書是什麼?”\r\n\r\n用複活侮辱了死去的祖先\r\n\r\n發生了什麼事?”"
+					},
+					"Key": "AbacusSpellBook_page_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Weird"
+					},
+					"Translation":
+					{
+						"Text": "奇怪的"
+					},
+					"Key": "KeyAAFirstFight_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Weird Device"
+					},
+					"Translation":
+					{
+						"Text": "奇怪裝置"
+					},
+					"Key": "SecretWeirdDevice_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Weird Key"
+					},
+					"Translation":
+					{
+						"Text": "奇怪的鑰匙"
+					},
+					"Key": "KeyAAFirstFight_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Weird liquid in a bottle. The kobold calls it Soup."
+					},
+					"Translation":
+					{
+						"Text": "瓶子裏裝著奇怪的液體。地精管這個叫湯。"
+					},
+					"Key": "KoboldPotion_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wheel"
+					},
+					"Translation":
+					{
+						"Text": "輪子"
+					},
+					"Key": "Wheel_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "When the Abacus is killed its spirit might return to get even with its murderer."
+					},
+					"Translation":
+					{
+						"Text": "當算盤被殺死時，它的靈魂可能會回來報復兇手。"
+					},
+					"Key": "AbacusGhost_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "When you are the one in the team who has the job to enter every dungeon first, you will become a careful one too... if you live long enough for that."
+					},
+					"Translation":
+					{
+						"Text": "當妳是團隊中每次第壹個進入地牢的人，妳也會成為壹個細心的人……如果妳能活得足夠長。"
+					},
+					"Key": "TestStoneBag_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "When you don't have enough fingers to count something you need this abacus."
+					},
+					"Translation":
+					{
+						"Text": "當妳計算中手不夠用時，妳需要這個算盤。"
+					},
+					"Key": "Abacus_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "White Shard"
+					},
+					"Translation":
+					{
+						"Text": "白色碎片"
+					},
+					"Key": "ShardWhite_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "White Wall Key"
+					},
+					"Translation":
+					{
+						"Text": "白色巨墻鑰匙"
+					},
+					"Key": "KeyWWWhiteWall_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wisy et al. [3152] point out that any entity can be banished by throwing the proper object into his/her/its face a few times, making him/her/it annoyed thus unconcerned, as long as the target entity has a face.\r\n\r\nThe proper object in case of ghosts is something Surrected [Inti and Clevi 3153], as only Surrected substance can interact with ghosts.\r\n\r\nAny object covered with petals of Ghost Flower can be Surrected using the following method:\r\n\r\n- Say \"Sorry my <object name>!\"\r\n- Break the object into pieces with a heated hammer\r\n- Say your favourite color\r\n- Croon \"La La LaLaLa LaLaLa\" until the object is coagulated into a single Surrected object"
+					},
+					"Translation":
+					{
+						"Text": "Wisy et al. [3152]報告指出，只要目標實體有一張臉，任何實體都可以通過將合適的物體扔到他/她/它的臉上幾次而被驅逐，從而使他/她/它從厭煩到麻木。\r\n\r\n對於幽靈來說，合適的對像是被復活的物體[Inti and Clevi 3153]，因為只有被復活的物體才能與幽靈相互作用。\r\n\r\n任何被幽靈之花花瓣覆蓋的物體都可以用以下方法替代超越物:\r\n\r\n-說\"對不起，我的<object name>!\"\r\n-用加熱的錘子把物體打碎\r\n-說出你最喜歡的顏色\r\n-低吟“啦啦啦啦啦啦啦啦啦啦啦”“直到物體凝固成一個完整的物體”"
+					},
+					"Key": "AbacusSpellBook_page_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Yellow Shard"
+					},
+					"Translation":
+					{
+						"Text": "黃色碎片"
+					},
+					"Key": "ShardYellow_name"
+				},
+				{
+					"Source":
+					{
+						"Text": "You do wonder when the area is full of ropes why this is the only one which can be taken..."
+					},
+					"Translation":
+					{
+						"Text": "妳壹定想知道為什麽在這個布滿了繩子的房間裏只有壹件東西可拿..."
+					},
+					"Key": "Rope_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "You got this item for free from a Merchant so you hardly believe it has any value. It might be used as some sort of a mechanism activator though. Hopefully not for a trap."
+					},
+					"Translation":
+					{
+						"Text": "妳從壹個商人那裏免費得到這個東西，所以妳幾乎不相信它有任何價值。它可能被用作某種機關激活物。希望不是陷阱。"
+					},
+					"Key": "ElevatorLeverCrystal_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "You heal <Red>10%</> of the melee damage you inflict on your enemies."
+					},
+					"Translation":
+					{
+						"Text": "妳可恢復<Red>10%</>妳給敵人造成的近戰傷害。"
+					},
+					"Key": "ShardRedBright_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "You heal <Red>5%</> of the melee damage you inflict on your enemies."
+					},
+					"Translation":
+					{
+						"Text": "妳可恢復<Red>5%</>妳給敵人造成的近戰傷害。"
+					},
+					"Key": "ShardRed_desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "You won't believe it but it is a key for a cage."
+					},
+					"Translation":
+					{
+						"Text": "也許妳不會相信，但它的確是籠子的鑰匙。"
+					},
+					"Key": "LEKeyCage_desc"
+				}
+			]
+		},
+		{
+			"Namespace": "Notes",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "A Pipe Walker is trapped in a cage"
+					},
+					"Translation":
+					{
+						"Text": "壹個管道行走者被困在籠子裏"
+					},
+					"Key": "AE371E564EC1D75947ECF98AAA896A2C"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gnory needs a wheel"
+					},
+					"Translation":
+					{
+						"Text": "格諾裏需要壹個輪子"
+					},
+					"Key": "B12481ED4CFF0182EDB7ACAA416B55FC"
+				},
+				{
+					"Source":
+					{
+						"Text": "I feel the Tomb of Tabby is important somehow"
+					},
+					"Translation":
+					{
+						"Text": "我覺得泰比之墓很重要。"
+					},
+					"Key": "E3857F07468C2A0B34A98887E3BBB1DA"
+				},
+				{
+					"Source":
+					{
+						"Text": "I need to learn Dwarven to open a gate"
+					},
+					"Translation":
+					{
+						"Text": "我需要學習矮人如何開門"
+					},
+					"Key": "D8C4FFC7435C6A2E7C88BBA7109A1907"
+				},
+				{
+					"Source":
+					{
+						"Text": "I promised Fountain to give its flower to the Magic Mirror."
+					},
+					"Translation":
+					{
+						"Text": "我答應許願泉把它的花送給魔鏡。"
+					},
+					"Key": "0BFD568E4989A20D66B91DA476C0E6B4"
+				},
+				{
+					"Source":
+					{
+						"Text": "I promised Lory to bring her some books"
+					},
+					"Translation":
+					{
+						"Text": "我答應羅裏給她帶幾本書來"
+					},
+					"Key": "F109A1614B16565CC1846C8D0A46672E"
+				},
+				{
+					"Source":
+					{
+						"Text": "Teachy asked for a strangely unique device"
+					},
+					"Translation":
+					{
+						"Text": "蒂奇需要壹種奇特而獨特的裝置"
+					},
+					"Key": "E9DA40684B9375A5F78D18A138C75174"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Chef asked me to bring him some Purple Mushroom"
+					},
+					"Translation":
+					{
+						"Text": "廚師讓我給他帶些紫色蘑菇"
+					},
+					"Key": "D3B6D81E433CBE8461E2B1AFE06E9741"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Chef wants me to clear the shore"
+					},
+					"Translation":
+					{
+						"Text": "廚師要我清理海岸"
+					},
+					"Key": "57CBE1274A1B4EC7FD68EA9288161AAD"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Dwarf wants me to clear the Dwarven Fortress"
+					},
+					"Translation":
+					{
+						"Text": "矮人要我清除矮人要塞"
+					},
+					"Key": "9C3FB78C4598A48BC187B580CBB070F6"
+				},
+				{
+					"Source":
+					{
+						"Text": "The GateKeeper could use a chair"
+					},
+					"Translation":
+					{
+						"Text": "看門人可以使用壹把椅子"
+					},
+					"Key": "77693D6C43702786250364932BD34BCD"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Ghost Dwarf needs a ghost abacus"
+					},
+					"Translation":
+					{
+						"Text": "這個矮人幽魂需要壹個幽靈算盤"
+					},
+					"Key": "1ABD11A64A7649801A6AB6A8BBDC686C"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Golem Maker wants me to hunt some Golems"
+					},
+					"Translation":
+					{
+						"Text": "機器制造人要我去捕獵壹些機器人"
+					},
+					"Key": "AA94EB6E4B0A505D730971932A3DE0CC"
+				}
+			]
+		},
+		{
+			"Namespace": "StationNames",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Crossroad Cave"
+					},
+					"Translation":
+					{
+						"Text": "十字路口的洞穴"
+					},
+					"Key": "crossroadcave"
+				},
+				{
+					"Source":
+					{
+						"Text": "Obedient Outpost"
+					},
+					"Translation":
+					{
+						"Text": "順從的前哨"
+					},
+					"Key": "outpost"
+				},
+				{
+					"Source":
+					{
+						"Text": "Remnant Road"
+					},
+					"Translation":
+					{
+						"Text": "殘余之路"
+					},
+					"Key": "lavatemple"
+				},
+				{
+					"Source":
+					{
+						"Text": "Stay"
+					},
+					"Translation":
+					{
+						"Text": "停留"
+					},
+					"Key": "stay"
+				},
+				{
+					"Source":
+					{
+						"Text": "World's End"
+					},
+					"Translation":
+					{
+						"Text": "世界盡頭"
+					},
+					"Key": "away"
+				},
+				{
+					"Source":
+					{
+						"Text": "Wracked Waters"
+					},
+					"Translation":
+					{
+						"Text": "毀壞之水"
+					},
+					"Key": "wrackedWaters"
+				}
+			]
+		}
+	]
+}

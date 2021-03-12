@@ -1,0 +1,11 @@
+"InstallScript"
+{
+	"Firewall"
+	{
+		"Warriorb Development"		"%INSTALLDIR%\\Warriorb\\Binaries\\Win64\\Warriorb.exe"
+	}
+}
+"kvsignatures"
+{
+	"InstallScript"		"3c0672c78703018b7f30800856cb3daa790b8496a5f84d724a12252eb0f31cafa8a80a320b5411ba9734cf55b5ff9dabb81c9b5328802e8923ed60162e7ae43cfabcd8f3c5f0e1cc50ead3a35277d337e7347f93d6a9ddb814f6761e3d6f484765b9fa2fee4ed35ccdef7507224f925fb8001115fdc4f0c648136e577b51adc1"
+}

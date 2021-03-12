@@ -1,0 +1,15 @@
+Key,SourceString,Comment
+episode_end_main_title,Episode Completed!,episode map end panel text
+white_wall_friendly_name,White Wall,name the episode is displayed with in the ui
+white_wall_desc,Although it's long abandoned the fortress of White Wall still stands against Ruin. After centuries of silence some groups of unexpected visitors broke the loneliness of the decaying city.,map desc when the player can select the episode
+white_wall_completed_subtitle,White Wall,subtitle of the ending panel when player finishes this episode
+white_wall_completed_desc,"What happened beyond the portal is another story, which will be told at another time.",short text on the ending panel when player finishes this episode
+white_wall_loadingscreen_desc,After months of researching I found a way to return back to the Ruined Realm. Ironically enough I have to use the same body I was trapped in before. I'll need to be quick and clever for this might be my very last chance to stop Ruin before it devours the World.,text on loading screen
+dreamhack_friendly_name,Dreamhack,
+dreamhack_desc,What happens when you lock a mighty demon's spirit inside a ball body?,
+dreamhack_completed_subtitle,Dreamhack Demo,
+dreamhack_completed_desc,"Thanks for playing the game, we hope you had a great time!",
+escape_darkness_friendly_name,Escape Darkness,
+escape_darkness_desc,Are you fast enough to race against Darkness itself?,
+escape_darkness_completed_subtitle,Escaped from Darkness,
+escape_darkness_completed_desc,"""And as Darkness spreads an unknown Warriorb will rise...""",

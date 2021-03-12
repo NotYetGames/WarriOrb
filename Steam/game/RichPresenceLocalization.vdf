@@ -1,0 +1,12 @@
+"lang"
+{
+    "english"
+    {
+        "tokens"
+        {
+            "#menu"       "In main menu"
+            "#chapter"    "Playing %chapter%"
+			"#challenge"  "Playing %challenge% Challenge"
+        }
+    }
+}

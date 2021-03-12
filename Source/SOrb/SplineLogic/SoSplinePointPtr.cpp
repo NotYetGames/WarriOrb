@@ -1,0 +1,38 @@
+// Copyright (c) Csaba Molnar & Daniel Butum. All Rights Reserved.
+#include "SoSplinePointPtr.h"
+#include "Components/SplineComponent.h"
+#include "SoSpline.h"
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+FSoSplinePointPtr::FSoSplinePointPtr()
+{
+	DistanceAlongSpline = 0.0f;
+	SplinePtr = TAssetPtr<ASoSpline>(nullptr);
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+FSoSplinePointPtr::FSoSplinePointPtr(const FSoSplinePoint& SplinePoint)
+{
+	DistanceAlongSpline = SplinePoint.GetDistance();
+	SplinePtr = TAssetPtr<ASoSpline>(SplinePoint.GetSpline());
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+FSoSplinePoint FSoSplinePointPtr::Extract() const
+{
+	return FSoSplinePoint(SplinePtr.Get(), DistanceAlongSpline);
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+void FSoSplinePointPtr::SetDistanceAlongSpline(float Distance)
+{
+	const ASoSpline* Spline = SplinePtr.Get();
+	if (Spline != nullptr)
+		DistanceAlongSpline = FMath::Clamp(Distance, 0.0f, Spline->GetSplineComponent()->GetSplineLength());
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+bool FSoSplinePointPtr::IsValid() const
+{
+	return SplinePtr.IsValid();
+}

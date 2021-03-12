@@ -1,0 +1,153 @@
+Key,SourceString,Comment
+read,Read,interaction hint if the character can read a scroll or book
+read_symbols,Read Symbols,
+read_dictionary,Read Dictionary,
+open,Open,door can be openned
+door_opened,Door opened,door openned
+open_door,Open Door,
+close_door,Close Door,
+examine,Examine,examine a statue or some other interactable object which triggers dialogue or hint message
+examine_device,Examine Device,
+pull,Pull,pull a lever
+pull_lever,Pull Lever,
+lever_is_inactive,Seems to be inactive,a lever
+lever_is_active,Lever activated. The crystal broke.,
+enter,Enter,teleport - enter a room or a portal
+leave,Leave,"teleport - leave a room, chest, level"
+leave_circle,Leave Circle,
+leave_cave,Leave Cave,
+leave_hut,Leave Hut,
+leave_bridge,Leave Bridge,
+enter_tower,Enter Tower,
+enter_bridge,Enter Bridge,
+enter_portal,Enter Portal,
+enter_flames,Enter Flames,
+enter_cave,Enter Cave,
+enter_gate,Enter Gate,
+enter_hut,Enter Hut,
+enter_kitchen,Enter Kitchen,
+enter_stairs_left,Enter Stairs on the Left,
+enter_stairs_right,Enter Stairs on the Right,
+enter_pipe,Enter Pipe,
+cross_planks,Cross Planks,
+descend,Descend,climb down a ladder or rope or go down with an elevator
+ascend,Ascend,climb up a ladder or rope or go up with an elevator
+take,Take,character can take an item
+take_axe,Take Axe,character can take a weapon
+take_sword,Take Sword,character can take a weapon
+take_mace,Take Mace,character can take a weapon
+take_blades,Take Blades,character can take two swords to go dual wield
+take_books,Take Books,character can take (two) books
+take_spellcaster,Take Spellcaster,the Spellcaster is an amulet the character can use to cast spells
+take_sabre,Take Sabre,character can take a weapon
+take_rope,Take Rope,
+take_wheel,Take Wheel,
+take_mushrooms,Take Mushrooms,
+take_stones,Take Stones,
+take_a_seat,Take a seat,
+primary_strike,Primary Strike,hint with control key for strike 1 of the character
+special_strike,Special Strike,hint with control key for strike 2 of the character
+put_weapon_away,Put Weapon Away,hint with control key to show how to put the weapon away
+inventory,Inventory,hint for hotkey to open the inventory
+finish_demo,Finish Demo,teleport at the end of demo
+chest_open,Open Chest,
+chest_open_small,Open Small Chest,
+chest_close,Close Chest,
+chest_close_small,Close Small Chest,
+chest_check,Check Chest,
+chest_check_small,Check Small Chest,
+door_does_not_open_from_this_side,Door does not open from this side!,message when character tries to open a door but it can only be openned from the other side
+rest,Rest,rest near a checkpoint statue where character can sleep and change spells and listen to music
+key_missing,Key Missing: {0},{0} is replaced with a key name
+unlocked_with,Unlocked with {0},{0} is replaced with a key name
+acquired_item,{0} acquired,{0} is replaced with an item name
+acquired_few_item,A few items acquired,message when more than one item is received at once
+aquired_silver_key,Silver Key Acquired,optional bonus message
+talk,Talk,
+fire,Fire,fires a cannon
+push,Push,push a sphere shaped rock from the edge to break some stuff
+ring_bell,Ring the bell,there is a bell the character has to use to start the conversation with a merchant
+kick_rope,Kick Rope,a pile of rope can be kicked to be able to climb up/down on it
+rope_kicked,Rope kicked,feedback on the kick rope action
+rope_placed,Rope placed,
+rope_can_be_placed,A rope could be placed here,
+elevator_not_move_to_dir,The elevator does not move to the selected direction,player tries to use an elevator but the direction is not activated yet
+elevator_inactive,The elevator seems to be inactive,player tries to use the elevator but it is inactive
+pass_bridge,Pass Bridge,
+boat_to_station,Boat to the Station,use a boat to get to the Station
+boat_to_kitchen,Boat to the Kitchen,use a boat to get to the kitchen
+sail,Sail,use ship for travel
+boat_to_ruins,Boat to the Ruins,use a boat to get to a place where there are some ancient ruins
+examine_switch,Examine Switch,it is a lightswitch
+examine_elevator,Examine Elevator,
+toggle_switch,Toggle Switch,it is a lightswitch
+use_switch,Use switch,for the moria gate
+use,Use,use device in EndFinal level
+use_device,Use Device,
+take_abacus,Take Abacus,
+take_all,Take All,
+activate,Activate,
+activate_elevator,Activate Elevator,
+elevator_activated,Elevator Activated,
+use_crystal,Use Crystal,
+call_elevator,Call Elevator,
+use_elevator,Use Elevator,
+use_elevator_gem,Use Elevator Gem,
+place_rope,Place Rope,
+charge,Charge,charge gem in Act I
+entrace_locked,Entrance locked from the other side,
+touch_statue,Touch Statue,
+travel,Travel,travel on the train station path
+explore_stations,Explore more stations before using the railway system.,
+absorb_energy,Absorb Energy,
+restore,Restore,restore the HP
+soulkeeper_released,Soulkeeper released,
+change_spells,Change Spells,
+key_missing,Key Missing: {0},{0} is the key name
+unlocked_with,Unlocked with {0},{0} is the key name
+swing,Swing,Swings on the pole with the arms
+switch_interact,Switch,"Switch interact alternative,  between the two modes"
+memory_stone_aquire,Acquire Memory Stone,
+memory_stone_gained,Memory Stone Gained,
+stone_cant_carry,You can't carry more {0},{0} is the stone name
+stone_cant_store,You don't have anything you could use to store {0},{0} is the stone name
+stone_added,{0} {1} added to your bag!,"{0} is the stone amount, {1} is the stone name"
+destroy,Destroy,destroy device in EndFinal level
+window,Window,examine Window
+chest,Chest,examine Chest
+bed,Bed,examine Bed
+cat_bed,Tabby's Bed,examine Tabbys (cat name) bed
+notebook,Notebook,examine Notebook
+door,Door,examine Door
+moms_room,Mom's Room,examine Mom's Room
+candles,Candles,examine Candles
+painting,Painting,examine Painting
+paintings,Paintings,examine Paintings
+dads_room,Daddy's Room,examine Dad's Room
+exit,Exit,exit room
+stairs,Stairs,enter stairs
+chair,Chair,examine Chair
+lamps,Lamps,examine Lamps
+workroom,Workroom,examine/enter Workroom
+laboratory,Laboratory,examine/enter Laboratory
+device,Device,use Device
+middle_lever,Middle Lever,"use Middle Lever "
+left_lever,Left Lever,use Left Lever
+right_lever,Right Lever,use Right Lever
+go_up,Go up,go up the stairs
+go_down,Go down,go down the stairs
+reset_portals,Reset Portals,lever
+check_door,Check Door,"check door "
+inspect_fountain,Inspect Fountain,""
+pick_up,Pick Up,pick up box or carryable
+drop,Drop,drop box or carryable
+wheel_release,Release,release lever wheel
+wheel_turn,Turn,turn lever wheel
+release_keeper,Release Keeper,""
+use_magic_mirror,Use Magic Mirror,""
+use_active_item,Use Active Item,uses the active item
+use_workshop,Use Workshop,""
+you_are_worthy,You are not worthy!,gate golem tutorial level message interaction
+replay_boss_fight,Replay Boss Fight,interaction hint to play a boss fight which was already won
+use_separate_explained,Use the device to separate the Realms,""
+use_destroy_explained,Destroy the device to save the creatures of Ruined Realm,""
