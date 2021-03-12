@@ -34,8 +34,8 @@ Key Features:
 
 ## Source code
 - NOTE: the MIT License only applies to the code in this repository and does not include the actual commercial WarriOrb game or assets.
-- This repository only contains the code but no Assets and no Plugins
+- This repository only contains the code but no Assets and no Plugins.
 	- So you can't build easily from this source code.
-- This source code is only for educational purposes
+- This source code is only for educational purposes.
 - All of the [🔧 Not Yet: Unreal Plugins](https://www.unrealengine.com/marketplace/en-US/profile/Not+Yet) were developed while working on WarriOrb
 	- Only the [💬 Not Yet: Dialogue System Plugin](https://github.com/NotYetGames/DlgSystem) is free and open source.
