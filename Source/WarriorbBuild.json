@@ -8,22 +8,6 @@
         "Image": "/Game/SO/GUI/art/Loading/warriorb_new.warriorb_new",
         "ImageDemo": "/Game/SO/GUI/art/Loading/warriorb_new_prologue.warriorb_new_prologue"
     },
-    "Sentry": {
-        "Organization": "daniel-butum",
-        "Project": "warriorb",
-        "ProjectDemo": "warriorb-prologue",
-        "URL": "https://sentry.io/api/3469726/unreal/dd1d2cc8c1ea4f60ba2dd9a9a6b2f698/",
-        "URLDemo": "https://sentry.io/api/1873711/unreal/95a09c291e6f4a048230ced4bba04102/"
-    },
-    "Itch": {
-        "UserProject": "",
-        "UserProjectDemo": "notyetgames/warriorb-prologue"
-    },
-    "Discord": {
-        "IS_ENABLED": false,
-        "CLIENT_ID": "588757585956438026",
-        "CLIENT_ID_DEMO": "651760715702468608"
-    },
     "Steam": {
         "IS_ENABLED": true,
         "IS_RICH_PRESENCE_ENABLED": false,
@@ -39,9 +23,9 @@
     },
     "PublicDefinitions": {
         "WARRIORB_DEMO": false,
-        "WARRIORB_USE_ASUS_AURA_SDK": true,
-        "WARRIORB_ALLOW_CONSOLE_CHEATS_DEFAULT": true,
-        "WARRIORB_PASSWORD_ENABLE_CONSOLE_CHEATS": "spline scroller",
-        "WARRIORB_PASSWORD_SAVE_FILE": "9hFhJyJRdzmf"
+        "WARRIORB_USE_ASUS_AURA_SDK": false,
+        "WARRIORB_ALLOW_CONSOLE_CHEATS_DEFAULT": false,
+        "WARRIORB_PASSWORD_ENABLE_CONSOLE_CHEATS": "what could it be",
+        "WARRIORB_PASSWORD_SAVE_FILE": ""
     }
 }

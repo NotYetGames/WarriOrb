@@ -81,20 +81,11 @@ protected:
 	UPROPERTY(BlueprintAssignable, Category = ">Events")
 	FSoCreditsFinished FadeOutFinished;
 
-
-	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = ">SFX")
-	UFMODEvent* Music;
-
-	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = ">SFX")
-	UFMODEvent* MusicOnExit;
-
-
 	UPROPERTY(BlueprintReadWrite, Category = ">Widgets", meta = (BindWidget))
 	URichTextBlock* CreditsText;
 
 	UPROPERTY(BlueprintReadWrite, Category = ">Widgets", meta = (BindWidget))
 	USoUIPressAndHoldConfirmation* SkipButton;
-
 
 	float FadeOutCounter = 0.0f;
 
@@ -102,7 +93,6 @@ protected:
 	float Duration = 112.0f;
 
 	float Counter;
-
 
 	UPROPERTY(BlueprintReadWrite, EditAnywhere)
 	ESoUICreditsState ActiveState = ESoUICreditsState::Inactive;
@@ -112,6 +102,16 @@ protected:
 
 	UPROPERTY(BlueprintReadWrite, EditAnywhere)
 	UWidgetAnimation* ScrollAnim = nullptr;
+
+	//
+	// SFX
+	//
+
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = ">SFX")
+	UFMODEvent* Music;
+
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = ">SFX")
+	UFMODEvent* MusicOnExit;
 
 	bool bUseFadeOut = false;
 };

@@ -1,0 +1,10 @@
+## Inspired from https://github.com/github/gitignore/blob/master/UnrealEngine.gitignore
+# Visual Studio user specific files
+
+!Source/ThirdParty/NotYetSteamLibrary/Win64/steam_api64.dll
+!Source/ThirdParty/NotYetSteamLibrary/Win64/steam_api64.lib
+
+!Source/ThirdParty/NotYetSteamLibrary/Win32/steam_api.dll
+!Source/ThirdParty/NotYetSteamLibrary/Win32/steam_api.lib
+
+!Source/ThirdParty/NotYetSteamLibrary/Linux/libsteam_api.so

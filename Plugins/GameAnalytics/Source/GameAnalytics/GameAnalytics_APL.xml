@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--GameAnalytics plugin additions-->
+<root xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- init section is always evaluated once per architecture -->
+    <init>
+        <log text="GameAnalitics init"/>
+    </init>
+
+    <!-- optional additions to proguard -->
+    <proguardAdditions>
+        <insert>
+-keep class com.gameanalytics.sdk.** { *; }
+-keep class android.net.** { *; }
+-dontwarn android.net.**
+        </insert>
+    </proguardAdditions>
+
+    <!-- optional files or directories to copy to Intermediate/Android/APK -->
+    <resourceCopies>
+        <copyFile src="$S(PluginDir)/GA-SDK-ANDROID/lib/gameanalytics.jar" dst="$S(BuildDir)/libs/gameanalytics.jar" />
+    </resourceCopies>
+
+    <!-- optional updates applied to AndroidManifest.xml -->
+    <androidManifestUpdates>
+        <addPermission android:name="android.permission.INTERNET"/>
+        <addPermission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+        <addPermission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    </androidManifestUpdates>
+</root>

@@ -164,7 +164,6 @@ void USoPlayerCharacterSheet::OnReload()
 	// Reload the location in non editor builds
 	// NOTE: Same method is called in ASoCharacter::BeginPlay.
 	// This is useful when a new save is loaded
-	// TODO: wtf is this shit? maybe on reload in the same map?
 	bool bTeleportedToSK = false;
 #if WARRIORB_WITH_EDITOR
 	// Editor

@@ -9,22 +9,6 @@
 
 DEFINE_LOG_CATEGORY_STATIC(LogSoGameEngine, All, All)
 
-
-// bool SoIsPureAnsi(const WIDECHAR* Str)
-// {
-// 	int32 wtf = 0;
-// 	for(int32 i = 0; *Str; Str++)
-// 	{
-// 		auto c = *Str;
-// 		if (c > 0x7f )
-// 		{
-// 			wtf++;
-// 		}
-// 		i++;
-// 	}
-// 	return true;
-// }
-
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 USoGameEngine::USoGameEngine(const FObjectInitializer& ObjectInitializer)
 	: Super(ObjectInitializer)

@@ -50,11 +50,9 @@ public class WarriorbTarget : TargetRules
 		bUndefinedIdentifierErrors = true;
 		bShadowVariableErrors = true;
 
-		// TODO
-
-		//WindowsPlatform.CompanyName = "WTF";
-		//WindowsPlatform.ProductName = "WTF";
-		//WindowsPlatform.CopyrightNotice = "WTF";
+		//WindowsPlatform.CompanyName = "TestWindows";
+		//WindowsPlatform.ProductName = "TestWindows";
+		//WindowsPlatform.CopyrightNotice = "TestWindows";
 
 		// Only on desktop
 		WindowsPlatform.bStrictConformanceMode = IsSupportedDesktopPlatform;

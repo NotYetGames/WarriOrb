@@ -1,0 +1,48 @@
+{
+	"FileVersion": 3,
+	"Version": 12,
+	"VersionName": "12.1",
+	"EngineVersion" : "4.22.0",
+	"FriendlyName": "Not Yet: Dialogue System",
+	"Description": "Dialogue system (with text based dialogues) and nice Editor for editing dialogues",
+	"Category": "Misc",
+	"CreatedBy": "Not Yet",
+	"CreatedByURL": "https://bit.ly/NYMarketplaceEditor",
+	"DocsURL": "https://bit.ly/DlgWikiEditor",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/6d0255a60be340dfa1c556503cc57eb3",
+	"SupportURL": "https://bit.ly/DlgSourceEditor",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"EnabledByDefault": true,
+	"Modules": [
+		{
+			"Name": "DlgSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms":
+			[
+				"Win64",
+				"Win32",
+				"Linux",
+				"LinuxAArch64",
+				"Mac",
+				"Android",
+				"IOS",
+				"TVOS",
+				"HTML5",
+				"XboxOne",
+				"Switch",
+				"PS4",
+				"HoloLens",
+				"Lumin"
+			]
+		},
+		{
+			"Name": "DlgSystemEditor",
+			"Type": "Developer",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": ["Win64", "Win32", "Linux", "Mac"]
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+    "FileVersion" : 3,
+
+    "FriendlyName" : "GameAnalytics",
+    "Version" : 1,
+    "VersionName" : "3.0.3",
+    "CreatedBy" : "GameAnalytics",
+    "CreatedByURL" : "http://gameanalytics.com",
+    "EngineVersion" : "4.22.0",
+    "MarketplaceURL" : "com.epicgames.launcher://ue/marketplace/content/d070c3fab7b74c08bab3a89c9cbf4490",
+    "Description" : "GameAnalytics is a free analytics platform that helps game developers understand their players' behaviour by delivering relevant insights.",
+    "Category" : "Analytics",
+	"EnabledByDefault": false,
+    "Modules" :
+    [
+        {
+            "Name" : "GameAnalytics",
+            "Type" : "Runtime",
+            "LoadingPhase" : "PreDefault",
+            "WhitelistPlatforms" : [ "Android", "IOS", "Mac", "Win32", "Win64", "HTML5", "Linux" ]
+        },
+        {
+            "Name" : "GameAnalyticsEditor",
+            "Type" : "Developer",
+            "LoadingPhase" : "PreDefault"
+        }
+    ]
+}

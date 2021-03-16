@@ -464,7 +464,6 @@ namespace SoEngineFileHelpers
 				SaveErrors.Flush();
 			}
 
-			// @todo Autosaving should save build data as well
 			if (bSuccess && !bAutosaving)
 			{
 				// Also save MapBuildData packages when saving the current level
@@ -607,7 +606,6 @@ namespace SoEngineFileHelpers
 		}
 		else if (bUseDialog && bIsMapPackage)	// don't do a SaveAs dialog if dialogs was not requested
 		{
-			// @todo Only maps should be allowed to change names at save time, for now.
 			// If this changes, there must be generic code to rename assets to the new name BEFORE saving to disk.
 			// Right now, all of this code is specific to maps
 

@@ -7,7 +7,6 @@
 
 DECLARE_LOG_CATEGORY_EXTERN(LogSoWater, Log, All);
 
-// TODO write comments
 UCLASS(BlueprintType, Blueprintable)
 class SORB_API ASoOceanManager : public AActor
 {
