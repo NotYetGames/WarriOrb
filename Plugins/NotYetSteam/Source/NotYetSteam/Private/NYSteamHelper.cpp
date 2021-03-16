@@ -1,3 +1,4 @@
+// Copyright (c) Daniel Butum. All Rights Reserved.
 
 // Copyright 2019 Daniel Butum
 

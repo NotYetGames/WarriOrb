@@ -1,4 +1,4 @@
-// Copyright 2019 Daniel Butum
+// Copyright (c) Daniel Butum. All Rights Reserved.
 
 #include "NYSteamResult.h"
 

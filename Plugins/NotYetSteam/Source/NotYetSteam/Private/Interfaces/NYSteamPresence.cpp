@@ -1,4 +1,4 @@
-// Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+// Copyright (c) Daniel Butum. All Rights Reserved.
 
 #include "Interfaces/NYSteamPresence.h"
 #include "NYSteamAPI_Internal.h"

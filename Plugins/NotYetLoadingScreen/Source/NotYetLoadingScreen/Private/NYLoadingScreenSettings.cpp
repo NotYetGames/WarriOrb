@@ -1,4 +1,4 @@
-// Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
+// Copyright (c) Csaba Molnar & Daniel Butum. All Rights Reserved.
 
 #include "NYLoadingScreenSettings.h"
 #include "UObject/ConstructorHelpers.h"

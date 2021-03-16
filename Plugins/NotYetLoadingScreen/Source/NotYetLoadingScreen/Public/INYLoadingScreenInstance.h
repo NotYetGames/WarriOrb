@@ -1,4 +1,4 @@
-// Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+// Copyright (c) Csaba Molnar & Daniel Butum. All Rights Reserved.
 
 #pragma once
 #include "CoreMinimal.h"
