@@ -40,11 +40,11 @@ Key Features:
 - All of the [🔧 Not Yet: Unreal Plugins](https://www.unrealengine.com/marketplace/en-US/profile/Not+Yet) were developed while working on WarriOrb
 	- Only the [💬 Not Yet: Dialogue System Plugin](https://github.com/NotYetGames/DlgSystem) is free and open source.
 
-### Building
+## Building
 
 We provide these sources for our customers, and as a reference for Unreal Engine developers. **You won't be able to run the game from this repository alone**, as the game contents are not included. Building from source is only useful if you want to replace the game executable with your modifications.
 
-#### Required dependencies
+### Required dependencies
 
 You will need the following tools to build WarriOrb from the source code:
 - **[Unreal Engine 4](https://www.unrealengine.com/)** as the game engine.  You will need to sign up and download the Epic Games launcher. In the launcher library for Unreal Engine, install version **4.22**.
@@ -53,19 +53,83 @@ You will need the following tools to build WarriOrb from the source code:
 - [Download the **FMOD** plugin (version 1.10.19)](https://www.fmod.com/download) for UE 4.22 and copy the libs Binaries from it, inside `Plugins/FMODStudio/Binaries` directory.
   - You should copy `FMODStudio/Binaries` (after downloading and unzipping) to `Plugins/FMODStudio/Binaries`
 
-#### Build steps
+### Build
 
+
+#### 1. Run UnrealBuildTool
 
 The Build command looks like this:
-```
+```sh
 <engine_install_path>/Engine/Binaries/DotNET/UnrealBuildTool.exe <project_name><target_type> <platform> <build_type> -project=<uproject_absolute_file_path> -progress
 ```
 
 To build just the Game for Windows 64 run for example:
+```sh
+"c:/dev/UE/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe" Warriorb Win64 Development -project="C:/dev/WarriOrb/Warriorb.uproject" -progress
 ```
-"c:\dev\UE\UE_4.22\Engine\Binaries\DotNET\UnrealBuildTool.exe" Warriorb Win64 Development -project="C:\dev\WarriOrb\Warriorb.uproject" -progress
+
+NOTE: If you want clean the project before you build, just add the `-clean` flag.
+
+For example:
+```sh
+"c:/dev/UE/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe" Warriorb Win64 Development -project="C:/dev/WarriOrb/Warriorb.uproject" -progress -clean
 ```
 
 NOTE: You can also build the game by opening the `.sln` file in Visual Studio 2017 and building the `Development Game` target.
 
-The resulting binaries and debug files will be generated inside `Binaries/Win64/` and can replace the equivalent files in your existing game folder.
+#### 2. Copy Binaries
+
+The resulting binaries and debug files will be generated inside `Binaries/Win64/` and can replace the equivalent files in your existing game folder (located at `<install_path>/Warriorb/Binaries/Win64/`)
+
+### Run
+
+#### 1. Unarchive pak
+
+The game has the Content inside a `.pak` file which is just an archive. You need to unarchive it with the `UnrealPak` utility.
+
+The pak command utility can be found here:
+```sh
+<engine_install_path>/Engine/Binaries/Win64/UnrealPak.exe
+```
+
+The pak file can be located here:
+```sh
+<install_path>/Warriorb/Content/Paks/Warriorb-WindowsNoEditor.pak
+```
+
+Extract the pak file:
+```sh
+<engine_install_path>/Engine/Binaries/Win64/UnrealPak.exe <install_path>/Warriorb/Content/Paks/Warriorb-WindowsNoEditor.pak -Extract <install_path>
+```
+
+NOTE: All paths must be absolute otherwise this won't work.
+
+For Example:
+```sh
+"c:/dev/UE/UE_4.22/Engine/Binaries/Win64/UnrealPak.exe" "C:/Program Files (x86)/Steam/steamapps/common/WarriOrb/Warriorb/Content/Paks/Warriorb-WindowsNoEditor.pak" -Extract "C:/Program Files (x86)/Steam/steamapps/common/WarriOrb/"
+```
+#### 2. Rename paks folder
+
+This is required so that the executable only reads the unarchived files but not the archive itself.
+
+Rename the `<install_path>/Warriorb/Content/Paks/` directory to something like `<install_path>/Warriorb/Content/_OLD_Paks/`
+
+#### 3. Disable `AuraSDKPlugin`
+
+Open the `<install_path>/Warriorb/Warriorb.uproject` file and set the `Enabled` field for the `AuraSDKPlugin` plugin to `false`.
+
+The section should look like this:
+```json
+{
+	"Name": "AuraSDKPlugin",
+	"Enabled": false
+}
+```
+
+#### 4. Run the game
+Now you can run the game with the modified executable you built above.
+
+`<install_path>/Warriorb/Binaries/Win64/Warriorb.exe`
+
+Or just the launcher executable in the root directory which calls the above path:
+`<install_path>/Warriorb.exe`
