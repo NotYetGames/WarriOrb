@@ -22,11 +22,14 @@
 
 # Localization
 *.po diff text
-*.manifest diff text working-tree-encoding=UTF-16 eol=CRLF
-*.archive diff text working-tree-encoding=UTF-16 eol=CRLF
+/Content/Localization/**/*.manifest diff text working-tree-encoding=UTF-16 eol=CRLF
+/Content/Localization/**/*.archive diff text working-tree-encoding=UTF-16 eol=CRLF
 *.locres binary
 *.locmeta binary
 *.mo binary
+
+# Manifest Resource files
+/Source/**/*.manifest diff text eol=CRLF
 
 # Compiled Object files
 *.slo binary
