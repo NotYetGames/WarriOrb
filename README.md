@@ -34,8 +34,36 @@ Key Features:
 
 ## Source code
 - NOTE: the MIT License only applies to the code in this repository and does not include the actual commercial WarriOrb game or assets.
-- This repository only contains the code but no Assets and no Plugins.
+- This repository **only contains the code** but **NO Assets** and some missing plugins.
 	- So you can't build easily from this source code.
 - This source code is only for educational purposes.
 - All of the [🔧 Not Yet: Unreal Plugins](https://www.unrealengine.com/marketplace/en-US/profile/Not+Yet) were developed while working on WarriOrb
 	- Only the [💬 Not Yet: Dialogue System Plugin](https://github.com/NotYetGames/DlgSystem) is free and open source.
+
+### Building
+
+We provide these sources for our customers, and as a reference for Unreal Engine developers. **You won't be able to run the game from this repository alone**, as the game contents are not included. Building from source is only useful if you want to replace the game executable with your modifications.
+
+#### Required dependencies
+
+You will need the following tools to build WarriOrb from the source code:
+- **[Unreal Engine 4](https://www.unrealengine.com/)** as the game engine.  You will need to sign up and download the Epic Games launcher. In the launcher library for Unreal Engine, install version **4.22**.
+- [Setup Visual Studio 2017 for Unreal Engine](https://docs.unrealengine.com/en-US/Programming/Development/VisualStudioSetup/index.html) - You can download Visual Studio 2017 Community edition from [here](https://visualstudio.microsoft.com/vs/older-downloads/) (or after you sign in directly from [this link](https://my.visualstudio.com/Downloads?q=visual%20studio%202017&wt.mc_id=o~msft~vscom~older-downloads) as Microsoft makes it hard to download VS 2017).
+- [Download the **FMOD** plugin (version 1.10.19)](https://www.fmod.com/download) for UE 4.22 and put it inside the `Plugins/` directory.
+
+#### Build steps
+
+
+The Build command looks like this:
+```
+<engine_install_path>/Engine/Binaries/DotNET/UnrealBuildTool.exe <project_name><target_type> <platform> <build_type> -project=<uproject_absolute_file_path> -progress
+```
+
+To build just the Game for Windows 64 run for example:
+```
+"c:\dev\UE\UE_4.22\Engine\Binaries\DotNET\UnrealBuildTool.exe" Warriorb Win64 Development -project="C:\dev\WarriOrb\Warriorb.uproject" -progress
+```
+
+NOTE: You can also build the game by opening the `.sln` file in Visual Studio 2017 and building the `Development Game` target.
+
+The resulting binaries and debug files will be generated inside `Binaries/Win64/` and can replace the equivalent files in your existing game folder.
