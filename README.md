@@ -48,8 +48,10 @@ We provide these sources for our customers, and as a reference for Unreal Engine
 
 You will need the following tools to build WarriOrb from the source code:
 - **[Unreal Engine 4](https://www.unrealengine.com/)** as the game engine.  You will need to sign up and download the Epic Games launcher. In the launcher library for Unreal Engine, install version **4.22**.
-- [Setup Visual Studio 2017 for Unreal Engine](https://docs.unrealengine.com/en-US/Programming/Development/VisualStudioSetup/index.html) - You can download Visual Studio 2017 Community edition from [here](https://visualstudio.microsoft.com/vs/older-downloads/) (or after you sign in directly from [this link](https://my.visualstudio.com/Downloads?q=visual%20studio%202017&wt.mc_id=o~msft~vscom~older-downloads) as Microsoft makes it hard to download VS 2017).
-- [Download the **FMOD** plugin (version 1.10.19)](https://www.fmod.com/download) for UE 4.22 and put it inside the `Plugins/` directory.
+- [Setup Visual Studio 2017 for Unreal Engine](https://docs.unrealengine.com/en-US/Programming/Development/VisualStudioSetup/index.html) - You can download Visual Studio 2017 Community edition from [here](https://visualstudio.microsoft.com/vs/older-downloads/)
+  - or after you sign in, directly from [this link](https://my.visualstudio.com/Downloads?q=visual%20studio%202017&wt.mc_id=o~msft~vscom~older-downloads) as Microsoft makes it hard to download VS 2017 (for some reason).
+- [Download the **FMOD** plugin (version 1.10.19)](https://www.fmod.com/download) for UE 4.22 and copy the libs Binaries from it, inside `Plugins/FMODStudio/Binaries` directory.
+  - You should copy `FMODStudio/Binaries` (after downloading and unzipping) to `Plugins/FMODStudio/Binaries`
 
 #### Build steps
 

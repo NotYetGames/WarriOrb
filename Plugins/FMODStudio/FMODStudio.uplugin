@@ -1,0 +1,33 @@
+{
+    "FileVersion" : 3,
+
+	"FriendlyName" : "FMOD Studio Integration",
+	"Version" : 11019,
+	"VersionName" : "1.10.19",
+	"CreatedBy" : "Firelight Technologies",
+	"CreatedByURL" : "http://fmod.com",
+	"Description" : "FMOD Studio Integration.",
+	"Category" : "Audio",
+	"EnabledByDefault" : true,
+
+	"Modules" :
+	[
+		{
+			"Name": "FMODStudio",
+			"Type": "CookedOnly",
+			"LoadingPhase": "PreLoadingScreen"
+		},
+		{
+			"Name": "FMODStudio",
+			"Type": "Editor",
+			"LoadingPhase": "PreDefault"
+		},
+		{
+			"Name" : "FMODStudioEditor",
+			"Type" : "Editor"
+		}
+	],
+
+	"CanContainContent" : true,
+	"Installed" : false
+}

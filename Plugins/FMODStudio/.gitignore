@@ -1,0 +1,12 @@
+.vscode/
+Intermediate/
+
+Binaries/Win64/UE4Editor*
+Binaries/Win64/UE4-*
+
+Binaries/Win32/UE4Editor*
+Binaries/Win32/UE4-*
+
+Binaries/Linux/UE4Editor*
+Binaries/Linux/libUE4-*
+Binaries/Linux/libUE4Editor*

@@ -327,12 +327,12 @@
 		},
 		{
 			"Name": "ConsoleEnhanced",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/86123c85a4474d609c5cef8a7fc5786b"
 		},
 		{
 			"Name": "AutoSizeComments",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ae89a2c4ab384de0a3f213b23de324f3"
 		},
 		{
@@ -352,7 +352,7 @@
 		},
 		{
 			"Name": "LogViewer",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4853cdc0a6a54d7b9c0712cbe72f6b68"
 		},
 		{
@@ -388,7 +388,7 @@
 		},
 		{
 			"Name": "AuraSDKPlugin",
-			"Enabled": true
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [

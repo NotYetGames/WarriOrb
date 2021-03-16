@@ -710,9 +710,7 @@ public class SOrb : ModuleRules
 		var PublicDefinitionsFields = AllFields.GetObjectField("PublicDefinitions");
 		var LoadingFields = AllFields.GetObjectField("Loading");
 		var SteamFields = AllFields.GetObjectField("Steam");
-		var DiscordFields = AllFields.GetObjectField("Discord");
 		var VideoFields = AllFields.GetObjectField("Video");
-
 
 		ProjectName = AllFields.GetStringField("Name");
 		ProjectNameDemo = AllFields.GetStringField("NameDemo");
@@ -730,9 +728,13 @@ public class SOrb : ModuleRules
 		WARRIORB_STEAM_CHECK_IF_LIBRARY_CHECKSUM_MATCHES = SteamFields.GetBoolField("CHECK_IF_LIBRARY_CHECKSUM_MATCHES");
 		WARRIORB_STEAM_LIBRARY_WINDOWS_API64_SHA1_SUM = SteamFields.GetStringField("LIBRARY_WINDOWS_API64_SHA1_SUM");
 
-		WARRIORB_WITH_DISCORD = DiscordFields.GetBoolField("IS_ENABLED");
-		WARRIORB_DISCORD_CLIENT_ID = Convert.ToInt64(DiscordFields.GetStringField("CLIENT_ID"));
-		WARRIORB_DISCORD_DEMO_CLIENT_ID = Convert.ToInt64(DiscordFields.GetStringField("CLIENT_ID_DEMO"));
+		JsonObject DiscordFields;
+		if (AllFields.TryGetObjectField("Discord", out DiscordFields))
+		{
+			WARRIORB_WITH_DISCORD = DiscordFields.GetBoolField("IS_ENABLED");
+			WARRIORB_DISCORD_CLIENT_ID = Convert.ToInt64(DiscordFields.GetStringField("CLIENT_ID"));
+			WARRIORB_DISCORD_DEMO_CLIENT_ID = Convert.ToInt64(DiscordFields.GetStringField("CLIENT_ID_DEMO"));
+		}
 
 		WARRIORB_WITH_VIDEO_DEMO = VideoFields.GetBoolField("DEMO");
 		WARRIORB_WITH_VIDEO_INTRO = VideoFields.GetBoolField("INTRO");
