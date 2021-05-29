@@ -581,15 +581,17 @@ void USoUISettingsDisplay::ApplyUserSettingsFromSelectedOptions()
 		UserSettings->SetForceWeakHardwareOptimization(ForceWeakHardwareOptimization->IsChecked());
 	}
 
-	UserSettings->ApplyDisplaySettings(true);
 	if (bOpenConfirmPanel)
 	{
 		// Display overlay and let the timer tick
+		// NOTE: We only need to preview the settings here
+		UserSettings->PreviewVideoModeSettings();
 		OpenConfirmPanel();
 	}
 	else
 	{
-		// Refresh the selected options
+		// Refresh the selected options after applying
+		UserSettings->ApplyDisplaySettings(true);
 		ResetSelectedOptionsToUserSettings();
 	}
 }
@@ -602,7 +604,7 @@ void USoUISettingsDisplay::ResetSelectedOptionsToUserSettings()
 	// NOTE: that if the user sets some options by some other priority (console or command line override)
 	// changes in the UI will not applied as this has lower priority. See https://docs.unrealengine.com/latest/INT/Programming/Development/Tools/ConsoleManager/
 	// NOTE: In some cases like in an Editor env some settings like VSync will be always false or true
-	// Dedpending if they set r.VSync in the Engine.ini (SystemSettings section).
+	// Depending if they set r.VSync in the Engine.ini (SystemSettings section).
 	UserSettings->ResetToCurrentSettings();
 
 	// Update lines

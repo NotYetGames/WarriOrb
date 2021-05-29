@@ -535,6 +535,18 @@ public:
 	UFUNCTION(BlueprintCallable, Category = ">Settings|Display")
 	void ApplyDisplaySettings(bool bCheckForCommandLineOverrides, bool bSaveSettings = true);
 
+	// Own version of ConfirmVideoMode()/RevertVideoMode()
+	void ConfirmPreviewVideoModeSettings();
+	void RevertPreviewVideoModeSettings();
+
+	// Override of the confirm video mode
+	void ConfirmVideoMode() override;
+
+	// This just changes the resolution and display mode Temporaraly
+	// Call ConfirmPreviewVideoModeSettings to confirm
+	// Call RevertPreviewVideoModeSettings to revert
+	void PreviewVideoModeSettings();
+
 	// Sets the display settings to default
 	UFUNCTION(BlueprintCallable, Category = ">Settings|Display")
 	void SetDisplaySettingsToDefault();
@@ -1055,7 +1067,7 @@ protected:
 	UPROPERTY(Config)
 	int64 UnixTimeModifiedCollectGameAnalytics;
 
-		// Should the game wait at the end for all analytics to send?
+	// Should the game wait at the end for all analytics to send?
 	UPROPERTY(Config)
 	bool bWaitForAnalyticsToSend;
 
@@ -1105,23 +1117,29 @@ protected:
 	bool bAutoBackupBeforeSave;
 
 
-	//
-	// Game speed
-	//
-
 	////////////////////////////////////////////////////
 	// Display settings
 	////////////////////////////////////////////////////
+
 	UPROPERTY(Config)
 	bool bVolumetricFog;
 
 	UPROPERTY(Config)
 	bool bForceWeakHardwareOptimizations;
 
+	// We need to store these ourselfs, otherwise we can't preview the new resolution
+	// Because if we call FSystemResolution::RequestResolutionChange
+	// It will also ConfirmVideoMode() making LastUserConfirmed variables useless for us
+	bool bIsPreviewVideoMode = false;
+	uint32 BeforePreviewResolutionSizeX = 0;
+	uint32 BeforePreviewResolutionSizeY = 0;
+	int32 BeforePreviewFullscreenMode = 0;
+
 	////////////////////////////////////////////////////
 	// Audio settings
 	// NOTE: Change defaults in C++ in GetDefaultAudioSettings()
 	////////////////////////////////////////////////////
+
 	UPROPERTY(Config)
 	bool bMuteAudio;
 

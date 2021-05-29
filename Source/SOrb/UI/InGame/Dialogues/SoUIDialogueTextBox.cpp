@@ -28,35 +28,41 @@ void USoUIDialogueTextBox::NativeTick(const FGeometry& MyGeometry, float InDelta
 {
 	Super::NativeTick(MyGeometry, InDeltaTime);
 
-	const UCurveFloat* ChangeCurve = GetCurrentCurve();
-	if (ChangeCurve != nullptr)
+	// NOTE: in the first frames this will be most likely not valid, totally normal, one prepas on the renderer has to be done
+	// before desired size returns anything approaching to reality
+	// Simulate what GetDesiredSize does
+	TSharedPtr<SWidget> TextFieldSlateWidget = RichTextField->GetCachedWidget();
+	if (TextFieldSlateWidget.IsValid())
 	{
-		// NOTE: in the first frames this will be most likely not valid, totally normal, one prepas on the renderer has to be done
-		// before desired size returns anything approaching to reality
-		// Simulate what GetDesiredSize does
-		TSharedPtr<SWidget> TextFieldSlateWidget = RichTextField->GetCachedWidget();
-		if (TextFieldSlateWidget.IsValid())
-		{
-			CurrentHeight = TextFieldSlateWidget->GetDesiredSize().Y;
-		}
-		// RichTextField->SetJustification(CurrentHeight < 80.0f ? ETextJustify::Center : ETextJustify::Left);
-		UpdateTextJustificationBP(CurrentHeight < 90.0f);
-		RichTextField->SynchronizeProperties();
+		CurrentHeight = TextFieldSlateWidget->GetDesiredSize().Y;
+	}
+	// RichTextField->SetJustification(CurrentHeight < 80.0f ? ETextJustify::Center : ETextJustify::Left);
+	UpdateTextJustificationBP(CurrentHeight < 90.0f);
+	RichTextField->SynchronizeProperties();
 
-		// Animate
-		const float CurrentDuration = GetCurrentChangeDuration();
-		Counter = FMath::Min(Counter + InDeltaTime * AnimationSpeedMultiplier, CurrentDuration);
-		const float NewPercent = Counter / CurrentDuration;
-
+	auto UpdateTextBoxSize = [this](float Percent)
+	{
 		// reference points:
 		// y0 = 0.142   x0 = 100
 		// y1 = 1.0		x1 = 605
 		// m = (y1 - y0) / (x1 - x0)
 		// b = y0 - x0 * m
-		const float m = 0.00169901;
-		const float b = -0.02790099;
-		const float NewValue = ChangeCurve->GetFloatValue(NewPercent) * FMath::Max(0.0f, CurrentHeight * m + b);
+		static const float m = 0.00169901;
+		static const float b = -0.02790099;
+		const float NewValue =  Percent * FMath::Max(0.0f, CurrentHeight * m + b);
 		SetRetainerPercentSafe(NewValue);
+	};
+
+
+	const UCurveFloat* ChangeCurve = GetCurrentCurve();
+	if (ChangeCurve != nullptr)
+	{
+		// Animate
+		const float CurrentDuration = GetCurrentChangeDuration();
+		Counter = FMath::Min(Counter + InDeltaTime * AnimationSpeedMultiplier, CurrentDuration);
+		const float NewPercent = Counter / CurrentDuration;
+		UpdateTextBoxSize(ChangeCurve->GetFloatValue(NewPercent));
+
 
 		if (FMath::IsNearlyEqual(CurrentDuration, Counter, KINDA_SMALL_NUMBER))
 		{
@@ -89,6 +95,11 @@ void USoUIDialogueTextBox::NativeTick(const FGeometry& MyGeometry, float InDelta
 					break;
 			}
 		}
+	}
+	else if (TextBoxState == ESoDialogueTextBoxState::EDTBS_Opened)
+	{
+		// have to keep update it be cause of some rare low performance issue
+		UpdateTextBoxSize(1.0f);
 	}
 }
 

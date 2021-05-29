@@ -8,6 +8,7 @@
 #include "Widgets/SWindow.h"
 #include "Engine/Engine.h"
 #include "Misc/ConfigCacheIni.h"
+#include "UnrealEngine.h"
 
 #include "Basic/SoGameInstance.h"
 #include "Basic/Helpers/SoPlatformHelper.h"
@@ -531,6 +532,43 @@ void USoGameSettings::ApplyDisplaySettings(bool bCheckForCommandLineOverrides, b
 
 	if (bSaveSettings)
 		SaveSettings();
+}
+
+void USoGameSettings::ConfirmPreviewVideoModeSettings()
+{
+	bIsPreviewVideoMode = false;
+	ConfirmVideoMode();
+}
+
+void USoGameSettings::RevertPreviewVideoModeSettings()
+{
+	if (bIsPreviewVideoMode)
+	{
+		LastUserConfirmedResolutionSizeX = BeforePreviewResolutionSizeX;
+		LastUserConfirmedResolutionSizeY = BeforePreviewResolutionSizeY;
+		LastConfirmedFullscreenMode = BeforePreviewFullscreenMode;
+	}
+
+	bIsPreviewVideoMode = false;
+	RevertVideoMode();
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+void USoGameSettings::ConfirmVideoMode()
+{
+	Super::ConfirmVideoMode();
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+void USoGameSettings::PreviewVideoModeSettings()
+{
+	BeforePreviewResolutionSizeX = LastUserConfirmedResolutionSizeX;
+	BeforePreviewResolutionSizeY = LastUserConfirmedResolutionSizeY;
+	BeforePreviewFullscreenMode = LastConfirmedFullscreenMode;
+	bIsPreviewVideoMode = true;
+
+	// NOTE: This calls ConfirmVideoMode in a callback in the engine so we can't used LastConfirmed variables after this call
+	FSystemResolution::RequestResolutionChange(ResolutionSizeX, ResolutionSizeY, GetFullscreenMode());
 }
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

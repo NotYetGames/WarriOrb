@@ -101,7 +101,11 @@ void USoPlayerCharacterSheet::UninitializeComponent()
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 void USoPlayerCharacterSheet::OnSave()
 {
-	if (SoOwner->IsSoulkeeperActive() && SoOwner->bCanUseSoulkeeper)
+	// SoOwner->bCanUseSoulkeeper was here to prevent the player from possible stuck scenarios or exploits via teleporting to
+	// SoulKeeper from locations they should not be able to via reloading the game.
+	// It does more harm than good though, because this makes the SK unpredictable - e.g. if you quit the game standing on an enemy patrol
+	// spawn location you will lose the keeper after reload
+	if (SoOwner->IsSoulkeeperActive()/* && SoOwner->bCanUseSoulkeeper*/)
 	{
 		SetNameValue(SKSplineName, SoOwner->ResLocation.GetSpline() ? SoOwner->ResLocation.GetSpline()->GetSplineFName() : NAME_None);
 		SetIntValue(SKPenaltyName, SoulkeeperRespawnPenalty);

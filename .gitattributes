@@ -9,7 +9,7 @@
 # Declare files that will always have CRLF line endings on checkout.
 *.sln text eol=crlf
 
-#sources
+# Sources
 *.c text
 *.cc text
 *.cxx text
@@ -19,6 +19,9 @@
 *.h text
 *.h++ text
 *.hh text
+
+# Never modify line endings
+*.sh text -crlf
 
 # Localization
 *.po diff text

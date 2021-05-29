@@ -13,6 +13,8 @@
 #include "Localization/SoLocalizationHelper.h"
 #include "FMODStudioModule.h"
 
+#include "DlgManager.h"
+
 #if WARRIORB_WITH_SDL2
 #include "INotYetSDL2Module.h"
 #endif // WARRIORB_WITH_SDL2
@@ -44,6 +46,8 @@ void FWarriorbGameModule::StartupModule()
 #endif
 
 	Init();
+
+	UDlgManager::LoadAllDialoguesIntoMemory();
 }
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

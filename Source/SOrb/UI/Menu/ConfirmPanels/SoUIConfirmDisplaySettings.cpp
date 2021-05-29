@@ -31,7 +31,6 @@ void USoUIConfirmDisplaySettings::NativeConstruct()
 
 		if (USoUIButtonImageArray* ButtonTooltips = GetButtonArrayAsButtonImagesArray())
 			OnPressedButtonTooltipsCommand(ButtonTooltips->GetSelectedButtonCommand());
-
 	});
 }
 
@@ -50,7 +49,8 @@ void USoUIConfirmDisplaySettings::NativeTick(const FGeometry& MyGeometry, float 
 		}
 		else
 		{
-			ISoUIEventHandler::Execute_Open(this, false);
+			// Close this by reverting
+			OnRevertVideoMode();
 		}
 	}
 }
@@ -136,10 +136,8 @@ void USoUIConfirmDisplaySettings::OnConfirmedVideoMode()
 {
 	auto& UserSettings = USoGameSettings::Get();
 
-	// Only need to save the settings
-	UserSettings.ConfirmVideoMode();
-	UserSettings.ValidateSettings();
-	UserSettings.SaveSettings();
+	UserSettings.ConfirmPreviewVideoModeSettings();
+	UserSettings.ApplyDisplaySettings(true);
 
 	// Call BP
 	ReceiveOnConfirmedVideoMode();
@@ -154,14 +152,14 @@ void USoUIConfirmDisplaySettings::OnRevertVideoMode()
 	auto& UserSettings = USoGameSettings::Get();
 
 	// Only need to to directly apply the settings and update the option
-	UserSettings.RevertVideoMode();
+	UserSettings.RevertPreviewVideoModeSettings();
 	UserSettings.ApplyDisplaySettings(true);
-
-	// Close this as we handled it
-	ISoUIEventHandler::Execute_Open(this, false);
 
 	// Call BP
 	ReceiveOnRevertVideoMode();
+
+	// Close this as we handled it
+	ISoUIEventHandler::Execute_Open(this, false);
 }
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
